@@ -140,12 +140,14 @@ keywordsSentimentDF.to_csv(DATA_PATH / 'csv' / 'sentiments_keywords.csv',index=F
 
 print(list(newsDf.columns))
 print(list(objNewsDF.columns))
-print(list(keywordsDF.columns))
+##print(list(keywordsDF.columns))
+'''
 topicNewsDF = pd.merge(objNewsDF, keywordsDF, how='left', left_on=['keyword'], right_on=['keyword'])
 print(list(topicNewsDF.columns))
 topicsDF =  groupSentiments(topicNewsDF, 'topic')
 topicsDF = topicsDF.sort_values(by=['topic'], ascending=True)
 topicsDF.to_csv(DATA_PATH / 'csv' / 'sentiments_topics.csv',index=False) 
+'''
 
 
 emptyDict = {'count':0,'sentiment':0,'subjectivity':0}
