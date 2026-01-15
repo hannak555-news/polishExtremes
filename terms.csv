@@ -1,8 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'beda5697bb',extremes,Fog,#d60d2b,wmo,mgła województwo opolskie powiat nyski,2025-12-01T04:02:00+00:00,Poland,0.7186905799664728,0,1,pl,WCE,Europe
-'ee4b917196',extremes,Fog,#d60d2b,wmo,mgła województwo lubelskie powiat radzyński,2025-12-01T04:02:00+00:00,Poland,0.7184871928775085,0,1,pl,WCE,Europe
-'bdeaf0d5e4',extremes,Fog,#d60d2b,wmo,mgła województwo podkarpackie powiat leski,2025-12-01T04:02:00+00:00,Poland,0.7181228095696824,0,1,pl,WCE,Europe
-'76553c80ab',extremes,Fog,#d60d2b,wmo,mgła województwo mazowieckie powiat lipski,2025-12-01T04:02:00+00:00,Poland,0.7170768437087784,0,1,pl,WCE,Europe
 '7aa4c506c2',extremes,Fog,#d60d2b,wmo,mgła województwo lubelskie powiat łukowski,2025-12-01T04:02:00+00:00,Poland,0.7167602640322952,0,1,pl,WCE,Europe
 'a035e61b65',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat chorzowski,2025-12-03T03:40:00+00:00,Poland,0.7164257087851007,0,1,pl,WCE,Europe
 'e4344b4520',extremes,Fog,#d60d2b,wmo,mgła województwo lubelskie powiat łęczyński,2025-12-01T04:02:00+00:00,Poland,0.7162560491746512,0,1,pl,WCE,Europe
@@ -13,8 +9,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '42a2ab88a5',extremes,Fog,#d60d2b,wmo,mgła województwo łódzkie powiat rawski,2025-12-02T03:41:00+00:00,Poland,0.7123530394242936,0,1,pl,WCE,Europe
 'cbec54141c',extremes,Fog,#d60d2b,wmo,mgła polska,2025-12-16T03:47:00+00:00,Poland,0.6176716434041771,1,1,pl,WCE,Europe
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,najzimniejszy rok,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,pl,,
-'b6cef22543',extremes,Drought,#edc291,random,ograniczenie wody,2026-01-15T10:20:00+00:00,,0.25669966665781385,0,1,pl,,
-'95b2881221',extremes,Precipitation,#d60d2b,random,rzeka atmosferyczna,2026-01-15T10:20:00+00:00,,0.25657695119733326,0,1,pl,,
+'b6cef22543',extremes,Drought,#edc291,random,ograniczenie wody,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,pl,,
+'95b2881221',extremes,Precipitation,#d60d2b,random,rzeka atmosferyczna,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,pl,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,rekordowo zimno,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,pl,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,lód morski Arktyki,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,pl,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-01-15T10:20:00+00:00,,0.2562914317228042,0,1,pl,,
