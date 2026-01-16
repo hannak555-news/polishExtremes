@@ -1,8 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'d2440eb33d',extremes,Snow&Ice,#d60d2b,wmo,lód województwo mazowieckie powiat miński,2026-01-15T10:56:00+00:00,Poland,0.7721835457740612,0,1,pl,WCE,Europe
-'92c7abd1db',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat żorski,2026-01-15T12:14:00+00:00,Poland,0.7718710393073746,0,1,pl,WCE,Europe
-'e6afa71a79',extremes,Fog,#d60d2b,wmo,mgła województwo małopolskie powiat krakowski,2026-01-15T10:56:00+00:00,Poland,0.7718646174663321,0,1,pl,WCE,Europe
-'e72148e123',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat zabrzeski,2026-01-15T12:14:00+00:00,Poland,0.7718640366537595,0,1,pl,WCE,Europe
 'b75a58c8fe',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat mysłowicki,2026-01-15T10:56:00+00:00,Poland,0.7718635164646865,0,1,pl,WCE,Europe
 'd8c89691cf',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat rybnicki,2026-01-15T10:56:00+00:00,Poland,0.7718478558619649,0,1,pl,WCE,Europe
 'bc6b446b91',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat kłobucki,2026-01-15T10:56:00+00:00,Poland,0.7718392589940951,0,1,pl,WCE,Europe
@@ -22,6 +18,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c8b04c7d79',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo lubelskie powiat janowski,2026-01-15T10:56:00+00:00,Poland,0.6563415100987191,1,1,pl,WCE,Europe
 '2b924857ab',extremes,Fog,#d60d2b,wmo,mgła województwo lubuskie powiat nowosolski,2026-01-15T12:14:00+00:00,Poland,0.6560983241081141,1,1,pl,WCE,Europe
 '14581f2afe',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat jaworzno,2026-01-15T12:14:00+00:00,Poland,0.6560943591476884,1,1,pl,WCE,Europe
+'92c7abd1db',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat żorski,2026-01-15T12:14:00+00:00,Poland,0.6560903834112684,1,1,pl,WCE,Europe
+'e6afa71a79',extremes,Fog,#d60d2b,wmo,mgła województwo małopolskie powiat krakowski,2026-01-15T10:56:00+00:00,Poland,0.6560849248463823,1,1,pl,WCE,Europe
+'e72148e123',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat zabrzeski,2026-01-15T12:14:00+00:00,Poland,0.6560844311556955,1,1,pl,WCE,Europe
 'cbec54141c',extremes,Fog,#d60d2b,wmo,mgła polska,2025-12-16T03:47:00+00:00,Poland,0.6176716434041771,1,1,pl,WCE,Europe
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-01-15T10:39:00+00:00,,0.4099765426734069,0,1,pl,,
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,upał,2026-01-15T10:39:00+00:00,,0.4099752445939704,0,1,pl,,
