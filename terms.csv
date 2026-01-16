@@ -1,9 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'d2440eb33d',extremes,Snow&Ice,#d60d2b,wmo,lód województwo mazowieckie powiat miński,2026-01-15T10:56:00+00:00,Poland,0.7721835457740612,0,1,pl,WCE,Europe
 'b75a58c8fe',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat mysłowicki,2026-01-15T10:56:00+00:00,Poland,0.7718635164646865,0,1,pl,WCE,Europe
-'d8c89691cf',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat rybnicki,2026-01-15T10:56:00+00:00,Poland,0.7718478558619649,0,1,pl,WCE,Europe
-'bc6b446b91',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat kłobucki,2026-01-15T10:56:00+00:00,Poland,0.7718392589940951,0,1,pl,WCE,Europe
-'a6a7337718',extremes,Fog,#d60d2b,wmo,mgła województwo lubuskie powiat słubicki,2026-01-15T12:14:00+00:00,Poland,0.7718173058372659,0,1,pl,WCE,Europe
 '890325b418',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat ruda śląska,2026-01-15T12:14:00+00:00,Poland,0.7715840109795664,0,1,pl,WCE,Europe
 '1c9b97d16d',extremes,Fog,#d60d2b,wmo,mgła województwo lubuskie powiat sulęciński,2026-01-15T10:56:00+00:00,Poland,0.7715834781427398,0,1,pl,WCE,Europe
 '1d4d54efff',extremes,Fog,#d60d2b,wmo,mgła województwo opolskie powiat oleski,2026-01-15T12:14:00+00:00,Poland,0.7715812811432565,0,1,pl,WCE,Europe
@@ -29,6 +25,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '92c7abd1db',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat żorski,2026-01-15T12:14:00+00:00,Poland,0.6560903834112684,1,1,pl,WCE,Europe
 'e6afa71a79',extremes,Fog,#d60d2b,wmo,mgła województwo małopolskie powiat krakowski,2026-01-15T10:56:00+00:00,Poland,0.6560849248463823,1,1,pl,WCE,Europe
 'e72148e123',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat zabrzeski,2026-01-15T12:14:00+00:00,Poland,0.6560844311556955,1,1,pl,WCE,Europe
+'d8c89691cf',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat rybnicki,2026-01-15T10:56:00+00:00,Poland,0.6560706774826701,1,1,pl,WCE,Europe
+'bc6b446b91',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat kłobucki,2026-01-15T10:56:00+00:00,Poland,0.6560633701449808,1,1,pl,WCE,Europe
+'a6a7337718',extremes,Fog,#d60d2b,wmo,mgła województwo lubuskie powiat słubicki,2026-01-15T12:14:00+00:00,Poland,0.6560447099616761,1,1,pl,WCE,Europe
 '9b59bee21e',extremes,Drought,#edc291,edo,okres suszy w polsce,2026-01-15T12:14:00+00:00,Poland,0.6247249859550787,0,1,pl,WCE,Europe
 'cbec54141c',extremes,Fog,#d60d2b,wmo,mgła polska,2025-12-16T03:47:00+00:00,Poland,0.6176716434041771,1,1,pl,WCE,Europe
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-01-15T10:39:00+00:00,,0.4099765426734069,0,1,pl,,
