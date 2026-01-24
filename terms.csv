@@ -1,4 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'628c73fc75',extremes,Drought,#edc291,edo,susza w polsce,2026-01-15T10:57:00+00:00,Poland,0.7843706028451781,0,1,pl,WCE,Europe
+'d2440eb33d',extremes,Snow&Ice,#d60d2b,wmo,lód województwo mazowieckie powiat miński,2026-01-15T10:56:00+00:00,Poland,0.7721835457740612,0,1,pl,WCE,Europe
 'e72148e123',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat zabrzeski,2026-01-15T12:14:00+00:00,Poland,0.6560844311556955,1,1,pl,WCE,Europe
 'b75a58c8fe',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat mysłowicki,2026-01-15T10:56:00+00:00,Poland,0.6560839889949835,1,1,pl,WCE,Europe
 'd8c89691cf',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat rybnicki,2026-01-15T10:56:00+00:00,Poland,0.6560706774826701,1,1,pl,WCE,Europe
@@ -19,6 +21,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '499bf22485',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat gliwicki,2026-01-15T12:14:00+00:00,Poland,0.6557930034862339,1,1,pl,WCE,Europe
 '6fb781b401',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat myszkowski,2026-01-15T12:14:00+00:00,Poland,0.655783317298317,1,1,pl,WCE,Europe
 'fc40af1872',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat cieszyński,2026-01-15T10:56:00+00:00,Poland,0.6557704745073838,1,1,pl,WCE,Europe
+'18c06e985f',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo lubelskie powiat puławski,2026-01-23T04:03:00+00:00,Poland,0.6342097725396896,0,1,pl,WCE,Europe
+'432920d326',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat żywiecki,2026-01-23T04:03:00+00:00,Poland,0.6337056373353186,0,1,pl,WCE,Europe
+'685d1594c4',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo lubelskie powiat łęczyński,2026-01-22T03:59:00+00:00,Poland,0.6304523149391923,0,1,pl,WCE,Europe
+'c2acda0433',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo pomorskie powiat sztumski,2026-01-18T03:57:00+00:00,Poland,0.6290124713334786,0,1,pl,WCE,Europe
+'668fee067e',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo podkarpackie powiat krośnieński,2026-01-22T03:59:00+00:00,Poland,0.6281139902687548,0,1,pl,WCE,Europe
+'8995b4e7f5',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo lubelskie powiat bialski,2026-01-22T03:59:00+00:00,Poland,0.6266273476214879,0,1,pl,WCE,Europe
+'28200d543e',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo opolskie powiat brzeski,2026-01-23T04:03:00+00:00,Poland,0.6255627213676568,0,1,pl,WCE,Europe
+'e217f8117c',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo podkarpackie powiat leski,2026-01-22T03:59:00+00:00,Poland,0.6250209419496902,0,1,pl,WCE,Europe
 'cbec54141c',extremes,Fog,#d60d2b,wmo,mgła polska,2025-12-16T03:47:00+00:00,Poland,0.6176716434041771,1,1,pl,WCE,Europe
 '9b59bee21e',extremes,Drought,#edc291,edo,okres suszy w polsce,2026-01-15T12:14:00+00:00,Poland,0.5814662830618169,1,1,pl,WCE,Europe
 'd9851f93bb',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo podlaskie powiat łomżyński,2026-01-22T03:59:00+00:00,Poland,0.5673717368248716,1,1,pl,WCE,Europe
@@ -130,7 +140,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '98db96b6de',extremes,Drought,#edc291,edo,susza na Litwie,2026-01-15T12:14:00+00:00,Lithuania,0.4403048695884115,1,1,pl,WCE,Europe
 '0819532a21',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat sosnowiecki,2026-01-17T03:44:00+00:00,Poland,0.4383488194977434,1,1,pl,WCE,Europe
 'c130edfbda',extremes,Snow&Ice,#d60d2b,wmo,lód województwo podkarpackie powiat leski,2026-01-17T03:44:00+00:00,Poland,0.4378768964537359,1,1,pl,WCE,Europe
-'93f5270a85',extremes,Snow&Ice,#d60d2b,wmo,lód województwo podlaskie powiat suwałki,2026-01-17T03:44:00+00:00,Poland,0.43581195211630036,1,1,pl,WCE,Europe
+'93f5270a85',extremes,Snow&Ice,#d60d2b,wmo,lód województwo podlaskie powiat suwałki,2026-01-17T03:44:00+00:00,Poland,0.4358119521163003,1,1,pl,WCE,Europe
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,upał,2026-01-15T10:39:00+00:00,,0.4099752445939704,0,1,pl,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,szkwał śnieżny,2026-01-15T10:39:00+00:00,,0.4099516371853199,0,1,pl,,
 '1c38b19449',extremes,Storm,#b3b2b1,random,miski kurzu,2026-01-15T10:39:00+00:00,,0.4099359567017878,0,1,pl,,
@@ -143,7 +153,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd4580e0b29',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat lubliniecki,2026-01-15T10:56:00+00:00,Poland,0.4056745136602211,0,1,pl,WCE,Europe
 '5941860f1a',extremes,Fog,#d60d2b,wmo,mgła województwo małopolskie powiat olkuski,2026-01-15T10:56:00+00:00,Poland,0.4048854802154675,0,1,pl,WCE,Europe
 '26bd65bd08',extremes,Snow&Ice,#d60d2b,wmo,lód województwo mazowieckie powiat radomski,2026-01-15T10:56:00+00:00,Poland,0.4045148444221964,0,1,pl,WCE,Europe
-'e160088f17',extremes,Drought,#edc291,edo,okres suszy na Ukrainie,2026-01-15T10:57:00+00:00,Ukraine,0.38511365105750983,1,1,pl,WCE,Europe
+'e160088f17',extremes,Drought,#edc291,edo,okres suszy na Ukrainie,2026-01-15T10:57:00+00:00,Ukraine,0.3851136510575098,1,1,pl,WCE,Europe
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,najzimniejszy rok,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,pl,,
 'b6cef22543',extremes,Drought,#edc291,random,ograniczenie wody,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,pl,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,rzeka atmosferyczna,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,pl,,
