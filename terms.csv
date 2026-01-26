@@ -164,10 +164,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b6e0d97ba8',extremes,Snow&Ice,#d60d2b,wmo,lód województwo lubelskie powiat puławski,2026-01-15T10:56:00+00:00,Poland,0.499035543049418,1,1,pl,WCE,Europe
 'aec83c381a',extremes,Snow&Ice,#d60d2b,wmo,marznące województwo mazowieckie powiat miński,2026-01-18T03:57:00+00:00,Poland,0.4988208125438667,1,1,pl,WCE,Europe
 '2a1b2cf31e',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo opolskie powiat opolski,2026-01-25T04:06:00+00:00,Poland,0.4982176034857632,2,1,pl,WCE,Europe
-'ccf1a1ab93',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat myszkowski,2026-01-25T04:06:00+00:00,Poland,0.49732367206334294,2,1,pl,WCE,Europe
+'ccf1a1ab93',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat myszkowski,2026-01-25T04:06:00+00:00,Poland,0.4973236720633429,2,1,pl,WCE,Europe
 '92c7abd1db',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat żorski,2026-01-15T12:14:00+00:00,Poland,0.4740253020146414,3,1,pl,WCE,Europe
 '890325b418',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat ruda śląska,2026-01-15T12:14:00+00:00,Poland,0.4738490307428261,3,1,pl,WCE,Europe
 '8817fd285d',extremes,Snow&Ice,#d60d2b,wmo,śnieżna Polska,2026-01-15T10:56:00+00:00,Poland,0.4672811596939016,1,1,pl,WCE,Europe
+'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,burza śnieżna,2026-01-15T10:39:00+00:00,,0.45684835867976104,1,2,pl,,
 '1d9c104bbb',extremes,Storm,#b3b2b1,wmo,burza na Litwie,2026-01-15T12:14:00+00:00,Lithuania,0.4539998113278908,1,1,pl,WCE,Europe
 'c3f2723b42',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat żywiecki,2026-01-17T03:44:00+00:00,Poland,0.4531094246650566,1,1,pl,WCE,Europe
 '50368c68c8',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat bielski,2026-01-17T03:44:00+00:00,Poland,0.4514304850444094,1,1,pl,WCE,Europe
@@ -186,7 +187,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '93f5270a85',extremes,Snow&Ice,#d60d2b,wmo,lód województwo podlaskie powiat suwałki,2026-01-17T03:44:00+00:00,Poland,0.4358119521163003,1,1,pl,WCE,Europe
 '79830a1866',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo podlaskie powiat łomżyński,2026-01-20T03:56:00+00:00,Poland,0.4307565120360913,2,1,pl,WCE,Europe
 '1c38b19449',extremes,Storm,#b3b2b1,random,miski kurzu,2026-01-15T10:39:00+00:00,,0.4237455931965196,1,2,pl,,
-'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,burza śnieżna,2026-01-15T10:39:00+00:00,,0.4099008832218642,0,1,pl,,
 '3fa143a609',extremes,Storm,#b3b2b1,random,zamieć piaskowa,2026-01-15T10:39:00+00:00,,0.4099006868118564,0,1,pl,,
 '82d648b882',extremes,Drought,#edc291,random,susza,2026-01-15T10:39:00+00:00,,0.4098305739048267,0,1,pl,,
 '62084daeb0',extremes,Earthquake,#870007,random,trzęsienie ziemi,2026-01-15T10:39:00+00:00,,0.4097458683214559,0,1,pl,,
