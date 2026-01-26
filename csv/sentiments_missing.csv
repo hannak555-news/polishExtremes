@@ -1,13 +1,21 @@
 ,phrase,label,sentiment,subjectivity,language,count
-second,second,ORDINAL,,,en,1
-Stocznia Wojewódzki,Stocznia Wojewódzki,PRODUCT,,,en,1
-963,963,CARDINAL,,,en,1
-several dozen meters,several dozen meters,QUANTITY,,,en,1
-Vibe,Vibe,FAC,,,en,1
-Winter,Winter,DATE,,,en,1
-One,One,CARDINAL,,,en,1
-windless week,windless week,DATE,,,en,1
-Polish,Polish,NORP,,,en,1
-500,500,CARDINAL,,,en,1
-"1,000","1,000",CARDINAL,,,en,1
-"1,500 percent","1,500 percent",PERCENT,,,en,1
+Polish,Polish,NORP,,,en,1.9
+Stocznia Wojewódzki,Stocznia Wojewódzki,PRODUCT,,,en,1.0
+At least 35,At least 35,CARDINAL,,,en,1.0
+one,one,CARDINAL,,,en,1.0
+Monday,Monday,DATE,,,en,1.0
+daily,daily,DATE,,,en,1.0
+Mar,Mar,DATE,,,en,1.0
+"1,500 percent","1,500 percent",PERCENT,,,en,1.0
+"1,000","1,000",CARDINAL,,,en,1.0
+500,500,CARDINAL,,,en,1.0
+second,second,ORDINAL,,,en,1.0
+windless week,windless week,DATE,,,en,1.0
+One,One,CARDINAL,,,en,1.0
+Winter,Winter,DATE,,,en,1.0
+7.0,7.0,CARDINAL,,,en,1.0
+Saturday,Saturday,DATE,,,en,1.0
+Vibe,Vibe,FAC,,,en,1.0
+several dozen meters,several dozen meters,QUANTITY,,,en,1.0
+963,963,CARDINAL,,,en,1.0
+three,three,CARDINAL,,,en,1.0
