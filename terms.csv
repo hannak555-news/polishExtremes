@@ -1,14 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'95ba117357',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat tarnogórski,2026-01-25T04:06:00+00:00,Poland,0.6793273922247075,0,1,pl,WCE,Europe
-'4f8a316440',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo opolskie powiat prudnicki,2026-01-25T04:06:00+00:00,Poland,0.6767970645779731,0,1,pl,WCE,Europe
-'baad81cc11',extremes,Snow&Ice,#d60d2b,wmo,lód województwo śląskie powiat chorzowski,2026-01-25T04:06:00+00:00,Poland,0.6757060591354667,0,1,pl,WCE,Europe
-'fb5c8d8b3d',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo śląskie powiat będziński,2026-01-25T04:06:00+00:00,Poland,0.6721132300461299,0,1,pl,WCE,Europe
-'e10fd11c21',extremes,Snow&Ice,#d60d2b,wmo,lód województwo śląskie powiat ruda śląska,2026-01-25T04:06:00+00:00,Poland,0.6696996804913787,0,1,pl,WCE,Europe
-'06eca8dc83',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat kłobucki,2026-01-25T04:06:00+00:00,Poland,0.6693873226560207,0,1,pl,WCE,Europe
-'35d720d0d6',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat rybnicki,2026-01-25T04:06:00+00:00,Poland,0.661003248035483,0,1,pl,WCE,Europe
-'5c18016c80',extremes,Snow&Ice,#d60d2b,wmo,lód województwo małopolskie powiat tarnowski,2026-01-25T04:06:00+00:00,Poland,0.6606191327513821,0,1,pl,WCE,Europe
-'207ba5518c',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo śląskie powiat pszczyński,2026-01-25T04:06:00+00:00,Poland,0.6591870505716487,0,1,pl,WCE,Europe
-'cbec54141c',extremes,Fog,#d60d2b,wmo,mgła polska,2026-01-15T10:56:00+00:00,Poland,0.6562545661191949,1,1,pl,WCE,Europe
 'b75a58c8fe',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat mysłowicki,2026-01-15T10:56:00+00:00,Poland,0.6560839889949835,1,1,pl,WCE,Europe
 '4ed88d35e3',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo śląskie powiat żorski,2026-01-23T04:03:00+00:00,Poland,0.5983292968765591,1,1,pl,WCE,Europe
 'ba72886521',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat mysłowicki,2026-01-25T04:06:00+00:00,Poland,0.5936977907260478,1,1,pl,WCE,Europe
@@ -21,6 +11,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9b59bee21e',extremes,Drought,#edc291,edo,okres suszy w polsce,2026-01-15T12:14:00+00:00,Poland,0.5814662830618169,1,1,pl,WCE,Europe
 'aaac6dedae',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo śląskie powiat raciborski,2026-01-25T04:06:00+00:00,Poland,0.5797699320257759,1,1,pl,WCE,Europe
 '285d01ed45',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo śląskie powiat teski,2026-01-25T04:06:00+00:00,Poland,0.5775164939088171,1,1,pl,WCE,Europe
+'95ba117357',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat tarnogórski,2026-01-25T04:06:00+00:00,Poland,0.5774282833910014,1,1,pl,WCE,Europe
+'4f8a316440',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo opolskie powiat prudnicki,2026-01-25T04:06:00+00:00,Poland,0.575277504891277,1,1,pl,WCE,Europe
+'baad81cc11',extremes,Snow&Ice,#d60d2b,wmo,lód województwo śląskie powiat chorzowski,2026-01-25T04:06:00+00:00,Poland,0.5743501502651467,1,1,pl,WCE,Europe
+'fb5c8d8b3d',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo śląskie powiat będziński,2026-01-25T04:06:00+00:00,Poland,0.5712962455392104,1,1,pl,WCE,Europe
+'e10fd11c21',extremes,Snow&Ice,#d60d2b,wmo,lód województwo śląskie powiat ruda śląska,2026-01-25T04:06:00+00:00,Poland,0.5692447284176719,1,1,pl,WCE,Europe
+'06eca8dc83',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat kłobucki,2026-01-25T04:06:00+00:00,Poland,0.5689792242576176,1,1,pl,WCE,Europe
 '628c73fc75',extremes,Drought,#edc291,edo,susza w polsce,2026-01-15T10:57:00+00:00,Poland,0.5678178715556411,2,1,pl,WCE,Europe
 'd9851f93bb',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo podlaskie powiat łomżyński,2026-01-22T03:59:00+00:00,Poland,0.5673717368248716,1,1,pl,WCE,Europe
 'aa52a7f9c2',extremes,Snow&Ice,#d60d2b,wmo,lód województwo podlaskie powiat grajewski,2026-01-22T03:59:00+00:00,Poland,0.5655705680075312,1,1,pl,WCE,Europe
@@ -28,9 +24,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '90ad55f2e0',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo lubelskie powiat zamojski,2026-01-20T03:56:00+00:00,Poland,0.5639987286796042,1,1,pl,WCE,Europe
 '557ffae686',extremes,Snow&Ice,#d60d2b,wmo,mroźne województwo mazowieckie powiat lipski,2026-01-22T03:59:00+00:00,Poland,0.5636163512540393,1,1,pl,WCE,Europe
 '022c5ca459',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo podlaskie powiat suwalski,2026-01-22T03:59:00+00:00,Poland,0.563433732878817,1,1,pl,WCE,Europe
+'35d720d0d6',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat rybnicki,2026-01-25T04:06:00+00:00,Poland,0.5618527608301606,1,1,pl,WCE,Europe
+'5c18016c80',extremes,Snow&Ice,#d60d2b,wmo,lód województwo małopolskie powiat tarnowski,2026-01-25T04:06:00+00:00,Poland,0.5615262628386748,1,1,pl,WCE,Europe
 '0d6a42b27e',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat gliwicki,2026-01-24T03:48:00+00:00,Poland,0.5612833939296892,1,1,pl,WCE,Europe
+'207ba5518c',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo śląskie powiat pszczyński,2026-01-25T04:06:00+00:00,Poland,0.5603089929859014,1,1,pl,WCE,Europe
 '51740b1fc3',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo lubelskie powiat chełmski,2026-01-22T03:59:00+00:00,Poland,0.5601580049400453,1,1,pl,WCE,Europe
 'aec4fb7da2',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo mazowieckie powiat radomski,2026-01-21T03:56:00+00:00,Poland,0.5599333403833446,1,1,pl,WCE,Europe
+'cbec54141c',extremes,Fog,#d60d2b,wmo,mgła polska,2026-01-15T10:56:00+00:00,Poland,0.5581164112013156,2,1,pl,WCE,Europe
 'd2440eb33d',extremes,Snow&Ice,#d60d2b,wmo,lód województwo mazowieckie powiat miński,2026-01-15T10:56:00+00:00,Poland,0.5579026118217593,2,1,pl,WCE,Europe
 'c8b04c7d79',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo lubelskie powiat janowski,2026-01-15T10:56:00+00:00,Poland,0.5578902835839112,2,1,pl,WCE,Europe
 '2b924857ab',extremes,Fog,#d60d2b,wmo,mgła województwo lubuskie powiat nowosolski,2026-01-15T12:14:00+00:00,Poland,0.557683575491897,2,1,pl,WCE,Europe
