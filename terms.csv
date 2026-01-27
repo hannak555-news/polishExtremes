@@ -161,16 +161,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '93132c3059',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat częstochowski,2026-01-25T04:06:00+00:00,Poland,0.4968350482965269,2,1,pl,WCE,Europe
 'aaac6dedae',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo śląskie powiat raciborski,2026-01-25T04:06:00+00:00,Poland,0.4928044422219095,2,1,pl,WCE,Europe
 '285d01ed45',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo śląskie powiat teski,2026-01-25T04:06:00+00:00,Poland,0.4908890198224945,2,1,pl,WCE,Europe
-'95ba117357',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat tarnogórski,2026-01-25T04:06:00+00:00,Poland,0.49081404088235114,2,1,pl,WCE,Europe
-'4f8a316440',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo opolskie powiat prudnicki,2026-01-25T04:06:00+00:00,Poland,0.48898587915758546,2,1,pl,WCE,Europe
-'baad81cc11',extremes,Snow&Ice,#d60d2b,wmo,lód województwo śląskie powiat chorzowski,2026-01-25T04:06:00+00:00,Poland,0.48819762772537467,2,1,pl,WCE,Europe
-'fb5c8d8b3d',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo śląskie powiat będziński,2026-01-25T04:06:00+00:00,Poland,0.48560180870832886,2,1,pl,WCE,Europe
-'e10fd11c21',extremes,Snow&Ice,#d60d2b,wmo,lód województwo śląskie powiat ruda śląska,2026-01-25T04:06:00+00:00,Poland,0.48385801915502114,2,1,pl,WCE,Europe
+'95ba117357',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat tarnogórski,2026-01-25T04:06:00+00:00,Poland,0.4908140408823511,2,1,pl,WCE,Europe
+'62084daeb0',extremes,Earthquake,#870007,random,trzęsienie ziemi,2026-01-15T10:39:00+00:00,,0.4895988544368738,1,3,pl,,
+'4f8a316440',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo opolskie powiat prudnicki,2026-01-25T04:06:00+00:00,Poland,0.4889858791575854,2,1,pl,WCE,Europe
+'baad81cc11',extremes,Snow&Ice,#d60d2b,wmo,lód województwo śląskie powiat chorzowski,2026-01-25T04:06:00+00:00,Poland,0.4881976277253746,2,1,pl,WCE,Europe
+'fb5c8d8b3d',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo śląskie powiat będziński,2026-01-25T04:06:00+00:00,Poland,0.4856018087083288,2,1,pl,WCE,Europe
+'e10fd11c21',extremes,Snow&Ice,#d60d2b,wmo,lód województwo śląskie powiat ruda śląska,2026-01-25T04:06:00+00:00,Poland,0.4838580191550211,2,1,pl,WCE,Europe
 '06eca8dc83',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat kłobucki,2026-01-25T04:06:00+00:00,Poland,0.4836323406189749,2,1,pl,WCE,Europe
 'd9851f93bb',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo podlaskie powiat łomżyński,2026-01-22T03:59:00+00:00,Poland,0.4822659763011409,2,1,pl,WCE,Europe
-'aa52a7f9c2',extremes,Snow&Ice,#d60d2b,wmo,lód województwo podlaskie powiat grajewski,2026-01-22T03:59:00+00:00,Poland,0.48073498280640153,2,1,pl,WCE,Europe
+'aa52a7f9c2',extremes,Snow&Ice,#d60d2b,wmo,lód województwo podlaskie powiat grajewski,2026-01-22T03:59:00+00:00,Poland,0.4807349828064015,2,1,pl,WCE,Europe
 '202e18ec69',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo opolskie powiat głubczycki,2026-01-24T03:48:00+00:00,Poland,0.4795021028300612,2,1,pl,WCE,Europe
-'90ad55f2e0',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo lubelskie powiat zamojski,2026-01-20T03:56:00+00:00,Poland,0.47939891937766355,2,1,pl,WCE,Europe
+'90ad55f2e0',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo lubelskie powiat zamojski,2026-01-20T03:56:00+00:00,Poland,0.4793989193776635,2,1,pl,WCE,Europe
 '557ffae686',extremes,Snow&Ice,#d60d2b,wmo,mroźne województwo mazowieckie powiat lipski,2026-01-22T03:59:00+00:00,Poland,0.4790738985659334,2,1,pl,WCE,Europe
 '5c18016c80',extremes,Snow&Ice,#d60d2b,wmo,lód województwo małopolskie powiat tarnowski,2026-01-25T04:06:00+00:00,Poland,0.4772973234128735,2,1,pl,WCE,Europe
 '14581f2afe',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat jaworzno,2026-01-15T12:14:00+00:00,Poland,0.4740281744842049,3,1,pl,WCE,Europe
@@ -196,7 +197,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '93f5270a85',extremes,Snow&Ice,#d60d2b,wmo,lód województwo podlaskie powiat suwałki,2026-01-17T03:44:00+00:00,Poland,0.4358119521163003,1,1,pl,WCE,Europe
 '79830a1866',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo podlaskie powiat łomżyński,2026-01-20T03:56:00+00:00,Poland,0.4307565120360913,2,1,pl,WCE,Europe
 '1c38b19449',extremes,Storm,#b3b2b1,random,miski kurzu,2026-01-15T10:39:00+00:00,,0.4237455931965196,1,2,pl,,
-'62084daeb0',extremes,Earthquake,#870007,random,trzęsienie ziemi,2026-01-15T10:39:00+00:00,,0.4097458683214559,0,1,pl,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,narodowe centrum huraganów,2026-01-15T10:39:00+00:00,,0.4089201669038112,0,1,pl,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-01-15T10:39:00+00:00,,0.4079760108178504,1,2,pl,,
 'd4580e0b29',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat lubliniecki,2026-01-15T10:56:00+00:00,Poland,0.4056745136602211,0,1,pl,WCE,Europe
@@ -208,7 +208,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,szkwał śnieżny,2026-01-15T10:39:00+00:00,,0.3484588916075219,1,1,pl,,
 '3fa143a609',extremes,Storm,#b3b2b1,random,zamieć piaskowa,2026-01-15T10:39:00+00:00,,0.3484155837900779,1,1,pl,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,rzeka atmosferyczna,2026-01-15T10:20:00+00:00,,0.2685404535177332,1,1,pl,,
-'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,najzimniejszy rok,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,pl,,
 'b6cef22543',extremes,Drought,#edc291,random,ograniczenie wody,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,pl,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,rekordowo zimno,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,pl,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,lód morski Arktyki,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,pl,,
@@ -217,3 +216,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tajfun,2026-01-15T10:20:00+00:00,,0.2560990530904549,0,1,pl,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,cielenie się lodowca,2026-01-15T10:20:00+00:00,,0.2545099887501987,0,1,pl,,
 'f90601fa23',extremes,Volcano,#b83202,random,erupcja wulkanu,2026-01-15T10:20:00+00:00,,0.2480133107928776,1,1,pl,,
+'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,najzimniejszy rok,2026-01-15T10:20:00+00:00,,0.21859632024197748,1,1,pl,,
