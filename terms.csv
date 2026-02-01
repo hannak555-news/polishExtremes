@@ -1,13 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'349b6e8b98',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo mazowieckie powiat mławski,2026-02-01T04:41:00+00:00,Poland,0.6333959222613929,0,1,pl,WCE,Europe
-'168eae92c7',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo podlaskie powiat sejneński,2026-01-26T04:09:00+00:00,Poland,0.6186894045803364,0,1,pl,WCE,Europe
-'786a29022a',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo mazowieckie powiat lipski,2026-01-24T03:48:00+00:00,Poland,0.618411442434955,0,1,pl,WCE,Europe
-'530ea327ea',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo pomorskie powiat chojnicki,2026-02-01T04:41:00+00:00,Poland,0.6164270810060678,0,1,pl,WCE,Europe
-'7318c42bac',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo łódzkie powiat piotrkowski,2026-01-24T03:48:00+00:00,Poland,0.6157206747713012,0,1,pl,WCE,Europe
-'d07820c2b1',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo lubelskie powiat łukowski,2026-01-27T03:58:00+00:00,Poland,0.6153578608064233,0,1,pl,WCE,Europe
-'8817fd285d',extremes,Snow&Ice,#d60d2b,wmo,śnieżna Polska,2026-01-15T10:56:00+00:00,Poland,0.5482390907398164,2,2,pl,WCE,Europe
-'9b59bee21e',extremes,Drought,#edc291,edo,okres suszy w polsce,2026-01-15T12:14:00+00:00,Poland,0.5446963856025444,2,1,pl,WCE,Europe
+'9b59bee21e',extremes,Drought,#edc291,edo,okres suszy w polsce,2026-01-15T12:14:00+00:00,Poland,0.5634419727621627,3,2,pl,WCE,Europe
+'349b6e8b98',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo mazowieckie powiat mławski,2026-02-01T04:41:00+00:00,Poland,0.5383865339221839,1,1,pl,WCE,Europe
+'168eae92c7',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo podlaskie powiat sejneński,2026-01-26T04:09:00+00:00,Poland,0.5258859938932859,1,1,pl,WCE,Europe
+'786a29022a',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo mazowieckie powiat lipski,2026-01-24T03:48:00+00:00,Poland,0.5256497260697118,1,1,pl,WCE,Europe
 'cbec54141c',extremes,Fog,#d60d2b,wmo,mgła polska,2026-01-15T10:56:00+00:00,Poland,0.5248489945211183,3,1,pl,WCE,Europe
+'530ea327ea',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo pomorskie powiat chojnicki,2026-02-01T04:41:00+00:00,Poland,0.5239630188551576,1,1,pl,WCE,Europe
+'7318c42bac',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo łódzkie powiat piotrkowski,2026-01-24T03:48:00+00:00,Poland,0.523362573555606,1,1,pl,WCE,Europe
+'d07820c2b1',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo lubelskie powiat łukowski,2026-01-27T03:58:00+00:00,Poland,0.5230541816854598,1,1,pl,WCE,Europe
 'c2a1de8dc8',extremes,Storm,#b3b2b1,wmo,burza Polska,2026-01-18T03:57:00+00:00,Poland,0.5226748899648361,1,2,pl,WCE,Europe
 '59366a256b',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo mazowieckie powiat płocki,2026-01-21T03:56:00+00:00,Poland,0.5067058499875081,1,1,pl,WCE,Europe
 'f85a7862e1',extremes,Snow&Ice,#d60d2b,wmo,lód województwo pomorskie powiat gdański,2026-01-19T04:03:00+00:00,Poland,0.5051581597857218,1,1,pl,WCE,Europe
@@ -107,6 +106,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '77f56f2ebd',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo lubelskie powiat lubelski,2026-01-15T10:56:00+00:00,Poland,0.46690645170252,2,1,pl,WCE,Europe
 '536067cfee',extremes,Fog,#d60d2b,wmo,mgła województwo lubelskie powiat janowski,2026-01-27T03:58:00+00:00,Poland,0.4668085458261842,2,1,pl,WCE,Europe
 'ecf7014b6c',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat sejneński,2026-01-28T03:56:00+00:00,Poland,0.4662765016862898,2,1,pl,WCE,Europe
+'8817fd285d',extremes,Snow&Ice,#d60d2b,wmo,śnieżna Polska,2026-01-15T10:56:00+00:00,Poland,0.4660033021288439,3,1,pl,WCE,Europe
 '5270183ee9',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo lubelskie powiat radzyński,2026-01-18T03:57:00+00:00,Poland,0.4659631745853444,2,1,pl,WCE,Europe
 '0c964982cb',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat malborski,2026-01-27T03:58:00+00:00,Poland,0.465839888597987,2,1,pl,WCE,Europe
 'eb88226bd7',extremes,Snow&Ice,#d60d2b,wmo,lód województwo opolskie powiat oleski,2026-01-24T03:48:00+00:00,Poland,0.4653432513100335,2,1,pl,WCE,Europe
