@@ -1,4 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'921075f013',extremes,Fog,#d60d2b,wmo,mgła województwo łódzkie powiat kutnowski,2026-01-28T03:56:00+00:00,Poland,0.6161417908781364,0,1,pl,WCE,Europe
+'af0e073acf',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo opolskie powiat oleski,2026-01-23T04:03:00+00:00,Poland,0.6142920189355388,0,1,pl,WCE,Europe
+'36430ea0ce',extremes,Snow&Ice,#d60d2b,wmo,lód województwo lubelskie powiat świdnicki,2026-01-15T10:56:00+00:00,Poland,0.6138065780362951,0,1,pl,WCE,Europe
+'76553c80ab',extremes,Fog,#d60d2b,wmo,mgła województwo mazowieckie powiat lipski,2026-01-27T03:58:00+00:00,Poland,0.6127168705340956,0,1,pl,WCE,Europe
+'4e591f1b29',extremes,Snow&Ice,#d60d2b,wmo,lód województwo lubelskie powiat chełmski,2026-01-25T04:06:00+00:00,Poland,0.6118645671229263,0,1,pl,WCE,Europe
+'7d0ece17c2',extremes,Snow&Ice,#d60d2b,wmo,marznące województwo mazowieckie powiat płocki,2026-01-22T03:59:00+00:00,Poland,0.6109339025437548,0,1,pl,WCE,Europe
 '9b59bee21e',extremes,Drought,#edc291,edo,okres suszy w polsce,2026-01-15T12:14:00+00:00,Poland,0.5293757218478383,4,2,pl,WCE,Europe
 'cbec54141c',extremes,Fog,#d60d2b,wmo,mgła polska,2026-01-15T10:56:00+00:00,Poland,0.5248489945211183,3,1,pl,WCE,Europe
 'c2a1de8dc8',extremes,Storm,#b3b2b1,wmo,burza Polska,2026-01-18T03:57:00+00:00,Poland,0.5226748899648361,1,2,pl,WCE,Europe
@@ -220,8 +226,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '59366a256b',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo mazowieckie powiat płocki,2026-01-21T03:56:00+00:00,Poland,0.4306999724893819,2,1,pl,WCE,Europe
 'fce12487ac',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo łódzkie powiat rawski,2026-01-19T04:03:00+00:00,Poland,0.4298339741693145,2,1,pl,WCE,Europe
 'f85a7862e1',extremes,Snow&Ice,#d60d2b,wmo,lód województwo pomorskie powiat gdański,2026-01-19T04:03:00+00:00,Poland,0.4293844358178635,2,1,pl,WCE,Europe
-'66e839c2a8',extremes,Snow&Ice,#d60d2b,wmo,lód województwo mazowieckie powiat otwocki,2026-01-20T03:56:00+00:00,Poland,0.42918432764815545,2,1,pl,WCE,Europe
-'aa478756d8',extremes,Snow&Ice,#d60d2b,wmo,lód województwo łódzkie powiat łowicki,2026-01-18T03:57:00+00:00,Poland,0.42861350421803185,2,1,pl,WCE,Europe
+'66e839c2a8',extremes,Snow&Ice,#d60d2b,wmo,lód województwo mazowieckie powiat otwocki,2026-01-20T03:56:00+00:00,Poland,0.4291843276481554,2,1,pl,WCE,Europe
+'aa478756d8',extremes,Snow&Ice,#d60d2b,wmo,lód województwo łódzkie powiat łowicki,2026-01-18T03:57:00+00:00,Poland,0.4286135042180318,2,1,pl,WCE,Europe
 'ba0992adf1',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo podlaskie powiat grajewski,2026-01-19T04:03:00+00:00,Poland,0.4284826380628487,2,1,pl,WCE,Europe
 'c8ca2fc3fd',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat jaworzno,2026-01-23T04:03:00+00:00,Poland,0.4284120235018959,3,1,pl,WCE,Europe
 'a201bef21c',extremes,Snow&Ice,#d60d2b,wmo,lód województwo śląskie powiat bytomski,2026-01-25T04:06:00+00:00,Poland,0.4284050373221439,3,1,pl,WCE,Europe
@@ -267,5 +273,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,rekordowo zimno,2026-01-15T10:20:00+00:00,,0.2181999775718036,1,1,pl,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,lód morski Arktyki,2026-01-15T10:20:00+00:00,,0.2181047367680758,1,1,pl,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-01-15T10:20:00+00:00,,0.2178477169643835,1,1,pl,,
-'ccefefc59e',extremes,Drought,#edc291,random,błyskawiczna susza,2026-01-15T10:20:00+00:00,,0.18510097597368216,2,1,pl,,
-'1fefacbadb',extremes,Iceberg,#d60d2b,random,cielenie się lodowca,2026-01-15T10:20:00+00:00,,0.18388346687201856,2,1,pl,,
+'ccefefc59e',extremes,Drought,#edc291,random,błyskawiczna susza,2026-01-15T10:20:00+00:00,,0.1851009759736821,2,1,pl,,
+'1fefacbadb',extremes,Iceberg,#d60d2b,random,cielenie się lodowca,2026-01-15T10:20:00+00:00,,0.1838834668720185,2,1,pl,,
