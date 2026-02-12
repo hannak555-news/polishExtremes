@@ -1,16 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'29f27e328f',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat sztumski,2026-02-12T04:37:00+00:00,Poland,0.6142338021866756,0,1,pl,WCE,Europe
-'b079bb7dc4',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo łódzkie powiat łaski,2026-02-04T04:21:00+00:00,Poland,0.5827051672412539,0,1,pl,WCE,Europe
-'43e9e6de6a',extremes,Snow&Ice,#d60d2b,wmo,lód województwo łódzkie powiat pabianicki,2026-02-08T04:43:00+00:00,Poland,0.5826778046907636,0,1,pl,WCE,Europe
-'0c7e473620',extremes,Snow&Ice,#d60d2b,wmo,lód województwo śląskie powiat pszczyński,2026-02-04T04:21:00+00:00,Poland,0.5825916570446004,0,1,pl,WCE,Europe
-'673564cc98',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo łódzkie powiat pabianicki,2026-02-01T04:41:00+00:00,Poland,0.581679405617379,0,1,pl,WCE,Europe
-'a5b454f6d6',extremes,Snow&Ice,#d60d2b,wmo,lód województwo śląskie powiat mikołowski,2026-02-06T04:27:00+00:00,Poland,0.5807665708547163,0,1,pl,WCE,Europe
-'0d51766b1f',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo śląskie powiat tarnogórski,2026-02-06T04:27:00+00:00,Poland,0.5806707238516197,0,1,pl,WCE,Europe
-'9f56f3696e',extremes,Drought,#edc291,edo,okres suszy na Litwie,2026-01-28T03:56:00+00:00,Lithuania,0.5804174119839692,0,1,pl,WCE,Europe
-'48bfcf112e',extremes,Snow&Ice,#d60d2b,wmo,"śnieg województwo lubuskie, powiat sulęciński",2026-02-05T04:27:00+00:00,Poland,0.5800588031493381,0,1,pl,WCE,Europe
-'21b1cadb27',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo mazowieckie powiat łosicki,2026-01-27T03:58:00+00:00,Poland,0.5797457498383563,0,1,pl,WCE,Europe
-'9e020e244e',extremes,Drought,#edc291,edo,susza w polsce,2026-02-11T04:42:00+00:00,Poland,0.5665644760103475,2,1,pl,WCE,Europe
+'29f27e328f',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat sztumski,2026-02-12T04:37:00+00:00,Poland,0.5220987318586742,1,1,pl,WCE,Europe
 'cbec54141c',extremes,Fog,#d60d2b,wmo,mgła polska,2026-02-06T04:27:00+00:00,Poland,0.5079302131205292,2,1,pl,WCE,Europe
+'9e020e244e',extremes,Drought,#edc291,edo,susza w polsce,2026-02-11T04:42:00+00:00,Poland,0.5015299246087954,3,1,pl,WCE,Europe
 '3a13b0702f',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo pomorskie powiat lęborski,2026-02-03T04:27:00+00:00,Poland,0.5006412626868093,1,1,pl,WCE,Europe
 'ae346b2394',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo śląskie powiat lubliniecki,2026-02-01T04:41:00+00:00,Poland,0.5005280337045172,1,1,pl,WCE,Europe
 'b49cc8e4a5',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo opolskie powiat opolski,2026-02-04T04:21:00+00:00,Poland,0.500388147606771,1,1,pl,WCE,Europe
@@ -32,7 +23,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'adc6dcab3a',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo lubelskie powiat radzyński,2026-02-02T04:36:00+00:00,Poland,0.4958045370968031,1,1,pl,WCE,Europe
 '4d2ecb1653',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo pomorskie powiat gdyński,2026-01-26T04:09:00+00:00,Poland,0.4953564603967615,1,1,pl,WCE,Europe
 'f976e82676',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo śląskie powiat katowicki,2026-02-04T04:21:00+00:00,Poland,0.4953405923945091,1,1,pl,WCE,Europe
+'b079bb7dc4',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo łódzkie powiat łaski,2026-02-04T04:21:00+00:00,Poland,0.4952993921550658,1,1,pl,WCE,Europe
+'43e9e6de6a',extremes,Snow&Ice,#d60d2b,wmo,lód województwo łódzkie powiat pabianicki,2026-02-08T04:43:00+00:00,Poland,0.49527613398714904,1,1,pl,WCE,Europe
+'0c7e473620',extremes,Snow&Ice,#d60d2b,wmo,lód województwo śląskie powiat pszczyński,2026-02-04T04:21:00+00:00,Poland,0.4952029084879103,1,1,pl,WCE,Europe
 '6fb781b401',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat myszkowski,2026-02-06T04:27:00+00:00,Poland,0.4944543812022304,2,1,pl,WCE,Europe
+'673564cc98',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo łódzkie powiat pabianicki,2026-02-01T04:41:00+00:00,Poland,0.4944274947747721,1,1,pl,WCE,Europe
+'a5b454f6d6',extremes,Snow&Ice,#d60d2b,wmo,lód województwo śląskie powiat mikołowski,2026-02-06T04:27:00+00:00,Poland,0.4936515852265088,1,1,pl,WCE,Europe
+'0d51766b1f',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo śląskie powiat tarnogórski,2026-02-06T04:27:00+00:00,Poland,0.4935701152738767,1,1,pl,WCE,Europe
+'9f56f3696e',extremes,Drought,#edc291,edo,okres suszy na Litwie,2026-01-28T03:56:00+00:00,Lithuania,0.49335480018637384,1,1,pl,WCE,Europe
+'48bfcf112e',extremes,Snow&Ice,#d60d2b,wmo,"śnieg województwo lubuskie, powiat sulęciński",2026-02-05T04:27:00+00:00,Poland,0.4930499826769374,1,1,pl,WCE,Europe
+'21b1cadb27',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo mazowieckie powiat łosicki,2026-01-27T03:58:00+00:00,Poland,0.4927838873626028,1,1,pl,WCE,Europe
 'd2440eb33d',extremes,Snow&Ice,#d60d2b,wmo,lód województwo mazowieckie powiat miński,2026-01-15T10:56:00+00:00,Poland,0.4742172200484953,3,1,pl,WCE,Europe
 'c8b04c7d79',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo lubelskie powiat janowski,2026-01-15T10:56:00+00:00,Poland,0.4742067410463245,3,1,pl,WCE,Europe
 '2b924857ab',extremes,Fog,#d60d2b,wmo,mgła województwo lubuskie powiat nowosolski,2026-01-15T12:14:00+00:00,Poland,0.4740310391681124,3,1,pl,WCE,Europe
