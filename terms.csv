@@ -1,21 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'a5b454f6d6',extremes,Snow&Ice,#d60d2b,wmo,lód województwo śląskie powiat mikołowski,2026-02-06T04:27:00+00:00,Poland,0.5807665708547163,0,1,pl,WCE,Europe
-'fdfe4aff2f',extremes,Snow&Ice,#d60d2b,wmo,lód województwo łódzkie powiat łódzki,2026-02-03T04:27:00+00:00,Poland,0.5794922747174107,0,1,pl,WCE,Europe
-'aaf0987b7a',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo lubuskie powiat żagański,2026-01-27T03:58:00+00:00,Poland,0.5790501500951586,0,1,pl,WCE,Europe
-'364a1fa5ec',extremes,Storm,#b3b2b1,wmo,fala sztormowa we wschodniej strefie przybrzeżnej,2026-01-31T04:16:00+00:00,Poland,0.578086239742516,0,1,pl,WCE,Europe
-'8b9a93fdef',extremes,Snow&Ice,#d60d2b,wmo,lód województwo lubelskie powiat włodawski,2026-02-03T04:27:00+00:00,Poland,0.5775464135348661,0,1,pl,WCE,Europe
-'bb659472de',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat gliwicki,2026-02-04T04:21:00+00:00,Poland,0.5772109528219728,0,1,pl,WCE,Europe
-'5c052c106d',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat ruda śląska,2026-02-06T04:27:00+00:00,Poland,0.5771891810660766,0,1,pl,WCE,Europe
-'155b280082',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo łódzkie powiat pajęczański,2026-02-01T04:41:00+00:00,Poland,0.5762990129702011,0,1,pl,WCE,Europe
-'b3e9c8f1f4',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo lubelskie powiat zamojski,2026-02-01T04:41:00+00:00,Poland,0.5759302313013074,0,1,pl,WCE,Europe
-'ff2c9d70bb',extremes,Snow&Ice,#d60d2b,wmo,lodowe województwo śląskie powiat rybnicki,2026-02-04T04:21:00+00:00,Poland,0.5756591814380468,0,1,pl,WCE,Europe
 '9e020e244e',extremes,Drought,#edc291,edo,susza w polsce,2026-02-11T04:42:00+00:00,Poland,0.5015299246087954,3,1,pl,WCE,Europe
-'22cf42b1f9',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo śląskie powiat ruda śląska,2026-02-04T04:21:00+00:00,Poland,0.4979949075608014,1,1,pl,WCE,Europe
-'ec3925a6b2',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo małopolskie powiat krakowski,2026-02-05T04:27:00+00:00,Poland,0.4975772766594507,1,1,pl,WCE,Europe
-'2bd16e4e2e',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat bytomski,2026-02-05T04:27:00+00:00,Poland,0.4974997052735996,1,1,pl,WCE,Europe
-'1fb9a24c10',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo małopolskie powiat brzeski,2026-02-02T04:36:00+00:00,Poland,0.497482740449732,1,1,pl,WCE,Europe
-'248a812146',extremes,Storm,#b3b2b1,wmo,burza w zachodniej strefie przybrzeżnej,2026-01-31T04:16:00+00:00,Poland,0.497183729334255,1,1,pl,WCE,Europe
-'6b46abf873',extremes,Snow&Ice,#d60d2b,wmo,lód województwo łódzkie powiat brzeziński,2026-01-28T03:56:00+00:00,Poland,0.4970423333001321,1,1,pl,WCE,Europe
 '0bc9117d9d',extremes,Snow&Ice,#d60d2b,wmo,lód województwo śląskie powiat zabrzeski,2026-02-04T04:21:00+00:00,Poland,0.4969379292496168,1,1,pl,WCE,Europe
 '8e39efd3a5',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo opolskie powiat głubczycki,2026-01-31T04:16:00+00:00,Poland,0.4968935084874389,1,1,pl,WCE,Europe
 'b45c68cbb5',extremes,Snow&Ice,#d60d2b,wmo,lód województwo mazowieckie powiat siedlecki,2026-02-03T04:27:00+00:00,Poland,0.4967553489733164,1,1,pl,WCE,Europe
@@ -28,8 +12,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '43e9e6de6a',extremes,Snow&Ice,#d60d2b,wmo,lód województwo łódzkie powiat pabianicki,2026-02-08T04:43:00+00:00,Poland,0.495276133987149,1,1,pl,WCE,Europe
 '6fb781b401',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat myszkowski,2026-02-06T04:27:00+00:00,Poland,0.4944543812022304,2,1,pl,WCE,Europe
 '673564cc98',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo łódzkie powiat pabianicki,2026-02-01T04:41:00+00:00,Poland,0.4944274947747721,1,1,pl,WCE,Europe
+'a5b454f6d6',extremes,Snow&Ice,#d60d2b,wmo,lód województwo śląskie powiat mikołowski,2026-02-06T04:27:00+00:00,Poland,0.4936515852265088,1,1,pl,WCE,Europe
 '48bfcf112e',extremes,Snow&Ice,#d60d2b,wmo,"śnieg województwo lubuskie, powiat sulęciński",2026-02-05T04:27:00+00:00,Poland,0.4930499826769374,1,1,pl,WCE,Europe
 '21b1cadb27',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo mazowieckie powiat łosicki,2026-01-27T03:58:00+00:00,Poland,0.4927838873626028,1,1,pl,WCE,Europe
+'fdfe4aff2f',extremes,Snow&Ice,#d60d2b,wmo,lód województwo łódzkie powiat łódzki,2026-02-03T04:27:00+00:00,Poland,0.4925684335097991,1,1,pl,WCE,Europe
+'aaf0987b7a',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo lubuskie powiat żagański,2026-01-27T03:58:00+00:00,Poland,0.4921926275808848,1,1,pl,WCE,Europe
+'364a1fa5ec',extremes,Storm,#b3b2b1,wmo,fala sztormowa we wschodniej strefie przybrzeżnej,2026-01-31T04:16:00+00:00,Poland,0.49137330378113864,1,1,pl,WCE,Europe
+'8b9a93fdef',extremes,Snow&Ice,#d60d2b,wmo,lód województwo lubelskie powiat włodawski,2026-02-03T04:27:00+00:00,Poland,0.4909144515046362,1,1,pl,WCE,Europe
+'bb659472de',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat gliwicki,2026-02-04T04:21:00+00:00,Poland,0.4906293098986768,1,1,pl,WCE,Europe
+'5c052c106d',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat ruda śląska,2026-02-06T04:27:00+00:00,Poland,0.4906108039061651,1,1,pl,WCE,Europe
+'155b280082',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo łódzkie powiat pajęczański,2026-02-01T04:41:00+00:00,Poland,0.48985416102467094,1,1,pl,WCE,Europe
+'b3e9c8f1f4',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo lubelskie powiat zamojski,2026-02-01T04:41:00+00:00,Poland,0.48954069660611127,1,1,pl,WCE,Europe
+'ff2c9d70bb',extremes,Snow&Ice,#d60d2b,wmo,lodowe województwo śląskie powiat rybnicki,2026-02-04T04:21:00+00:00,Poland,0.4893103042223398,1,1,pl,WCE,Europe
 'cbec54141c',extremes,Fog,#d60d2b,wmo,mgła polska,2026-02-06T04:27:00+00:00,Poland,0.4821907261524498,3,1,pl,WCE,Europe
 'd2440eb33d',extremes,Snow&Ice,#d60d2b,wmo,lód województwo mazowieckie powiat miński,2026-01-15T10:56:00+00:00,Poland,0.4742172200484953,3,1,pl,WCE,Europe
 'c8b04c7d79',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo lubelskie powiat janowski,2026-01-15T10:56:00+00:00,Poland,0.4742067410463245,3,1,pl,WCE,Europe
@@ -133,7 +127,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4d91585fdc',extremes,Snow&Ice,#d60d2b,wmo,lód województwo pomorskie powiat sztumski,2026-01-23T04:03:00+00:00,Poland,0.4237406088583065,2,1,pl,WCE,Europe
 '2a1b2cf31e',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo opolskie powiat opolski,2026-01-25T04:06:00+00:00,Poland,0.4234849629628987,3,1,pl,WCE,Europe
 '09fb4c4bb9',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo łódzkie powiat pabianicki,2026-01-25T04:06:00+00:00,Poland,0.4234338199213467,2,1,pl,WCE,Europe
+'22cf42b1f9',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo śląskie powiat ruda śląska,2026-02-04T04:21:00+00:00,Poland,0.4232956714266812,2,1,pl,WCE,Europe
+'ec3925a6b2',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo małopolskie powiat krakowski,2026-02-05T04:27:00+00:00,Poland,0.42294068516053307,2,1,pl,WCE,Europe
+'2bd16e4e2e',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat bytomski,2026-02-05T04:27:00+00:00,Poland,0.42287474948255965,2,1,pl,WCE,Europe
+'1fb9a24c10',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo małopolskie powiat brzeski,2026-02-02T04:36:00+00:00,Poland,0.4228603293822722,2,1,pl,WCE,Europe
 'ccf1a1ab93',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat myszkowski,2026-01-25T04:06:00+00:00,Poland,0.4227251212538414,3,1,pl,WCE,Europe
+'248a812146',extremes,Storm,#b3b2b1,wmo,burza w zachodniej strefie przybrzeżnej,2026-01-31T04:16:00+00:00,Poland,0.4226061699341167,2,1,pl,WCE,Europe
+'6b46abf873',extremes,Snow&Ice,#d60d2b,wmo,lód województwo łódzkie powiat brzeziński,2026-01-28T03:56:00+00:00,Poland,0.4224859833051123,2,1,pl,WCE,Europe
 '9d248c7381',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo śląskie powiat bielski,2026-01-25T04:06:00+00:00,Poland,0.4223831208979912,3,1,pl,WCE,Europe
 '93132c3059',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat częstochowski,2026-01-25T04:06:00+00:00,Poland,0.4223097910520478,3,1,pl,WCE,Europe
 '489ed44253',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo łódzkie powiat zgierski,2026-01-23T04:03:00+00:00,Poland,0.4217092270057117,2,1,pl,WCE,Europe
