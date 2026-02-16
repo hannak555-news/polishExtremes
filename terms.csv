@@ -1,6 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '13329f4bf1',extremes,Snow&Ice,#d60d2b,wmo,marznąca Polska,2026-02-05T04:27:00+00:00,Poland,0.4963700302770193,2,1,pl,WCE,Europe
-'8f0ffd338d',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo lubelskie powiat łęczyński,2026-01-27T03:58:00+00:00,Poland,0.4848122838083517,1,1,pl,WCE,Europe
+'8f0ffd338d',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo lubelskie powiat łęczyński,2026-01-27T03:58:00+00:00,Poland,0.4848122838083517,2,1,pl,WCE,Europe
 'b00eefc460',extremes,Snow&Ice,#d60d2b,wmo,"lód woj. wielkopolskie, powiat koniński",2026-02-02T04:36:00+00:00,Poland,0.4843288601347019,1,1,pl,WCE,Europe
 '2c1ebce0df',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo śląskie powiat sosnowiecki,2026-02-06T04:27:00+00:00,Poland,0.4822710916943817,1,1,pl,WCE,Europe
 'cbec54141c',extremes,Fog,#d60d2b,wmo,mgła polska,2026-02-06T04:27:00+00:00,Poland,0.4821907261524498,3,1,pl,WCE,Europe
@@ -16,7 +16,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bb92312dfb',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo śląskie powiat gliwicki,2026-02-08T04:43:00+00:00,Poland,0.4805333115090567,1,1,pl,WCE,Europe
 'ca9dd22181',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat pszczyński,2026-01-31T04:16:00+00:00,Poland,0.4802994831579468,1,1,pl,WCE,Europe
 '452e03c11a',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo pomorskie powiat bytowski,2026-02-07T04:19:00+00:00,Poland,0.4802458504026629,1,1,pl,WCE,Europe
-'e6afa71a79',extremes,Fog,#d60d2b,wmo,mgła województwo małopolskie powiat krakowski,2026-02-06T04:27:00+00:00,Poland,0.47980561285677925,2,1,pl,WCE,Europe
+'e6afa71a79',extremes,Fog,#d60d2b,wmo,mgła województwo małopolskie powiat krakowski,2026-02-06T04:27:00+00:00,Poland,0.4798056128567792,2,1,pl,WCE,Europe
 '0512af37b8',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo łódzkie powiat brzeziński,2026-02-01T04:41:00+00:00,Poland,0.4797101413289977,1,1,pl,WCE,Europe
 '30e2ad1cba',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo małopolskie powiat tarnowski,2026-02-15T04:35:00+00:00,Poland,0.4791367489922392,1,1,pl,WCE,Europe
 '135dd4aa3b',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat będziński,2026-02-04T04:21:00+00:00,Poland,0.4790635966548689,1,1,pl,WCE,Europe
@@ -378,7 +378,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '623e8986fb',extremes,Snow&Ice,#d60d2b,wmo,lód województwo śląskie powiat tarnogórski,2026-02-04T04:21:00+00:00,Poland,0.3679894681769551,3,1,pl,WCE,Europe
 '7141e1fa81',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo podlaskie powiat moniecki,2026-01-18T03:57:00+00:00,Poland,0.3674517386458786,3,1,pl,WCE,Europe
 '4ed88d35e3',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo śląskie powiat żorski,2026-01-23T04:03:00+00:00,Poland,0.3674489794443168,4,1,pl,WCE,Europe
-'8cefa7544e',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo łódzkie powiat pajęczański,2026-01-23T04:03:00+00:00,Poland,0.36729671165223177,3,1,pl,WCE,Europe
+'8cefa7544e',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo łódzkie powiat pajęczański,2026-01-23T04:03:00+00:00,Poland,0.3672967116522317,3,1,pl,WCE,Europe
 'cb344d9421',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo podlaskie powiat hajnowski,2026-01-26T04:09:00+00:00,Poland,0.3672081316916446,3,1,pl,WCE,Europe
 'bfd37e3de8',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo mazowieckie powiat płocki,2026-01-18T03:57:00+00:00,Poland,0.3671780152347454,3,1,pl,WCE,Europe
 '70d725364c',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo łódzkie powiat tomaszowski,2026-01-21T03:56:00+00:00,Poland,0.3668095355718435,3,1,pl,WCE,Europe
