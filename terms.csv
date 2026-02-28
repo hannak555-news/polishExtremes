@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'1a22688610',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo podlaskie powiat suwałki,2026-02-17T04:31:00+00:00,Poland,0.6803722257240694,0,1,pl,WCE,Europe
 '776fe47817',extremes,Wildfire,#d60d2b,random,pożar,2026-02-18T04:33:00+00:00,,0.5513202724250114,2,3,pl,,
 'f6e2207dd8',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo pomorskie powiat tczewski,2026-02-20T04:27:00+00:00,Poland,0.502079429570842,1,1,pl,WCE,Europe
 'c2a1de8dc8',extremes,Storm,#b3b2b1,wmo,burza Polska,2026-01-18T03:57:00+00:00,Poland,0.501992442624655,4,3,pl,WCE,Europe
@@ -202,6 +203,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ee4589b82c',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo podlaskie powiat hajnowski,2026-02-09T04:39:00+00:00,Poland,0.3921928772103122,2,1,pl,WCE,Europe
 '21500f47db',extremes,Snow&Ice,#d60d2b,wmo,lód województwo śląskie powiat bielski,2026-02-09T04:39:00+00:00,Poland,0.3920091285601632,2,1,pl,WCE,Europe
 '332af38d83',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo łódzkie powiat brzeziński,2026-02-21T04:18:00+00:00,Poland,0.3911686795712865,2,1,pl,WCE,Europe
+'20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-02-28T04:07:00+00:00,,0.39103291392416567,0,1,pl,,
 '7019b99295',extremes,Fog,#d60d2b,wmo,mgła województwo mazowieckie powiat płocki,2026-01-28T03:56:00+00:00,Poland,0.3907487942416706,3,1,pl,WCE,Europe
 '0183742375',extremes,Precipitation,#d60d2b,wmo,ulewne opady deszczu powiat alytusski powiat marijampolski,2026-02-06T04:27:00+00:00,Lithuania,0.3906504385344883,1,1,pl,WCE,Europe
 '4becfeea27',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo lubelskie powiat janowski,2026-02-20T04:27:00+00:00,Poland,0.3906002469963697,2,1,pl,WCE,Europe
@@ -381,12 +383,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,lawina,2026-02-22T04:30:00+00:00,,0.3268513282489734,0,1,pl,,
 'aeb53dbe9e',extremes,Snow&Ice,#d60d2b,wmo,lód województwo mazowieckie powiat płoński,2026-02-01T04:41:00+00:00,Poland,0.3257911309869514,4,1,pl,WCE,Europe
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,grad,2026-02-21T04:17:00+00:00,,0.3253020802834211,0,1,pl,,
-'ea87be5bd8',extremes,Heat Wave,#c40202,random,upalna temperatura,2026-02-08T04:43:00+00:00,,0.32445679310564385,1,1,pl,,
+'ea87be5bd8',extremes,Heat Wave,#c40202,random,upalna temperatura,2026-02-08T04:43:00+00:00,,0.3244567931056438,1,1,pl,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,najzimniejszy dzień,2026-02-17T04:30:00+00:00,,0.3194927630147512,0,1,pl,,
 'eced4efa71',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny horacio,2026-02-21T04:17:00+00:00,,0.3192240267643634,0,1,pl,SIO,Indian Ocean
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,gwałtowny spadek temperatury,2026-02-12T04:36:00+00:00,,0.3179975433559999,0,1,pl,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,góra lodowa Antarktyda,2026-02-19T04:31:00+00:00,,0.3177487546426184,0,1,pl,,
 'e921e2b0b7',extremes,Flood,#030ba1,aidr,powódź poważna powódź spowodowana byłym cyklonem tropikalnym Tiffany w południowej Australii w 2022 r,2026-02-08T04:44:00+00:00,Australia,0.3163688348808303,0,1,pl,SAU,Oceania
 'b2a54f2f57',extremes,Snow&Ice,#d60d2b,wmo,lód województwo mazowieckie powiat płocki,2026-02-08T04:43:00+00:00,Poland,0.3146636954872117,4,1,pl,WCE,Europe
-'f1d3442696',extremes,Drought,#edc291,edo,susza na Ukrainie,2026-02-11T04:42:00+00:00,Ukraine,0.31249929623551725,2,1,pl,WCE,Europe
+'a5ff1cde4a',extremes,Drought,#edc291,random,wilgotność gleby,2026-02-22T04:30:00+00:00,,0.3134078456192143,0,1,pl,,
+'ccefefc59e',extremes,Drought,#edc291,random,błyskawiczna susza,2026-02-16T04:37:00+00:00,,0.313195137262845,0,1,pl,,
+'f1d3442696',extremes,Drought,#edc291,edo,susza na Ukrainie,2026-02-11T04:42:00+00:00,Ukraine,0.3124992962355172,2,1,pl,WCE,Europe
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-02-05T04:27:00+00:00,,0.2705756358842192,2,1,pl,,
