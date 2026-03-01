@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'aaf0987b7a',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo lubuskie powiat żagański,2026-02-18T04:34:00+00:00,Poland,0.6019549326480981,0,1,pl,WCE,Europe
 '776fe47817',extremes,Wildfire,#d60d2b,random,pożar,2026-02-18T04:33:00+00:00,,0.5513202724250114,2,3,pl,,
 'c2a1de8dc8',extremes,Storm,#b3b2b1,wmo,burza Polska,2026-01-18T03:57:00+00:00,Poland,0.501992442624655,4,3,pl,WCE,Europe
 '2609bda0f2',extremes,Snow&Ice,#d60d2b,wmo,lodowa Polska,2026-02-05T04:27:00+00:00,Poland,0.4921686241194714,5,2,pl,WCE,Europe
@@ -388,7 +389,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,góra lodowa Antarktyda,2026-02-19T04:31:00+00:00,,0.3177487546426184,0,1,pl,,
 'e921e2b0b7',extremes,Flood,#030ba1,aidr,powódź poważna powódź spowodowana byłym cyklonem tropikalnym Tiffany w południowej Australii w 2022 r,2026-02-08T04:44:00+00:00,Australia,0.3163688348808303,0,1,pl,SAU,Oceania
 'b2a54f2f57',extremes,Snow&Ice,#d60d2b,wmo,lód województwo mazowieckie powiat płocki,2026-02-08T04:43:00+00:00,Poland,0.3146636954872117,4,1,pl,WCE,Europe
+'81df5b3034',extremes,Storm,#b3b2b1,aidr,"burza, grad w North Sydney, 2017",2026-02-14T04:22:00+00:00,,0.31384200131878925,0,1,pl,EAU,Oceania
 'a5ff1cde4a',extremes,Drought,#edc291,random,wilgotność gleby,2026-02-22T04:30:00+00:00,,0.3134078456192143,0,1,pl,,
 'ccefefc59e',extremes,Drought,#edc291,random,błyskawiczna susza,2026-02-16T04:37:00+00:00,,0.313195137262845,0,1,pl,,
+'6ee9959447',extremes,Tropical Cyclone,#4f4f4f,emdat,cyklon tropikalny Madagaskar,2026-02-20T04:28:00+00:00,Madagascar,0.3125628137009715,0,1,pl,MDG,Africa
 'f1d3442696',extremes,Drought,#edc291,edo,susza na Ukrainie,2026-02-11T04:42:00+00:00,Ukraine,0.3124992962355172,2,1,pl,WCE,Europe
+'82d648b882',extremes,Drought,#edc291,random,susza,2026-02-08T04:43:00+00:00,,0.31198642048219277,0,1,pl,,
+'e873273000',extremes,Storm,#b3b2b1,emdat,burza Malawi,2026-02-20T04:28:00+00:00,Malawi,0.31174857808531975,0,1,pl,ESAF,Africa
+'9aceadd432',extremes,Heat Wave,#c40202,random,rekordowe ciepło,2026-02-17T04:30:00+00:00,,0.31108637386470644,0,1,pl,,
+'d2e515b87c',extremes,Flood,#030ba1,cmeter,powódź w Kolumbii,2026-02-22T04:31:00+00:00,Colombia,0.3096852428882624,0,1,pl,NWS,South-America
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-02-05T04:27:00+00:00,,0.2705756358842192,2,1,pl,,
