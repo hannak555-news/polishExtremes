@@ -8,7 +8,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '19149b287e',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo łódzkie powiat sieradzki,2026-02-21T04:18:00+00:00,Poland,0.4667831854038173,1,1,pl,WCE,Europe
 '9e020e244e',extremes,Drought,#edc291,edo,susza w polsce,2026-02-11T04:42:00+00:00,Poland,0.4609839042508094,4,1,pl,WCE,Europe
 '1d9c104bbb',extremes,Storm,#b3b2b1,wmo,burza na Litwie,2026-02-13T04:34:00+00:00,Lithuania,0.456623324920542,3,2,pl,WCE,Europe
-'8a1a9038c3',extremes,Storm,#b3b2b1,random,zamieć,2026-02-10T04:42:00+00:00,,0.43392997622760576,1,2,pl,,
+'8a1a9038c3',extremes,Storm,#b3b2b1,random,zamieć,2026-02-10T04:42:00+00:00,,0.4339299762276057,1,2,pl,,
 '0f44cf1f81',extremes,Fog,#d60d2b,wmo,mgła województwo opolskie powiat głubczycki,2026-02-06T04:27:00+00:00,Poland,0.433352063915585,3,1,pl,WCE,Europe
 '890325b418',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat ruda śląska,2026-02-06T04:27:00+00:00,Poland,0.4318931079509126,4,1,pl,WCE,Europe
 '473be04c28',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo mazowieckie powiat siedlecki,2026-02-21T04:18:00+00:00,Poland,0.4280969571203107,2,1,pl,WCE,Europe
@@ -165,9 +165,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '50e07bb704',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo pomorskie powiat chojnicki,2026-02-16T04:38:00+00:00,Poland,0.394829219337137,2,1,pl,WCE,Europe
 '93ecefdfd7',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz na Litwie,2026-02-21T04:18:00+00:00,Lithuania,0.3947951243606971,1,1,pl,WCE,Europe
 '3847c37ec0',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo łódzkie powiat poddębicki,2026-02-02T04:36:00+00:00,Poland,0.3945983746454573,2,1,pl,WCE,Europe
+'84febdd06c',extremes,Thunderstorm,#53785a,random,burza,2026-02-23T04:36:00+00:00,,0.39451860451589105,2,2,pl,,
 '1e0ab455eb',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo łódzkie powiat zgierski,2026-02-01T04:41:00+00:00,Poland,0.3943604852010847,2,1,pl,WCE,Europe
 'd3a4e81067',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo pomorskie powiat sztumski,2026-02-12T04:37:00+00:00,Poland,0.394280766535741,2,1,pl,WCE,Europe
-'84febdd06c',extremes,Thunderstorm,#53785a,random,burza,2026-02-23T04:36:00+00:00,,0.3941383882005135,1,2,pl,,
 '171d9a0d36',extremes,Snow&Ice,#d60d2b,wmo,lód województwo śląskie powiat będziński,2026-02-08T04:43:00+00:00,Poland,0.3936085266971713,2,1,pl,WCE,Europe
 'c8ca2fc3fd',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat jaworzno,2026-02-15T04:35:00+00:00,Poland,0.3925585314962309,2,1,pl,WCE,Europe
 '6c1c8e0076',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo pomorskie powiat lęborski,2026-02-13T04:34:00+00:00,Poland,0.3925435818876426,2,1,pl,WCE,Europe
@@ -373,7 +373,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b2a54f2f57',extremes,Snow&Ice,#d60d2b,wmo,lód województwo mazowieckie powiat płocki,2026-02-08T04:43:00+00:00,Poland,0.3146636954872117,4,1,pl,WCE,Europe
 '81df5b3034',extremes,Storm,#b3b2b1,aidr,"burza, grad w North Sydney, 2017",2026-02-14T04:22:00+00:00,,0.3138420013187892,0,1,pl,EAU,Oceania
 'a5ff1cde4a',extremes,Drought,#edc291,random,wilgotność gleby,2026-02-22T04:30:00+00:00,,0.3134078456192143,0,1,pl,,
-'ccefefc59e',extremes,Drought,#edc291,random,błyskawiczna susza,2026-02-16T04:37:00+00:00,,0.313195137262845,0,1,pl,,
 '6ee9959447',extremes,Tropical Cyclone,#4f4f4f,emdat,cyklon tropikalny Madagaskar,2026-02-20T04:28:00+00:00,Madagascar,0.3125628137009715,0,1,pl,MDG,Africa
 'f1d3442696',extremes,Drought,#edc291,edo,susza na Ukrainie,2026-02-11T04:42:00+00:00,Ukraine,0.3124992962355172,2,1,pl,WCE,Europe
 '82d648b882',extremes,Drought,#edc291,random,susza,2026-02-08T04:43:00+00:00,,0.3119864204821927,0,1,pl,,
@@ -386,3 +385,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,Arctis góry lodowej,2026-02-14T04:21:00+00:00,,0.2874597063607129,1,1,pl,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,konik polny,2026-02-19T04:31:00+00:00,,0.2826625021887585,1,1,pl,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-02-05T04:27:00+00:00,,0.2705756358842192,2,1,pl,,
+'ccefefc59e',extremes,Drought,#edc291,random,błyskawiczna susza,2026-02-16T04:37:00+00:00,,0.26621586667341823,1,1,pl,,
