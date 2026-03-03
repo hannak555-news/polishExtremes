@@ -1,4 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8523a0b1bd',extremes,Fog,#d60d2b,wmo,mgła województwo mazowieckie powiat otwocki,2026-03-02T04:27:00+00:00,Poland,0.7026328945450364,0,1,pl,WCE,Europe
+'97d1399097',extremes,Fog,#d60d2b,wmo,mgła województwo opolskie powiat opolski,2026-03-02T04:27:00+00:00,Poland,0.6928365049331112,0,1,pl,WCE,Europe
+'7aa4c506c2',extremes,Fog,#d60d2b,wmo,mgła województwo lubelskie powiat łukowski,2026-03-02T04:27:00+00:00,Poland,0.6769163806071185,0,1,pl,WCE,Europe
+'a4fa598711',extremes,Fog,#d60d2b,wmo,mgła województwo łódzkie powiat tomaszowski,2026-03-02T04:27:00+00:00,Poland,0.6675473717377809,0,1,pl,WCE,Europe
 '770c96b617',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat łomżyński,2026-03-02T04:27:00+00:00,Poland,0.6114989104124087,1,1,pl,WCE,Europe
 '11d8faf51c',extremes,Fog,#d60d2b,wmo,mgła województwo lubelskie powiat bialski,2026-03-02T04:27:00+00:00,Poland,0.6082840134152988,1,1,pl,WCE,Europe
 '921075f013',extremes,Fog,#d60d2b,wmo,mgła województwo łódzkie powiat kutnowski,2026-03-02T04:27:00+00:00,Poland,0.6003008307157361,1,1,pl,WCE,Europe
@@ -337,7 +341,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f048b1b503',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo lubuskie powiat nowosolski,2026-02-05T04:27:00+00:00,Poland,0.3523320645781271,3,1,pl,WCE,Europe
 '51030ebe61',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo małopolskie powiat olkuski,2026-02-09T04:39:00+00:00,Poland,0.3516137033311521,3,1,pl,WCE,Europe
 '74b99309ba',extremes,Earthquake,#870007,usgs,trzęsienie ziemi na Ukrainie,2026-02-03T04:27:00+00:00,Ukraine,0.3514881518823736,2,1,pl,WCE,Europe
-'1daf8c8e2a',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo śląskie powiat tarnogórski,2026-02-08T04:43:00+00:00,Poland,0.35058086138557265,3,1,pl,WCE,Europe
+'1daf8c8e2a',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo śląskie powiat tarnogórski,2026-02-08T04:43:00+00:00,Poland,0.3505808613855726,3,1,pl,WCE,Europe
 '53fda39314',extremes,Drought,#edc291,edo,brak opadów na Litwie,2026-02-06T04:28:00+00:00,Lithuania,0.3471535183153296,2,1,pl,WCE,Europe
 'e6c5cea70d',extremes,Precipitation,#d60d2b,wmo,ulewa powiat kowieński,2026-02-12T04:37:00+00:00,Lithuania,0.3460940020276578,1,1,pl,WCE,Europe
 'f37139fe2d',extremes,Landslide,#572c03,random,osuwisko błotne,2026-02-12T04:36:00+00:00,,0.3451420712119236,0,1,pl,,
@@ -388,7 +392,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,fala upałów w Chile,2026-02-25T04:32:00+00:00,Chile,0.3090161000292206,0,1,pl,SWS,South-America
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,fala upałów corrientes y alrededores,2026-02-18T04:34:00+00:00,Argentina,0.3085993682714565,0,1,pl,SES,South-America
 '8e12d8e374',extremes,Heat Wave,#c40202,wmo,odporność na fale upałów i alrededores,2026-02-17T04:31:00+00:00,Argentina,0.3080977038618526,0,1,pl,SES,South-America
-'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,zamarzanie,2026-02-15T04:34:00+00:00,,0.30160327072396576,1,2,pl,,
+'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,zamarzanie,2026-02-15T04:34:00+00:00,,0.3016032707239657,1,2,pl,,
 'bcad7cd970',extremes,Earthquake,#870007,usgs,trzęsienie ziemi Mysovoe,2026-02-06T04:27:00+00:00,Ukraine,0.2918220764569138,2,1,pl,WCE,Europe
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,Arctis góry lodowej,2026-02-14T04:21:00+00:00,,0.2874597063607129,1,1,pl,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,konik polny,2026-02-19T04:31:00+00:00,,0.2826625021887585,1,1,pl,,
