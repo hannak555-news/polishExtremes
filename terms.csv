@@ -1,4 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'da19986c26',extremes,Fog,#d60d2b,wmo,mgła województwo mazowieckie powiat płoński,2026-03-02T04:27:00+00:00,Poland,0.6789900820743809,0,1,pl,WCE,Europe
+'0155e0a24b',extremes,Fog,#d60d2b,wmo,mgła województwo mazowieckie powiat siedlecki,2026-03-02T04:27:00+00:00,Poland,0.6714971717151559,0,1,pl,WCE,Europe
+'bdeaf0d5e4',extremes,Fog,#d60d2b,wmo,mgła województwo podkarpackie powiat leski,2026-03-03T04:27:00+00:00,Poland,0.6703907471159941,0,1,pl,WCE,Europe
+'311c122643',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat bielski,2026-03-02T04:27:00+00:00,Poland,0.6690888128671874,0,1,pl,WCE,Europe
+'f36ff02858',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat hajnowski,2026-03-02T04:27:00+00:00,Poland,0.6560690146521555,0,1,pl,WCE,Europe
+'4123d06dca',extremes,Fog,#d60d2b,wmo,mgła województwo łódzkie powiat poddębicki,2026-03-02T04:27:00+00:00,Poland,0.6554451504522507,0,1,pl,WCE,Europe
+'fc40af1872',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat cieszyński,2026-03-03T04:27:00+00:00,Poland,0.6525296056203044,0,1,pl,WCE,Europe
 'cd40a13229',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat białostocki,2026-03-02T04:27:00+00:00,Poland,0.60693050945758,1,1,pl,WCE,Europe
 '4d295ce2a7',extremes,Fog,#d60d2b,wmo,mgła województwo opolskie powiat opolski,2026-03-02T04:27:00+00:00,Poland,0.5692489933898492,1,1,pl,WCE,Europe
 'fc0152e181',extremes,Fog,#d60d2b,wmo,mgła województwo łódzkie powiat łowicki,2026-03-02T04:27:00+00:00,Poland,0.5655295610275377,1,1,pl,WCE,Europe
@@ -376,16 +383,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,fala upałów w Argentynie,2026-02-10T04:43:00+00:00,Argentina,0.310389003780201,0,1,pl,SES,South-America
 'd2e515b87c',extremes,Flood,#030ba1,cmeter,powódź w Kolumbii,2026-02-22T04:31:00+00:00,Colombia,0.3096852428882624,0,1,pl,NWS,South-America
 '053bb10e09',extremes,Heat Wave,#c40202,random,indyjskie lato,2026-02-14T04:21:00+00:00,,0.3090552544119176,0,1,pl,,
-'79830a1866',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo podlaskie powiat łomżyński,2026-02-11T04:41:00+00:00,Poland,0.30904046691910514,4,1,pl,WCE,Europe
+'79830a1866',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo podlaskie powiat łomżyński,2026-02-11T04:41:00+00:00,Poland,0.3090404669191051,4,1,pl,WCE,Europe
 '3e5f311da7',extremes,Drought,#edc291,edo,okres suszy na Wyspach Świętego Tomasza i Książęcej,2026-02-25T04:33:00+00:00,Sao Tome and Principe,0.3090265463756586,0,1,pl,WAF,Africa
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,fala upałów w Chile,2026-02-25T04:32:00+00:00,Chile,0.3090161000292206,0,1,pl,SWS,South-America
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,fala upałów corrientes y alrededores,2026-02-18T04:34:00+00:00,Argentina,0.3085993682714565,0,1,pl,SES,South-America
 '8e12d8e374',extremes,Heat Wave,#c40202,wmo,odporność na fale upałów i alrededores,2026-02-17T04:31:00+00:00,Argentina,0.3080977038618526,0,1,pl,SES,South-America
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,zamarzanie,2026-02-15T04:34:00+00:00,,0.3016032707239657,1,2,pl,,
-'5b8cf400f9',extremes,Iceberg,#d60d2b,random,cielenie się góry lodowej,2026-02-09T04:38:00+00:00,,0.30111730673895215,1,1,pl,,
+'5b8cf400f9',extremes,Iceberg,#d60d2b,random,cielenie się góry lodowej,2026-02-09T04:38:00+00:00,,0.3011173067389521,1,1,pl,,
 'bcad7cd970',extremes,Earthquake,#870007,usgs,trzęsienie ziemi Mysovoe,2026-02-06T04:27:00+00:00,Ukraine,0.2918220764569138,2,1,pl,WCE,Europe
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,konik polny,2026-02-19T04:31:00+00:00,,0.2826625021887585,1,1,pl,,
-'ea87be5bd8',extremes,Heat Wave,#c40202,random,upalna temperatura,2026-02-08T04:43:00+00:00,,0.27578827413979723,2,1,pl,,
+'ea87be5bd8',extremes,Heat Wave,#c40202,random,upalna temperatura,2026-02-08T04:43:00+00:00,,0.2757882741397972,2,1,pl,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,najzimniejszy dzień,2026-02-17T04:30:00+00:00,,0.2715688485625385,1,1,pl,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-02-05T04:27:00+00:00,,0.2705756358842192,2,1,pl,,
 'e921e2b0b7',extremes,Flood,#030ba1,aidr,powódź poważna powódź spowodowana byłym cyklonem tropikalnym Tiffany w południowej Australii w 2022 r,2026-02-08T04:44:00+00:00,Australia,0.2689135096487057,1,1,pl,SAU,Oceania
