@@ -1,6 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'ce7ca89385',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat słupski,2026-03-05T04:24:00+00:00,Poland,0.6546390392865196,0,1,pl,WCE,Europe
+'25363f256f',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat pucki,2026-03-05T04:24:00+00:00,Poland,0.65335699665171,0,1,pl,WCE,Europe
+'6adf549268',extremes,Fog,#d60d2b,wmo,mgła województwo lubuskie powiat gorzowski,2026-03-05T04:24:00+00:00,Poland,0.6447664028665272,0,1,pl,WCE,Europe
+'da1d506ce7',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat słupski,2026-03-05T04:24:00+00:00,Poland,0.6424878799452461,0,1,pl,WCE,Europe
+'d2d074b618',extremes,Fog,#d60d2b,wmo,mgła województwo lubuskie powiat wschowski,2026-03-05T04:24:00+00:00,Poland,0.636755785695901,0,1,pl,WCE,Europe
 '776fe47817',extremes,Wildfire,#d60d2b,random,pożar,2026-02-18T04:33:00+00:00,,0.5644829724703506,3,3,pl,,
 '4340c9e06c',extremes,Snow&Ice,#d60d2b,wmo,mroźna polska,2026-02-05T04:27:00+00:00,Poland,0.5279967064558702,5,2,pl,WCE,Europe
+'9f56f3696e',extremes,Drought,#edc291,edo,okres suszy na Litwie,2026-02-17T04:31:00+00:00,Lithuania,0.5028259152533108,0,1,pl,WCE,Europe
 '2609bda0f2',extremes,Snow&Ice,#d60d2b,wmo,lodowa Polska,2026-02-05T04:27:00+00:00,Poland,0.4921686241194714,5,2,pl,WCE,Europe
 '16540eed11',extremes,Snow&Ice,#d60d2b,wmo,mróz na Litwie,2026-02-13T04:34:00+00:00,Lithuania,0.4750536247875979,2,1,pl,WCE,Europe
 '95b2881221',extremes,Precipitation,#d60d2b,random,rzeka atmosferyczna,2026-02-06T04:27:00+00:00,,0.4704442075649655,3,1,pl,,
@@ -147,7 +153,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '89162b5e5b',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo śląskie powiat żywiecki,2026-02-21T04:18:00+00:00,Poland,0.3961732239190139,2,1,pl,WCE,Europe
 'f3fc0dcd61',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo lubuskie powiat wschowski,2026-02-21T04:18:00+00:00,Poland,0.3961356821891145,2,1,pl,WCE,Europe
 '10fc34de96',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo śląskie powiat częstochowski,2026-02-04T04:21:00+00:00,Poland,0.3960218174071316,2,1,pl,WCE,Europe
-'5e777bdaf3',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat łomżyński,2026-03-02T04:27:00+00:00,Poland,0.39572159154527325,3,1,pl,WCE,Europe
+'5e777bdaf3',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat łomżyński,2026-03-02T04:27:00+00:00,Poland,0.3957215915452732,3,1,pl,WCE,Europe
 '10c6616b15',extremes,Snow&Ice,#d60d2b,wmo,lód województwo podlaskie powiat moniecki,2026-02-09T04:39:00+00:00,Poland,0.3956100317219989,2,1,pl,WCE,Europe
 '2a79967ebe',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat pszczyński,2026-02-06T04:27:00+00:00,Poland,0.3955316361861353,3,1,pl,WCE,Europe
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,burza piaskowa,2026-02-20T04:27:00+00:00,,0.3952784504229928,2,2,pl,,
@@ -324,7 +330,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,ulewa,2026-03-04T04:20:00+00:00,,0.3512189834772797,0,1,pl,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,ciężka pogoda,2026-03-04T04:20:00+00:00,,0.3506325919019889,0,1,pl,,
 '1daf8c8e2a',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo śląskie powiat tarnogórski,2026-02-08T04:43:00+00:00,Poland,0.3505808613855726,3,1,pl,WCE,Europe
-'01a5bf9b78',extremes,Snow&Ice,#d60d2b,wmo,lód województwo śląskie powiat sosnowiecki,2026-02-05T04:27:00+00:00,Poland,0.34846389380237586,3,1,pl,WCE,Europe
+'01a5bf9b78',extremes,Snow&Ice,#d60d2b,wmo,lód województwo śląskie powiat sosnowiecki,2026-02-05T04:27:00+00:00,Poland,0.3484638938023758,3,1,pl,WCE,Europe
 '53fda39314',extremes,Drought,#edc291,edo,brak opadów na Litwie,2026-02-06T04:28:00+00:00,Lithuania,0.3471535183153296,2,1,pl,WCE,Europe
 'e6c5cea70d',extremes,Precipitation,#d60d2b,wmo,ulewa powiat kowieński,2026-02-12T04:37:00+00:00,Lithuania,0.3460940020276578,1,1,pl,WCE,Europe
 'e8cf0a3bc0',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo pomorskie powiat tczewski,2026-02-11T04:41:00+00:00,Poland,0.345579606912327,3,1,pl,WCE,Europe
