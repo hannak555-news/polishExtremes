@@ -159,7 +159,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f55a8ecb91',extremes,Snow&Ice,#d60d2b,wmo,lód województwo podkarpackie powiat krośnieński,2026-02-08T04:43:00+00:00,Poland,0.3922303341448713,2,1,pl,WCE,Europe
 'ee4589b82c',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo podlaskie powiat hajnowski,2026-02-09T04:39:00+00:00,Poland,0.3921928772103122,2,1,pl,WCE,Europe
 '21500f47db',extremes,Snow&Ice,#d60d2b,wmo,lód województwo śląskie powiat bielski,2026-02-09T04:39:00+00:00,Poland,0.3920091285601632,2,1,pl,WCE,Europe
-'248a812146',extremes,Storm,#b3b2b1,wmo,burza w zachodniej strefie przybrzeżnej,2026-02-21T04:18:00+00:00,Poland,0.39149897312824006,2,1,pl,WCE,Europe
+'248a812146',extremes,Storm,#b3b2b1,wmo,burza w zachodniej strefie przybrzeżnej,2026-02-21T04:18:00+00:00,Poland,0.39149897312824,2,1,pl,WCE,Europe
 '332af38d83',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo łódzkie powiat brzeziński,2026-02-21T04:18:00+00:00,Poland,0.3911686795712865,2,1,pl,WCE,Europe
 '2b45299f73',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo podlaskie powiat sokólski,2026-02-16T04:38:00+00:00,Poland,0.3906638562412576,2,1,pl,WCE,Europe
 '4becfeea27',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo lubelskie powiat janowski,2026-02-20T04:27:00+00:00,Poland,0.3906002469963697,2,1,pl,WCE,Europe
@@ -301,12 +301,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b079bb7dc4',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo łódzkie powiat łaski,2026-02-04T04:21:00+00:00,Poland,0.357853810832035,3,1,pl,WCE,Europe
 '43e9e6de6a',extremes,Snow&Ice,#d60d2b,wmo,lód województwo łódzkie powiat pabianicki,2026-02-08T04:43:00+00:00,Poland,0.3578370068057151,3,1,pl,WCE,Europe
 '0c7e473620',extremes,Snow&Ice,#d60d2b,wmo,lód województwo śląskie powiat pszczyński,2026-02-04T04:21:00+00:00,Poland,0.3577841013825152,3,1,pl,WCE,Europe
-'168eae92c7',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo podlaskie powiat sejneński,2026-02-25T04:32:00+00:00,Poland,0.35734630079623775,3,1,pl,WCE,Europe
+'168eae92c7',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo podlaskie powiat sejneński,2026-02-25T04:32:00+00:00,Poland,0.3573463007962377,3,1,pl,WCE,Europe
 '15a9c61e3e',extremes,Landslide,#572c03,random,osuwisko,2026-02-12T04:36:00+00:00,,0.3572104391241592,0,1,pl,,
 'a5b454f6d6',extremes,Snow&Ice,#d60d2b,wmo,lód województwo śląskie powiat mikołowski,2026-02-06T04:27:00+00:00,Poland,0.3566632703261526,3,1,pl,WCE,Europe
 '786a29022a',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo mazowieckie powiat lipski,2026-02-25T04:32:00+00:00,Poland,0.3566128569150259,3,1,pl,WCE,Europe
 '0d51766b1f',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo śląskie powiat tarnogórski,2026-02-06T04:27:00+00:00,Poland,0.3566044082853759,3,1,pl,WCE,Europe
-'48bfcf112e',extremes,Snow&Ice,#d60d2b,wmo,"śnieg województwo lubuskie, powiat sulęciński",2026-02-05T04:27:00+00:00,Poland,0.35622861248408727,3,1,pl,WCE,Europe
+'48bfcf112e',extremes,Snow&Ice,#d60d2b,wmo,"śnieg województwo lubuskie, powiat sulęciński",2026-02-05T04:27:00+00:00,Poland,0.3562286124840872,3,1,pl,WCE,Europe
 '202e18ec69',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo opolskie powiat głubczycki,2026-02-18T04:34:00+00:00,Poland,0.3559556538655723,3,1,pl,WCE,Europe
 'fdfe4aff2f',extremes,Snow&Ice,#d60d2b,wmo,lód województwo łódzkie powiat łódzki,2026-02-03T04:27:00+00:00,Poland,0.3558806932108298,3,1,pl,WCE,Europe
 '708957cab1',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo łódzkie powiat pabianicki,2026-02-18T04:34:00+00:00,Poland,0.3546908177972103,3,1,pl,WCE,Europe
@@ -352,7 +352,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f90601fa23',extremes,Volcano,#b83202,random,erupcja wulkanu,2026-02-21T04:17:00+00:00,,0.3312913203073108,0,1,pl,,
 '8a2f2c0d0e',extremes,Drought,#edc291,edo,brak deszczu na Ukrainie,2026-02-20T04:27:00+00:00,Ukraine,0.330458896659234,0,1,pl,WCE,Europe
 '595acbcf9f',extremes,Heat Wave,#c40202,random,najgorętszy dzień,2026-02-15T04:34:00+00:00,,0.3303435689428122,2,1,pl,,
-'45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tajfun,2026-02-26T04:28:00+00:00,,0.3288704529151844,1,1,pl,,
 'c948617fef',extremes,Heat Wave,#c40202,random,ekstremalne narażenie na ciepło,2026-02-06T04:27:00+00:00,,0.3276369716469687,1,1,pl,,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,lawina,2026-02-22T04:30:00+00:00,,0.3268513282489734,0,1,pl,,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,grad,2026-02-21T04:17:00+00:00,,0.3253020802834211,0,1,pl,,
@@ -381,6 +380,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,zamarzanie,2026-02-15T04:34:00+00:00,,0.3016032707239657,1,2,pl,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,cielenie się góry lodowej,2026-02-09T04:38:00+00:00,,0.3011173067389521,1,1,pl,,
 'bcad7cd970',extremes,Earthquake,#870007,usgs,trzęsienie ziemi Mysovoe,2026-02-06T04:27:00+00:00,Ukraine,0.2918220764569138,2,1,pl,WCE,Europe
+'45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tajfun,2026-02-26T04:28:00+00:00,,0.2796898999779067,2,1,pl,,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,wyjście na ląd,2026-02-06T04:27:00+00:00,,0.27939442344474,2,1,pl,,
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,upalna temperatura,2026-02-08T04:43:00+00:00,,0.2757882741397972,2,1,pl,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,najzimniejszy dzień,2026-02-17T04:30:00+00:00,,0.2715688485625385,1,1,pl,,
