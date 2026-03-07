@@ -23,7 +23,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '890325b418',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat ruda śląska,2026-02-06T04:27:00+00:00,Poland,0.4318931079509126,4,1,pl,WCE,Europe
 '8523a0b1bd',extremes,Fog,#d60d2b,wmo,mgła województwo mazowieckie powiat otwocki,2026-03-02T04:27:00+00:00,Poland,0.4315044263624704,3,1,pl,WCE,Europe
 '6d9dcf594f',extremes,Fog,#d60d2b,wmo,mgła województwo łódzkie powiat brzeziński,2026-03-02T04:27:00+00:00,Poland,0.429934633694252,3,1,pl,WCE,Europe
-'9f56f3696e',extremes,Drought,#edc291,edo,okres suszy na Litwie,2026-02-17T04:31:00+00:00,Lithuania,0.4274020279653141,1,1,pl,WCE,Europe
 '97d1399097',extremes,Fog,#d60d2b,wmo,mgła województwo opolskie powiat opolski,2026-03-02T04:27:00+00:00,Poland,0.4254882185920469,3,1,pl,WCE,Europe
 'f992854a6e',extremes,Snow&Ice,#d60d2b,wmo,lód województwo mazowieckie powiat lipski,2026-02-08T04:43:00+00:00,Poland,0.4242868242599006,3,1,pl,WCE,Europe
 'dff13efb85',extremes,Fog,#d60d2b,wmo,mgła województwo śląskie powiat bytomski,2026-02-06T04:27:00+00:00,Poland,0.4239703552653137,3,1,pl,WCE,Europe
@@ -180,7 +179,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4eb1b4a797',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo śląskie powiat ruda śląska,2026-02-15T04:35:00+00:00,Poland,0.3872531234804325,2,1,pl,WCE,Europe
 '18c06e985f',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo lubelskie powiat puławski,2026-02-20T04:27:00+00:00,Poland,0.3868768956989658,2,1,pl,WCE,Europe
 '5270183ee9',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo lubelskie powiat radzyński,2026-02-12T04:37:00+00:00,Poland,0.3861705098996976,2,1,pl,WCE,Europe
-'69791e5a17',extremes,Flood,#030ba1,random,powódź błyskawiczna,2026-03-04T04:20:00+00:00,,0.3856335049059351,0,1,pl,,
 'b5cdb5fdf9',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo łódzkie powiat rawski,2026-02-10T04:43:00+00:00,Poland,0.3853748312664191,2,1,pl,WCE,Europe
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,cyklon bombowy,2026-02-09T04:38:00+00:00,,0.3853671204395132,2,1,pl,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,szron,2026-02-16T04:37:00+00:00,,0.3851944366064981,1,1,pl,,
@@ -253,7 +251,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8efb7fdcf5',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo łódzkie powiat opoczyński,2026-02-18T04:34:00+00:00,Poland,0.366728432288699,3,1,pl,WCE,Europe
 'aa115b112f',extremes,Snow&Ice,#d60d2b,wmo,lód województwo małopolskie powiat olkuski,2026-02-08T04:43:00+00:00,Poland,0.366592333194462,3,1,pl,WCE,Europe
 'de99db0296',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo podlaskie powiat sokólski,2026-02-23T04:37:00+00:00,Poland,0.3660340839884893,3,1,pl,WCE,Europe
-'d59a7e48d7',extremes,Drought,#edc291,random,ewapotranspiracja,2026-03-03T04:26:00+00:00,,0.365973180531961,0,1,pl,,
 'd2440eb33d',extremes,Snow&Ice,#d60d2b,wmo,lód województwo mazowieckie powiat miński,2026-02-06T04:27:00+00:00,Poland,0.3658918801070476,3,1,pl,WCE,Europe
 '59a297a708',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat bielski,2026-02-04T04:21:00+00:00,Poland,0.3657792441112062,3,1,pl,WCE,Europe
 '9b4588e3b0',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo lubelskie powiat opolski,2026-02-25T04:32:00+00:00,Poland,0.3657414264771818,3,1,pl,WCE,Europe
@@ -267,8 +264,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e97ef9a189',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo śląskie powiat mysłowicki,2026-02-05T04:27:00+00:00,Poland,0.3639458843071854,3,1,pl,WCE,Europe
 '473be04c28',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo mazowieckie powiat siedlecki,2026-02-21T04:18:00+00:00,Poland,0.3638824135522641,3,1,pl,WCE,Europe
 'c2acda0433',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo pomorskie powiat sztumski,2026-02-20T04:27:00+00:00,Poland,0.3637176196139761,3,1,pl,WCE,Europe
-'489d1a30e1',extremes,Drought,#edc291,edo,susza na Ukrainie,2026-02-08T04:43:00+00:00,Ukraine,0.3635566591345943,0,1,pl,WCE,Europe
 'c6b3221e2d',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo lubelskie powiat chełmski,2026-02-25T04:32:00+00:00,Poland,0.3634017542181829,3,1,pl,WCE,Europe
+'9f56f3696e',extremes,Drought,#edc291,edo,okres suszy na Litwie,2026-02-17T04:31:00+00:00,Lithuania,0.363291723770517,2,1,pl,WCE,Europe
 '1405131905',extremes,Thunderstorm,#53785a,random,grad,2026-02-19T04:31:00+00:00,,0.3629638324187851,3,1,pl,,
 'f6e2207dd8',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo pomorskie powiat tczewski,2026-02-20T04:27:00+00:00,Poland,0.3627523878649332,3,1,pl,WCE,Europe
 'f311d39506',extremes,Fog,#d60d2b,wmo,mgła województwo opolskie powiat strzelecki,2026-02-06T04:27:00+00:00,Poland,0.3625579939249171,4,1,pl,WCE,Europe
@@ -349,6 +346,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f90601fa23',extremes,Volcano,#b83202,random,erupcja wulkanu,2026-02-21T04:17:00+00:00,,0.3312913203073108,0,1,pl,,
 '8a2f2c0d0e',extremes,Drought,#edc291,edo,brak deszczu na Ukrainie,2026-02-20T04:27:00+00:00,Ukraine,0.330458896659234,0,1,pl,WCE,Europe
 '595acbcf9f',extremes,Heat Wave,#c40202,random,najgorętszy dzień,2026-02-15T04:34:00+00:00,,0.3303435689428122,2,1,pl,,
+'69791e5a17',extremes,Flood,#030ba1,random,powódź błyskawiczna,2026-03-04T04:20:00+00:00,,0.32778847917004483,1,1,pl,,
 'c948617fef',extremes,Heat Wave,#c40202,random,ekstremalne narażenie na ciepło,2026-02-06T04:27:00+00:00,,0.3276369716469687,1,1,pl,,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,lawina,2026-02-22T04:30:00+00:00,,0.3268513282489734,0,1,pl,,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,grad,2026-02-21T04:17:00+00:00,,0.3253020802834211,0,1,pl,,
@@ -370,10 +368,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,kopuła cieplna,2026-03-04T04:20:00+00:00,,0.312157460710675,0,1,pl,,
 '82d648b882',extremes,Drought,#edc291,random,susza,2026-02-08T04:43:00+00:00,,0.3119864204821927,0,1,pl,,
 'e873273000',extremes,Storm,#b3b2b1,emdat,burza Malawi,2026-02-20T04:28:00+00:00,Malawi,0.3117485780853197,0,1,pl,ESAF,Africa
+'d59a7e48d7',extremes,Drought,#edc291,random,ewapotranspiracja,2026-03-03T04:26:00+00:00,,0.31137723345216684,1,1,pl,,
 'd2e515b87c',extremes,Flood,#030ba1,cmeter,powódź w Kolumbii,2026-02-22T04:31:00+00:00,Colombia,0.3096852428882624,0,1,pl,NWS,South-America
 '053bb10e09',extremes,Heat Wave,#c40202,random,indyjskie lato,2026-02-14T04:21:00+00:00,,0.3090552544119176,0,1,pl,,
 '79830a1866',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo podlaskie powiat łomżyński,2026-02-11T04:41:00+00:00,Poland,0.3090404669191051,4,1,pl,WCE,Europe
 '3e5f311da7',extremes,Drought,#edc291,edo,okres suszy na Wyspach Świętego Tomasza i Książęcej,2026-02-25T04:33:00+00:00,Sao Tome and Principe,0.3090265463756586,0,1,pl,WAF,Africa
+'489d1a30e1',extremes,Drought,#edc291,edo,susza na Ukrainie,2026-02-08T04:43:00+00:00,Ukraine,0.30902316026440513,1,1,pl,WCE,Europe
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,fala upałów w Chile,2026-02-25T04:32:00+00:00,Chile,0.3090161000292206,0,1,pl,SWS,South-America
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,fala upałów corrientes y alrededores,2026-02-18T04:34:00+00:00,Argentina,0.3085993682714565,0,1,pl,SES,South-America
 '8e12d8e374',extremes,Heat Wave,#c40202,wmo,odporność na fale upałów i alrededores,2026-02-17T04:31:00+00:00,Argentina,0.3080977038618526,0,1,pl,SES,South-America
@@ -392,4 +392,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,cielenie się góry lodowej,2026-02-09T04:38:00+00:00,,0.2559497107281093,2,1,pl,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,Arctis góry lodowej,2026-02-14T04:21:00+00:00,,0.2443407504066059,2,1,pl,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,konik polny,2026-02-19T04:31:00+00:00,,0.2402631268604447,2,1,pl,,
-'9aceadd432',extremes,Heat Wave,#c40202,random,rekordowe ciepło,2026-02-17T04:30:00+00:00,,0.22475990511725033,2,1,pl,,
+'9aceadd432',extremes,Heat Wave,#c40202,random,rekordowe ciepło,2026-02-17T04:30:00+00:00,,0.2247599051172503,2,1,pl,,
