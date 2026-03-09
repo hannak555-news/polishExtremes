@@ -1,11 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'13329f4bf1',extremes,Snow&Ice,#d60d2b,wmo,marznąca Polska,2026-02-25T04:32:00+00:00,Poland,0.6991163892081143,0,1,pl,WCE,Europe
 'cbec54141c',extremes,Fog,#d60d2b,wmo,mgła polska,2026-03-02T04:27:00+00:00,Poland,0.6332631508217843,1,1,pl,WCE,Europe
 '776fe47817',extremes,Wildfire,#d60d2b,random,pożar,2026-02-18T04:33:00+00:00,,0.6149542548143738,5,3,pl,,
+'c1cda383b1',extremes,Fog,#d60d2b,wmo,mgła powiat panevėžys powiat utena,2026-03-08T04:24:00+00:00,Lithuania,0.5537972307798088,0,1,pl,WCE,Europe
 'dd4408577a',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat sokólski,2026-03-06T04:21:00+00:00,Poland,0.5411979486423923,1,1,pl,WCE,Europe
 '4340c9e06c',extremes,Snow&Ice,#d60d2b,wmo,mroźna polska,2026-02-05T04:27:00+00:00,Poland,0.5279967064558702,5,2,pl,WCE,Europe
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,szarańcza,2026-03-08T04:24:00+00:00,,0.4986564302251044,1,2,pl,,
 '2609bda0f2',extremes,Snow&Ice,#d60d2b,wmo,lodowa Polska,2026-02-05T04:27:00+00:00,Poland,0.4921686241194714,5,2,pl,WCE,Europe
 '5ad93cfc99',extremes,Snow&Ice,#d60d2b,wmo,lód województwo pomorskie powiat słupski,2026-02-25T04:32:00+00:00,Poland,0.4888307421450136,1,1,pl,WCE,Europe
+'628c73fc75',extremes,Drought,#edc291,edo,susza w polsce,2026-03-01T04:35:00+00:00,Poland,0.47598776245389224,0,1,pl,WCE,Europe
 '16540eed11',extremes,Snow&Ice,#d60d2b,wmo,mróz na Litwie,2026-02-13T04:34:00+00:00,Lithuania,0.4750536247875979,2,1,pl,WCE,Europe
 '95b2881221',extremes,Precipitation,#d60d2b,random,rzeka atmosferyczna,2026-02-06T04:27:00+00:00,,0.4704442075649655,3,1,pl,,
 '8817fd285d',extremes,Snow&Ice,#d60d2b,wmo,śnieżna Polska,2026-02-05T04:27:00+00:00,Poland,0.4701893803622176,4,2,pl,WCE,Europe
@@ -212,6 +215,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '86630fa75f',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo śląskie powiat jaworzno,2026-02-10T04:43:00+00:00,Poland,0.3703212221541659,3,1,pl,WCE,Europe
 '423f5595dd',extremes,Snow&Ice,#d60d2b,wmo,lód województwo opolskie powiat prudnicki,2026-02-10T04:43:00+00:00,Poland,0.3703066974611634,2,1,pl,WCE,Europe
 'd006a923ef',extremes,Snow&Ice,#d60d2b,wmo,lód województwo śląskie powiat katowicki,2026-02-10T04:43:00+00:00,Poland,0.3702652272888103,2,1,pl,WCE,Europe
+'0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-02-27T04:25:00+00:00,,0.3701906752624219,0,1,pl,,
 'aaf0987b7a',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo lubuskie powiat żagański,2026-02-18T04:34:00+00:00,Poland,0.3696755730125132,3,1,pl,WCE,Europe
 'aa52a7f9c2',extremes,Snow&Ice,#d60d2b,wmo,lód województwo podlaskie powiat grajewski,2026-02-11T04:41:00+00:00,Poland,0.369293588080902,2,1,pl,WCE,Europe
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,zamieć,2026-02-10T04:42:00+00:00,,0.3688405247934648,2,1,pl,,
@@ -291,8 +295,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,lawina,2026-02-22T04:30:00+00:00,,0.3268513282489734,0,1,pl,,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,grad,2026-02-21T04:17:00+00:00,,0.3253020802834211,0,1,pl,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,lód morski Arktyki,2026-02-07T04:19:00+00:00,,0.3227651964510274,1,1,pl,,
+'e593608bfa',extremes,Snow&Ice,#d60d2b,random,pokrywa śnieżna,2026-03-06T04:20:00+00:00,,0.32013965171245684,0,1,pl,,
+'ae657332f9',extremes,Wildfire,#d60d2b,acwe,zakaz pożarów w Nowej Południowej Walii,2026-03-09T04:31:00+00:00,Australia,0.3192888596776917,0,1,pl,EAU,Oceania
 'e7d4154a2d',extremes,Heat Wave,#c40202,acwe,ciepłe zaklęcie w Tasmanii,2026-03-05T04:24:00+00:00,Australia,0.3192423583900168,0,1,pl,SAU,Oceania
 'eced4efa71',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny horacio,2026-02-21T04:17:00+00:00,,0.3192240267643634,0,1,pl,SIO,Indian Ocean
+'b0b9fae0fc',extremes,Precipitation,#d60d2b,acwe,ulewny deszcz w Nowej Południowej Walii,2026-03-09T04:31:00+00:00,Australia,0.3190587543920453,0,1,pl,EAU,Oceania
+'18c15bffdd',extremes,Wildfire,#d60d2b,acwe,pożar buszu w Nowej Południowej Walii,2026-03-08T04:25:00+00:00,Australia,0.31902748675343306,0,1,pl,EAU,Oceania
 '30406c7856',extremes,Flood,#030ba1,cmeter,powodzie w Brazylii,2026-03-07T04:13:00+00:00,Brazil,0.3188339702454074,0,1,pl,SES,South-America
 'd5b4afae1b',extremes,Precipitation,#d60d2b,acwe,mokry okres w Tasmanii,2026-03-05T04:24:00+00:00,Australia,0.3188208941706716,0,1,pl,SAU,Oceania
 '5acb09ddba',extremes,Iceberg,#d60d2b,eonet,góra lodowa d32,2026-03-06T04:21:00+00:00,,0.3184806660855388,0,1,pl,EAN,
@@ -309,11 +317,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,ulewny deszcz,2026-02-11T04:41:00+00:00,,0.3144439372450019,1,1,pl,,
 'ec6bc64ec7',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny urmil,2026-03-06T04:21:00+00:00,,0.314400593964061,0,1,pl,SPO,Pacific Ocean
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,lód morski Antarktyki,2026-02-12T04:36:00+00:00,,0.3143865509249306,1,1,pl,,
+'3fa143a609',extremes,Storm,#b3b2b1,random,zamieć piaskowa,2026-03-09T04:30:00+00:00,,0.31390942017262924,0,1,pl,,
 '81df5b3034',extremes,Storm,#b3b2b1,aidr,"burza, grad w North Sydney, 2017",2026-02-14T04:22:00+00:00,,0.3138420013187892,0,1,pl,EAU,Oceania
 'a5ff1cde4a',extremes,Drought,#edc291,random,wilgotność gleby,2026-02-22T04:30:00+00:00,,0.3134078456192143,0,1,pl,,
 '6ee9959447',extremes,Tropical Cyclone,#4f4f4f,emdat,cyklon tropikalny Madagaskar,2026-02-20T04:28:00+00:00,Madagascar,0.3125628137009715,0,1,pl,MDG,Africa
 'f1d3442696',extremes,Drought,#edc291,edo,susza na Ukrainie,2026-02-11T04:42:00+00:00,Ukraine,0.3124992962355172,2,1,pl,WCE,Europe
 '8c66ae1d5f',extremes,Precipitation,#d60d2b,wmo,ulewa rejon alytus rejon marijampolski,2026-02-11T04:41:00+00:00,Lithuania,0.3123779466766571,2,1,pl,WCE,Europe
+'628c910b11',extremes,Flood,#030ba1,aidr,powódź zalewa Nową Południową Walię 2022,2026-02-23T04:37:00+00:00,Australia,0.3120069472814441,0,1,pl,EAU,Oceania
 '82d648b882',extremes,Drought,#edc291,random,susza,2026-02-08T04:43:00+00:00,,0.3119864204821927,0,1,pl,,
 'e873273000',extremes,Storm,#b3b2b1,emdat,burza Malawi,2026-02-20T04:28:00+00:00,Malawi,0.3117485780853197,0,1,pl,ESAF,Africa
 'd59a7e48d7',extremes,Drought,#edc291,random,ewapotranspiracja,2026-03-03T04:26:00+00:00,,0.3113772334521668,1,1,pl,,
