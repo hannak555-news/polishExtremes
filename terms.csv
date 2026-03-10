@@ -1,6 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'2180c0c4a1',extremes,Drought,#edc291,edo,brak opadów w polsce,2026-03-04T04:21:00+00:00,Poland,0.7539959673355545,0,1,pl,WCE,Europe
 '2609bda0f2',extremes,Snow&Ice,#d60d2b,wmo,lodowa Polska,2026-02-25T04:32:00+00:00,Poland,0.6530653372037631,0,1,pl,WCE,Europe
+'2180c0c4a1',extremes,Drought,#edc291,edo,brak opadów w polsce,2026-03-04T04:21:00+00:00,Poland,0.6417966622352214,1,1,pl,WCE,Europe
 '776fe47817',extremes,Wildfire,#d60d2b,random,pożar,2026-02-18T04:33:00+00:00,,0.6149542548143738,5,3,pl,,
 'f78a832811',extremes,Flood,#030ba1,wmo,powódź na Litwie,2026-03-10T04:22:00+00:00,Lithuania,0.587625659325913,0,1,pl,WCE,Europe
 '01dabc20f8',extremes,Snow&Ice,#d60d2b,wmo,lód województwo pomorskie powiat kartuski,2026-02-25T04:32:00+00:00,Poland,0.5833872802730261,0,1,pl,WCE,Europe
@@ -291,14 +291,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd5b4afae1b',extremes,Precipitation,#d60d2b,acwe,mokry okres w Tasmanii,2026-03-05T04:24:00+00:00,Australia,0.3188208941706716,0,1,pl,SAU,Oceania
 '5acb09ddba',extremes,Iceberg,#d60d2b,eonet,góra lodowa d32,2026-03-06T04:21:00+00:00,,0.3184806660855388,0,1,pl,EAN,
 'c2ae664a83',extremes,Iceberg,#d60d2b,eonet,góra lodowa c18b,2026-03-06T04:21:00+00:00,,0.3184369510861849,0,1,pl,EAN,
-'feb1dafabf',extremes,Heat Wave,#c40202,acwe,łagodna zima w Nowej Południowej Walii,2026-03-10T04:22:00+00:00,Australia,0.31829929838732934,0,1,pl,EAU,Oceania
+'feb1dafabf',extremes,Heat Wave,#c40202,acwe,łagodna zima w Nowej Południowej Walii,2026-03-10T04:22:00+00:00,Australia,0.3182992983873293,0,1,pl,EAU,Oceania
 '403ad9bf40',extremes,Iceberg,#d60d2b,eonet,góra lodowa b22g,2026-03-06T04:21:00+00:00,Antarctica,0.3181610433122801,0,1,pl,WAN,Antarctica
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,gwałtowny spadek temperatury,2026-02-12T04:36:00+00:00,,0.3179975433559999,0,1,pl,,
 '67170bdf4e',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny 25s,2026-03-06T04:21:00+00:00,,0.3178072358326262,0,1,pl,SIO,Indian Ocean
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,góra lodowa Antarktyda,2026-02-19T04:31:00+00:00,,0.3177487546426184,0,1,pl,,
 '59b529f428',extremes,Thunderstorm,#53785a,random,burza z gradem,2026-03-05T04:23:00+00:00,,0.3174580437605405,0,1,pl,,
 'eba0dae408',extremes,Iceberg,#d60d2b,eonet,góra lodowa b15ab,2026-03-06T04:21:00+00:00,,0.3162923766964107,0,1,pl,EAN,
-'6bfd73020a',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny 26s,2026-03-07T04:12:00+00:00,,0.31544182195904896,0,1,pl,NAU,Oceania
+'6bfd73020a',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny 26s,2026-03-07T04:12:00+00:00,,0.3154418219590489,0,1,pl,NAU,Oceania
 '54927bfe65',extremes,Flood,#030ba1,random,powódź przybrzeżna,2026-02-12T04:36:00+00:00,,0.3153113400631214,0,1,pl,,
 'f314bb7747',extremes,Flood,#030ba1,aidr,powódź opadowa w Australii,2026-02-26T04:29:00+00:00,Australia,0.3151046927199928,0,1,pl,EAU,Oceania
 '394fc47879',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny 24p,2026-03-06T04:21:00+00:00,,0.3148031318722201,0,1,pl,NAU,Oceania
