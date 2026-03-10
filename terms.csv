@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'2609bda0f2',extremes,Snow&Ice,#d60d2b,wmo,lodowa Polska,2026-02-25T04:32:00+00:00,Poland,0.6530653372037631,0,1,pl,WCE,Europe
 '776fe47817',extremes,Wildfire,#d60d2b,random,pożar,2026-02-18T04:33:00+00:00,,0.6149542548143738,5,3,pl,,
 'cbec54141c',extremes,Fog,#d60d2b,wmo,mgła polska,2026-03-02T04:27:00+00:00,Poland,0.5382736781985167,2,1,pl,WCE,Europe
 '4340c9e06c',extremes,Snow&Ice,#d60d2b,wmo,mroźna polska,2026-02-05T04:27:00+00:00,Poland,0.5279967064558702,5,2,pl,WCE,Europe
@@ -324,16 +325,25 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8c66ae1d5f',extremes,Precipitation,#d60d2b,wmo,ulewa rejon alytus rejon marijampolski,2026-02-11T04:41:00+00:00,Lithuania,0.3123779466766571,2,1,pl,WCE,Europe
 '628c910b11',extremes,Flood,#030ba1,aidr,powódź zalewa Nową Południową Walię 2022,2026-02-23T04:37:00+00:00,Australia,0.3120069472814441,0,1,pl,EAU,Oceania
 '82d648b882',extremes,Drought,#edc291,random,susza,2026-02-08T04:43:00+00:00,,0.3119864204821927,0,1,pl,,
+'55459a4ab8',extremes,Drought,#edc291,edo,susza w luksemburgu,2026-03-04T04:21:00+00:00,Luxembourg,0.3118741111680536,0,1,pl,WCE,Europe
 'e873273000',extremes,Storm,#b3b2b1,emdat,burza Malawi,2026-02-20T04:28:00+00:00,Malawi,0.3117485780853197,0,1,pl,ESAF,Africa
 'd59a7e48d7',extremes,Drought,#edc291,random,ewapotranspiracja,2026-03-03T04:26:00+00:00,,0.3113772334521668,1,1,pl,,
 '40f675561f',extremes,Heat Wave,#c40202,random,najgorętsze lato,2026-02-13T04:33:00+00:00,,0.3104053382059594,3,1,pl,,
+'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,najzimniejszy rok,2026-03-05T04:23:00+00:00,,0.31035421541241537,0,1,pl,,
+'0de7f7e548',extremes,Drought,#edc291,edo,susza w Kenii,2026-02-22T04:31:00+00:00,Kenya,0.31003608988511494,0,1,pl,SEAF,Africa
+'0c9a570bb1',extremes,Storm,#b3b2b1,aidr,tornado Murray River Townships Victoria 2013,2026-02-26T04:29:00+00:00,Australia,0.3097292025722298,0,1,pl,SAU,Oceania
+'a1fcc33dde',extremes,Drought,#edc291,edo,okres suszy w Hongkongu,2026-02-25T04:33:00+00:00,Hong Kong,0.30962978688200127,0,1,pl,EAS,Asia
+'1c38b19449',extremes,Storm,#b3b2b1,random,miski kurzu,2026-03-02T04:27:00+00:00,,0.30956782248633263,0,1,pl,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,indyjskie lato,2026-02-14T04:21:00+00:00,,0.3090552544119176,0,1,pl,,
 '79830a1866',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo podlaskie powiat łomżyński,2026-02-11T04:41:00+00:00,Poland,0.3090404669191051,4,1,pl,WCE,Europe
 '3e5f311da7',extremes,Drought,#edc291,edo,okres suszy na Wyspach Świętego Tomasza i Książęcej,2026-02-25T04:33:00+00:00,Sao Tome and Principe,0.3090265463756586,0,1,pl,WAF,Africa
 '489d1a30e1',extremes,Drought,#edc291,edo,susza na Ukrainie,2026-02-08T04:43:00+00:00,Ukraine,0.3090231602644051,1,1,pl,WCE,Europe
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,fala upałów w Chile,2026-02-25T04:32:00+00:00,Chile,0.3090161000292206,0,1,pl,SWS,South-America
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,fala upałów corrientes y alrededores,2026-02-18T04:34:00+00:00,Argentina,0.3085993682714565,0,1,pl,SES,South-America
+'96f0408faf',extremes,Drought,#edc291,edo,susza na Łotwie,2026-02-25T04:33:00+00:00,Latvia,0.3082217854438468,0,1,pl,WCE,Europe
+'1a89155ed1',extremes,Drought,#edc291,edo,brak deszczu na Wyspach Świętego Tomasza i Książęcej,2026-03-03T04:27:00+00:00,Sao Tome and Principe,0.30821520196593816,0,1,pl,WAF,Africa
 '8e12d8e374',extremes,Heat Wave,#c40202,wmo,odporność na fale upałów i alrededores,2026-02-17T04:31:00+00:00,Argentina,0.3080977038618526,0,1,pl,SES,South-America
+'d2761af41e',extremes,Tropical Cyclone,#4f4f4f,aidr,cyklon 2018 nt cyklon tropikalny Marcus,2026-02-19T04:32:00+00:00,,0.30808011719045286,0,1,pl,NAU,Oceania
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,zamarzanie,2026-02-15T04:34:00+00:00,,0.3016032707239657,1,2,pl,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,spadki rtęci,2026-02-13T04:33:00+00:00,,0.2998232291544918,1,1,pl,,
 'e6c5cea70d',extremes,Precipitation,#d60d2b,wmo,ulewa powiat kowieński,2026-02-12T04:37:00+00:00,Lithuania,0.2941799017235091,2,1,pl,WCE,Europe
