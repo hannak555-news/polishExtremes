@@ -20,10 +20,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a6a7337718',extremes,Fog,#d60d2b,wmo,mgła województwo lubuskie powiat słubicki,2026-03-05T04:24:00+00:00,Poland,0.4508648234688886,2,1,pl,WCE,Europe
 '7019b99295',extremes,Fog,#d60d2b,wmo,mgła województwo mazowieckie powiat płocki,2026-03-02T04:27:00+00:00,Poland,0.4443175097709256,3,1,pl,WCE,Europe
 '770c96b617',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat łomżyński,2026-03-02T04:27:00+00:00,Poland,0.4418079627729652,3,1,pl,WCE,Europe
-'4180f9da92',extremes,Flood,#030ba1,wmo,powódź šilutė d. mun.,2026-03-12T04:26:00+00:00,Lithuania,0.44147282381109115,1,1,pl,WCE,Europe
+'4180f9da92',extremes,Flood,#030ba1,wmo,powódź šilutė d. mun.,2026-03-12T04:26:00+00:00,Lithuania,0.4414728238110911,1,1,pl,WCE,Europe
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-02-07T04:19:00+00:00,,0.4395860467058161,1,2,pl,,
 '628c73fc75',extremes,Drought,#edc291,edo,susza w polsce,2026-03-01T04:35:00+00:00,Poland,0.4392730664191416,1,1,pl,WCE,Europe
 'cd40a13229',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat białostocki,2026-03-02T04:27:00+00:00,Poland,0.4385072930831015,3,1,pl,WCE,Europe
+'f9a3abc8c2',extremes,Landslide,#572c03,random,błoto,2026-02-27T04:25:00+00:00,,0.4358956884251274,1,2,pl,,
 '921075f013',extremes,Fog,#d60d2b,wmo,mgła województwo łódzkie powiat kutnowski,2026-03-02T04:27:00+00:00,Poland,0.4337173501921193,3,1,pl,WCE,Europe
 '8523a0b1bd',extremes,Fog,#d60d2b,wmo,mgła województwo mazowieckie powiat otwocki,2026-03-02T04:27:00+00:00,Poland,0.4315044263624704,3,1,pl,WCE,Europe
 '59b5340b69',extremes,Precipitation,#d60d2b,random,front atmosferyczny,2026-03-07T04:12:00+00:00,,0.4264057069756641,2,2,pl,,
@@ -100,7 +101,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f3fc0dcd61',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo lubuskie powiat wschowski,2026-02-21T04:18:00+00:00,Poland,0.3961356821891145,2,1,pl,WCE,Europe
 '6adf549268',extremes,Fog,#d60d2b,wmo,mgła województwo lubuskie powiat gorzowski,2026-03-05T04:24:00+00:00,Poland,0.395967167160406,3,1,pl,WCE,Europe
 '5e777bdaf3',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat łomżyński,2026-03-02T04:27:00+00:00,Poland,0.3957215915452732,3,1,pl,WCE,Europe
-'f9a3abc8c2',extremes,Landslide,#572c03,random,błoto,2026-02-27T04:25:00+00:00,,0.3956313057596655,0,1,pl,,
 '10c6616b15',extremes,Snow&Ice,#d60d2b,wmo,lód województwo podlaskie powiat moniecki,2026-02-09T04:39:00+00:00,Poland,0.3956100317219989,2,1,pl,WCE,Europe
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,burza piaskowa,2026-02-20T04:27:00+00:00,,0.3952784504229928,2,2,pl,,
 '50e07bb704',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo pomorskie powiat chojnicki,2026-02-16T04:38:00+00:00,Poland,0.394829219337137,2,1,pl,WCE,Europe
