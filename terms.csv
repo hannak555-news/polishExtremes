@@ -206,7 +206,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9b4588e3b0',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo lubelskie powiat opolski,2026-02-25T04:32:00+00:00,Poland,0.3657414264771818,3,1,pl,WCE,Europe
 '6d9dcf594f',extremes,Fog,#d60d2b,wmo,mgła województwo łódzkie powiat brzeziński,2026-03-02T04:27:00+00:00,Poland,0.3654444386401141,4,1,pl,WCE,Europe
 '18b90fd5b0',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo podlaskie powiat hajnowski,2026-02-10T04:43:00+00:00,Poland,0.3651576167620518,3,1,pl,WCE,Europe
-'13329f4bf1',extremes,Snow&Ice,#d60d2b,wmo,marznąca Polska,2026-02-25T04:32:00+00:00,Poland,0.36494312464406814,4,1,pl,WCE,Europe
+'13329f4bf1',extremes,Snow&Ice,#d60d2b,wmo,marznąca Polska,2026-02-25T04:32:00+00:00,Poland,0.3649431246440681,4,1,pl,WCE,Europe
 '43d9cfbc6e',extremes,Snow&Ice,#d60d2b,wmo,"zamarzanie woj. lubuskie, powiat słubicki",2026-02-11T04:41:00+00:00,Poland,0.3648661734288579,2,1,pl,WCE,Europe
 '9b59bee21e',extremes,Drought,#edc291,edo,okres suszy w polsce,2026-02-07T04:19:00+00:00,Poland,0.3645743560560998,2,1,pl,WCE,Europe
 '473be04c28',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo mazowieckie powiat siedlecki,2026-02-21T04:18:00+00:00,Poland,0.3638824135522641,3,1,pl,WCE,Europe
@@ -334,6 +334,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bd09b9486d',extremes,Drought,#edc291,edo,brak deszczu Dżibuti,2026-02-25T04:33:00+00:00,Djibouti,0.3064411481001536,0,1,pl,NEAF,Africa
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,ulewa Argentyna,2026-02-27T04:26:00+00:00,Argentina,0.306404049065885,0,1,pl,SES,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,deszcz Argentyna,2026-02-26T04:29:00+00:00,Argentina,0.3063758801444256,0,1,pl,SES,South-America
+'8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz w Brazylii,2026-02-28T04:07:00+00:00,Brazil,0.30633606179389083,0,1,pl,SAM,South-America
+'bed53cc600',extremes,Precipitation,#d60d2b,wmo,ulewa brazylia,2026-02-25T04:32:00+00:00,Brazil,0.306210022618449,0,1,pl,SAM,South-America
+'8ae180c51e',extremes,Precipitation,#d60d2b,wmo,opady w Brazylii,2026-02-28T04:07:00+00:00,Brazil,0.3061539578694856,0,1,pl,SAM,South-America
+'80a1b6ba6b',extremes,Drought,#edc291,edo,susza w Belgii,2026-03-02T04:27:00+00:00,Belgium,0.30585738335506507,0,1,pl,WCE,Europe
+'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,deszcz w Afryce Południowej,2026-02-23T04:37:00+00:00,South Africa,0.30584115826826125,0,1,pl,WSAF,Africa
+'3894a694d1',extremes,Flood,#030ba1,aidr,gwałtowna powódź w Australii,2026-02-26T04:29:00+00:00,Australia,0.30571616925696143,0,1,pl,EAU,Oceania
+'c27e209239',extremes,Precipitation,#d60d2b,wmo,deszcz maeneo machache ya mkoa wa ruvuma.,2026-02-26T04:29:00+00:00,Tanzania,0.3056889736854329,0,1,pl,SEAF,Africa
+'d4757169ad',extremes,Tropical Cyclone,#4f4f4f,aidr,cyklon cyklon Yasi Queensland 2011,2026-02-26T04:29:00+00:00,,0.30567643744191786,0,1,pl,NAU,Oceania
+'4d9577e33d',extremes,Volcano,#b83202,random,wulkan,2026-02-26T04:28:00+00:00,,0.30566530186824326,0,1,pl,,
+'3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz Argentyna,2026-02-26T04:29:00+00:00,Argentina,0.3056538545389451,0,1,pl,SES,South-America
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,zamarzanie,2026-02-15T04:34:00+00:00,,0.3016032707239657,1,2,pl,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,spadki rtęci,2026-02-13T04:33:00+00:00,,0.2998232291544918,1,1,pl,,
 'e6c5cea70d',extremes,Precipitation,#d60d2b,wmo,ulewa powiat kowieński,2026-02-12T04:37:00+00:00,Lithuania,0.2941799017235091,2,1,pl,WCE,Europe
@@ -343,7 +353,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,upalna temperatura,2026-02-08T04:43:00+00:00,,0.2757882741397972,2,1,pl,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,najzimniejszy dzień,2026-02-17T04:30:00+00:00,,0.2715688485625385,1,1,pl,,
 'e921e2b0b7',extremes,Flood,#030ba1,aidr,powódź poważna powódź spowodowana byłym cyklonem tropikalnym Tiffany w południowej Australii w 2022 r,2026-02-08T04:44:00+00:00,Australia,0.2689135096487057,1,1,pl,SAU,Oceania
-'ec6bc64ec7',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny urmil,2026-03-06T04:21:00+00:00,,0.26724050486945183,1,1,pl,SPO,Pacific Ocean
+'ec6bc64ec7',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny urmil,2026-03-06T04:21:00+00:00,,0.2672405048694518,1,1,pl,SPO,Pacific Ocean
 'ebe314dd99',extremes,Flood,#030ba1,aidr,"ulewne opady deszczu i powodzie, Queensland, luty 2020 r",2026-03-01T04:35:00+00:00,Australia,0.2672318179671774,1,1,pl,EAU,Oceania
 'ccefefc59e',extremes,Drought,#edc291,random,błyskawiczna susza,2026-02-16T04:37:00+00:00,,0.2662158666734182,1,1,pl,,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,kopuła cieplna,2026-03-04T04:20:00+00:00,,0.2653338416040737,1,1,pl,,
