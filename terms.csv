@@ -189,6 +189,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1edf73df91',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo lubelskie powiat bialski,2026-02-25T04:32:00+00:00,Poland,0.3684272103024033,3,1,pl,WCE,Europe
 '5d4692d047',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo pomorskie powiat pucki,2026-02-25T04:32:00+00:00,Poland,0.3682363683932123,3,1,pl,WCE,Europe
 '18fe399589',extremes,Storm,#b3b2b1,wmo,fala sztormowa na Litwie,2026-02-17T04:31:00+00:00,Lithuania,0.3675693094915481,3,1,pl,WCE,Europe
+'8447ef896b',extremes,Snow&Ice,#d60d2b,random,błoto pośniegowe,2026-02-10T04:42:00+00:00,,0.3673290805453786,1,2,pl,,
 'b6e2679d77',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo podlaskie powiat bielski,2026-02-17T04:31:00+00:00,Poland,0.3669005329705859,3,1,pl,WCE,Europe
 '8efb7fdcf5',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo łódzkie powiat opoczyński,2026-02-18T04:34:00+00:00,Poland,0.366728432288699,3,1,pl,WCE,Europe
 'de99db0296',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo podlaskie powiat sokólski,2026-02-23T04:37:00+00:00,Poland,0.3660340839884893,3,1,pl,WCE,Europe
@@ -229,7 +230,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a4fa598711',extremes,Fog,#d60d2b,wmo,mgła województwo łódzkie powiat tomaszowski,2026-03-02T04:27:00+00:00,Poland,0.3484639002181949,4,1,pl,WCE,Europe
 'e8cf0a3bc0',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo pomorskie powiat tczewski,2026-02-11T04:41:00+00:00,Poland,0.345579606912327,3,1,pl,WCE,Europe
 'bda11b0ad5',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo lubuskie powiat żarski,2026-02-21T04:18:00+00:00,Poland,0.3441673943707741,3,1,pl,WCE,Europe
-'8447ef896b',extremes,Snow&Ice,#d60d2b,random,błoto pośniegowe,2026-02-10T04:42:00+00:00,,0.343563588876916,0,1,pl,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,rekordowe opady,2026-02-16T04:37:00+00:00,,0.343231833165234,1,1,pl,,
 '9f0423d739',extremes,Drought,#edc291,random,susza,2026-02-15T04:34:00+00:00,,0.3412735653248687,1,1,pl,,
 '736e25dde1',extremes,Precipitation,#d60d2b,wmo,ulewa litwa,2026-02-21T04:18:00+00:00,Lithuania,0.339902332576405,2,1,pl,WCE,Europe
