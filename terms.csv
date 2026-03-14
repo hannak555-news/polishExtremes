@@ -58,7 +58,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9181d04e57',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo lubelskie powiat zamojski,2026-02-12T04:37:00+00:00,Poland,0.4078631201368142,2,1,pl,WCE,Europe
 '30e2ad1cba',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo małopolskie powiat tarnowski,2026-02-15T04:35:00+00:00,Poland,0.4072662366434033,2,1,pl,WCE,Europe
 '628bf5d4cb',extremes,Storm,#b3b2b1,wmo,sztorm w środkowej strefie przybrzeżnej,2026-02-21T04:18:00+00:00,Poland,0.4066710764970235,2,1,pl,WCE,Europe
-'24e8a09787',extremes,Fog,#d60d2b,wmo,mgła województwo podkarpackie powiat krośnieński,2026-03-03T04:27:00+00:00,Poland,0.4058259875545838,3,1,pl,WCE,Europe
 '81afc6dfd1',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo lubuskie powiat sulęciński,2026-02-21T04:18:00+00:00,Poland,0.4055203725804773,2,1,pl,WCE,Europe
 '9275e8cfe5',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo opolskie powiat nyski,2026-02-15T04:35:00+00:00,Poland,0.4050611867399903,2,1,pl,WCE,Europe
 'a1e7a0ac6b',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo pomorskie powiat gdyński,2026-02-16T04:38:00+00:00,Poland,0.4049098838498375,2,1,pl,WCE,Europe
@@ -226,11 +225,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5f3d71c825',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo podlaskie powiat moniecki,2026-02-14T04:21:00+00:00,Poland,0.3508360601643644,4,1,pl,WCE,Europe
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,ulewa,2026-03-04T04:20:00+00:00,,0.3489861809556877,1,1,pl,,
 'a4fa598711',extremes,Fog,#d60d2b,wmo,mgła województwo łódzkie powiat tomaszowski,2026-03-02T04:27:00+00:00,Poland,0.3484639002181949,4,1,pl,WCE,Europe
+'4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,nocne przymrozki,2026-02-17T04:30:00+00:00,,0.3465218632994944,1,1,pl,,
+'24e8a09787',extremes,Fog,#d60d2b,wmo,mgła województwo podkarpackie powiat krośnieński,2026-03-03T04:27:00+00:00,Poland,0.3449520894213962,4,1,pl,WCE,Europe
 'bda11b0ad5',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo lubuskie powiat żarski,2026-02-21T04:18:00+00:00,Poland,0.3441673943707741,3,1,pl,WCE,Europe
 '45500dcb47',extremes,Precipitation,#d60d2b,random,rekordowe opady,2026-02-16T04:37:00+00:00,,0.343231833165234,1,1,pl,,
 '9f0423d739',extremes,Drought,#edc291,random,susza,2026-02-15T04:34:00+00:00,,0.3412735653248687,1,1,pl,,
 '736e25dde1',extremes,Precipitation,#d60d2b,wmo,ulewa litwa,2026-02-21T04:18:00+00:00,Lithuania,0.339902332576405,2,1,pl,WCE,Europe
-'4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,nocne przymrozki,2026-02-17T04:30:00+00:00,,0.337505130126102,0,1,pl,,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,zaklęcie zimna,2026-03-11T04:21:00+00:00,,0.3368049090822171,1,1,pl,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,najniższa temperatura minimalna,2026-03-13T04:24:00+00:00,,0.3365853453219421,1,1,pl,,
 '93ecefdfd7',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz na Litwie,2026-02-21T04:18:00+00:00,Lithuania,0.3355758557065925,2,1,pl,WCE,Europe
