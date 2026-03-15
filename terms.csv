@@ -37,6 +37,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,lawina,2026-02-22T04:30:00+00:00,,0.4236842349207183,1,3,pl,,
 '2e2f2d564a',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo łódzkie powiat tomaszowski,2026-02-18T04:34:00+00:00,Poland,0.4225682154874497,2,1,pl,WCE,Europe
 'aa478756d8',extremes,Snow&Ice,#d60d2b,wmo,lód województwo łódzkie powiat łowicki,2026-02-08T04:43:00+00:00,Poland,0.4220168162357594,2,1,pl,WCE,Europe
+'80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,gwałtowny spadek temperatury,2026-02-12T04:36:00+00:00,,0.4204479268525999,1,2,pl,,
 'ee4b917196',extremes,Fog,#d60d2b,wmo,mgła województwo lubelskie powiat radzyński,2026-03-02T04:27:00+00:00,Poland,0.4187833064654601,3,1,pl,WCE,Europe
 '1a22688610',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo podlaskie powiat suwałki,2026-02-17T04:31:00+00:00,Poland,0.417833593122794,3,1,pl,WCE,Europe
 'da19986c26',extremes,Fog,#d60d2b,wmo,mgła województwo mazowieckie powiat płoński,2026-03-02T04:27:00+00:00,Poland,0.4169847841539291,3,1,pl,WCE,Europe
@@ -229,7 +230,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,ulewa,2026-03-04T04:20:00+00:00,,0.3489861809556877,1,1,pl,,
 'a4fa598711',extremes,Fog,#d60d2b,wmo,mgła województwo łódzkie powiat tomaszowski,2026-03-02T04:27:00+00:00,Poland,0.3484639002181949,4,1,pl,WCE,Europe
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,nocne przymrozki,2026-02-17T04:30:00+00:00,,0.3465218632994944,1,1,pl,,
-'30406c7856',extremes,Flood,#030ba1,cmeter,powodzie w Brazylii,2026-03-07T04:13:00+00:00,Brazil,0.34630890470859627,1,2,pl,SES,South-America
+'30406c7856',extremes,Flood,#030ba1,cmeter,powodzie w Brazylii,2026-03-07T04:13:00+00:00,Brazil,0.3463089047085962,1,2,pl,SES,South-America
 '24e8a09787',extremes,Fog,#d60d2b,wmo,mgła województwo podkarpackie powiat krośnieński,2026-03-03T04:27:00+00:00,Poland,0.3449520894213962,4,1,pl,WCE,Europe
 'bda11b0ad5',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo lubuskie powiat żarski,2026-02-21T04:18:00+00:00,Poland,0.3441673943707741,3,1,pl,WCE,Europe
 '45500dcb47',extremes,Precipitation,#d60d2b,random,rekordowe opady,2026-02-16T04:37:00+00:00,,0.343231833165234,1,1,pl,,
@@ -240,19 +241,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,najniższa temperatura minimalna,2026-03-13T04:24:00+00:00,,0.3365853453219421,1,1,pl,,
 '93ecefdfd7',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz na Litwie,2026-02-21T04:18:00+00:00,Lithuania,0.3355758557065925,2,1,pl,WCE,Europe
 'c08dfe6a5d',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo mazowieckie powiat otwocki,2026-02-16T04:38:00+00:00,Poland,0.3354342139576443,3,1,pl,WCE,Europe
-'633ed59c63',extremes,Iceberg,#d60d2b,random,lód morski Arktyki,2026-02-28T04:07:00+00:00,,0.33469546440642894,1,1,pl,,
+'633ed59c63',extremes,Iceberg,#d60d2b,random,lód morski Arktyki,2026-02-28T04:07:00+00:00,,0.3346954644064289,1,1,pl,,
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,zamieć śnieżna,2026-02-07T04:19:00+00:00,,0.3314597415701493,1,1,pl,,
 '595acbcf9f',extremes,Heat Wave,#c40202,random,najgorętszy dzień,2026-02-15T04:34:00+00:00,,0.3303435689428122,2,1,pl,,
 '69791e5a17',extremes,Flood,#030ba1,random,powódź błyskawiczna,2026-03-04T04:20:00+00:00,,0.3277884791700448,1,1,pl,,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,grad,2026-02-21T04:17:00+00:00,,0.3253020802834211,0,1,pl,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,huragan,2026-03-01T04:34:00+00:00,,0.3215604761843476,1,1,pl,,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,pokrywa śnieżna,2026-03-06T04:20:00+00:00,,0.3201396517124568,0,1,pl,,
-'d5b4afae1b',extremes,Precipitation,#d60d2b,acwe,mokry okres w Tasmanii,2026-03-05T04:24:00+00:00,Australia,0.3188208941706716,0,1,pl,SAU,Oceania
-'5acb09ddba',extremes,Iceberg,#d60d2b,eonet,góra lodowa d32,2026-03-06T04:21:00+00:00,,0.3184806660855388,0,1,pl,EAN,
-'c2ae664a83',extremes,Iceberg,#d60d2b,eonet,góra lodowa c18b,2026-03-06T04:21:00+00:00,,0.3184369510861849,0,1,pl,EAN,
-'feb1dafabf',extremes,Heat Wave,#c40202,acwe,łagodna zima w Nowej Południowej Walii,2026-03-10T04:22:00+00:00,Australia,0.3182992983873293,0,1,pl,EAU,Oceania
-'403ad9bf40',extremes,Iceberg,#d60d2b,eonet,góra lodowa b22g,2026-03-06T04:21:00+00:00,Antarctica,0.3181610433122801,0,1,pl,WAN,Antarctica
-'80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,gwałtowny spadek temperatury,2026-02-12T04:36:00+00:00,,0.3179975433559999,0,1,pl,,
 '67170bdf4e',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny 25s,2026-03-06T04:21:00+00:00,,0.3178072358326262,0,1,pl,SIO,Indian Ocean
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,góra lodowa Antarktyda,2026-02-19T04:31:00+00:00,,0.3177487546426184,0,1,pl,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,zimna fala,2026-03-12T04:25:00+00:00,,0.3177164931791413,0,1,pl,,
@@ -317,7 +312,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz w Brazylii,2026-02-28T04:07:00+00:00,Brazil,0.3063360617938908,0,1,pl,SAM,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,ulewa brazylia,2026-02-25T04:32:00+00:00,Brazil,0.306210022618449,0,1,pl,SAM,South-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,opady w Brazylii,2026-02-28T04:07:00+00:00,Brazil,0.3061539578694856,0,1,pl,SAM,South-America
-'6b7e025bb3',extremes,Storm,#b3b2b1,random,trąba powietrzna,2026-03-14T04:22:00+00:00,,0.30593374142132707,1,1,pl,,
+'6b7e025bb3',extremes,Storm,#b3b2b1,random,trąba powietrzna,2026-03-14T04:22:00+00:00,,0.305933741421327,1,1,pl,,
 '80a1b6ba6b',extremes,Drought,#edc291,edo,susza w Belgii,2026-03-02T04:27:00+00:00,Belgium,0.305857383355065,0,1,pl,WCE,Europe
 'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,deszcz w Afryce Południowej,2026-02-23T04:37:00+00:00,South Africa,0.3058411582682612,0,1,pl,WSAF,Africa
 '3894a694d1',extremes,Flood,#030ba1,aidr,gwałtowna powódź w Australii,2026-02-26T04:29:00+00:00,Australia,0.3057161692569614,0,1,pl,EAU,Oceania
@@ -357,11 +352,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tajfun,2026-02-26T04:28:00+00:00,,0.2796898999779067,2,1,pl,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,cielenie się góry lodowej,2026-03-10T04:21:00+00:00,,0.2781108486876709,1,1,pl,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,najzimniejszy dzień,2026-02-17T04:30:00+00:00,,0.2715688485625385,1,1,pl,,
-'ae657332f9',extremes,Wildfire,#d60d2b,acwe,zakaz pożarów w Nowej Południowej Walii,2026-03-09T04:31:00+00:00,Australia,0.27139553072603795,1,1,pl,EAU,Oceania
-'e7d4154a2d',extremes,Heat Wave,#c40202,acwe,ciepłe zaklęcie w Tasmanii,2026-03-05T04:24:00+00:00,Australia,0.27135600463151427,1,1,pl,SAU,Oceania
+'ae657332f9',extremes,Wildfire,#d60d2b,acwe,zakaz pożarów w Nowej Południowej Walii,2026-03-09T04:31:00+00:00,Australia,0.2713955307260379,1,1,pl,EAU,Oceania
+'e7d4154a2d',extremes,Heat Wave,#c40202,acwe,ciepłe zaklęcie w Tasmanii,2026-03-05T04:24:00+00:00,Australia,0.2713560046315142,1,1,pl,SAU,Oceania
 'eced4efa71',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny horacio,2026-02-21T04:17:00+00:00,,0.2713404227497089,1,1,pl,SIO,Indian Ocean
 'b0b9fae0fc',extremes,Precipitation,#d60d2b,acwe,ulewny deszcz w Nowej Południowej Walii,2026-03-09T04:31:00+00:00,Australia,0.2711999412332385,1,1,pl,EAU,Oceania
-'18c15bffdd',extremes,Wildfire,#d60d2b,acwe,pożar buszu w Nowej Południowej Walii,2026-03-08T04:25:00+00:00,Australia,0.27117336374041806,1,1,pl,EAU,Oceania
+'18c15bffdd',extremes,Wildfire,#d60d2b,acwe,pożar buszu w Nowej Południowej Walii,2026-03-08T04:25:00+00:00,Australia,0.271173363740418,1,1,pl,EAU,Oceania
+'d5b4afae1b',extremes,Precipitation,#d60d2b,acwe,mokry okres w Tasmanii,2026-03-05T04:24:00+00:00,Australia,0.27099776004507087,1,1,pl,SAU,Oceania
+'5acb09ddba',extremes,Iceberg,#d60d2b,eonet,góra lodowa d32,2026-03-06T04:21:00+00:00,,0.270708566172708,1,1,pl,EAN,
+'c2ae664a83',extremes,Iceberg,#d60d2b,eonet,góra lodowa c18b,2026-03-06T04:21:00+00:00,,0.27067140842325715,1,1,pl,EAN,
+'feb1dafabf',extremes,Heat Wave,#c40202,acwe,łagodna zima w Nowej Południowej Walii,2026-03-10T04:22:00+00:00,Australia,0.2705544036292299,1,1,pl,EAU,Oceania
+'403ad9bf40',extremes,Iceberg,#d60d2b,eonet,góra lodowa b22g,2026-03-06T04:21:00+00:00,Antarctica,0.2704368868154381,1,1,pl,WAN,Antarctica
 'ec6bc64ec7',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny urmil,2026-03-06T04:21:00+00:00,,0.2672405048694518,1,1,pl,SPO,Pacific Ocean
 'ebe314dd99',extremes,Flood,#030ba1,aidr,"ulewne opady deszczu i powodzie, Queensland, luty 2020 r",2026-03-01T04:35:00+00:00,Australia,0.2672318179671774,1,1,pl,EAU,Oceania
 'ccefefc59e',extremes,Drought,#edc291,random,błyskawiczna susza,2026-02-16T04:37:00+00:00,,0.2662158666734182,1,1,pl,,
