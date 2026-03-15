@@ -40,6 +40,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ee4b917196',extremes,Fog,#d60d2b,wmo,mgła województwo lubelskie powiat radzyński,2026-03-02T04:27:00+00:00,Poland,0.4187833064654601,3,1,pl,WCE,Europe
 '1a22688610',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo podlaskie powiat suwałki,2026-02-17T04:31:00+00:00,Poland,0.417833593122794,3,1,pl,WCE,Europe
 'da19986c26',extremes,Fog,#d60d2b,wmo,mgła województwo mazowieckie powiat płoński,2026-03-02T04:27:00+00:00,Poland,0.4169847841539291,3,1,pl,WCE,Europe
+'a5ff1cde4a',extremes,Drought,#edc291,random,wilgotność gleby,2026-02-22T04:30:00+00:00,,0.41669669877633214,1,2,pl,,
 '0a30efbde8',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo podlaskie powiat suwalski,2026-02-23T04:37:00+00:00,Poland,0.4157607752683082,2,1,pl,WCE,Europe
 '7aa4c506c2',extremes,Fog,#d60d2b,wmo,mgła województwo lubelskie powiat łukowski,2026-03-02T04:27:00+00:00,Poland,0.4157112722403466,3,1,pl,WCE,Europe
 '5ad93cfc99',extremes,Snow&Ice,#d60d2b,wmo,lód województwo pomorskie powiat słupski,2026-02-25T04:32:00+00:00,Poland,0.4155061308232615,2,1,pl,WCE,Europe
@@ -226,19 +227,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,huragan,2026-03-01T04:34:00+00:00,,0.3215604761843476,1,1,pl,,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,pokrywa śnieżna,2026-03-06T04:20:00+00:00,,0.3201396517124568,0,1,pl,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,góra lodowa Antarktyda,2026-02-19T04:31:00+00:00,,0.3177487546426184,0,1,pl,,
-'59b529f428',extremes,Thunderstorm,#53785a,random,burza z gradem,2026-03-05T04:23:00+00:00,,0.3174580437605405,0,1,pl,,
-'047f353885',extremes,Heat Wave,#c40202,acwe,fala upałów w zachodniej Australii,2026-03-11T04:23:00+00:00,Australia,0.3169154170414733,0,1,pl,CAU,Oceania
-'eba0dae408',extremes,Iceberg,#d60d2b,eonet,góra lodowa b15ab,2026-03-06T04:21:00+00:00,,0.3162923766964107,0,1,pl,EAN,
-'6bfd73020a',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny 26s,2026-03-07T04:12:00+00:00,,0.3154418219590489,0,1,pl,NAU,Oceania
 '54927bfe65',extremes,Flood,#030ba1,random,powódź przybrzeżna,2026-02-12T04:36:00+00:00,,0.3153113400631214,0,1,pl,,
-'f314bb7747',extremes,Flood,#030ba1,aidr,powódź opadowa w Australii,2026-02-26T04:29:00+00:00,Australia,0.3151046927199928,0,1,pl,EAU,Oceania
-'394fc47879',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny 24p,2026-03-06T04:21:00+00:00,,0.3148031318722201,0,1,pl,NAU,Oceania
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-02-27T04:25:00+00:00,,0.3146620739730586,1,1,pl,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,ulewny deszcz,2026-02-11T04:41:00+00:00,,0.3144439372450019,1,1,pl,,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,lód morski Antarktyki,2026-02-12T04:36:00+00:00,,0.3143865509249306,1,1,pl,,
-'3fa143a609',extremes,Storm,#b3b2b1,random,zamieć piaskowa,2026-03-09T04:30:00+00:00,,0.3139094201726292,0,1,pl,,
 '81df5b3034',extremes,Storm,#b3b2b1,aidr,"burza, grad w North Sydney, 2017",2026-02-14T04:22:00+00:00,,0.3138420013187892,0,1,pl,EAU,Oceania
-'a5ff1cde4a',extremes,Drought,#edc291,random,wilgotność gleby,2026-02-22T04:30:00+00:00,,0.3134078456192143,0,1,pl,,
 '6ee9959447',extremes,Tropical Cyclone,#4f4f4f,emdat,cyklon tropikalny Madagaskar,2026-02-20T04:28:00+00:00,Madagascar,0.3125628137009715,0,1,pl,MDG,Africa
 'f1d3442696',extremes,Drought,#edc291,edo,susza na Ukrainie,2026-02-11T04:42:00+00:00,Ukraine,0.3124992962355172,2,1,pl,WCE,Europe
 '8c66ae1d5f',extremes,Precipitation,#d60d2b,wmo,ulewa rejon alytus rejon marijampolski,2026-02-11T04:41:00+00:00,Lithuania,0.3123779466766571,2,1,pl,WCE,Europe
@@ -346,9 +339,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c2ae664a83',extremes,Iceberg,#d60d2b,eonet,góra lodowa c18b,2026-03-06T04:21:00+00:00,,0.2706714084232571,1,1,pl,EAN,
 'feb1dafabf',extremes,Heat Wave,#c40202,acwe,łagodna zima w Nowej Południowej Walii,2026-03-10T04:22:00+00:00,Australia,0.2705544036292299,1,1,pl,EAU,Oceania
 '403ad9bf40',extremes,Iceberg,#d60d2b,eonet,góra lodowa b22g,2026-03-06T04:21:00+00:00,Antarctica,0.2704368868154381,1,1,pl,WAN,Antarctica
-'67170bdf4e',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny 25s,2026-03-06T04:21:00+00:00,,0.27013615045773226,1,1,pl,SIO,Indian Ocean
+'67170bdf4e',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny 25s,2026-03-06T04:21:00+00:00,,0.2701361504577322,1,1,pl,SIO,Indian Ocean
+'59b529f428',extremes,Thunderstorm,#53785a,random,burza z gradem,2026-03-05T04:23:00+00:00,,0.2698393371964594,1,1,pl,,
+'047f353885',extremes,Heat Wave,#c40202,acwe,fala upałów w zachodniej Australii,2026-03-11T04:23:00+00:00,Australia,0.2693781044852523,1,1,pl,CAU,Oceania
+'eba0dae408',extremes,Iceberg,#d60d2b,eonet,góra lodowa b15ab,2026-03-06T04:21:00+00:00,,0.2688485201919491,1,1,pl,EAN,
+'6bfd73020a',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny 26s,2026-03-07T04:12:00+00:00,,0.26812554866519156,1,1,pl,NAU,Oceania
+'f314bb7747',extremes,Flood,#030ba1,aidr,powódź opadowa w Australii,2026-02-26T04:29:00+00:00,Australia,0.26783898881199386,1,1,pl,EAU,Oceania
+'394fc47879',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny 24p,2026-03-06T04:21:00+00:00,,0.2675826620913871,1,1,pl,NAU,Oceania
 'ec6bc64ec7',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny urmil,2026-03-06T04:21:00+00:00,,0.2672405048694518,1,1,pl,SPO,Pacific Ocean
 'ebe314dd99',extremes,Flood,#030ba1,aidr,"ulewne opady deszczu i powodzie, Queensland, luty 2020 r",2026-03-01T04:35:00+00:00,Australia,0.2672318179671774,1,1,pl,EAU,Oceania
+'3fa143a609',extremes,Storm,#b3b2b1,random,zamieć piaskowa,2026-03-09T04:30:00+00:00,,0.2668230071467348,1,1,pl,,
 'ccefefc59e',extremes,Drought,#edc291,random,błyskawiczna susza,2026-02-16T04:37:00+00:00,,0.2662158666734182,1,1,pl,,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,kopuła cieplna,2026-03-04T04:20:00+00:00,,0.2653338416040737,1,1,pl,,
 'd2e515b87c',extremes,Flood,#030ba1,cmeter,powódź w Kolumbii,2026-02-22T04:31:00+00:00,Colombia,0.263232456455023,1,1,pl,NWS,South-America
