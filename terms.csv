@@ -40,6 +40,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '97d1399097',extremes,Fog,#d60d2b,wmo,mgła województwo opolskie powiat opolski,2026-03-02T04:27:00+00:00,Poland,0.4254882185920469,3,1,pl,WCE,Europe
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,szarańcza,2026-03-08T04:24:00+00:00,,0.4240079806913387,2,2,pl,,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,lawina,2026-02-22T04:30:00+00:00,,0.4236842349207183,1,3,pl,,
+'e593608bfa',extremes,Snow&Ice,#d60d2b,random,pokrywa śnieżna,2026-03-06T04:20:00+00:00,,0.4228687789555882,1,2,pl,,
 '2e2f2d564a',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo łódzkie powiat tomaszowski,2026-02-18T04:34:00+00:00,Poland,0.4225682154874497,2,1,pl,WCE,Europe
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,gwałtowny spadek temperatury,2026-02-12T04:36:00+00:00,,0.4204479268525999,1,2,pl,,
 'ee4b917196',extremes,Fog,#d60d2b,wmo,mgła województwo lubelskie powiat radzyński,2026-03-02T04:27:00+00:00,Poland,0.4187833064654601,3,1,pl,WCE,Europe
@@ -215,13 +216,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c08dfe6a5d',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo mazowieckie powiat otwocki,2026-02-16T04:38:00+00:00,Poland,0.3354342139576443,3,1,pl,WCE,Europe
 '633ed59c63',extremes,Iceberg,#d60d2b,random,lód morski Arktyki,2026-02-28T04:07:00+00:00,,0.3346954644064289,1,1,pl,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,narodowe centrum huraganów,2026-03-01T04:34:00+00:00,,0.3332260828505253,1,1,pl,,
-'f1d3442696',extremes,Drought,#edc291,edo,susza na Ukrainie,2026-03-10T04:22:00+00:00,Ukraine,0.33079117819787957,1,1,pl,WCE,Europe
+'f1d3442696',extremes,Drought,#edc291,edo,susza na Ukrainie,2026-03-10T04:22:00+00:00,Ukraine,0.3307911781978795,1,1,pl,WCE,Europe
 '595acbcf9f',extremes,Heat Wave,#c40202,random,najgorętszy dzień,2026-02-15T04:34:00+00:00,,0.3303435689428122,2,1,pl,,
 '69791e5a17',extremes,Flood,#030ba1,random,powódź błyskawiczna,2026-03-04T04:20:00+00:00,,0.3277884791700448,1,1,pl,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,cyklon bombowy,2026-03-07T04:12:00+00:00,,0.3271135728483949,1,1,pl,,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,grad,2026-02-21T04:17:00+00:00,,0.3253020802834211,0,1,pl,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,huragan,2026-03-01T04:34:00+00:00,,0.3215604761843476,1,1,pl,,
-'e593608bfa',extremes,Snow&Ice,#d60d2b,random,pokrywa śnieżna,2026-03-06T04:20:00+00:00,,0.3201396517124568,0,1,pl,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,góra lodowa Antarktyda,2026-02-19T04:31:00+00:00,,0.3177487546426184,0,1,pl,,
 '54927bfe65',extremes,Flood,#030ba1,random,powódź przybrzeżna,2026-02-12T04:36:00+00:00,,0.3153113400631214,0,1,pl,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-02-27T04:25:00+00:00,,0.3146620739730586,1,1,pl,,
@@ -233,7 +233,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82d648b882',extremes,Drought,#edc291,random,susza,2026-02-08T04:43:00+00:00,,0.3119864204821927,0,1,pl,,
 'd59a7e48d7',extremes,Drought,#edc291,random,ewapotranspiracja,2026-03-03T04:26:00+00:00,,0.3113772334521668,1,1,pl,,
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,fala upałów w Chile,2026-02-25T04:32:00+00:00,Chile,0.3090161000292206,0,1,pl,SWS,South-America
-'7f426032e8',extremes,Drought,#edc291,edo,okres suszy w Bhutanie,2026-03-06T04:21:00+00:00,Bhutan,0.3086501780272623,0,1,pl,TIB,Asia
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,fala upałów corrientes y alrededores,2026-02-18T04:34:00+00:00,Argentina,0.3085993682714565,0,1,pl,SES,South-America
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,fala upałów w Argentynie,2026-03-03T04:27:00+00:00,Argentina,0.3084851982500523,0,1,pl,SES,South-America
 '96f0408faf',extremes,Drought,#edc291,edo,susza na Łotwie,2026-02-25T04:33:00+00:00,Latvia,0.3082217854438468,0,1,pl,WCE,Europe
@@ -365,6 +364,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e5f311da7',extremes,Drought,#edc291,edo,okres suszy na Wyspach Świętego Tomasza i Książęcej,2026-02-25T04:33:00+00:00,Sao Tome and Principe,0.2626725644193098,1,1,pl,WAF,Africa
 'af5e4ac005',extremes,Drought,#edc291,edo,okres suszy w Danii,2026-02-27T04:26:00+00:00,Denmark,0.2625035275008274,1,1,pl,NEU,Europe
 '69f6b18bc8',extremes,Drought,#edc291,edo,brak deszczu w Bangladeszu,2026-03-14T04:23:00+00:00,Bangladesh,0.2624387464756236,1,1,pl,SAS,Asia
+'7f426032e8',extremes,Drought,#edc291,edo,okres suszy w Bhutanie,2026-03-06T04:21:00+00:00,Bhutan,0.2623526513231729,1,1,pl,TIB,Asia
 'cf99db758d',extremes,Fog,#d60d2b,wmo,mgła na Łotwie,2026-02-28T04:07:00+00:00,Latvia,0.2606060208106429,1,1,pl,WCE,Europe
 '84a2fde8e0',extremes,Heat Wave,#c40202,wmo,fala upałów w Australii,2026-02-25T04:32:00+00:00,Australia,0.260590550582425,1,1,pl,CAU,Oceania
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,Arctis góry lodowej,2026-02-14T04:21:00+00:00,,0.2443407504066059,2,1,pl,,
