@@ -226,24 +226,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,lód morski Antarktyki,2026-02-12T04:36:00+00:00,,0.3143865509249306,1,1,pl,,
 '81df5b3034',extremes,Storm,#b3b2b1,aidr,"burza, grad w North Sydney, 2017",2026-02-14T04:22:00+00:00,,0.3138420013187892,0,1,pl,EAU,Oceania
 '6ee9959447',extremes,Tropical Cyclone,#4f4f4f,emdat,cyklon tropikalny Madagaskar,2026-02-20T04:28:00+00:00,Madagascar,0.3125628137009715,0,1,pl,MDG,Africa
-'628c910b11',extremes,Flood,#030ba1,aidr,powódź zalewa Nową Południową Walię 2022,2026-02-23T04:37:00+00:00,Australia,0.3120069472814441,0,1,pl,EAU,Oceania
 '82d648b882',extremes,Drought,#edc291,random,susza,2026-02-08T04:43:00+00:00,,0.3119864204821927,0,1,pl,,
-'55459a4ab8',extremes,Drought,#edc291,edo,susza w luksemburgu,2026-03-04T04:21:00+00:00,Luxembourg,0.3118741111680536,0,1,pl,WCE,Europe
-'e873273000',extremes,Storm,#b3b2b1,emdat,burza Malawi,2026-02-20T04:28:00+00:00,Malawi,0.3117485780853197,0,1,pl,ESAF,Africa
 'd59a7e48d7',extremes,Drought,#edc291,random,ewapotranspiracja,2026-03-03T04:26:00+00:00,,0.3113772334521668,1,1,pl,,
-'0d261f252d',extremes,Storm,#b3b2b1,random,zimowa wichura,2026-03-11T04:21:00+00:00,,0.3106407652393128,0,1,pl,,
-'5aa8518160',extremes,Wildfire,#d60d2b,emdat,pożar buszu bezanga,2026-03-13T04:25:00+00:00,Central African Republic,0.3103789664520887,0,1,pl,CAF,Africa
-'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,najzimniejszy rok,2026-03-05T04:23:00+00:00,,0.3103542154124153,0,1,pl,,
-'0de7f7e548',extremes,Drought,#edc291,edo,susza w Kenii,2026-02-22T04:31:00+00:00,Kenya,0.3100360898851149,0,1,pl,SEAF,Africa
-'0c9a570bb1',extremes,Storm,#b3b2b1,aidr,tornado Murray River Townships Victoria 2013,2026-02-26T04:29:00+00:00,Australia,0.3097292025722298,0,1,pl,SAU,Oceania
-'a1fcc33dde',extremes,Drought,#edc291,edo,okres suszy w Hongkongu,2026-02-25T04:33:00+00:00,Hong Kong,0.3096297868820012,0,1,pl,EAS,Asia
-'1c38b19449',extremes,Storm,#b3b2b1,random,miski kurzu,2026-03-02T04:27:00+00:00,,0.3095678224863326,0,1,pl,,
-'053bb10e09',extremes,Heat Wave,#c40202,random,indyjskie lato,2026-02-14T04:21:00+00:00,,0.3090552544119176,0,1,pl,,
-'3e5f311da7',extremes,Drought,#edc291,edo,okres suszy na Wyspach Świętego Tomasza i Książęcej,2026-02-25T04:33:00+00:00,Sao Tome and Principe,0.3090265463756586,0,1,pl,WAF,Africa
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,fala upałów w Chile,2026-02-25T04:32:00+00:00,Chile,0.3090161000292206,0,1,pl,SWS,South-America
-'af5e4ac005',extremes,Drought,#edc291,edo,okres suszy w Danii,2026-02-27T04:26:00+00:00,Denmark,0.3088276794127382,0,1,pl,NEU,Europe
-'69f6b18bc8',extremes,Drought,#edc291,edo,brak deszczu w Bangladeszu,2026-03-14T04:23:00+00:00,Bangladesh,0.3087514664419101,0,1,pl,SAS,Asia
-'0d1e3addbf',extremes,Storm,#b3b2b1,wmo,burza w Brazylii,2026-03-01T04:35:00+00:00,Brazil,0.3087461536853579,0,1,pl,SAM,South-America
 '7f426032e8',extremes,Drought,#edc291,edo,okres suszy w Bhutanie,2026-03-06T04:21:00+00:00,Bhutan,0.3086501780272623,0,1,pl,TIB,Asia
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,fala upałów corrientes y alrededores,2026-02-18T04:34:00+00:00,Argentina,0.3085993682714565,0,1,pl,SES,South-America
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,fala upałów w Argentynie,2026-03-03T04:27:00+00:00,Argentina,0.3084851982500523,0,1,pl,SES,South-America
@@ -320,17 +305,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd61de81685',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Chile,2026-03-03T04:27:00+00:00,Chile,0.3041896478489878,0,1,pl,SWS,South-America
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,najgorętszy rok,2026-03-12T04:25:00+00:00,,0.3030936944496941,1,1,pl,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,zamarzanie,2026-02-15T04:34:00+00:00,,0.3016032707239657,1,2,pl,,
+'0d1e3addbf',extremes,Storm,#b3b2b1,wmo,burza w Brazylii,2026-03-01T04:35:00+00:00,Brazil,0.3005342906325542,1,1,pl,SAM,South-America
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,spadki rtęci,2026-02-13T04:33:00+00:00,,0.2998232291544918,1,1,pl,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,ciężka pogoda,2026-03-04T04:20:00+00:00,,0.2983377331166906,1,1,pl,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,rzeka atmosferyczna,2026-02-28T04:07:00+00:00,,0.2981966620453958,1,1,pl,,
 'e160088f17',extremes,Drought,#edc291,edo,okres suszy na Ukrainie,2026-02-26T04:29:00+00:00,Ukraine,0.2884862109299637,2,1,pl,WCE,Europe
-'5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,wyjście na ląd,2026-03-15T04:44:00+00:00,,0.28818005828333365,1,1,pl,,
+'5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,wyjście na ląd,2026-03-15T04:44:00+00:00,,0.2881800582833336,1,1,pl,,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,krople rtęci,2026-03-12T04:25:00+00:00,,0.2832966439197469,1,1,pl,,
 'f90601fa23',extremes,Volcano,#b83202,random,erupcja wulkanu,2026-02-21T04:17:00+00:00,,0.2821976822612141,1,1,pl,,
 '8a2f2c0d0e',extremes,Drought,#edc291,edo,brak deszczu na Ukrainie,2026-02-20T04:27:00+00:00,Ukraine,0.2808900621603489,1,1,pl,WCE,Europe
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tajfun,2026-02-26T04:28:00+00:00,,0.2796898999779067,2,1,pl,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,cielenie się góry lodowej,2026-03-10T04:21:00+00:00,,0.2781108486876709,1,1,pl,,
-'1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,zamieć śnieżna,2026-02-28T04:07:00+00:00,,0.27750179952763443,1,1,pl,,
+'1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,zamieć śnieżna,2026-02-28T04:07:00+00:00,,0.2775017995276344,1,1,pl,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,najzimniejszy dzień,2026-02-17T04:30:00+00:00,,0.2715688485625385,1,1,pl,,
 'ae657332f9',extremes,Wildfire,#d60d2b,acwe,zakaz pożarów w Nowej Południowej Walii,2026-03-09T04:31:00+00:00,Australia,0.2713955307260379,1,1,pl,EAU,Oceania
 'e7d4154a2d',extremes,Heat Wave,#c40202,acwe,ciepłe zaklęcie w Tasmanii,2026-03-05T04:24:00+00:00,Australia,0.2713560046315142,1,1,pl,SAU,Oceania
@@ -354,7 +340,21 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3fa143a609',extremes,Storm,#b3b2b1,random,zamieć piaskowa,2026-03-09T04:30:00+00:00,,0.2668230071467348,1,1,pl,,
 'ccefefc59e',extremes,Drought,#edc291,random,błyskawiczna susza,2026-02-16T04:37:00+00:00,,0.2662158666734182,1,1,pl,,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,kopuła cieplna,2026-03-04T04:20:00+00:00,,0.2653338416040737,1,1,pl,,
+'628c910b11',extremes,Flood,#030ba1,aidr,powódź zalewa Nową Południową Walię 2022,2026-02-23T04:37:00+00:00,Australia,0.2652059051892275,1,1,pl,EAU,Oceania
+'55459a4ab8',extremes,Drought,#edc291,edo,susza w luksemburgu,2026-03-04T04:21:00+00:00,Luxembourg,0.2650929944928455,1,1,pl,WCE,Europe
+'e873273000',extremes,Storm,#b3b2b1,emdat,burza Malawi,2026-02-20T04:28:00+00:00,Malawi,0.2649862913725217,1,1,pl,ESAF,Africa
+'0d261f252d',extremes,Storm,#b3b2b1,random,zimowa wichura,2026-03-11T04:21:00+00:00,,0.26404465045341585,1,1,pl,,
+'5aa8518160',extremes,Wildfire,#d60d2b,emdat,pożar buszu bezanga,2026-03-13T04:25:00+00:00,Central African Republic,0.26382212148427536,1,1,pl,CAF,Africa
+'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,najzimniejszy rok,2026-03-05T04:23:00+00:00,,0.263801083100553,1,1,pl,,
+'0de7f7e548',extremes,Drought,#edc291,edo,susza w Kenii,2026-02-22T04:31:00+00:00,Kenya,0.2635306764023476,1,1,pl,SEAF,Africa
+'0c9a570bb1',extremes,Storm,#b3b2b1,aidr,tornado Murray River Townships Victoria 2013,2026-02-26T04:29:00+00:00,Australia,0.26326982218639533,1,1,pl,SAU,Oceania
 'd2e515b87c',extremes,Flood,#030ba1,cmeter,powódź w Kolumbii,2026-02-22T04:31:00+00:00,Colombia,0.263232456455023,1,1,pl,NWS,South-America
+'a1fcc33dde',extremes,Drought,#edc291,edo,okres suszy w Hongkongu,2026-02-25T04:33:00+00:00,Hong Kong,0.26318531884970103,1,1,pl,EAS,Asia
+'1c38b19449',extremes,Storm,#b3b2b1,random,miski kurzu,2026-03-02T04:27:00+00:00,,0.2631326491133827,1,1,pl,,
+'053bb10e09',extremes,Heat Wave,#c40202,random,indyjskie lato,2026-02-14T04:21:00+00:00,,0.26269696625012995,1,1,pl,,
+'3e5f311da7',extremes,Drought,#edc291,edo,okres suszy na Wyspach Świętego Tomasza i Książęcej,2026-02-25T04:33:00+00:00,Sao Tome and Principe,0.2626725644193098,1,1,pl,WAF,Africa
+'af5e4ac005',extremes,Drought,#edc291,edo,okres suszy w Danii,2026-02-27T04:26:00+00:00,Denmark,0.26250352750082745,1,1,pl,NEU,Europe
+'69f6b18bc8',extremes,Drought,#edc291,edo,brak deszczu w Bangladeszu,2026-03-14T04:23:00+00:00,Bangladesh,0.2624387464756236,1,1,pl,SAS,Asia
 'cf99db758d',extremes,Fog,#d60d2b,wmo,mgła na Łotwie,2026-02-28T04:07:00+00:00,Latvia,0.2606060208106429,1,1,pl,WCE,Europe
 '84a2fde8e0',extremes,Heat Wave,#c40202,wmo,fala upałów w Australii,2026-02-25T04:32:00+00:00,Australia,0.260590550582425,1,1,pl,CAU,Oceania
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,Arctis góry lodowej,2026-02-14T04:21:00+00:00,,0.2443407504066059,2,1,pl,,
