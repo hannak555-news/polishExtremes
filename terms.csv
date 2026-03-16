@@ -260,7 +260,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e5f311da7',extremes,Drought,#edc291,edo,okres suszy na Wyspach Świętego Tomasza i Książęcej,2026-02-25T04:33:00+00:00,Sao Tome and Principe,0.3090265463756586,0,1,pl,WAF,Africa
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,fala upałów w Chile,2026-02-25T04:32:00+00:00,Chile,0.3090161000292206,0,1,pl,SWS,South-America
 'af5e4ac005',extremes,Drought,#edc291,edo,okres suszy w Danii,2026-02-27T04:26:00+00:00,Denmark,0.3088276794127382,0,1,pl,NEU,Europe
+'69f6b18bc8',extremes,Drought,#edc291,edo,brak deszczu w Bangladeszu,2026-03-14T04:23:00+00:00,Bangladesh,0.3087514664419101,0,1,pl,SAS,Asia
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,burza w Brazylii,2026-03-01T04:35:00+00:00,Brazil,0.3087461536853579,0,1,pl,SAM,South-America
+'7f426032e8',extremes,Drought,#edc291,edo,okres suszy w Bhutanie,2026-03-06T04:21:00+00:00,Bhutan,0.3086501780272623,0,1,pl,TIB,Asia
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,fala upałów corrientes y alrededores,2026-02-18T04:34:00+00:00,Argentina,0.3085993682714565,0,1,pl,SES,South-America
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,fala upałów w Argentynie,2026-03-03T04:27:00+00:00,Argentina,0.3084851982500523,0,1,pl,SES,South-America
 '96f0408faf',extremes,Drought,#edc291,edo,susza na Łotwie,2026-02-25T04:33:00+00:00,Latvia,0.3082217854438468,0,1,pl,WCE,Europe
@@ -275,6 +277,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,zamarznięta Islandia,2026-02-18T04:34:00+00:00,Iceland,0.3068718313985285,0,1,pl,GIC,Europe
 'ce9a11c9c9',extremes,Tropical Cyclone,#4f4f4f,aidr,cyklon 2019 był poważnym cyklonem tropikalnym Veronica,2026-02-23T04:37:00+00:00,Australia,0.3068316102329143,0,1,pl,CAU,Oceania
 '4efa147b2d',extremes,Precipitation,#d60d2b,wmo,opady maeneo machache ya mkoa wa ruvuma.,2026-02-18T04:34:00+00:00,Tanzania,0.3068266467072088,0,1,pl,SEAF,Africa
+'429800b7a4',extremes,Drought,#edc291,edo,susza na Wyspach Owczych,2026-03-15T04:45:00+00:00,Faroe Islands,0.3068240060967855,0,1,pl,NEU,Europe
 'cf4f19d972',extremes,Cold Wave,#a7e9fa,wmo,mroźna Arabia Saudyjska,2026-02-28T04:07:00+00:00,Saudi Arabia,0.3066989969432253,0,1,pl,ARP,Asia
 '74236bd182',extremes,Drought,#edc291,edo,brak opadów w Islandii,2026-03-03T04:27:00+00:00,Iceland,0.3066897093677193,0,1,pl,GIC,Europe
 '8a654473a4',extremes,Drought,#edc291,edo,susza na Wyspach Świętego Tomasza i Książęcej,2026-03-10T04:22:00+00:00,Sao Tome and Principe,0.3066846604213136,0,1,pl,WAF,Africa
@@ -326,6 +329,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,mgła stany zjednoczone,2026-02-26T04:29:00+00:00,United States,0.3044731722039611,0,1,pl,CNA,North-America
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Argentynie,2026-02-25T04:32:00+00:00,Argentina,0.3044026607230085,0,1,pl,SES,South-America
 'b313634312',extremes,Precipitation,#d60d2b,wmo,opady mikoa ya lindi mtwara na ruvuma.,2026-03-14T04:22:00+00:00,Tanzania,0.3043944163608485,0,1,pl,SEAF,Africa
+'3af9fd3196',extremes,Precipitation,#d60d2b,wmo,opady mendoza gral alvear san rafael.,2026-03-13T04:25:00+00:00,Argentina,0.3043589783727583,0,1,pl,SES,South-America
+'61a00c0855',extremes,Drought,#edc291,edo,susza Surinamu,2026-03-04T04:21:00+00:00,Suriname,0.30422685242266134,0,1,pl,NSA,South-America
+'4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,lawina we francji,2026-02-25T04:32:00+00:00,France,0.3042162230522132,0,1,pl,WCE,Europe
+'2876c1c93a',extremes,Landslide,#572c03,wmo,lawina błotna w Norwegii,2026-02-25T04:32:00+00:00,Norway,0.3042156647110242,0,1,pl,NEU,Europe
+'b42f77f692',extremes,Snow Avalanche,#deddd5,wmo,lawina finnmarkskysten,2026-02-25T04:32:00+00:00,Norway,0.30421396795035016,0,1,pl,NEU,Europe
+'46757c038c',extremes,Thunderstorm,#53785a,wmo,grad w Afryce Południowej,2026-02-26T04:29:00+00:00,South Africa,0.304190431657252,0,1,pl,WSAF,Africa
+'d61de81685',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Chile,2026-03-03T04:27:00+00:00,Chile,0.3041896478489878,0,1,pl,SWS,South-America
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,najgorętszy rok,2026-03-12T04:25:00+00:00,,0.3030936944496941,1,1,pl,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,zamarzanie,2026-02-15T04:34:00+00:00,,0.3016032707239657,1,2,pl,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,spadki rtęci,2026-02-13T04:33:00+00:00,,0.2998232291544918,1,1,pl,,
