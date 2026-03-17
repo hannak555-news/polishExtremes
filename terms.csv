@@ -307,6 +307,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '46757c038c',extremes,Thunderstorm,#53785a,wmo,grad w Afryce Południowej,2026-02-26T04:29:00+00:00,South Africa,0.304190431657252,0,1,pl,WSAF,Africa
 'd61de81685',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Chile,2026-03-03T04:27:00+00:00,Chile,0.3041896478489878,0,1,pl,SWS,South-America
 'a138ccf5bc',extremes,Precipitation,#d60d2b,wmo,deszcz sucumbíos orellana y pastaza.,2026-03-03T04:27:00+00:00,Ecuador,0.3041466724088109,0,1,pl,NWS,South-America
+'155c83286e',extremes,Precipitation,#d60d2b,wmo,deszcz na półwyspie Coromandel,2026-03-11T04:22:00+00:00,New Zealand,0.3041346456438358,0,1,pl,NZ,Oceania
+'9a84ac4373',extremes,Tsunami,#690191,usgs,tsunami na Alasce,2026-02-25T04:32:00+00:00,Alaska,0.3041295319629609,0,1,pl,NWN,North-America
+'3d204af14f',extremes,Snow Avalanche,#deddd5,wmo,lawina lyngen,2026-02-25T04:32:00+00:00,Norway,0.3041118414378748,0,1,pl,NEU,Europe
+'6507524436',extremes,Tropical Cyclone,#4f4f4f,wmo,"cyklon tropikalny, jałowe wyspy na wschód",2026-02-25T04:32:00+00:00,United States,0.304095104246414,0,1,pl,CNA,North-America
+'52e589d51e',extremes,Precipitation,#d60d2b,wmo,deszcz w Nowej Zelandii,2026-03-05T04:24:00+00:00,New Zealand,0.3040609440158224,0,1,pl,NZ,Oceania
+'dc8be80c47',extremes,Drought,#edc291,edo,susza Wysp Owczych,2026-03-16T05:05:00+00:00,Faroe Islands,0.30405156934623156,0,1,pl,NEU,Europe
+'1613eab3ee',extremes,Drought,#edc291,edo,brak deszczu w Etiopii,2026-03-04T04:21:00+00:00,Ethiopia,0.3039771181073929,0,1,pl,NEAF,Africa
+'0a54633be0',extremes,Drought,#edc291,edo,brak deszczu luksemburg,2026-02-28T04:07:00+00:00,Luxembourg,0.3038834972891434,0,1,pl,WCE,Europe
+'9fb010255c',extremes,Precipitation,#d60d2b,wmo,opady cordoba gral roca rio cuarto.,2026-03-06T04:21:00+00:00,Argentina,0.30383889340513714,0,1,pl,SES,South-America
+'a960cc00c4',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz mendoza gral alvear san rafael.,2026-03-16T05:05:00+00:00,Argentina,0.30381743960794216,0,1,pl,SES,South-America
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,najgorętszy rok,2026-03-12T04:25:00+00:00,,0.3030936944496941,1,1,pl,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,zamarzanie,2026-02-15T04:34:00+00:00,,0.3016032707239657,1,2,pl,,
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,burza w Brazylii,2026-03-01T04:35:00+00:00,Brazil,0.3005342906325542,1,1,pl,SAM,South-America
@@ -346,7 +356,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3fa143a609',extremes,Storm,#b3b2b1,random,zamieć piaskowa,2026-03-09T04:30:00+00:00,,0.2668230071467348,1,1,pl,,
 '81df5b3034',extremes,Storm,#b3b2b1,aidr,"burza, grad w North Sydney, 2017",2026-02-14T04:22:00+00:00,,0.2667657011209708,1,1,pl,EAU,Oceania
 'ccefefc59e',extremes,Drought,#edc291,random,błyskawiczna susza,2026-02-16T04:37:00+00:00,,0.2662158666734182,1,1,pl,,
-'6ee9959447',extremes,Tropical Cyclone,#4f4f4f,emdat,cyklon tropikalny Madagaskar,2026-02-20T04:28:00+00:00,Madagascar,0.26582840664582574,1,1,pl,MDG,Africa
+'6ee9959447',extremes,Tropical Cyclone,#4f4f4f,emdat,cyklon tropikalny Madagaskar,2026-02-20T04:28:00+00:00,Madagascar,0.2658284066458257,1,1,pl,MDG,Africa
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,kopuła cieplna,2026-03-04T04:20:00+00:00,,0.2653338416040737,1,1,pl,,
 '628c910b11',extremes,Flood,#030ba1,aidr,powódź zalewa Nową Południową Walię 2022,2026-02-23T04:37:00+00:00,Australia,0.2652059051892275,1,1,pl,EAU,Oceania
 '55459a4ab8',extremes,Drought,#edc291,edo,susza w luksemburgu,2026-03-04T04:21:00+00:00,Luxembourg,0.2650929944928455,1,1,pl,WCE,Europe
