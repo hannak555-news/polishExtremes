@@ -1,8 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '8817fd285d',extremes,Snow&Ice,#d60d2b,wmo,śnieżna Polska,2026-02-25T04:32:00+00:00,Poland,0.6530559336759627,1,2,pl,WCE,Europe
-'9e020e244e',extremes,Drought,#edc291,edo,susza w polsce,2026-03-11T04:22:00+00:00,Poland,0.6401884018209875,0,1,pl,WCE,Europe
 'c2a1de8dc8',extremes,Storm,#b3b2b1,wmo,burza Polska,2026-03-14T04:22:00+00:00,Poland,0.6181479546123976,0,1,pl,WCE,Europe
 '9b59bee21e',extremes,Drought,#edc291,edo,okres suszy w polsce,2026-02-27T04:26:00+00:00,Poland,0.6016814113176581,2,2,pl,WCE,Europe
+'9e020e244e',extremes,Drought,#edc291,edo,susza w polsce,2026-03-11T04:22:00+00:00,Poland,0.5828602615478393,1,1,pl,WCE,Europe
 '151abfe1db',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat kartuski,2026-03-05T04:24:00+00:00,Poland,0.5737635095328081,1,1,pl,WCE,Europe
 'c30d27f803',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat bytowski,2026-03-05T04:24:00+00:00,Poland,0.5718678197572782,1,1,pl,WCE,Europe
 '4340c9e06c',extremes,Snow&Ice,#d60d2b,wmo,mroźna polska,2026-02-25T04:32:00+00:00,Poland,0.5538726850551882,1,1,pl,WCE,Europe
@@ -226,7 +226,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,opady w Ekwadorze,2026-02-18T04:34:00+00:00,Ecuador,0.3071802862074735,0,1,pl,NWS,South-America
 '8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,zamarznięta Islandia,2026-02-18T04:34:00+00:00,Iceland,0.3068718313985285,0,1,pl,GIC,Europe
 '0511e6ef31',extremes,Drought,#edc291,edo,okres suszy w Estonii,2026-02-28T04:07:00+00:00,Estonia,0.3065622789654603,0,1,pl,NEU,Europe
-'bd09b9486d',extremes,Drought,#edc291,edo,brak deszczu Dżibuti,2026-02-25T04:33:00+00:00,Djibouti,0.3064411481001536,0,1,pl,NEAF,Africa
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,ulewa Argentyna,2026-02-27T04:26:00+00:00,Argentina,0.306404049065885,0,1,pl,SES,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,deszcz Argentyna,2026-02-26T04:29:00+00:00,Argentina,0.3063758801444256,0,1,pl,SES,South-America
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz w Brazylii,2026-02-28T04:07:00+00:00,Brazil,0.3063360617938908,0,1,pl,SAM,South-America
@@ -350,23 +349,24 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '69f6b18bc8',extremes,Drought,#edc291,edo,brak deszczu w Bangladeszu,2026-03-14T04:23:00+00:00,Bangladesh,0.2624387464756236,1,1,pl,SAS,Asia
 '7f426032e8',extremes,Drought,#edc291,edo,okres suszy w Bhutanie,2026-03-06T04:21:00+00:00,Bhutan,0.2623526513231729,1,1,pl,TIB,Asia
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,fala upałów w Argentynie,2026-03-03T04:27:00+00:00,Argentina,0.2622124185125444,1,1,pl,SES,South-America
-'96f0408faf',extremes,Drought,#edc291,edo,susza na Łotwie,2026-02-25T04:33:00+00:00,Latvia,0.26198851762726977,1,1,pl,WCE,Europe
-'1a89155ed1',extremes,Drought,#edc291,edo,brak deszczu na Wyspach Świętego Tomasza i Książęcej,2026-03-03T04:27:00+00:00,Sao Tome and Principe,0.26198292167104736,1,1,pl,WAF,Africa
+'96f0408faf',extremes,Drought,#edc291,edo,susza na Łotwie,2026-02-25T04:33:00+00:00,Latvia,0.2619885176272697,1,1,pl,WCE,Europe
+'1a89155ed1',extremes,Drought,#edc291,edo,brak deszczu na Wyspach Świętego Tomasza i Książęcej,2026-03-03T04:27:00+00:00,Sao Tome and Principe,0.2619829216710473,1,1,pl,WAF,Africa
 '8e12d8e374',extremes,Heat Wave,#c40202,wmo,odporność na fale upałów i alrededores,2026-02-17T04:31:00+00:00,Argentina,0.2618830482825747,1,1,pl,SES,South-America
 'd98aa38709',extremes,Fog,#d60d2b,wmo,mgła Arabii Saudyjskiej,2026-02-28T04:07:00+00:00,Saudi Arabia,0.2611456811230659,1,1,pl,ARP,Asia
-'f6ff301646',extremes,Drought,#edc291,edo,susza w Somalii,2026-02-28T04:07:00+00:00,Somalia,0.26091600004125964,1,1,pl,NEAF,Africa
-'945465874b',extremes,Drought,#edc291,edo,susza Dżibuti,2026-03-07T04:13:00+00:00,Djibouti,0.26084481068202126,1,1,pl,NEAF,Africa
-'ce9a11c9c9',extremes,Tropical Cyclone,#4f4f4f,aidr,cyklon 2019 był poważnym cyklonem tropikalnym Veronica,2026-02-23T04:37:00+00:00,Australia,0.26080686869797715,1,1,pl,CAU,Oceania
+'f6ff301646',extremes,Drought,#edc291,edo,susza w Somalii,2026-02-28T04:07:00+00:00,Somalia,0.2609160000412596,1,1,pl,NEAF,Africa
+'945465874b',extremes,Drought,#edc291,edo,susza Dżibuti,2026-03-07T04:13:00+00:00,Djibouti,0.2608448106820212,1,1,pl,NEAF,Africa
+'ce9a11c9c9',extremes,Tropical Cyclone,#4f4f4f,aidr,cyklon 2019 był poważnym cyklonem tropikalnym Veronica,2026-02-23T04:37:00+00:00,Australia,0.2608068686979771,1,1,pl,CAU,Oceania
 '4efa147b2d',extremes,Precipitation,#d60d2b,wmo,opady maeneo machache ya mkoa wa ruvuma.,2026-02-18T04:34:00+00:00,Tanzania,0.2608026497011275,1,1,pl,SEAF,Africa
-'429800b7a4',extremes,Drought,#edc291,edo,susza na Wyspach Owczych,2026-03-15T04:45:00+00:00,Faroe Islands,0.26080040518226766,1,1,pl,NEU,Europe
-'cf4f19d972',extremes,Cold Wave,#a7e9fa,wmo,mroźna Arabia Saudyjska,2026-02-28T04:07:00+00:00,Saudi Arabia,0.26069414740174146,1,1,pl,ARP,Asia
-'74236bd182',extremes,Drought,#edc291,edo,brak opadów w Islandii,2026-03-03T04:27:00+00:00,Iceland,0.26068625296256137,1,1,pl,GIC,Europe
-'8a654473a4',extremes,Drought,#edc291,edo,susza na Wyspach Świętego Tomasza i Książęcej,2026-03-10T04:22:00+00:00,Sao Tome and Principe,0.26068196135811655,1,1,pl,WAF,Africa
+'429800b7a4',extremes,Drought,#edc291,edo,susza na Wyspach Owczych,2026-03-15T04:45:00+00:00,Faroe Islands,0.2608004051822676,1,1,pl,NEU,Europe
+'cf4f19d972',extremes,Cold Wave,#a7e9fa,wmo,mroźna Arabia Saudyjska,2026-02-28T04:07:00+00:00,Saudi Arabia,0.2606941474017414,1,1,pl,ARP,Asia
+'74236bd182',extremes,Drought,#edc291,edo,brak opadów w Islandii,2026-03-03T04:27:00+00:00,Iceland,0.2606862529625613,1,1,pl,GIC,Europe
+'8a654473a4',extremes,Drought,#edc291,edo,susza na Wyspach Świętego Tomasza i Książęcej,2026-03-10T04:22:00+00:00,Sao Tome and Principe,0.2606819613581165,1,1,pl,WAF,Africa
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,deszcz Brazylia,2026-02-26T04:29:00+00:00,Brazil,0.2606400090267528,1,1,pl,SAM,South-America
-'0769f23236',extremes,Wildfire,#d60d2b,emdat,pożar lasu w wioskach ndoubamoudou,2026-03-14T04:23:00+00:00,Central African Republic,0.26063614530364676,1,1,pl,CAF,Africa
+'0769f23236',extremes,Wildfire,#d60d2b,emdat,pożar lasu w wioskach ndoubamoudou,2026-03-14T04:23:00+00:00,Central African Republic,0.2606361453036467,1,1,pl,CAF,Africa
 '8abdb9b5f3',extremes,Landslide,#572c03,wmo,osuwisko w Norwegii,2026-02-25T04:32:00+00:00,Norway,0.2606103942273459,1,1,pl,NEU,Europe
 'cf99db758d',extremes,Fog,#d60d2b,wmo,mgła na Łotwie,2026-02-28T04:07:00+00:00,Latvia,0.2606060208106429,1,1,pl,WCE,Europe
 '84a2fde8e0',extremes,Heat Wave,#c40202,wmo,fala upałów w Australii,2026-02-25T04:32:00+00:00,Australia,0.260590550582425,1,1,pl,CAU,Oceania
-'6c6666b2af',extremes,Precipitation,#d60d2b,wmo,opady w Argentynie,2026-02-27T04:26:00+00:00,Argentina,0.26050355128499064,1,1,pl,SES,South-America
+'6c6666b2af',extremes,Precipitation,#d60d2b,wmo,opady w Argentynie,2026-02-27T04:26:00+00:00,Argentina,0.2605035512849906,1,1,pl,SES,South-America
+'bd09b9486d',extremes,Drought,#edc291,edo,brak deszczu Dżibuti,2026-02-25T04:33:00+00:00,Djibouti,0.2604749758851306,1,1,pl,NEAF,Africa
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,konik polny,2026-02-19T04:31:00+00:00,,0.2402631268604447,2,1,pl,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,rekordowe ciepło,2026-02-17T04:30:00+00:00,,0.2247599051172503,2,1,pl,,
