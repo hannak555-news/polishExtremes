@@ -15,11 +15,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '09a4f258b3',extremes,Flood,#030ba1,wmo,powódź błyskawiczna na Litwie,2026-03-15T04:45:00+00:00,Lithuania,0.5035604078876215,1,1,pl,WCE,Europe
 'f78a832811',extremes,Flood,#030ba1,wmo,powódź na Litwie,2026-03-10T04:22:00+00:00,Lithuania,0.499481810427026,1,1,pl,WCE,Europe
 '01dabc20f8',extremes,Snow&Ice,#d60d2b,wmo,lód województwo pomorskie powiat kartuski,2026-02-25T04:32:00+00:00,Poland,0.4958791882320721,1,1,pl,WCE,Europe
-'c30d27f803',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat bytowski,2026-03-05T04:24:00+00:00,Poland,0.48608764679368643,2,1,pl,WCE,Europe
+'c30d27f803',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat bytowski,2026-03-05T04:24:00+00:00,Poland,0.4860876467936864,2,1,pl,WCE,Europe
 '485a2e6d21',extremes,Flood,#030ba1,wmo,powódź błyskawiczna šilutė d. mun.,2026-03-11T04:22:00+00:00,Lithuania,0.4766075091602209,1,1,pl,WCE,Europe
 '16540eed11',extremes,Snow&Ice,#d60d2b,wmo,mróz na Litwie,2026-02-13T04:34:00+00:00,Lithuania,0.4750536247875979,2,1,pl,WCE,Europe
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,powódź,2026-03-15T04:44:00+00:00,,0.4729542325162271,1,2,pl,,
-'4340c9e06c',extremes,Snow&Ice,#d60d2b,wmo,mroźna polska,2026-02-25T04:32:00+00:00,Poland,0.47094179729690994,2,1,pl,WCE,Europe
+'4340c9e06c',extremes,Snow&Ice,#d60d2b,wmo,mroźna polska,2026-02-25T04:32:00+00:00,Poland,0.4709417972969099,2,1,pl,WCE,Europe
 'c1cda383b1',extremes,Fog,#d60d2b,wmo,mgła powiat panevėžys powiat utena,2026-03-08T04:24:00+00:00,Lithuania,0.4707276461628374,1,1,pl,WCE,Europe
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,cyklon,2026-02-05T04:27:00+00:00,,0.4681633986705737,2,2,pl,,
 'dd4408577a',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat sokólski,2026-03-06T04:21:00+00:00,Poland,0.4600182563460335,2,1,pl,WCE,Europe
@@ -54,7 +54,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ba72886521',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat mysłowicki,2026-02-18T04:34:00+00:00,Poland,0.4151889980410599,2,1,pl,WCE,Europe
 '0155e0a24b',extremes,Fog,#d60d2b,wmo,mgła województwo mazowieckie powiat siedlecki,2026-03-02T04:27:00+00:00,Poland,0.41238320057957,3,1,pl,WCE,Europe
 '3292e576a4',extremes,Storm,#b3b2b1,wmo,sztorm na wschodniej strefie przybrzeżnej,2026-02-17T04:31:00+00:00,Poland,0.4123167565935596,2,1,pl,WCE,Europe
-'bdeaf0d5e4',extremes,Fog,#d60d2b,wmo,mgła województwo podkarpackie powiat leski,2026-03-03T04:27:00+00:00,Poland,0.4117037175726099,3,1,pl,WCE,Europe
 '4d295ce2a7',extremes,Fog,#d60d2b,wmo,mgła województwo opolskie powiat opolski,2026-03-02T04:27:00+00:00,Poland,0.411282397724166,3,1,pl,WCE,Europe
 '311c122643',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat bielski,2026-03-02T04:27:00+00:00,Poland,0.4109041672020613,3,1,pl,WCE,Europe
 '135f8534c2',extremes,Precipitation,#d60d2b,random,więcej opadów,2026-03-05T04:23:00+00:00,,0.4089558548162705,2,1,pl,,
@@ -116,6 +115,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4eb1b4a797',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo śląskie powiat ruda śląska,2026-02-15T04:35:00+00:00,Poland,0.3872531234804325,2,1,pl,WCE,Europe
 '18c06e985f',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo lubelskie powiat puławski,2026-02-20T04:27:00+00:00,Poland,0.3868768956989658,2,1,pl,WCE,Europe
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,szron,2026-02-16T04:37:00+00:00,,0.3851944366064981,1,1,pl,,
+'fa9e452d04',extremes,Precipitation,#d60d2b,random,burza,2026-03-16T05:04:00+00:00,,0.38420899858672763,1,3,pl,,
 'a8c4741373',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo podlaskie powiat białostocki,2026-02-21T04:18:00+00:00,Poland,0.3830930112386257,2,1,pl,WCE,Europe
 '0a8e5743d9',extremes,Landslide,#572c03,random,osuwisko,2026-02-17T04:30:00+00:00,,0.3825965516509222,2,1,pl,,
 'd6b737433d',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo lubelskie powiat lubelski,2026-02-25T04:32:00+00:00,Poland,0.3824641427937307,3,1,pl,WCE,Europe
@@ -181,6 +181,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '98dc81fabf',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo lubelskie powiat zamojski,2026-02-21T04:18:00+00:00,Poland,0.3540195411386251,3,1,pl,WCE,Europe
 '4074f131bc',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo pomorskie powiat malborski,2026-02-16T04:38:00+00:00,Poland,0.3538066530172585,3,1,pl,WCE,Europe
 '80cc096e54',extremes,Precipitation,#d60d2b,wmo,ulewne deszcze powiat alytusski powiat wileński,2026-02-12T04:37:00+00:00,Lithuania,0.3537049064656734,1,1,pl,WCE,Europe
+'bdeaf0d5e4',extremes,Fog,#d60d2b,wmo,mgła województwo podkarpackie powiat leski,2026-03-03T04:27:00+00:00,Poland,0.3499481599367184,4,1,pl,WCE,Europe
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,ulewa,2026-03-04T04:20:00+00:00,,0.3489861809556877,1,1,pl,,
 'a4fa598711',extremes,Fog,#d60d2b,wmo,mgła województwo łódzkie powiat tomaszowski,2026-03-02T04:27:00+00:00,Poland,0.3484639002181949,4,1,pl,WCE,Europe
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,nocne przymrozki,2026-02-17T04:30:00+00:00,,0.3465218632994944,1,1,pl,,
@@ -188,7 +189,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '24e8a09787',extremes,Fog,#d60d2b,wmo,mgła województwo podkarpackie powiat krośnieński,2026-03-03T04:27:00+00:00,Poland,0.3449520894213962,4,1,pl,WCE,Europe
 'bda11b0ad5',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo lubuskie powiat żarski,2026-02-21T04:18:00+00:00,Poland,0.3441673943707741,3,1,pl,WCE,Europe
 '45500dcb47',extremes,Precipitation,#d60d2b,random,rekordowe opady,2026-02-16T04:37:00+00:00,,0.343231833165234,1,1,pl,,
-'984c06b3ba',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat grajewski,2026-03-06T04:21:00+00:00,Poland,0.34282503476934595,4,1,pl,WCE,Europe
+'984c06b3ba',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat grajewski,2026-03-06T04:21:00+00:00,Poland,0.3428250347693459,4,1,pl,WCE,Europe
 '9f0423d739',extremes,Drought,#edc291,random,susza,2026-02-15T04:34:00+00:00,,0.3412735653248687,1,1,pl,,
 '736e25dde1',extremes,Precipitation,#d60d2b,wmo,ulewa litwa,2026-02-21T04:18:00+00:00,Lithuania,0.339902332576405,2,1,pl,WCE,Europe
 'c948617fef',extremes,Heat Wave,#c40202,random,ekstremalne narażenie na ciepło,2026-02-26T04:28:00+00:00,,0.3370562659416374,1,1,pl,,
@@ -206,7 +207,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,rekordowo zimno,2026-03-17T04:30:00+00:00,,0.3151827846790475,1,1,pl,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-02-27T04:25:00+00:00,,0.3146620739730586,1,1,pl,,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,lód morski Antarktyki,2026-02-12T04:36:00+00:00,,0.3143865509249306,1,1,pl,,
-'fa9e452d04',extremes,Precipitation,#d60d2b,random,burza,2026-03-16T05:04:00+00:00,,0.3124920646474871,0,1,pl,,
 'd59a7e48d7',extremes,Drought,#edc291,random,ewapotranspiracja,2026-03-03T04:26:00+00:00,,0.3113772334521668,1,1,pl,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,zimna fala,2026-03-12T04:25:00+00:00,,0.3081590792022701,1,1,pl,,
 '0511e6ef31',extremes,Drought,#edc291,edo,okres suszy w Estonii,2026-02-28T04:07:00+00:00,Estonia,0.3065622789654603,0,1,pl,NEU,Europe
@@ -230,7 +230,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7b864c9f0d',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz Sierra,2026-03-08T04:24:00+00:00,Ecuador,0.3052542487106331,0,1,pl,NWS,South-America
 '9f6910b9f3',extremes,Precipitation,#d60d2b,wmo,ulewne deszcze Seszele,2026-03-07T04:12:00+00:00,Seychelles,0.3052499073042314,0,1,pl,EIO,Africa
 'fe5dc71b7f',extremes,Storm,#b3b2b1,wmo,burza Mendoza San Carlos San Rafael.,2026-03-14T04:22:00+00:00,Argentina,0.305211943439282,0,1,pl,SES,South-America
-'b9576a4c93',extremes,Storm,#b3b2b1,wmo,fala sztormowa Trynidad i Tobago,2026-03-15T04:45:00+00:00,Trinidad and Tobago,0.3051927076441421,0,1,pl,NSA,North-America
 'ca1f8ee565',extremes,Drought,#edc291,edo,okres suszy w Nepalu,2026-03-04T04:21:00+00:00,Nepal,0.3051301784734885,0,1,pl,TIB,Asia
 'f0f6b033ff',extremes,Precipitation,#d60d2b,wmo,deszcz Tanzania,2026-02-23T04:37:00+00:00,Tanzania,0.3051218383166041,0,1,pl,SEAF,Africa
 '9bfe6adaf5',extremes,Snow Avalanche,#deddd5,wmo,lawina czeczeńska republika,2026-02-26T04:29:00+00:00,Russia,0.3050225018868593,0,1,pl,ESB,Europe
@@ -372,7 +371,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz w Brazylii,2026-02-28T04:07:00+00:00,Brazil,0.2603856525248071,1,1,pl,SAM,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,ulewa brazylia,2026-02-25T04:32:00+00:00,Brazil,0.2602785192256816,1,1,pl,SAM,South-America
 '6fbc657cf9',extremes,Storm,#b3b2b1,wmo,burza rej. 1 litoral,2026-03-17T04:30:00+00:00,Chile,0.2600250148980709,1,1,pl,SWS,South-America
-'6b892b36d0',extremes,Storm,#b3b2b1,wmo,burza obszar 1 – umiarkowana,2026-03-10T04:22:00+00:00,Paraguay,0.25907842568636896,1,1,pl,SES,South-America
+'b9576a4c93',extremes,Storm,#b3b2b1,wmo,fala sztormowa Trynidad i Tobago,2026-03-15T04:45:00+00:00,Trinidad and Tobago,0.25941380149752075,1,1,pl,NSA,North-America
+'6b892b36d0',extremes,Storm,#b3b2b1,wmo,burza obszar 1 – umiarkowana,2026-03-10T04:22:00+00:00,Paraguay,0.2590784256863689,1,1,pl,SES,South-America
 '1073537f95',extremes,Landslide,#572c03,wmo,osuwisko skalne części westland fylke,2026-02-26T04:29:00+00:00,Norway,0.2579503828059035,1,1,pl,NEU,Europe
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,konik polny,2026-02-19T04:31:00+00:00,,0.2402631268604447,2,1,pl,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,rekordowe ciepło,2026-02-17T04:30:00+00:00,,0.2247599051172503,2,1,pl,,
