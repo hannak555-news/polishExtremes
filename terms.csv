@@ -290,7 +290,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '26349abe17',extremes,Tsunami,#690191,usgs,stacja tsunami attu,2026-03-04T04:20:00+00:00,Alaska,0.3033473607243976,0,1,pl,NPO,Pacific Ocean
 '3ea76ed422',extremes,Drought,#edc291,edo,susza w Korei Południowej,2026-02-28T04:07:00+00:00,South Korea,0.3033194472539436,0,1,pl,EAS,Asia
 '2096f9b691',extremes,Drought,#edc291,edo,brak deszczu w Bhutanie,2026-03-10T04:22:00+00:00,Bhutan,0.3033168011484517,0,1,pl,TIB,Asia
+'95436f364d',extremes,Storm,#b3b2b1,wmo,sztormowa fala litoral y occidente de sierra,2026-02-27T04:26:00+00:00,Ecuador,0.3032511324614753,0,1,pl,NWS,South-America
+'fa84ab2ea0',extremes,Thunderstorm,#53785a,wmo,ciężka pogoda w Afryce Południowej,2026-03-01T04:35:00+00:00,South Africa,0.3031866488672372,0,1,pl,WSAF,Africa
+'49e564d95b',extremes,Drought,#edc291,edo,susza na wyspach Svalbard i Jan Mayen,2026-03-02T04:27:00+00:00,Svalbard and Jan Mayen Islands,0.30318130031437135,0,1,pl,ARO,Arctica
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,najgorętszy rok,2026-03-12T04:25:00+00:00,,0.3030936944496941,1,1,pl,,
+'d865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,cyklon tropikalny w Australii,2026-02-27T04:26:00+00:00,Australia,0.3030019074924943,0,1,pl,EAU,Oceania
+'8d1767f806',extremes,Storm,#b3b2b1,wmo,fala sztormowa na Islandii,2026-02-27T04:26:00+00:00,Iceland,0.30298892972241137,0,1,pl,GIC,Europe
+'3421a57149',extremes,Storm,#b3b2b1,wmo,burza w Ekwadorze,2026-03-09T04:31:00+00:00,Ecuador,0.3029262993650868,0,1,pl,NWS,South-America
+'4dd12d0f3d',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz Arabia Saudyjska,2026-02-27T04:26:00+00:00,Saudi Arabia,0.3028804152028399,0,1,pl,ARP,Asia
+'0cdbf4ad8d',extremes,Snow&Ice,#d60d2b,wmo,mroźna Islandia,2026-03-07T04:12:00+00:00,Iceland,0.3028560460190475,0,1,pl,GIC,Europe
+'7be17d2b72',extremes,Storm,#b3b2b1,wmo,burza litoral y occidente de sierra,2026-03-01T04:35:00+00:00,Ecuador,0.3027407097453443,0,1,pl,NWS,South-America
+'c6ce45829e',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Brazylii,2026-03-02T04:27:00+00:00,Brazil,0.3026260324523653,0,1,pl,SAM,South-America
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,zamarzanie,2026-02-15T04:34:00+00:00,,0.3016032707239657,1,2,pl,,
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,burza w Brazylii,2026-03-01T04:35:00+00:00,Brazil,0.3005342906325542,1,1,pl,SAM,South-America
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,spadki rtęci,2026-02-13T04:33:00+00:00,,0.2998232291544918,1,1,pl,,
