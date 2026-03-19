@@ -26,6 +26,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,powódź,2026-03-15T04:44:00+00:00,,0.4729542325162271,1,2,pl,,
 '4340c9e06c',extremes,Snow&Ice,#d60d2b,wmo,mroźna polska,2026-02-25T04:32:00+00:00,Poland,0.4709417972969099,2,1,pl,WCE,Europe
 'c1cda383b1',extremes,Fog,#d60d2b,wmo,mgła powiat panevėžys powiat utena,2026-03-08T04:24:00+00:00,Lithuania,0.4707276461628374,1,1,pl,WCE,Europe
+'c0ea0632ba',extremes,Heat Wave,#c40202,random,upał,2026-02-13T04:33:00+00:00,,0.4699563764963386,3,2,pl,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,cyklon,2026-02-05T04:27:00+00:00,,0.4681633986705737,2,2,pl,,
 'dd4408577a',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat sokólski,2026-03-06T04:21:00+00:00,Poland,0.4600182563460335,2,1,pl,WCE,Europe
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,najzimniejsza zima,2026-03-01T04:34:00+00:00,,0.4571641494571943,3,2,pl,,
@@ -74,7 +75,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '81afc6dfd1',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo lubuskie powiat sulęciński,2026-02-21T04:18:00+00:00,Poland,0.4055203725804773,2,1,pl,WCE,Europe
 '9275e8cfe5',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo opolskie powiat nyski,2026-02-15T04:35:00+00:00,Poland,0.4050611867399903,2,1,pl,WCE,Europe
 'a1e7a0ac6b',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo pomorskie powiat gdyński,2026-02-16T04:38:00+00:00,Poland,0.4049098838498375,2,1,pl,WCE,Europe
-'c0ea0632ba',extremes,Heat Wave,#c40202,random,upał,2026-02-13T04:33:00+00:00,,0.4047721017603984,2,1,pl,,
 '9ac204f530',extremes,Snow&Ice,#d60d2b,wmo,lód województwo małopolskie powiat brzeski,2026-02-15T04:35:00+00:00,Poland,0.4040814380264923,2,1,pl,WCE,Europe
 '62084daeb0',extremes,Earthquake,#870007,random,trzęsienie ziemi,2026-02-27T04:25:00+00:00,,0.4040093369760466,1,3,pl,,
 '35d720d0d6',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat rybnicki,2026-02-15T04:35:00+00:00,Poland,0.403561642505032,2,1,pl,WCE,Europe
@@ -142,7 +142,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-02-28T04:07:00+00:00,,0.3736921081991771,1,2,pl,,
 '0ac109bff8',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo mazowieckie powiat miński,2026-02-25T04:32:00+00:00,Poland,0.3736510532658127,3,1,pl,WCE,Europe
 '11d8faf51c',extremes,Fog,#d60d2b,wmo,mgła województwo lubelskie powiat bialski,2026-03-02T04:27:00+00:00,Poland,0.3735624197386702,4,1,pl,WCE,Europe
-'b8837c167a',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo podlaskie powiat łomżyński,2026-02-25T04:32:00+00:00,Poland,0.3729367327385645,3,1,pl,WCE,Europe
 'e790e920e7',extremes,Snow&Ice,#d60d2b,wmo,lód województwo podlaskie powiat łomżyński,2026-02-14T04:21:00+00:00,Poland,0.372209902683373,2,1,pl,WCE,Europe
 '444fd18102',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo śląskie powiat gliwicki,2026-02-18T04:34:00+00:00,Poland,0.3713693206394272,3,1,pl,WCE,Europe
 '226aacca8d',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo śląskie powiat cieszyński,2026-02-18T04:34:00+00:00,Poland,0.3713454475904004,3,1,pl,WCE,Europe
@@ -210,6 +209,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '69791e5a17',extremes,Flood,#030ba1,random,powódź błyskawiczna,2026-03-04T04:20:00+00:00,,0.3277884791700448,1,1,pl,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,cyklon bombowy,2026-03-07T04:12:00+00:00,,0.3271135728483949,1,1,pl,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,huragan,2026-03-01T04:34:00+00:00,,0.3215604761843476,1,1,pl,,
+'b8837c167a',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo podlaskie powiat łomżyński,2026-02-25T04:32:00+00:00,Poland,0.3169962228277798,4,1,pl,WCE,Europe
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,rekordowo zimno,2026-03-17T04:30:00+00:00,,0.3151827846790475,1,1,pl,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-02-27T04:25:00+00:00,,0.3146620739730586,1,1,pl,,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,lód morski Antarktyki,2026-02-12T04:36:00+00:00,,0.3143865509249306,1,1,pl,,
