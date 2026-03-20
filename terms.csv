@@ -265,6 +265,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Brazylii,2026-03-02T04:27:00+00:00,Brazil,0.3026260324523653,0,1,pl,SAM,South-America
 'dbc5704393',extremes,Precipitation,#d60d2b,wmo,ulewa malawi,2026-03-15T04:45:00+00:00,Malawi,0.3025800196311244,0,1,pl,ESAF,Africa
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,burza w Kanadzie,2026-03-01T04:35:00+00:00,Canada,0.3025498732299582,0,1,pl,NEN,North-America
+'f1e7b52954',extremes,Flood,#030ba1,wmo,powódź błyskawiczna na Łotwie,2026-02-28T04:07:00+00:00,Latvia,0.3025368911535508,0,1,pl,WCE,Europe
+'300c9d7114',extremes,Snow&Ice,#d60d2b,wmo,śnieg w północno-zachodniej Islandii,2026-03-10T04:22:00+00:00,Iceland,0.30248682817919986,0,1,pl,GIC,Europe
+'7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,pożar w Indiach,2026-03-04T04:20:00+00:00,India,0.30246067598760823,0,1,pl,SAS,Asia
+'a042df04f6',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz w Tajlandii,2026-03-12T04:26:00+00:00,Thailand,0.3024270172917733,0,1,pl,SEA,Asia
+'b1d851a406',extremes,Storm,#b3b2b1,wmo,fala sztormowa el bayadh,2026-03-02T04:27:00+00:00,Algeria,0.3023644376620933,0,1,pl,SAH,Africa
+'6b471a0f5b',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Afryce Południowej,2026-03-01T04:35:00+00:00,South Africa,0.30236060159049816,0,1,pl,WSAF,Africa
+'eec215cb6d',extremes,Heat Wave,#c40202,wmo,fala upałów w obszarze 2 – silna,2026-03-04T04:20:00+00:00,Paraguay,0.30232783882249603,0,1,pl,SES,South-America
+'9c373151bb',extremes,Storm,#b3b2b1,wmo,burza obszar 1 – silna,2026-03-19T04:35:00+00:00,Paraguay,0.30231879123088745,0,1,pl,SES,South-America
+'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,opady tanzania,2026-03-09T04:31:00+00:00,Tanzania,0.3023040899246714,0,1,pl,SEAF,Africa
+'2267094058',extremes,Snow&Ice,#d60d2b,wmo,lód nowa zelandia,2026-03-01T04:35:00+00:00,New Zealand,0.3022835942248303,0,1,pl,NZ,Oceania
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,zamarzanie,2026-02-15T04:34:00+00:00,,0.3016032707239657,1,2,pl,,
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,burza w Brazylii,2026-03-01T04:35:00+00:00,Brazil,0.3005342906325542,1,1,pl,SAM,South-America
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,spadki rtęci,2026-02-13T04:33:00+00:00,,0.2998232291544918,1,1,pl,,
@@ -371,9 +381,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '416d23061d',extremes,Snow Avalanche,#deddd5,wmo,lawina jotunheimen,2026-03-17T04:30:00+00:00,Norway,0.2596204597325818,1,1,pl,NEU,Europe
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,opady w nowej zelandii,2026-03-06T04:21:00+00:00,New Zealand,0.2595231349433245,1,1,pl,NZ,Oceania
 '5a404b2b5a',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz Tanzania,2026-02-23T04:37:00+00:00,Tanzania,0.2595183898538425,1,1,pl,SEAF,Africa
-'20d3210be7',extremes,Heat Wave,#c40202,wmo,fala upałów bernardo de irigoyen y alrededores,2026-02-22T04:30:00+00:00,Argentina,0.25950737126780005,1,1,pl,SES,South-America
+'20d3210be7',extremes,Heat Wave,#c40202,wmo,fala upałów bernardo de irigoyen y alrededores,2026-02-22T04:30:00+00:00,Argentina,0.2595073712678,1,1,pl,SES,South-America
 'db0dc2e604',extremes,Precipitation,#d60d2b,wmo,opady seszele,2026-03-12T04:26:00+00:00,Seychelles,0.2594939095267279,1,1,pl,EIO,Africa
-'97bdbea9e0',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz amazonía.,2026-03-04T04:20:00+00:00,Ecuador,0.25947421416354843,1,1,pl,NWS,South-America
+'97bdbea9e0',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz amazonía.,2026-03-04T04:20:00+00:00,Ecuador,0.2594742141635484,1,1,pl,NWS,South-America
 '9f6910b9f3',extremes,Precipitation,#d60d2b,wmo,ulewne deszcze Seszele,2026-03-07T04:12:00+00:00,Seychelles,0.2594624212085967,1,1,pl,EIO,Africa
 'ca1f8ee565',extremes,Drought,#edc291,edo,okres suszy w Nepalu,2026-03-04T04:21:00+00:00,Nepal,0.2593606517024652,1,1,pl,TIB,Asia
 'c893beb51c',extremes,Snow&Ice,#d60d2b,wmo,kugaaruk śnieżny,2026-02-21T04:18:00+00:00,Canada,0.2592292565891439,1,1,pl,NEN,North-America
@@ -382,7 +392,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c6083600a3',extremes,Flood,#030ba1,acwe,wysoki poziom wody w zachodniej Australii,2026-03-10T04:22:00+00:00,Australia,0.2590487035537243,1,1,pl,CAU,Oceania
 '00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,cyklon australijski,2026-02-26T04:29:00+00:00,Australia,0.2590365670354067,1,1,pl,CAU,Oceania
 '02711610b5',extremes,Storm,#b3b2b1,wmo,burza w Argentynie,2026-02-25T04:32:00+00:00,Argentina,0.2588442802754887,1,1,pl,SES,South-America
-'be45bca4a8',extremes,Fog,#d60d2b,wmo,mgła stany zjednoczone,2026-02-26T04:29:00+00:00,United States,0.25880219637336693,1,1,pl,CNA,North-America
+'be45bca4a8',extremes,Fog,#d60d2b,wmo,mgła stany zjednoczone,2026-02-26T04:29:00+00:00,United States,0.2588021963733669,1,1,pl,CNA,North-America
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Argentynie,2026-02-25T04:32:00+00:00,Argentina,0.2587422616145572,1,1,pl,SES,South-America
 '3af9fd3196',extremes,Precipitation,#d60d2b,wmo,opady mendoza gral alvear san rafael.,2026-03-13T04:25:00+00:00,Argentina,0.2587051316168445,1,1,pl,SES,South-America
 'b42f77f692',extremes,Snow Avalanche,#deddd5,wmo,lawina finnmarkskysten,2026-02-25T04:32:00+00:00,Norway,0.2585818727577976,1,1,pl,NEU,Europe
