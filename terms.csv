@@ -30,6 +30,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,lek,2026-02-11T04:41:00+00:00,,0.4558711939211476,1,3,pl,,
 'a6a7337718',extremes,Fog,#d60d2b,wmo,mgła województwo lubuskie powiat słubicki,2026-03-05T04:24:00+00:00,Poland,0.4508648234688886,2,1,pl,WCE,Europe
 '7019b99295',extremes,Fog,#d60d2b,wmo,mgła województwo mazowieckie powiat płocki,2026-03-02T04:27:00+00:00,Poland,0.4443175097709256,3,1,pl,WCE,Europe
+'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,deszcz ze śniegiem,2026-03-21T04:17:00+00:00,,0.44383236146544625,1,2,pl,,
 '98db96b6de',extremes,Drought,#edc291,edo,susza na Litwie,2026-03-06T04:21:00+00:00,Lithuania,0.4425246771997008,2,1,pl,WCE,Europe
 '770c96b617',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat łomżyński,2026-03-02T04:27:00+00:00,Poland,0.4418079627729652,3,1,pl,WCE,Europe
 '4180f9da92',extremes,Flood,#030ba1,wmo,powódź šilutė d. mun.,2026-03-12T04:26:00+00:00,Lithuania,0.4414728238110911,1,1,pl,WCE,Europe
@@ -84,7 +85,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f52438cee0',extremes,Snow&Ice,#d60d2b,wmo,marznące województwo mazowieckie powiat płoński,2026-02-20T04:27:00+00:00,Poland,0.4002738209916278,2,1,pl,WCE,Europe
 'e559ab7ab7',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo łódzkie powiat łowicki,2026-02-20T04:27:00+00:00,Poland,0.3984638605979823,2,1,pl,WCE,Europe
 '6c11585835',extremes,Drought,#edc291,edo,susza na Litwie,2026-02-24T04:31:00+00:00,Lithuania,0.3982715133571137,2,1,pl,WCE,Europe
-'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,deszcz ze śniegiem,2026-03-21T04:17:00+00:00,,0.3980083781946427,0,1,pl,,
 '9439ebe263',extremes,Snow&Ice,#d60d2b,wmo,lód województwo lubelskie powiat lubelski,2026-02-20T04:27:00+00:00,Poland,0.3976312657321209,2,1,pl,WCE,Europe
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,mróz,2026-02-13T04:33:00+00:00,,0.3970571165287115,1,3,pl,,
 '19149b287e',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo łódzkie powiat sieradzki,2026-02-21T04:18:00+00:00,Poland,0.3967657075932447,2,1,pl,WCE,Europe
@@ -286,7 +286,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tajfun,2026-02-26T04:28:00+00:00,,0.2796898999779067,2,1,pl,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,cielenie się góry lodowej,2026-03-10T04:21:00+00:00,,0.2781108486876709,1,1,pl,,
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,zamieć śnieżna,2026-02-28T04:07:00+00:00,,0.2775017995276344,1,1,pl,,
-'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,spadki rtęci,2026-03-12T04:25:00+00:00,,0.27253830888427316,1,1,pl,,
+'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,spadki rtęci,2026-03-12T04:25:00+00:00,,0.2725383088842731,1,1,pl,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,najzimniejszy dzień,2026-02-17T04:30:00+00:00,,0.2715688485625385,1,1,pl,,
 'ae657332f9',extremes,Wildfire,#d60d2b,acwe,zakaz pożarów w Nowej Południowej Walii,2026-03-09T04:31:00+00:00,Australia,0.2713955307260379,1,1,pl,EAU,Oceania
 'e7d4154a2d',extremes,Heat Wave,#c40202,acwe,ciepłe zaklęcie w Tasmanii,2026-03-05T04:24:00+00:00,Australia,0.2713560046315142,1,1,pl,SAU,Oceania
