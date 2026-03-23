@@ -1,90 +1,251 @@
 ,phrase,label,sentiment,subjectivity,language,count
+IMWM,IMWM,ORG,0.11061946902654865,0.23893805309734506,en,11.300000000000002
+Apple,Apple,ORG,-0.03731572481572481,0.3226351351351351,en,7.400000000000001
 Ubisoft,Ubisoft,ORG,0.1609748276414943,0.5185786435786436,en,6.3
-Apple,Apple,ORG,-0.05210120068610634,0.4127358490566037,en,5.300000000000001
-Trump,Trump,ORG,0.0,0.0,en,3.5
+Google,Google,ORG,0.03295454545454545,0.6424242424242423,en,6.000000000000001
+Trump,Trump,ORG,0.024691358024691357,0.10493827160493827,en,5.4
+Reuters,Reuters,ORG,-0.015625,0.046875,en,4.0
+EU,EU,ORG,-0.02702702702702703,0.14189189189189189,en,3.7
+the Social Welfare Home,the Social Welfare Home,ORG,0.03809523809523809,0.05714285714285715,en,3.5
+Real Madrid,Real Madrid,ORG,0.30078125,0.45703125,en,3.1999999999999997
+the Champions League,the Champions League,ORG,0.0,0.0,en,3.0999999999999996
 PlusLiga,PlusLiga,ORG,0.0,0.32258064516129037,en,3.0999999999999996
+Netflix,Netflix,ORG,0.2207792207792208,0.17045454545454547,en,2.8
 the State Protection Service,the State Protection Service,ORG,0.0,0.35714285714285715,en,2.8
-Google,Google,ORG,0.01398601398601399,0.3846153846153846,en,2.6
-CNN,CNN,ORG,-0.2105263157894737,0.0,en,1.9
+Amazon Web Services,Amazon Web Services,ORG,-0.2261904761904762,0.2380952380952381,en,2.8
+the European Union,the European Union,ORG,0.08653846153846155,0.19423076923076926,en,2.5999999999999996
+Xbox,Xbox,ORG,0.11538461538461539,0.3461538461538462,en,2.5999999999999996
+Microsoft,Microsoft,ORG,0.47916666666666674,0.47916666666666663,en,2.4
+The White House,The White House,ORG,0.0,0.0,en,2.1999999999999997
+the Times of Israel,the Times of Israel,ORG,0.052631578947368425,0.0,en,1.9
+WP,WP,ORG,0.13157894736842105,0.2631578947368421,en,1.9
 SOP,SOP,ORG,0.0,0.0,en,1.9
-The White House,The White House,ORG,0.0,0.0,en,1.9
-the European Union,the European Union,ORG,0.0,0.04210526315789474,en,1.9
 the Ministry of National Defense,the Ministry of National Defense,ORG,-0.06578947368421052,0.06578947368421052,en,1.9
+the Pilecki Institute,the Pilecki Institute,ORG,-0.2105263157894737,0.0,en,1.9
+Toyota,Toyota,ORG,0.2920938710412395,0.29528366370471637,en,1.9
+Warner Bros.,Warner Bros.,ORG,0.15789473684210525,0.03508771929824561,en,1.9
+ARC Raiders,ARC Raiders,ORG,0.0,0.19736842105263158,en,1.9
+Paramount,Paramount,ORG,0.15789473684210525,0.03508771929824561,en,1.9
+CNN,CNN,ORG,-0.2105263157894737,0.0,en,1.9
+Smoke,Smoke,ORG,0.0,0.0,en,1.9
+The Ministry of National Defense,The Ministry of National Defense,ORG,-0.20175438596491227,0.3508771929824561,en,1.9
+RCB,RCB,ORG,0.0,0.2631578947368421,en,1.9
+SAS,SAS,ORG,-0.15789473684210528,0.0,en,1.9
+NASA,NASA,ORG,-0.13157894736842105,0.2631578947368421,en,1.9
 Toros,Toros,ORG,0.0,0.0,en,1.9
-IMWM,IMWM,ORG,0.0,0.0,en,1.8
-PGE Projekt Warszawa,PGE Projekt Warszawa,ORG,0.23529411764705885,0.5882352941176471,en,1.7
-the Peace Council,the Peace Council,ORG,-0.03676470588235294,0.5147058823529412,en,1.7
-the Champions League,the Champions League,ORG,0.0,0.0,en,1.7
+Brzesko,Brzesko,ORG,0.0,0.0,en,1.7
+the Armed Forces of Ukraine,the Armed Forces of Ukraine,ORG,0.029411764705882363,0.0,en,1.7
+the Polish Olympic Committee,the Polish Olympic Committee,ORG,0.05882352941176471,0.4705882352941177,en,1.7
+Patriots,Patriots,ORG,0.0,0.05882352941176471,en,1.7
+the National Council of the Judiciary,the National Council of the Judiciary,ORG,0.0,0.0,en,1.7
+the Ministry of Interior and Administration,the Ministry of Interior and Administration,ORG,0.0,0.0,en,1.7
 Biedronka,Biedronka,ORG,0.0,0.0,en,1.7
-Real Madrid,Real Madrid,ORG,0.29411764705882354,0.17647058823529416,en,1.7
-Audi,Audi,ORG,0.19607843137254902,0.3921568627450981,en,1.7
-Microsoft,Microsoft,ORG,0.5588235294117647,0.29411764705882354,en,1.7
 KGHM,KGHM,ORG,0.0,0.0,en,1.7
-EU,EU,ORG,0.0,0.0,en,1.3
+Audi,Audi,ORG,0.19607843137254902,0.3921568627450981,en,1.7
+the Peace Council,the Peace Council,ORG,-0.03676470588235294,0.5147058823529412,en,1.7
+Ekstraklasa,Ekstraklasa,ORG,0.0,0.0,en,1.7
+PGE Projekt Warszawa,PGE Projekt Warszawa,ORG,0.23529411764705885,0.5882352941176471,en,1.7
+the State Fire Service,the State Fire Service,ORG,-0.08823529411764706,0.25490196078431376,en,1.7
+AFP,AFP,ORG,0.0,0.0,en,1.7
+KSC,KSC,ORG,0.05882352941176471,0.23529411764705885,en,1.7
+AWS,AWS,ORG,-0.2058823529411765,0.11764705882352942,en,1.7
+NATO,NATO,ORG,-0.421875,0.8072916666666665,en,1.6
+The Institute of Meteorology and Water Management,The Institute of Meteorology and Water Management,ORG,-0.12820512820512822,0.3846153846153846,en,1.3
 Icebreakers,Icebreakers,ORG,0.0,0.0,en,1.3
-the European Weightlifting Federation,the European Weightlifting Federation,ORG,0.0,0.0,en,1.0
-the academy of the most,the academy of the most,ORG,0.625,0.0,en,1.0
+the TIME Economic Forum,the TIME Economic Forum,ORG,0.14529914529914528,0.13675213675213677,en,1.3
+Porsche,Porsche,ORG,0.0,0.0,en,1.3
+ILS,ILS,ORG,-0.18181818181818182,0.0,en,1.0
+Gołota,Gołota,ORG,0.0,0.0,en,1.0
+"the Mohito, Medicine","the Mohito, Medicine",ORG,0.675,0.0,en,1.0
+Samsung Galaxy Watch Ultra,Samsung Galaxy Watch Ultra,ORG,0.0,0.0,en,1.0
+Shingles,Shingles,ORG,-1.0,0.0,en,1.0
+European Union,European Union,ORG,0.4666666666666666,0.0,en,1.0
+the Saudi Ministry of Defense,the Saudi Ministry of Defense,ORG,-0.3,0.0,en,1.0
+Gessler,Gessler,ORG,0.0,0.0,en,1.0
+Guardiola,Guardiola,ORG,0.2,0.0,en,1.0
+Polsat Sport,Polsat Sport,ORG,0.2,0.0,en,1.0
+Rudbeckia,Rudbeckia,ORG,0.26666666666666666,0.0,en,1.0
+T-Rex 3,T-Rex 3,ORG,-0.15,0.0,en,1.0
+Galaxy Watch Ultra,Galaxy Watch Ultra,ORG,0.0,0.0,en,1.0
+Tasharovo,Tasharovo,ORG,0.0,0.0,en,1.0
+Pogoń,Pogoń,ORG,-0.2,0.0,en,1.0
+Philip,Philip,ORG,0.0,0.0,en,1.0
+MAGA,MAGA,ORG,0.0,0.0,en,1.0
+the General Directorate for National Roads and Motorways,the General Directorate for National Roads and Motorways,ORG,0.05000000000000002,0.0,en,1.0
+FBI,FBI,ORG,0.0,0.0,en,1.0
+Heiko,Heiko,ORG,0.16,0.0,en,1.0
+clickbait,clickbait,ORG,-0.2,0.0,en,1.0
+State of the Union,State of the Union,ORG,0.0,0.0,en,1.0
+Congress,Congress,ORG,0.0,0.0,en,1.0
+the House of Representatives,the House of Representatives,ORG,0.0,0.0,en,1.0
+Republican Party,Republican Party,ORG,0.0,0.0,en,1.0
+Easter,Easter,ORG,0.4,0.0,en,1.0
+Łazienkowska,Łazienkowska,ORG,-0.1,0.0,en,1.0
+The National Stadium,The National Stadium,ORG,0.375,0.0,en,1.0
+Lava,Lava,ORG,0.0,0.0,en,1.0
+PGE,PGE,ORG,-0.1,0.0,en,1.0
+SportMarketing.pl,SportMarketing.pl,ORG,0.0,0.0,en,1.0
+Kraków-Balice Airport,Kraków-Balice Airport,ORG,-0.4000000000000001,0.0,en,1.0
+the Ministry of Health,the Ministry of Health,ORG,0.25,0.0,en,1.0
+the Białowieża Forest,the Białowieża Forest,ORG,0.0,0.0,en,1.0
+the Knyszyńska Forest,the Knyszyńska Forest,ORG,0.0,0.0,en,1.0
+Ipsos,Ipsos,ORG,0.0,0.0,en,1.0
+Sejm,Sejm,ORG,0.0,0.0,en,1.0
+Justice,Justice,ORG,0.0,0.0,en,1.0
+the Ministry of Agriculture,the Ministry of Agriculture,ORG,0.0,0.0,en,1.0
+Piesiewicz,Piesiewicz,ORG,0.0,0.0,en,1.0
+State,State,ORG,0.125,0.0,en,1.0
+POC,POC,ORG,0.1,0.0,en,1.0
+ARC Raiders Creators Put Out Fire After Bug Detection,ARC Raiders Creators Put Out Fire After Bug Detection,ORG,0.0,0.0,en,1.0
+A4,A4,ORG,0.0,0.0,en,1.0
+Kraków,Kraków,ORG,0.0,0.0,en,1.0
+the Japanese Ministry of Health,the Japanese Ministry of Health,ORG,-0.15833333333333335,0.0,en,1.0
+the Clash Report,the Clash Report,ORG,-0.4,0.0,en,1.0
+Podkarpacie,Podkarpacie,ORG,0.0,0.0,en,1.0
+the British Maritime Merchant Operations Office,the British Maritime Merchant Operations Office,ORG,-0.13333333333333333,0.0,en,1.0
+the International Agency,the International Agency,ORG,-0.32499999999999996,0.0,en,1.0
+ATP,ATP,ORG,0.0,0.0,en,1.0
+ITIA,ITIA,ORG,0.0,0.0,en,1.0
+The Israeli Air Force,The Israeli Air Force,ORG,0.0,0.0,en,1.0
+Czarnek,Czarnek,ORG,0.0,0.0,en,1.0
+Przemysław Czarnek,Przemysław Czarnek,ORG,-0.0625,0.0,en,1.0
+TIME Economic Forum,TIME Economic Forum,ORG,0.06666666666666667,0.0,en,1.0
+PZU,PZU,ORG,0.19999999999999998,0.0,en,1.0
+the Monetary Policy Council,the Monetary Policy Council,ORG,0.0,0.0,en,1.0
+Digital,Digital,ORG,0.06666666666666667,0.0,en,1.0
+MEP,MEP,ORG,0.06818181818181818,0.0,en,1.0
+Widzew,Widzew,ORG,0.0,0.0,en,1.0
+Digital Shapers 2025,Digital Shapers 2025,ORG,0.0,0.0,en,1.0
+The Digital Poland Foundation,The Digital Poland Foundation,ORG,0.06666666666666667,0.0,en,1.0
+Digital Shapers 2025 List,Digital Shapers 2025 List,ORG,0.06666666666666667,0.0,en,1.0
+Cinderella,Cinderella,ORG,0.0,0.0,en,1.0
+Embark Studios,Embark Studios,ORG,0.25,0.0,en,1.0
+OpenAI,OpenAI,ORG,-0.8,0.0,en,1.0
+Bodo/Glimt,Bodo/Glimt,ORG,0.2,0.0,en,1.0
+the US Department of Defense,the US Department of Defense,ORG,-0.8,0.0,en,1.0
+ChatGPT,ChatGPT,ORG,0.0,0.0,en,1.0
+The Iranian Revolutionary Guard,The Iranian Revolutionary Guard,ORG,0.125,0.0,en,1.0
+the US Army's,the US Army's,ORG,0.125,0.0,en,1.0
+Central Command,Central Command,ORG,0.125,0.0,en,1.0
+Google Pixel,Google Pixel,ORG,0.0,0.0,en,1.0
+Arctic Metagaz,Arctic Metagaz,ORG,0.0,0.0,en,1.0
+arctic air,arctic air,ORG,0.0,0.0,en,1.0
+Paris Saint-Germain,Paris Saint-Germain,ORG,0.0,0.0,en,1.0
+The Office of Competition and Consumer Protection,The Office of Competition and Consumer Protection,ORG,0.0,0.0,en,1.0
+the PSG-Chelsea,the PSG-Chelsea,ORG,0.5,0.0,en,1.0
+the Office of Competition and Consumer Protection,the Office of Competition and Consumer Protection,ORG,0.0,0.0,en,1.0
+Nakhchivan,Nakhchivan,ORG,0.0,0.0,en,1.0
+"Bond, Skarpa","Bond, Skarpa",ORG,0.06818181818181818,0.0,en,1.0
+Yellow Tiger,Yellow Tiger,ORG,0.06818181818181818,0.0,en,1.0
+Sun,Sun,ORG,-0.2916666666666667,0.0,en,1.0
+the Norwegian Cinderella,the Norwegian Cinderella,ORG,0.425,0.0,en,1.0
+Bapco Energies,Bapco Energies,ORG,0.16666666666666666,0.0,en,1.0
+the Unmanned Systems Forces,the Unmanned Systems Forces,ORG,0.0,0.0,en,1.0
+the Bahraini Ministry of Interior,the Bahraini Ministry of Interior,ORG,0.16666666666666666,0.0,en,1.0
+FC Barca,FC Barca,ORG,0.0,0.0,en,1.0
+Civic Coalition,Civic Coalition,ORG,0.0,0.0,en,1.0
+Miecznik,Miecznik,ORG,0.0,0.0,en,1.0
+ANSA,ANSA,ORG,-0.25,0.0,en,1.0
+The Post Office,The Post Office,ORG,0.39999999999999997,0.0,en,1.0
+the Wall Street Journal,the Wall Street Journal,ORG,0.05000000000000002,0.0,en,1.0
+Finn,Finn,ORG,0.0,0.0,en,1.0
+Cracovia,Cracovia,ORG,0.05,0.0,en,1.0
+the Department of Homeland,the Department of Homeland,ORG,0.004999999999999999,0.0,en,1.0
+Sienkiewicz,Sienkiewicz,ORG,0.0,0.0,en,1.0
+The Italian Civil Defense,The Italian Civil Defense,ORG,0.25,0.0,en,1.0
+Business Insider Polska,Business Insider Polska,ORG,0.0,0.0,en,1.0
 the Polish Academy of Sciences,the Polish Academy of Sciences,ORG,0.0,0.0,en,1.0
+the academy of the most,the academy of the most,ORG,0.625,0.0,en,1.0
+WIBOR,WIBOR,ORG,0.0,0.0,en,1.0
 CJEU,CJEU,ORG,0.0,0.0,en,1.0
 The Court of Justice,The Court of Justice,ORG,0.0,0.0,en,1.0
 Kochański & Partn,Kochański & Partn,ORG,0.0,0.0,en,1.0
+Leonardo,Leonardo,ORG,0.0,0.0,en,1.0
 Macron,Macron,ORG,0.0,0.0,en,1.0
-the Ministry of Interior and Administration,the Ministry of Interior and Administration,ORG,0.0,0.0,en,1.0
 Wiejska Street,Wiejska Street,ORG,0.4333333333333333,0.0,en,1.0
-WIBOR,WIBOR,ORG,0.0,0.0,en,1.0
-Miecznik,Miecznik,ORG,0.0,0.0,en,1.0
-The Institute of Meteorology and Water Management,The Institute of Meteorology and Water Management,ORG,-0.30000000000000004,0.0,en,1.0
-diyAudio,diyAudio,ORG,-0.1,0.0,en,1.0
-the US Supreme Court,the US Supreme Court,ORG,0.09166666666666667,0.0,en,1.0
-Microsoft Gaming,Microsoft Gaming,ORG,0.02227272727272727,0.0,en,1.0
-Xbox,Xbox,ORG,0.3,0.0,en,1.0
-the Armed Forces of Ukraine,the Armed Forces of Ukraine,ORG,0.05000000000000002,0.0,en,1.0
-Flamingo,Flamingo,ORG,0.1,0.0,en,1.0
-Szczawno,Szczawno,ORG,0.0,0.0,en,1.0
-the Social Welfare Home,the Social Welfare Home,ORG,0.03333333333333333,0.0,en,1.0
-NATO,NATO,ORG,0.0,0.0,en,1.0
-WP,WP,ORG,0.0,0.0,en,1.0
-Jumper,Jumper,ORG,0.0,0.0,en,1.0
-Polsat News,Polsat News,ORG,0.4333333333333333,0.0,en,1.0
-Radio Zet,Radio Zet,ORG,0.0,0.0,en,1.0
-Małopolska,Małopolska,ORG,-0.75,0.0,en,1.0
-Secret,Secret,ORG,-0.4,0.0,en,1.0
-House,House,ORG,0.0,0.0,en,1.0
-Terlecki,Terlecki,ORG,0.0,0.0,en,1.0
+Bank Gospodarstwa Krajowego,Bank Gospodarstwa Krajowego,ORG,0.0,0.0,en,1.0
+Śródmieście,Śródmieście,ORG,0.0,0.0,en,1.0
+the European Weightlifting Federation,the European Weightlifting Federation,ORG,0.0,0.0,en,1.0
 Boniek,Boniek,ORG,0.1,0.0,en,1.0
-Cracovia,Cracovia,ORG,0.05,0.0,en,1.0
-Business Insider Polska,Business Insider Polska,ORG,0.0,0.0,en,1.0
-Xabi,Xabi,ORG,0.10000000000000002,0.0,en,1.0
-Atalanta Bergamo,Atalanta Bergamo,ORG,0.0,0.0,en,1.0
-TCL Electronics,TCL Electronics,ORG,0.13333333333333333,0.0,en,1.0
-Sony Corporation,Sony Corporation,ORG,0.13333333333333333,0.0,en,1.0
-TCL,TCL,ORG,0.0,0.0,en,1.0
-Sony,Sony,ORG,0.0,0.0,en,1.0
-CDATA,CDATA,ORG,0.2857142857142857,0.0,en,1.0
-Google Gemini,Google Gemini,ORG,0.0,0.0,en,1.0
-Apple Intelligence,Apple Intelligence,ORG,0.0,0.0,en,1.0
-Siri,Siri,ORG,0.13636363636363635,0.0,en,1.0
-Oder,Oder,ORG,0.375,0.0,en,1.0
-meteotsunami,meteotsunami,ORG,0.13333333333333333,0.0,en,1.0
-Meteotsunami,Meteotsunami,ORG,0.0,0.0,en,1.0
-Vistula,Vistula,ORG,0.4,0.0,en,1.0
-Motor Lublin,Motor Lublin,ORG,0.0,0.0,en,1.0
-Projekt RED,Projekt RED,ORG,0.0,0.0,en,1.0
-The Information,The Information,ORG,-0.125,0.0,en,1.0
-The Italian Civil Defense,The Italian Civil Defense,ORG,0.25,0.0,en,1.0
+Terlecki,Terlecki,ORG,0.0,0.0,en,1.0
+House,House,ORG,0.0,0.0,en,1.0
+Secret,Secret,ORG,-0.4,0.0,en,1.0
 the Polish Armed Forces,the Polish Armed Forces,ORG,0.0,0.0,en,1.0
-Sienkiewicz,Sienkiewicz,ORG,0.0,0.0,en,1.0
-the Department of Homeland,the Department of Homeland,ORG,0.004999999999999999,0.0,en,1.0
-Porsche,Porsche,ORG,0.0,0.0,en,1.0
-Ekstraklasa,Ekstraklasa,ORG,0.0,0.0,en,1.0
-Finn,Finn,ORG,0.0,0.0,en,1.0
-the Wall Street Journal,the Wall Street Journal,ORG,0.05000000000000002,0.0,en,1.0
 WSJ,WSJ,ORG,-0.016666666666666663,0.0,en,1.0
-IMAP,IMAP,ORG,0.10833333333333334,0.0,en,1.0
 the Central Military Commission,the Central Military Commission,ORG,-0.016666666666666663,0.0,en,1.0
+TCL,TCL,ORG,0.0,0.0,en,1.0
+Motor Lublin,Motor Lublin,ORG,0.0,0.0,en,1.0
+Vistula,Vistula,ORG,0.4,0.0,en,1.0
+Meteotsunami,Meteotsunami,ORG,0.0,0.0,en,1.0
+meteotsunami,meteotsunami,ORG,0.13333333333333333,0.0,en,1.0
+Oder,Oder,ORG,0.375,0.0,en,1.0
+Siri,Siri,ORG,0.13636363636363635,0.0,en,1.0
+Google Gemini,Google Gemini,ORG,0.0,0.0,en,1.0
+Xabi,Xabi,ORG,0.10000000000000002,0.0,en,1.0
+CDATA,CDATA,ORG,0.2857142857142857,0.0,en,1.0
+Sony,Sony,ORG,0.0,0.0,en,1.0
+Sony Corporation,Sony Corporation,ORG,0.13333333333333333,0.0,en,1.0
 Pandora,Pandora,ORG,0.0,0.0,en,1.0
-Tusk,Tusk,ORG,-0.2,0.0,en,1.0
-The Great Orchestra of Christmas Charity,The Great Orchestra of Christmas Charity,ORG,0.4,0.0,en,1.0
-the National Guard,the National Guard,ORG,0.13636363636363635,0.0,en,1.0
+TCL Electronics,TCL Electronics,ORG,0.13333333333333333,0.0,en,1.0
+Atalanta Bergamo,Atalanta Bergamo,ORG,0.0,0.0,en,1.0
+Projekt RED,Projekt RED,ORG,0.0,0.0,en,1.0
+Apple Intelligence,Apple Intelligence,ORG,0.0,0.0,en,1.0
+The Information,The Information,ORG,-0.125,0.0,en,1.0
+IMAP,IMAP,ORG,0.10833333333333334,0.0,en,1.0
 Java,Java,ORG,-0.06666666666666667,0.0,en,1.0
-Rudbeckia,Rudbeckia,ORG,0.26666666666666666,0.0,en,1.0
+the National Guard,the National Guard,ORG,0.13636363636363635,0.0,en,1.0
+The Great Orchestra of Christmas Charity,The Great Orchestra of Christmas Charity,ORG,0.4,0.0,en,1.0
+Tusk,Tusk,ORG,-0.2,0.0,en,1.0
+Pixel,Pixel,ORG,0.0,0.0,en,1.0
+Małopolska,Małopolska,ORG,-0.75,0.0,en,1.0
+Radio Zet,Radio Zet,ORG,0.0,0.0,en,1.0
+AI,AI,ORG,0.0,0.0,en,1.0
+Tribunal,Tribunal,ORG,0.0,0.0,en,1.0
+the National Cybersecurity System,the National Cybersecurity System,ORG,0.1,0.0,en,1.0
+Natalia,Natalia,ORG,0.005681818181818177,0.0,en,1.0
+unknownews,unknownews,ORG,0.0,0.0,en,1.0
+GIF,GIF,ORG,0.0,0.0,en,1.0
+Piotr Szulkin's,Piotr Szulkin's,ORG,-0.012499999999999997,0.0,en,1.0
+Szulkin,Szulkin,ORG,0.5,0.0,en,1.0
+Sci-Fi,Sci-Fi,ORG,0.5,0.0,en,1.0
+"the ""National Ammunition Reserve""","the ""National Ammunition Reserve""",ORG,-0.3333333333333333,0.0,en,1.0
+Sabalenka,Sabalenka,ORG,0.0,0.0,en,1.0
+diyAudio,diyAudio,ORG,-0.1,0.0,en,1.0
+Bologna,Bologna,ORG,0.3125,0.0,en,1.0
+Szczawno,Szczawno,ORG,0.0,0.0,en,1.0
+the Nursing Home,the Nursing Home,ORG,0.0,0.0,en,1.0
+Flamingo,Flamingo,ORG,0.1,0.0,en,1.0
+Kowalczyk,Kowalczyk,ORG,0.2857142857142857,0.0,en,1.0
+ICE,ICE,ORG,0.0,0.0,en,1.0
+Microsoft Gaming,Microsoft Gaming,ORG,0.02227272727272727,0.0,en,1.0
+Merz,Merz,ORG,0.0,0.0,en,1.0
+the US Supreme Court,the US Supreme Court,ORG,0.09166666666666667,0.0,en,1.0
+Belgrade Maracana,Belgrade Maracana,ORG,0.04999999999999999,0.0,en,1.0
+Red Star,Red Star,ORG,0.0,0.0,en,1.0
+IMGW,IMGW,ORG,0.35,0.0,en,1.0
+the Europa League,the Europa League,ORG,0.0,0.0,en,1.0
+FC Barcelona,FC Barcelona,ORG,-0.125,0.0,en,1.0
+Jumper,Jumper,ORG,0.0,0.0,en,1.0
+the Polish Speed ​​Skating Association,the Polish Speed ​​Skating Association,ORG,0.0,0.0,en,1.0
+the Institute of Meteorology and Water Management,the Institute of Meteorology and Water Management,ORG,0.0625,0.0,en,1.0
+Wójcik,Wójcik,ORG,0.0,0.0,en,1.0
+PZŁS,PZŁS,ORG,-0.125,0.0,en,1.0
+Gezani,Gezani,ORG,0.0,0.0,en,1.0
+Polsat News,Polsat News,ORG,0.4333333333333333,0.0,en,1.0
+PKP,PKP,ORG,0.1,0.0,en,1.0
+LPR,LPR,ORG,0.1,0.0,en,1.0
+The Ilya Oil Plant,The Ilya Oil Plant,ORG,0.0,0.0,en,1.0
+Nizhnekamsk,Nizhnekamsk,ORG,0.0,0.0,en,1.0
+Wirtuale 2026,Wirtuale 2026,ORG,0.0,0.0,en,1.0
+Nawrocki,Nawrocki,ORG,0.0,0.0,en,1.0
+Manlleu,Manlleu,ORG,-0.4166666666666667,0.0,en,1.0
+the Warsaw Police Prevention Department,the Warsaw Police Prevention Department,ORG,0.0,0.0,en,1.0
+The Ministry of Interior and Administration,The Ministry of Interior and Administration,ORG,0.0,0.0,en,1.0
+Real's Champions League,Real's Champions League,ORG,0.35,0.0,en,1.0
+Vinicius Junior,Vinicius Junior,ORG,-0.1,0.0,en,1.0
+Group,Group,ORG,0.0,0.0,en,1.0
+eu,eu,ORG,0.0,0.0,en,1.0
+the Security Service of Ukraine,the Security Service of Ukraine,ORG,-0.1,0.0,en,1.0
+The Russian Ministry of Defense,The Russian Ministry of Defense,ORG,0.0,0.0,en,1.0
+Nawrock,Nawrock,ORG,0.0,0.0,en,1.0
+iPhone,iPhone,ORG,0.2,0.0,en,1.0
