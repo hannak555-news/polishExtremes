@@ -6,7 +6,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2d16a4b13b',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat sopocki,2026-03-21T04:17:00+00:00,Poland,0.5128389401055566,2,1,pl,WCE,Europe
 '9b59bee21e',extremes,Drought,#edc291,edo,okres suszy w polsce,2026-02-27T04:26:00+00:00,Poland,0.5114292146200093,3,1,pl,WCE,Europe
 'c2a1de8dc8',extremes,Storm,#b3b2b1,wmo,burza Polska,2026-03-14T04:22:00+00:00,Poland,0.5034002295286113,3,2,pl,WCE,Europe
-'ca7c25a10a',extremes,Storm,#b3b2b1,wmo,fala sztormowa w zachodniej strefie przybrzeżnej,2026-03-18T04:36:00+00:00,Poland,0.5019566176441007,1,1,pl,WCE,Europe
 '90ef4b4bca',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat gdyński,2026-03-18T04:36:00+00:00,Poland,0.4997624884764001,2,1,pl,WCE,Europe
 '01dabc20f8',extremes,Snow&Ice,#d60d2b,wmo,lód województwo pomorskie powiat kartuski,2026-02-25T04:32:00+00:00,Poland,0.4958791882320721,1,1,pl,WCE,Europe
 '6b3658b4c9',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat gdański,2026-03-18T04:36:00+00:00,Poland,0.4894014895657306,2,1,pl,WCE,Europe
@@ -32,6 +31,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '56335c3ea8',extremes,Fog,#d60d2b,wmo,mgła rejon kłajpedzki,2026-03-21T04:17:00+00:00,Lithuania,0.4297723234728441,2,1,pl,WCE,Europe
 '19921559ce',extremes,Flood,#030ba1,wmo,powódź na Litwie,2026-03-17T04:30:00+00:00,Lithuania,0.429662429182877,2,1,pl,WCE,Europe
 '09a4f258b3',extremes,Flood,#030ba1,wmo,powódź błyskawiczna na Litwie,2026-03-15T04:45:00+00:00,Lithuania,0.4280263467044782,2,1,pl,WCE,Europe
+'ca7c25a10a',extremes,Storm,#b3b2b1,wmo,fala sztormowa w zachodniej strefie przybrzeżnej,2026-03-18T04:36:00+00:00,Poland,0.4266631249974856,2,1,pl,WCE,Europe
 '97d1399097',extremes,Fog,#d60d2b,wmo,mgła województwo opolskie powiat opolski,2026-03-02T04:27:00+00:00,Poland,0.4254882185920469,3,1,pl,WCE,Europe
 'f78a832811',extremes,Flood,#030ba1,wmo,powódź na Litwie,2026-03-10T04:22:00+00:00,Lithuania,0.4245595388629721,2,1,pl,WCE,Europe
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,szarańcza,2026-03-08T04:24:00+00:00,,0.4240079806913387,2,2,pl,,
@@ -46,7 +46,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ad93cfc99',extremes,Snow&Ice,#d60d2b,wmo,lód województwo pomorskie powiat słupski,2026-02-25T04:32:00+00:00,Poland,0.4155061308232615,2,1,pl,WCE,Europe
 'ba72886521',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat mysłowicki,2026-02-18T04:34:00+00:00,Poland,0.4151889980410599,2,1,pl,WCE,Europe
 '311c122643',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat bielski,2026-03-02T04:27:00+00:00,Poland,0.4109041672020613,3,1,pl,WCE,Europe
-'829105287e',extremes,Storm,#b3b2b1,wmo,burza Jamajka,2026-03-22T04:33:00+00:00,Jamaica,0.4103310856043879,1,2,pl,CAR,North-America
 '135f8534c2',extremes,Precipitation,#d60d2b,random,więcej opadów,2026-03-05T04:23:00+00:00,,0.4089558548162705,2,1,pl,,
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,lawina we francji,2026-02-25T04:32:00+00:00,France,0.4088838195943812,1,2,pl,WCE,Europe
 '489d1a30e1',extremes,Drought,#edc291,edo,susza na Ukrainie,2026-03-04T04:21:00+00:00,Ukraine,0.4087854209762944,1,1,pl,WCE,Europe
@@ -136,6 +135,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0155e0a24b',extremes,Fog,#d60d2b,wmo,mgła województwo mazowieckie powiat siedlecki,2026-03-02T04:27:00+00:00,Poland,0.3505257204926345,4,1,pl,WCE,Europe
 'bdeaf0d5e4',extremes,Fog,#d60d2b,wmo,mgła województwo podkarpackie powiat leski,2026-03-03T04:27:00+00:00,Poland,0.3499481599367184,4,1,pl,WCE,Europe
 '4d295ce2a7',extremes,Fog,#d60d2b,wmo,mgła województwo opolskie powiat opolski,2026-03-02T04:27:00+00:00,Poland,0.3495900380655411,4,1,pl,WCE,Europe
+'829105287e',extremes,Storm,#b3b2b1,wmo,burza Jamajka,2026-03-22T04:33:00+00:00,Jamaica,0.3489314377637297,2,2,pl,CAR,North-America
 'a4fa598711',extremes,Fog,#d60d2b,wmo,mgła województwo łódzkie powiat tomaszowski,2026-03-02T04:27:00+00:00,Poland,0.3484639002181949,4,1,pl,WCE,Europe
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,nocne przymrozki,2026-02-17T04:30:00+00:00,,0.3465218632994944,1,1,pl,,
 '30406c7856',extremes,Flood,#030ba1,cmeter,powodzie w Brazylii,2026-03-07T04:13:00+00:00,Brazil,0.3463089047085962,1,2,pl,SES,South-America
@@ -165,7 +165,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,trąba powietrzna,2026-03-14T04:22:00+00:00,,0.305933741421327,1,1,pl,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,szkwał śnieżny,2026-03-22T04:32:00+00:00,,0.3058887172815254,1,1,pl,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,indyjskie lato,2026-03-10T04:21:00+00:00,,0.3052187983609614,1,1,pl,,
-'4bfa6ec544',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Paragwaju,2026-02-22T04:30:00+00:00,Paraguay,0.3049999208517584,0,1,pl,SES,South-America
 'afc393e166',extremes,Precipitation,#d60d2b,wmo,opady w Afryce Południowej,2026-02-23T04:37:00+00:00,South Africa,0.3049961401721008,0,1,pl,WSAF,Africa
 'f63711b763',extremes,Snow Avalanche,#deddd5,wmo,lawina sunnmøre,2026-03-19T04:35:00+00:00,Norway,0.3049235609937491,0,1,pl,NEU,Europe
 '852eb2b733',extremes,Snow&Ice,#d60d2b,wmo,zamarzający półwysep Avalon na południowym wschodzie,2026-02-21T04:18:00+00:00,Canada,0.3049120631537407,0,1,pl,NEN,North-America
@@ -349,6 +348,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ca1f8ee565',extremes,Drought,#edc291,edo,okres suszy w Nepalu,2026-03-04T04:21:00+00:00,Nepal,0.2593606517024652,1,1,pl,TIB,Asia
 'f0f6b033ff',extremes,Precipitation,#d60d2b,wmo,deszcz Tanzania,2026-02-23T04:37:00+00:00,Tanzania,0.2593535625691134,1,1,pl,SEAF,Africa
 '9bfe6adaf5',extremes,Snow Avalanche,#deddd5,wmo,lawina czeczeńska republika,2026-02-26T04:29:00+00:00,Russia,0.2592691266038304,1,1,pl,ESB,Europe
+'4bfa6ec544',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Paragwaju,2026-02-22T04:30:00+00:00,Paraguay,0.25924993272399466,1,1,pl,SES,South-America
 'c893beb51c',extremes,Snow&Ice,#d60d2b,wmo,kugaaruk śnieżny,2026-02-21T04:18:00+00:00,Canada,0.2592292565891439,1,1,pl,NEN,North-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,marznąca Kanada,2026-03-20T04:26:00+00:00,Canada,0.2591843777250342,1,1,pl,NEN,North-America
 'b81a7e08cc',extremes,Precipitation,#d60d2b,wmo,ulewa Santa Elena.,2026-03-10T04:22:00+00:00,Ecuador,0.2590966484654074,1,1,pl,NWS,South-America
