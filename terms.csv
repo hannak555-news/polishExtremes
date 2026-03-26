@@ -1,7 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'3a9f7ed519',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo pomorskie powiat słupski,2026-03-25T04:33:00+00:00,Poland,0.6105051450909295,0,1,pl,WCE,Europe
 'f81802c0d3',extremes,Storm,#b3b2b1,wmo,burza województwo pomorskie powiat gdański,2026-03-25T04:33:00+00:00,Poland,0.5914453841823204,0,1,pl,WCE,Europe
 '1d9c104bbb',extremes,Storm,#b3b2b1,wmo,burza na Litwie,2026-03-15T04:45:00+00:00,Lithuania,0.5781496879910563,0,1,pl,WCE,Europe
+'0d2cb40c62',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo pomorskie powiat gdyński,2026-03-25T04:33:00+00:00,Poland,0.5744887203841371,0,1,pl,WCE,Europe
 '080f75259e',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo pomorskie powiat sztumski,2026-03-25T04:33:00+00:00,Poland,0.5690861459092555,0,1,pl,WCE,Europe
+'e385e0ba1c',extremes,Storm,#b3b2b1,wmo,wezbranie sztormowe województwo pomorskie powiat tczewski,2026-03-25T04:33:00+00:00,Poland,0.5569055001987699,0,1,pl,WCE,Europe
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,powódź,2026-03-15T04:44:00+00:00,,0.5200278993054597,2,2,pl,,
 '9e020e244e',extremes,Drought,#edc291,edo,susza w polsce,2026-03-11T04:22:00+00:00,Poland,0.5189617609683138,3,2,pl,WCE,Europe
 'cbec54141c',extremes,Fog,#d60d2b,wmo,mgła polska,2026-03-02T04:27:00+00:00,Poland,0.5169577879984282,4,2,pl,WCE,Europe
@@ -152,6 +155,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ccefefc59e',extremes,Drought,#edc291,random,błyskawiczna susza,2026-03-22T04:32:00+00:00,,0.3331456155057881,1,1,pl,,
 'f1d3442696',extremes,Drought,#edc291,edo,susza na Ukrainie,2026-03-10T04:22:00+00:00,Ukraine,0.3307911781978795,1,1,pl,WCE,Europe
 '9f0423d739',extremes,Drought,#edc291,random,susza,2026-03-08T04:24:00+00:00,,0.3286056513511324,1,1,pl,,
+'80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,gwałtowny spadek temperatury,2026-03-06T04:20:00+00:00,,0.3279652971560943,0,1,pl,,
 '69791e5a17',extremes,Flood,#030ba1,random,powódź błyskawiczna,2026-03-04T04:20:00+00:00,,0.3277884791700448,1,1,pl,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,cyklon bombowy,2026-03-07T04:12:00+00:00,,0.3271135728483949,1,1,pl,,
 '8126ce611e',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat moniecki,2026-03-06T04:21:00+00:00,Poland,0.3250549537051183,4,1,pl,WCE,Europe
