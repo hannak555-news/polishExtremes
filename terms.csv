@@ -1,9 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '3a9f7ed519',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo pomorskie powiat słupski,2026-03-25T04:33:00+00:00,Poland,0.6105051450909295,0,1,pl,WCE,Europe
+'0c47c83dd7',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo małopolskie powiat suski,2026-03-27T04:57:00+00:00,Poland,0.595020313866675,0,1,pl,WCE,Europe
 'a22387ad2e',extremes,Precipitation,#d60d2b,wmo,deszczowa polska,2026-03-26T04:56:00+00:00,Poland,0.5947105864304598,0,1,pl,WCE,Europe
 'f81802c0d3',extremes,Storm,#b3b2b1,wmo,burza województwo pomorskie powiat gdański,2026-03-25T04:33:00+00:00,Poland,0.5914453841823204,0,1,pl,WCE,Europe
 'a44f901c8a',extremes,Storm,#b3b2b1,wmo,burza województwo lubuskie powiat słubicki,2026-03-25T04:33:00+00:00,Poland,0.5783267394995769,0,1,pl,WCE,Europe
 '1d9c104bbb',extremes,Storm,#b3b2b1,wmo,burza na Litwie,2026-03-15T04:45:00+00:00,Lithuania,0.5781496879910563,0,1,pl,WCE,Europe
+'79bdde90d9',extremes,Storm,#b3b2b1,wmo,burza województwo lubuskie powiat żarski,2026-03-25T04:33:00+00:00,Poland,0.5778793616495432,0,1,pl,WCE,Europe
 '879e6634e1',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo małopolskie powiat suski,2026-03-26T04:56:00+00:00,Poland,0.5769672161117605,0,1,pl,WCE,Europe
 '6e288119bc',extremes,Precipitation,#d60d2b,wmo,opady w polsce,2026-03-26T04:56:00+00:00,Poland,0.5755477319236723,0,1,pl,WCE,Europe
 '0d2cb40c62',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo pomorskie powiat gdyński,2026-03-25T04:33:00+00:00,Poland,0.5744887203841371,0,1,pl,WCE,Europe
@@ -12,6 +14,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '69288ebd4f',extremes,Precipitation,#d60d2b,wmo,ulewne deszcze polska,2026-03-26T04:56:00+00:00,Poland,0.567508048506026,0,1,pl,WCE,Europe
 'e385e0ba1c',extremes,Storm,#b3b2b1,wmo,wezbranie sztormowe województwo pomorskie powiat tczewski,2026-03-25T04:33:00+00:00,Poland,0.5569055001987699,0,1,pl,WCE,Europe
 '589bf12fbd',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo pomorskie powiat słupski,2026-03-25T04:33:00+00:00,Poland,0.5533247975344775,0,1,pl,WCE,Europe
+'2c5cdc71cd',extremes,Precipitation,#d60d2b,wmo,ulewa województwo śląskie powiat rybnicki,2026-03-26T04:56:00+00:00,Poland,0.5345314478585944,0,1,pl,WCE,Europe
+'5be8ccb0ac',extremes,Precipitation,#d60d2b,wmo,deszczowe województwo śląskie powiat raciborski,2026-03-26T04:56:00+00:00,Poland,0.5279157509980784,0,1,pl,WCE,Europe
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,powódź,2026-03-15T04:44:00+00:00,,0.5200278993054597,2,2,pl,,
 '9e020e244e',extremes,Drought,#edc291,edo,susza w polsce,2026-03-11T04:22:00+00:00,Poland,0.5189617609683138,3,2,pl,WCE,Europe
 'cbec54141c',extremes,Fog,#d60d2b,wmo,mgła polska,2026-03-02T04:27:00+00:00,Poland,0.5169577879984282,4,2,pl,WCE,Europe
