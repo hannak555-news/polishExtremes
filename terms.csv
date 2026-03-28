@@ -9,6 +9,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '79bdde90d9',extremes,Storm,#b3b2b1,wmo,burza województwo lubuskie powiat żarski,2026-03-25T04:33:00+00:00,Poland,0.5778793616495432,0,1,pl,WCE,Europe
 '879e6634e1',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo małopolskie powiat suski,2026-03-26T04:56:00+00:00,Poland,0.5769672161117605,0,1,pl,WCE,Europe
 '6e288119bc',extremes,Precipitation,#d60d2b,wmo,opady w polsce,2026-03-26T04:56:00+00:00,Poland,0.5755477319236723,0,1,pl,WCE,Europe
+'2206074bfa',extremes,Precipitation,#d60d2b,wmo,ulewa polska,2026-03-26T04:56:00+00:00,Poland,0.57529695355647,0,1,pl,WCE,Europe
 '0d2cb40c62',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo pomorskie powiat gdyński,2026-03-25T04:33:00+00:00,Poland,0.5744887203841371,0,1,pl,WCE,Europe
 '080f75259e',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo pomorskie powiat sztumski,2026-03-25T04:33:00+00:00,Poland,0.5690861459092555,0,1,pl,WCE,Europe
 'd8f2c766c4',extremes,Storm,#b3b2b1,wmo,wezbranie sztormowe województwo lubuskie powiat sulęciński,2026-03-25T04:33:00+00:00,Poland,0.5689916248318442,0,1,pl,WCE,Europe
@@ -16,7 +17,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'feffdb8947',extremes,Storm,#b3b2b1,wmo,burza województwo pomorskie powiat kartuski,2026-03-25T04:33:00+00:00,Poland,0.5580608827501753,0,1,pl,WCE,Europe
 'e385e0ba1c',extremes,Storm,#b3b2b1,wmo,wezbranie sztormowe województwo pomorskie powiat tczewski,2026-03-25T04:33:00+00:00,Poland,0.5569055001987699,0,1,pl,WCE,Europe
 '589bf12fbd',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo pomorskie powiat słupski,2026-03-25T04:33:00+00:00,Poland,0.5533247975344775,0,1,pl,WCE,Europe
+'9d248c7381',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo śląskie powiat bielski,2026-03-28T04:33:00+00:00,Poland,0.5465528696200759,0,1,pl,WCE,Europe
 '2c5cdc71cd',extremes,Precipitation,#d60d2b,wmo,ulewa województwo śląskie powiat rybnicki,2026-03-26T04:56:00+00:00,Poland,0.5345314478585944,0,1,pl,WCE,Europe
+'432920d326',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat żywiecki,2026-03-28T04:33:00+00:00,Poland,0.5297554163891512,0,1,pl,WCE,Europe
 '5be8ccb0ac',extremes,Precipitation,#d60d2b,wmo,deszczowe województwo śląskie powiat raciborski,2026-03-26T04:56:00+00:00,Poland,0.5279157509980784,0,1,pl,WCE,Europe
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,powódź,2026-03-15T04:44:00+00:00,,0.5200278993054597,2,2,pl,,
 '9e020e244e',extremes,Drought,#edc291,edo,susza w polsce,2026-03-11T04:22:00+00:00,Poland,0.5189617609683138,3,2,pl,WCE,Europe
@@ -35,6 +38,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '12d45ed01c',extremes,Precipitation,#d60d2b,wmo,deszcz województwo małopolskie powiat krakowski,2026-03-27T04:57:00+00:00,Poland,0.474596689739818,0,1,pl,WCE,Europe
 '8817fd285d',extremes,Snow&Ice,#d60d2b,wmo,śnieżna Polska,2026-02-25T04:32:00+00:00,Poland,0.471832937580883,3,1,pl,WCE,Europe
 '4340c9e06c',extremes,Snow&Ice,#d60d2b,wmo,mroźna polska,2026-02-25T04:32:00+00:00,Poland,0.4709417972969099,2,1,pl,WCE,Europe
+'f668c483f9',extremes,Precipitation,#d60d2b,wmo,deszczowe województwo śląskie powiat cieszyński,2026-03-27T04:57:00+00:00,Poland,0.46386028571359517,0,1,pl,WCE,Europe
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,najzimniejsza zima,2026-03-01T04:34:00+00:00,,0.4571641494571943,3,2,pl,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,lek,2026-02-11T04:41:00+00:00,,0.4558711939211476,1,3,pl,,
 'a6a7337718',extremes,Fog,#d60d2b,wmo,mgła województwo lubuskie powiat słubicki,2026-03-05T04:24:00+00:00,Poland,0.4508648234688886,2,1,pl,WCE,Europe
@@ -113,7 +117,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '18c06e985f',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo lubelskie powiat puławski,2026-02-20T04:27:00+00:00,Poland,0.3868768956989658,2,1,pl,WCE,Europe
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,burza,2026-03-16T05:04:00+00:00,,0.3842089985867276,1,3,pl,,
 'a8c4741373',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo podlaskie powiat białostocki,2026-02-21T04:18:00+00:00,Poland,0.3830930112386257,2,1,pl,WCE,Europe
-'8447ef896b',extremes,Snow&Ice,#d60d2b,random,błoto pośniegowe,2026-03-27T04:56:00+00:00,,0.38287652317156057,0,1,pl,,
+'8447ef896b',extremes,Snow&Ice,#d60d2b,random,błoto pośniegowe,2026-03-27T04:56:00+00:00,,0.3828765231715605,0,1,pl,,
 'd6b737433d',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo lubelskie powiat lubelski,2026-02-25T04:32:00+00:00,Poland,0.3824641427937307,3,1,pl,WCE,Europe
 'ac67de1c44',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo łódzkie powiat kutnowski,2026-02-20T04:27:00+00:00,Poland,0.3820244475322123,2,1,pl,WCE,Europe
 '4a103373c4',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo podlaskie powiat łomżyński,2026-02-21T04:18:00+00:00,Poland,0.3813185949911483,2,1,pl,WCE,Europe
@@ -180,9 +184,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8126ce611e',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat moniecki,2026-03-06T04:21:00+00:00,Poland,0.3250549537051183,4,1,pl,WCE,Europe
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,huragan,2026-03-01T04:34:00+00:00,,0.3215604761843476,1,1,pl,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,najzimniejszy dzień,2026-03-18T04:35:00+00:00,,0.3179232336051053,0,1,pl,,
+'b1f61292dd',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny 28p,2026-03-24T04:31:00+00:00,,0.3159551579704646,0,1,pl,SPO,Pacific Ocean
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,rekordowo zimno,2026-03-17T04:30:00+00:00,,0.3151827846790475,1,1,pl,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-02-27T04:25:00+00:00,,0.3146620739730586,1,1,pl,,
 '792a35d4a4',extremes,Flood,#030ba1,random,powódź opadowa,2026-03-24T04:31:00+00:00,,0.313683898390347,0,1,pl,,
+'dba9977fc1',extremes,Drought,#edc291,edo,brak opadów na Wyspach Owczych,2026-03-20T04:26:00+00:00,Faroe Islands,0.31144566544613805,0,1,pl,NEU,Europe
 'd59a7e48d7',extremes,Drought,#edc291,random,ewapotranspiracja,2026-03-03T04:26:00+00:00,,0.3113772334521668,1,1,pl,,
 '8d5bbc659e',extremes,Flood,#030ba1,emdat,powódź w Malawi,2026-03-24T04:32:00+00:00,Malawi,0.3110488392092518,0,1,pl,ESAF,Africa
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,zimna fala,2026-03-12T04:25:00+00:00,,0.3081590792022701,1,1,pl,,
