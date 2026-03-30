@@ -125,6 +125,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd6b737433d',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo lubelskie powiat lubelski,2026-02-25T04:32:00+00:00,Poland,0.3824641427937307,3,1,pl,WCE,Europe
 'ac67de1c44',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo łódzkie powiat kutnowski,2026-02-20T04:27:00+00:00,Poland,0.3820244475322123,2,1,pl,WCE,Europe
 '4a103373c4',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo podlaskie powiat łomżyński,2026-02-21T04:18:00+00:00,Poland,0.3813185949911483,2,1,pl,WCE,Europe
+'9aceadd432',extremes,Heat Wave,#c40202,random,rekordowe ciepło,2026-03-30T05:11:00+00:00,,0.3796833400487605,0,1,pl,,
 '10607b408c',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo małopolskie powiat brzeski,2026-02-21T04:18:00+00:00,Poland,0.3786128779578316,2,1,pl,WCE,Europe
 '7019b99295',extremes,Fog,#d60d2b,wmo,mgła województwo mazowieckie powiat płocki,2026-03-02T04:27:00+00:00,Poland,0.3776698833052867,4,1,pl,WCE,Europe
 '54927bfe65',extremes,Flood,#030ba1,random,powódź przybrzeżna,2026-03-27T04:56:00+00:00,,0.377126579578721,0,1,pl,,
@@ -187,14 +188,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,cyklon bombowy,2026-03-07T04:12:00+00:00,,0.3271135728483949,1,1,pl,,
 '8126ce611e',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat moniecki,2026-03-06T04:21:00+00:00,Poland,0.3250549537051183,4,1,pl,WCE,Europe
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,huragan,2026-03-01T04:34:00+00:00,,0.3215604761843476,1,1,pl,,
+'77611cd126',extremes,Cold Wave,#a7e9fa,acwe,zimna pogoda w południowej Australii,2026-03-30T05:12:00+00:00,Australia,0.3193418390364817,0,1,pl,CAU,Oceania
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,najzimniejszy dzień,2026-03-18T04:35:00+00:00,,0.3179232336051053,0,1,pl,,
 'b1f61292dd',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny 28p,2026-03-24T04:31:00+00:00,,0.3159551579704646,0,1,pl,SPO,Pacific Ocean
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,rekordowo zimno,2026-03-17T04:30:00+00:00,,0.3151827846790475,1,1,pl,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-02-27T04:25:00+00:00,,0.3146620739730586,1,1,pl,,
 '792a35d4a4',extremes,Flood,#030ba1,random,powódź opadowa,2026-03-24T04:31:00+00:00,,0.313683898390347,0,1,pl,,
+'db9244a045',extremes,Drought,#edc291,acwe,susza Wiktoria,2026-03-29T05:01:00+00:00,Australia,0.31236130567381515,0,1,pl,SAU,Oceania
 'dba9977fc1',extremes,Drought,#edc291,edo,brak opadów na Wyspach Owczych,2026-03-20T04:26:00+00:00,Faroe Islands,0.311445665446138,0,1,pl,NEU,Europe
 'd59a7e48d7',extremes,Drought,#edc291,random,ewapotranspiracja,2026-03-03T04:26:00+00:00,,0.3113772334521668,1,1,pl,,
-'9969e8e386',extremes,Flood,#030ba1,emdat,powódź w regionie centralnym,2026-03-24T04:32:00+00:00,Kenya,0.31119107108889305,0,1,pl,SEAF,Africa
+'9969e8e386',extremes,Flood,#030ba1,emdat,powódź w regionie centralnym,2026-03-24T04:32:00+00:00,Kenya,0.311191071088893,0,1,pl,SEAF,Africa
 '8d5bbc659e',extremes,Flood,#030ba1,emdat,powódź w Malawi,2026-03-24T04:32:00+00:00,Malawi,0.3110488392092518,0,1,pl,ESAF,Africa
 'ed806b22f8',extremes,Drought,#edc291,edo,susza w Bhutanie,2026-03-19T04:35:00+00:00,Bhutan,0.3107393905397488,0,1,pl,TIB,Asia
 '7e68dc4baa',extremes,Drought,#edc291,edo,susza w Bhutanie,2026-03-20T04:26:00+00:00,Bhutan,0.308200872080606,0,1,pl,TIB,Asia
@@ -202,14 +205,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '548a967433',extremes,Storm,#b3b2b1,emdat,burza tete,2026-03-24T04:32:00+00:00,Mozambique,0.3080423630688019,0,1,pl,ESAF,Africa
 '1512e9c6b2',extremes,Drought,#edc291,edo,okres suszy w Surinamie,2026-03-25T04:33:00+00:00,Suriname,0.3079867827810443,0,1,pl,NSA,South-America
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,burza w Nowej Zelandii,2026-03-24T04:31:00+00:00,New Zealand,0.3077925354998936,0,1,pl,NZ,Oceania
+'c47d7a4f90',extremes,Snow&Ice,#d60d2b,wmo,śnieg w Austrii,2026-03-25T04:33:00+00:00,Austria,0.3075731661603725,0,1,pl,WCE,Europe
 'e7e7fc0a58',extremes,Snow&Ice,#d60d2b,wmo,mróz bregenz,2026-03-25T04:33:00+00:00,Austria,0.3073919949138848,0,1,pl,WCE,Europe
-'4a4ee6b9d7',extremes,Storm,#b3b2b1,wmo,fala sztormowa wien währing,2026-03-25T04:33:00+00:00,Austria,0.30732274711499113,0,1,pl,WCE,Europe
+'4a4ee6b9d7',extremes,Storm,#b3b2b1,wmo,fala sztormowa wien währing,2026-03-25T04:33:00+00:00,Austria,0.3073227471149911,0,1,pl,WCE,Europe
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Nowej Zelandii,2026-03-25T04:33:00+00:00,New Zealand,0.3073017129476323,0,1,pl,NZ,Oceania
 '6171ca62b4',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Irlandii,2026-03-25T04:33:00+00:00,Ireland,0.3072871531175196,0,1,pl,NEU,Europe
 'ddcce350d3',extremes,Storm,#b3b2b1,wmo,burza auckland i wielka wyspa barierowa,2026-03-26T04:56:00+00:00,New Zealand,0.3072846747687244,0,1,pl,NZ,Oceania
 '9883dfe0ae',extremes,Storm,#b3b2b1,wmo,fala sztormowa völkermarkt,2026-03-25T04:33:00+00:00,Austria,0.3072736921832093,0,1,pl,WCE,Europe
-'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,mróz Czechy,2026-03-26T04:56:00+00:00,Czechia,0.30724760437654086,0,1,pl,WCE,Europe
-'0eea90a85e',extremes,Snow&Ice,#d60d2b,wmo,mróz oberwart,2026-03-25T04:33:00+00:00,Austria,0.30716181316063285,0,1,pl,WCE,Europe
+'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,mróz Czechy,2026-03-26T04:56:00+00:00,Czechia,0.3072476043765408,0,1,pl,WCE,Europe
+'0eea90a85e',extremes,Snow&Ice,#d60d2b,wmo,mróz oberwart,2026-03-25T04:33:00+00:00,Austria,0.3071618131606328,0,1,pl,WCE,Europe
 '9443ce57dd',extremes,Snow&Ice,#d60d2b,wmo,zamarzający schwaz,2026-03-25T04:33:00+00:00,Austria,0.3071105483636682,0,1,pl,WCE,Europe
 '92615c8656',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie gmunden,2026-03-25T04:33:00+00:00,Austria,0.3070853725836008,0,1,pl,WCE,Europe
 '7ea2c869dc',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie kirchdorf an der krems,2026-03-25T04:33:00+00:00,Austria,0.3070813246008601,0,1,pl,WCE,Europe
