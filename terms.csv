@@ -1,4 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'e01f0ea465',extremes,Fog,#d60d2b,wmo,mgła wschodniej strefy przybrzeżnej,2026-04-01T05:12:00+00:00,Poland,0.7025972868907722,0,1,pl,WCE,Europe
+'149f6bbb51',extremes,Fog,#d60d2b,wmo,mgła w środkowej strefie przybrzeżnej,2026-04-01T05:12:00+00:00,Poland,0.6345770187661726,0,1,pl,WCE,Europe
 '3a9f7ed519',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo pomorskie powiat słupski,2026-03-25T04:33:00+00:00,Poland,0.6105051450909295,0,1,pl,WCE,Europe
 '990fe45419',extremes,Snow&Ice,#d60d2b,wmo,"mroźne województwo śląskie, powiat cieszyński",2026-03-27T04:57:00+00:00,Poland,0.6044262025767663,0,1,pl,WCE,Europe
 '0c47c83dd7',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo małopolskie powiat suski,2026-03-27T04:57:00+00:00,Poland,0.595020313866675,0,1,pl,WCE,Europe
@@ -191,13 +193,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8126ce611e',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat moniecki,2026-03-06T04:21:00+00:00,Poland,0.3250549537051183,4,1,pl,WCE,Europe
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,huragan,2026-03-01T04:34:00+00:00,,0.3215604761843476,1,1,pl,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-03-31T04:59:00+00:00,,0.3211439890830261,0,1,pl,,
+'c7fa466900',extremes,Cold Wave,#a7e9fa,acwe,zaklęcie zimna w Nowej Południowej Walii,2026-03-30T05:12:00+00:00,Australia,0.3193784373370132,0,1,pl,EAU,Oceania
+'c759fb6bc1',extremes,Cold Wave,#a7e9fa,acwe,Wiktoria z zimną pogodą,2026-03-30T05:12:00+00:00,Australia,0.3193759020564724,0,1,pl,SAU,Oceania
 'f5cbe3ea20',extremes,Drought,#edc291,acwe,okres suszy w Nowej Południowej Walii,2026-03-19T04:36:00+00:00,Australia,0.3193675107648344,0,1,pl,EAU,Oceania
 '77611cd126',extremes,Cold Wave,#a7e9fa,acwe,zimna pogoda w południowej Australii,2026-03-30T05:12:00+00:00,Australia,0.3193418390364817,0,1,pl,CAU,Oceania
+'ce3fbb6f5f',extremes,Cold Wave,#a7e9fa,acwe,zaklęcie zimna w Australii,2026-03-30T05:12:00+00:00,Australia,0.3179883897050091,0,1,pl,CAU,Oceania
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,najzimniejszy dzień,2026-03-18T04:35:00+00:00,,0.3179232336051053,0,1,pl,,
 'b1f61292dd',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny 28p,2026-03-24T04:31:00+00:00,,0.3159551579704646,0,1,pl,SPO,Pacific Ocean
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,rekordowo zimno,2026-03-17T04:30:00+00:00,,0.3151827846790475,1,1,pl,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-02-27T04:25:00+00:00,,0.3146620739730586,1,1,pl,,
-'91377cc2a9',extremes,Drought,#edc291,acwe,susza w południowej Australii,2026-03-31T05:00:00+00:00,Australia,0.31436903151030826,0,1,pl,SAU,Oceania
+'91377cc2a9',extremes,Drought,#edc291,acwe,susza w południowej Australii,2026-03-31T05:00:00+00:00,Australia,0.3143690315103082,0,1,pl,SAU,Oceania
 '792a35d4a4',extremes,Flood,#030ba1,random,powódź opadowa,2026-03-24T04:31:00+00:00,,0.313683898390347,0,1,pl,,
 '39670c8999',extremes,Drought,#edc291,acwe,brak deszczu w południowej Australii,2026-03-25T04:34:00+00:00,Australia,0.3128718467676712,0,1,pl,CAU,Oceania
 'db9244a045',extremes,Drought,#edc291,acwe,susza Wiktoria,2026-03-29T05:01:00+00:00,Australia,0.3123613056738151,0,1,pl,SAU,Oceania
