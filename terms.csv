@@ -209,25 +209,28 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '79e930cd7f',extremes,Cold Wave,#a7e9fa,acwe,lodowate temperatury w południowej Australii,2026-03-31T05:00:00+00:00,Australia,0.3141497750120998,0,1,pl,SAU,Oceania
 '792a35d4a4',extremes,Flood,#030ba1,random,powódź opadowa,2026-03-24T04:31:00+00:00,,0.313683898390347,0,1,pl,,
 '75b5c9d5e7',extremes,Cold Wave,#a7e9fa,acwe,terytorium północne zaklęcia zimnego,2026-03-31T05:00:00+00:00,Australia,0.3136478514448681,0,1,pl,NAU,Oceania
+'b6c613d063',extremes,Drought,#edc291,acwe,brak deszczu w Queensland,2026-03-28T04:34:00+00:00,Australia,0.3128850144086549,0,1,pl,CAU,Oceania
 '39670c8999',extremes,Drought,#edc291,acwe,brak deszczu w południowej Australii,2026-03-25T04:34:00+00:00,Australia,0.3128718467676712,0,1,pl,CAU,Oceania
 'db9244a045',extremes,Drought,#edc291,acwe,susza Wiktoria,2026-03-29T05:01:00+00:00,Australia,0.3123613056738151,0,1,pl,SAU,Oceania
 'ba221738be',extremes,Cold Wave,#a7e9fa,acwe,zimna pogoda w Australii,2026-03-31T05:00:00+00:00,Australia,0.3117066864320307,0,1,pl,CAU,Oceania
 'dba9977fc1',extremes,Drought,#edc291,edo,brak opadów na Wyspach Owczych,2026-03-20T04:26:00+00:00,Faroe Islands,0.311445665446138,0,1,pl,NEU,Europe
 '6fde59a3a9',extremes,Drought,#edc291,acwe,suchość w Queensland,2026-03-20T04:27:00+00:00,Australia,0.3114252888609886,0,1,pl,CAU,Oceania
 'd59a7e48d7',extremes,Drought,#edc291,random,ewapotranspiracja,2026-03-03T04:26:00+00:00,,0.3113772334521668,1,1,pl,,
-'eff78b7be8',extremes,Drought,#edc291,edo,susza w Bangladeszu,2026-03-26T04:56:00+00:00,Bangladesh,0.31122881325893875,0,1,pl,SAS,Asia
+'eff78b7be8',extremes,Drought,#edc291,edo,susza w Bangladeszu,2026-03-26T04:56:00+00:00,Bangladesh,0.3112288132589387,0,1,pl,SAS,Asia
 '9969e8e386',extremes,Flood,#030ba1,emdat,powódź w regionie centralnym,2026-03-24T04:32:00+00:00,Kenya,0.311191071088893,0,1,pl,SEAF,Africa
 '8d5bbc659e',extremes,Flood,#030ba1,emdat,powódź w Malawi,2026-03-24T04:32:00+00:00,Malawi,0.3110488392092518,0,1,pl,ESAF,Africa
 'ed806b22f8',extremes,Drought,#edc291,edo,susza w Bhutanie,2026-03-19T04:35:00+00:00,Bhutan,0.3107393905397488,0,1,pl,TIB,Asia
 '62dc5cf511',extremes,Storm,#b3b2b1,aidr,burza silna burza Melbourne Victoria 2010,2026-03-25T04:34:00+00:00,Australia,0.3106532539141498,0,1,pl,SAU,Oceania
 '9ca1eb0a20',extremes,Drought,#edc291,edo,susza w Australii,2026-03-20T04:26:00+00:00,Australia,0.3105618430622348,0,1,pl,SAU,Oceania
-'136998b302',extremes,Cold Wave,#a7e9fa,acwe,Queensland zimnej pogody,2026-03-31T05:00:00+00:00,Australia,0.31052947690257104,0,1,pl,CAU,Oceania
+'136998b302',extremes,Cold Wave,#a7e9fa,acwe,Queensland zimnej pogody,2026-03-31T05:00:00+00:00,Australia,0.310529476902571,0,1,pl,CAU,Oceania
+'352775dd3c',extremes,Drought,#edc291,edo,susza w Nepalu,2026-04-02T04:42:00+00:00,Nepal,0.309616930047449,0,1,pl,TIB,Asia
+'4508810067',extremes,Storm,#b3b2b1,wmo,burza litoral norte e wnętrze,2026-03-31T04:59:00+00:00,Ecuador,0.30885761760333763,0,1,pl,NWS,South-America
 'ca64be4528',extremes,Storm,#b3b2b1,wmo,burza Białoruś,2026-03-24T04:31:00+00:00,Belarus,0.3082598547552654,0,1,pl,WCE,Europe
 '7e68dc4baa',extremes,Drought,#edc291,edo,susza w Bhutanie,2026-03-20T04:26:00+00:00,Bhutan,0.308200872080606,0,1,pl,TIB,Asia
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,zimna fala,2026-03-12T04:25:00+00:00,,0.3081590792022701,1,1,pl,,
 '548a967433',extremes,Storm,#b3b2b1,emdat,burza tete,2026-03-24T04:32:00+00:00,Mozambique,0.3080423630688019,0,1,pl,ESAF,Africa
 '1512e9c6b2',extremes,Drought,#edc291,edo,okres suszy w Surinamie,2026-03-25T04:33:00+00:00,Suriname,0.3079867827810443,0,1,pl,NSA,South-America
-'a715281618',extremes,Storm,#b3b2b1,wmo,fala sztormowa vanuatu,2026-04-02T04:42:00+00:00,Vanuatu,0.30791452194758534,0,1,pl,SPO,Oceania
+'a715281618',extremes,Storm,#b3b2b1,wmo,fala sztormowa vanuatu,2026-04-02T04:42:00+00:00,Vanuatu,0.3079145219475853,0,1,pl,SPO,Oceania
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,burza w Nowej Zelandii,2026-03-24T04:31:00+00:00,New Zealand,0.3077925354998936,0,1,pl,NZ,Oceania
 'c47d7a4f90',extremes,Snow&Ice,#d60d2b,wmo,śnieg w Austrii,2026-03-25T04:33:00+00:00,Austria,0.3075731661603725,0,1,pl,WCE,Europe
 'e7e7fc0a58',extremes,Snow&Ice,#d60d2b,wmo,mróz bregenz,2026-03-25T04:33:00+00:00,Austria,0.3073919949138848,0,1,pl,WCE,Europe
@@ -244,6 +247,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7ea2c869dc',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie kirchdorf an der krems,2026-03-25T04:33:00+00:00,Austria,0.3070813246008601,0,1,pl,WCE,Europe
 'a84fc06e39',extremes,Storm,#b3b2b1,wmo,fala sztormowa reutte,2026-03-25T04:33:00+00:00,Austria,0.3070474130848392,0,1,pl,WCE,Europe
 '3f5d4b9ffe',extremes,Storm,#b3b2b1,wmo,burza spittal an der drau,2026-03-25T04:33:00+00:00,Austria,0.3069484649507599,0,1,pl,WCE,Europe
+'cda3b95773',extremes,Storm,#b3b2b1,wmo,burza w Arabii Saudyjskiej,2026-03-18T04:36:00+00:00,Saudi Arabia,0.3067782886341297,0,1,pl,ARP,Asia
+'2db1256b65',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Macedonii Północnej,2026-03-26T04:56:00+00:00,North Macedonia,0.3066240679014336,0,1,pl,MED,Europe
+'7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,lodowa Islandia,2026-03-19T04:35:00+00:00,Iceland,0.3065618318911581,0,1,pl,GIC,Europe
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,trąba powietrzna,2026-03-14T04:22:00+00:00,,0.305933741421327,1,1,pl,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,szkwał śnieżny,2026-03-22T04:32:00+00:00,,0.3058887172815254,1,1,pl,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,indyjskie lato,2026-03-10T04:21:00+00:00,,0.3052187983609614,1,1,pl,,
