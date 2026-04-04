@@ -4,6 +4,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '149f6bbb51',extremes,Fog,#d60d2b,wmo,mgła w środkowej strefie przybrzeżnej,2026-04-01T05:12:00+00:00,Poland,0.6345770187661726,0,1,pl,WCE,Europe
 '3a9f7ed519',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo pomorskie powiat słupski,2026-03-25T04:33:00+00:00,Poland,0.6105051450909295,0,1,pl,WCE,Europe
 '990fe45419',extremes,Snow&Ice,#d60d2b,wmo,"mroźne województwo śląskie, powiat cieszyński",2026-03-27T04:57:00+00:00,Poland,0.6044262025767663,0,1,pl,WCE,Europe
+'e8962d6955',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo pomorskie powiat pucki,2026-04-04T04:30:00+00:00,Poland,0.5976206025641699,0,1,pl,WCE,Europe
 '0c47c83dd7',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo małopolskie powiat suski,2026-03-27T04:57:00+00:00,Poland,0.595020313866675,0,1,pl,WCE,Europe
 'a22387ad2e',extremes,Precipitation,#d60d2b,wmo,deszczowa polska,2026-03-26T04:56:00+00:00,Poland,0.5947105864304598,0,1,pl,WCE,Europe
 'f81802c0d3',extremes,Storm,#b3b2b1,wmo,burza województwo pomorskie powiat gdański,2026-03-25T04:33:00+00:00,Poland,0.5914453841823204,0,1,pl,WCE,Europe
@@ -202,6 +203,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '77611cd126',extremes,Cold Wave,#a7e9fa,acwe,zimna pogoda w południowej Australii,2026-03-30T05:12:00+00:00,Australia,0.3193418390364817,0,1,pl,CAU,Oceania
 'ce3fbb6f5f',extremes,Cold Wave,#a7e9fa,acwe,zaklęcie zimna w Australii,2026-03-30T05:12:00+00:00,Australia,0.3179883897050091,0,1,pl,CAU,Oceania
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,najzimniejszy dzień,2026-03-18T04:35:00+00:00,,0.3179232336051053,0,1,pl,,
+'129d34107e',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny indusa,2026-04-03T04:42:00+00:00,,0.31683913548346787,0,1,pl,SIO,Indian Ocean
 'b1f61292dd',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny 28p,2026-03-24T04:31:00+00:00,,0.3159551579704646,0,1,pl,SPO,Pacific Ocean
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,rekordowo zimno,2026-03-17T04:30:00+00:00,,0.3151827846790475,1,1,pl,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-02-27T04:25:00+00:00,,0.3146620739730586,1,1,pl,,
@@ -252,7 +254,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a84fc06e39',extremes,Storm,#b3b2b1,wmo,fala sztormowa reutte,2026-03-25T04:33:00+00:00,Austria,0.3070474130848392,0,1,pl,WCE,Europe
 'c62db23b0d',extremes,Storm,#b3b2b1,wmo,fala sztormowa Liienfeld,2026-03-25T04:33:00+00:00,Austria,0.3070366672655601,0,1,pl,WCE,Europe
 '3f5d4b9ffe',extremes,Storm,#b3b2b1,wmo,burza spittal an der drau,2026-03-25T04:33:00+00:00,Austria,0.3069484649507599,0,1,pl,WCE,Europe
-'2a1438957e',extremes,Snow&Ice,#d60d2b,wmo,lodowy halein,2026-03-25T04:33:00+00:00,Austria,0.30685824655219757,0,1,pl,WCE,Europe
+'b0903e574b',extremes,Storm,#b3b2b1,wmo,sztorm w Irlandii,2026-03-25T04:33:00+00:00,Ireland,0.3069179904982869,0,1,pl,NEU,Europe
+'2a1438957e',extremes,Snow&Ice,#d60d2b,wmo,lodowy halein,2026-03-25T04:33:00+00:00,Austria,0.3068582465521975,0,1,pl,WCE,Europe
 'cda3b95773',extremes,Storm,#b3b2b1,wmo,burza w Arabii Saudyjskiej,2026-03-18T04:36:00+00:00,Saudi Arabia,0.3067782886341297,0,1,pl,ARP,Asia
 '2db1256b65',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Macedonii Północnej,2026-03-26T04:56:00+00:00,North Macedonia,0.3066240679014336,0,1,pl,MED,Europe
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,lodowa Islandia,2026-03-19T04:35:00+00:00,Iceland,0.3065618318911581,0,1,pl,GIC,Europe
