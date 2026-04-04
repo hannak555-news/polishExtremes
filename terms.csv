@@ -205,7 +205,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b1f61292dd',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny 28p,2026-03-24T04:31:00+00:00,,0.3159551579704646,0,1,pl,SPO,Pacific Ocean
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,rekordowo zimno,2026-03-17T04:30:00+00:00,,0.3151827846790475,1,1,pl,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-02-27T04:25:00+00:00,,0.3146620739730586,1,1,pl,,
-'a275910137',extremes,Cold Wave,#a7e9fa,acwe,zimna fala w Nowej Południowej Walii,2026-03-31T05:00:00+00:00,Australia,0.31461164576712486,0,1,pl,EAU,Oceania
+'a275910137',extremes,Cold Wave,#a7e9fa,acwe,zimna fala w Nowej Południowej Walii,2026-03-31T05:00:00+00:00,Australia,0.3146116457671248,0,1,pl,EAU,Oceania
 '91377cc2a9',extremes,Drought,#edc291,acwe,susza w południowej Australii,2026-03-31T05:00:00+00:00,Australia,0.3143690315103082,0,1,pl,SAU,Oceania
 '6a814a5817',extremes,Drought,#edc291,acwe,niski poziom wody w Nowej Południowej Walii,2026-03-25T04:34:00+00:00,Australia,0.3141888685951871,0,1,pl,EAU,Oceania
 '79e930cd7f',extremes,Cold Wave,#a7e9fa,acwe,lodowate temperatury w południowej Australii,2026-03-31T05:00:00+00:00,Australia,0.3141497750120998,0,1,pl,SAU,Oceania
@@ -250,11 +250,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '92615c8656',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie gmunden,2026-03-25T04:33:00+00:00,Austria,0.3070853725836008,0,1,pl,WCE,Europe
 '7ea2c869dc',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie kirchdorf an der krems,2026-03-25T04:33:00+00:00,Austria,0.3070813246008601,0,1,pl,WCE,Europe
 'a84fc06e39',extremes,Storm,#b3b2b1,wmo,fala sztormowa reutte,2026-03-25T04:33:00+00:00,Austria,0.3070474130848392,0,1,pl,WCE,Europe
+'c62db23b0d',extremes,Storm,#b3b2b1,wmo,fala sztormowa Liienfeld,2026-03-25T04:33:00+00:00,Austria,0.3070366672655601,0,1,pl,WCE,Europe
 '3f5d4b9ffe',extremes,Storm,#b3b2b1,wmo,burza spittal an der drau,2026-03-25T04:33:00+00:00,Austria,0.3069484649507599,0,1,pl,WCE,Europe
+'2a1438957e',extremes,Snow&Ice,#d60d2b,wmo,lodowy halein,2026-03-25T04:33:00+00:00,Austria,0.30685824655219757,0,1,pl,WCE,Europe
 'cda3b95773',extremes,Storm,#b3b2b1,wmo,burza w Arabii Saudyjskiej,2026-03-18T04:36:00+00:00,Saudi Arabia,0.3067782886341297,0,1,pl,ARP,Asia
 '2db1256b65',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Macedonii Północnej,2026-03-26T04:56:00+00:00,North Macedonia,0.3066240679014336,0,1,pl,MED,Europe
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,lodowa Islandia,2026-03-19T04:35:00+00:00,Iceland,0.3065618318911581,0,1,pl,GIC,Europe
+'25908560bf',extremes,Snow&Ice,#d60d2b,wmo,zamarzająca Arabia Saudyjska,2026-03-25T04:33:00+00:00,Saudi Arabia,0.3065257524642164,0,1,pl,ARP,Asia
 '4508d0e7cc',extremes,Drought,#edc291,acwe,niski poziom wody w Australii,2026-03-26T04:57:00+00:00,Australia,0.3064714702150453,0,1,pl,CAU,Oceania
+'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,Kanada śnieg,2026-03-18T04:36:00+00:00,Canada,0.3060357270000287,0,1,pl,NEN,North-America
+'283b154c38',extremes,Wet Spell,#d60d2b,random,mokre zaklęcie,2026-03-25T04:33:00+00:00,,0.3060267968518284,0,1,pl,,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,trąba powietrzna,2026-03-14T04:22:00+00:00,,0.305933741421327,1,1,pl,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,szkwał śnieżny,2026-03-22T04:32:00+00:00,,0.3058887172815254,1,1,pl,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,indyjskie lato,2026-03-10T04:21:00+00:00,,0.3052187983609614,1,1,pl,,
