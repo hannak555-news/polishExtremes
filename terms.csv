@@ -30,6 +30,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '462244798d',extremes,Snow&Ice,#d60d2b,wmo,"lodowe województwo śląskie, powiat cieszyński",2026-03-28T04:33:00+00:00,Poland,0.5292999015339432,0,1,pl,WCE,Europe
 '5be8ccb0ac',extremes,Precipitation,#d60d2b,wmo,deszczowe województwo śląskie powiat raciborski,2026-03-26T04:56:00+00:00,Poland,0.5279157509980784,0,1,pl,WCE,Europe
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,powódź,2026-03-15T04:44:00+00:00,,0.5200278993054597,2,2,pl,,
+'439cdbcee9',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo pomorskie powiat lęborski,2026-04-04T04:30:00+00:00,Poland,0.5191755746018561,0,1,pl,WCE,Europe
 '9e020e244e',extremes,Drought,#edc291,edo,susza w polsce,2026-03-11T04:22:00+00:00,Poland,0.5189617609683138,3,2,pl,WCE,Europe
 'cbec54141c',extremes,Fog,#d60d2b,wmo,mgła polska,2026-03-02T04:27:00+00:00,Poland,0.5169577879984282,4,2,pl,WCE,Europe
 '44f0a87594',extremes,Precipitation,#d60d2b,wmo,ulewne deszcze województwo śląskie powiat mikołowski,2026-03-26T04:56:00+00:00,Poland,0.5169560767285466,0,1,pl,WCE,Europe
@@ -100,6 +101,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e559ab7ab7',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo łódzkie powiat łowicki,2026-02-20T04:27:00+00:00,Poland,0.3984638605979823,2,1,pl,WCE,Europe
 '6c11585835',extremes,Drought,#edc291,edo,susza na Litwie,2026-02-24T04:31:00+00:00,Lithuania,0.3982715133571137,2,1,pl,WCE,Europe
 '9439ebe263',extremes,Snow&Ice,#d60d2b,wmo,lód województwo lubelskie powiat lubelski,2026-02-20T04:27:00+00:00,Poland,0.3976312657321209,2,1,pl,WCE,Europe
+'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,Arctis góry lodowej,2026-04-03T04:42:00+00:00,,0.39740671276353323,0,1,pl,,
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,mróz,2026-02-13T04:33:00+00:00,,0.3970571165287115,1,3,pl,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,cielenie się lodowca,2026-03-24T04:31:00+00:00,,0.3968981540064376,0,1,pl,,
 '19149b287e',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo łódzkie powiat sieradzki,2026-02-21T04:18:00+00:00,Poland,0.3967657075932447,2,1,pl,WCE,Europe
@@ -203,7 +205,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '77611cd126',extremes,Cold Wave,#a7e9fa,acwe,zimna pogoda w południowej Australii,2026-03-30T05:12:00+00:00,Australia,0.3193418390364817,0,1,pl,CAU,Oceania
 'ce3fbb6f5f',extremes,Cold Wave,#a7e9fa,acwe,zaklęcie zimna w Australii,2026-03-30T05:12:00+00:00,Australia,0.3179883897050091,0,1,pl,CAU,Oceania
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,najzimniejszy dzień,2026-03-18T04:35:00+00:00,,0.3179232336051053,0,1,pl,,
-'129d34107e',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny indusa,2026-04-03T04:42:00+00:00,,0.31683913548346787,0,1,pl,SIO,Indian Ocean
+'129d34107e',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny indusa,2026-04-03T04:42:00+00:00,,0.3168391354834678,0,1,pl,SIO,Indian Ocean
 'b1f61292dd',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny 28p,2026-03-24T04:31:00+00:00,,0.3159551579704646,0,1,pl,SPO,Pacific Ocean
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,rekordowo zimno,2026-03-17T04:30:00+00:00,,0.3151827846790475,1,1,pl,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-02-27T04:25:00+00:00,,0.3146620739730586,1,1,pl,,
@@ -261,8 +263,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,lodowa Islandia,2026-03-19T04:35:00+00:00,Iceland,0.3065618318911581,0,1,pl,GIC,Europe
 '25908560bf',extremes,Snow&Ice,#d60d2b,wmo,zamarzająca Arabia Saudyjska,2026-03-25T04:33:00+00:00,Saudi Arabia,0.3065257524642164,0,1,pl,ARP,Asia
 '4508d0e7cc',extremes,Drought,#edc291,acwe,niski poziom wody w Australii,2026-03-26T04:57:00+00:00,Australia,0.3064714702150453,0,1,pl,CAU,Oceania
+'6a3e3c9638',extremes,Storm,#b3b2b1,wmo,fala sztormowa rejon Grodna,2026-03-26T04:56:00+00:00,Belarus,0.3064317783458752,0,1,pl,WCE,Europe
+'39afca9687',extremes,Storm,#b3b2b1,wmo,fala sztormowa region skopje,2026-03-26T04:56:00+00:00,North Macedonia,0.30625169294225174,0,1,pl,MED,Europe
+'4093195155',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Indiach,2026-04-02T04:42:00+00:00,India,0.30608500523884563,0,1,pl,SAS,Asia
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,Kanada śnieg,2026-03-18T04:36:00+00:00,Canada,0.3060357270000287,0,1,pl,NEN,North-America
 '283b154c38',extremes,Wet Spell,#d60d2b,random,mokre zaklęcie,2026-03-25T04:33:00+00:00,,0.3060267968518284,0,1,pl,,
+'cb68d1153d',extremes,Storm,#b3b2b1,wmo,burza Sierra Norte y Centro,2026-04-01T05:12:00+00:00,Ecuador,0.3060226239895141,0,1,pl,NWS,South-America
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,trąba powietrzna,2026-03-14T04:22:00+00:00,,0.305933741421327,1,1,pl,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,szkwał śnieżny,2026-03-22T04:32:00+00:00,,0.3058887172815254,1,1,pl,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,indyjskie lato,2026-03-10T04:21:00+00:00,,0.3052187983609614,1,1,pl,,
