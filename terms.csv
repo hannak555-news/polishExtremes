@@ -127,7 +127,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4d9577e33d',extremes,Volcano,#b83202,random,wulkan,2026-02-26T04:28:00+00:00,,0.3894370401594352,1,2,pl,,
 '55c7c8304f',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo małopolskie powiat tarnowski,2026-02-21T04:18:00+00:00,Poland,0.3885980749181882,2,1,pl,WCE,Europe
 'a148641aed',extremes,Snow&Ice,#d60d2b,wmo,"lód województwo lubuskie, powiat żagański",2026-02-21T04:18:00+00:00,Poland,0.3885214614797228,2,1,pl,WCE,Europe
-'da1ae5191e',extremes,Storm,#b3b2b1,random,fala sztormowa,2026-04-05T05:00:00+00:00,,0.38807019285924566,0,1,pl,,
+'da1ae5191e',extremes,Storm,#b3b2b1,random,fala sztormowa,2026-04-05T05:00:00+00:00,,0.3880701928592456,0,1,pl,,
 'b529e714fa',extremes,Snow&Ice,#d60d2b,wmo,lód województwo lubuskie powiat gorzowski,2026-02-21T04:18:00+00:00,Poland,0.3876398835056214,2,1,pl,WCE,Europe
 '2609bda0f2',extremes,Snow&Ice,#d60d2b,wmo,lodowa Polska,2026-02-25T04:32:00+00:00,Poland,0.3876196307774718,4,1,pl,WCE,Europe
 '18c06e985f',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo lubelskie powiat puławski,2026-02-20T04:27:00+00:00,Poland,0.3868768956989658,2,1,pl,WCE,Europe
@@ -200,6 +200,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '69791e5a17',extremes,Flood,#030ba1,random,powódź błyskawiczna,2026-03-04T04:20:00+00:00,,0.3277884791700448,1,1,pl,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,cyklon bombowy,2026-03-07T04:12:00+00:00,,0.3271135728483949,1,1,pl,,
 '8126ce611e',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat moniecki,2026-03-06T04:21:00+00:00,Poland,0.3250549537051183,4,1,pl,WCE,Europe
+'595acbcf9f',extremes,Heat Wave,#c40202,random,najgorętszy dzień,2026-04-04T04:30:00+00:00,,0.3226339267122532,0,1,pl,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,huragan,2026-03-01T04:34:00+00:00,,0.3215604761843476,1,1,pl,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-03-31T04:59:00+00:00,,0.3211439890830261,0,1,pl,,
 'c7fa466900',extremes,Cold Wave,#a7e9fa,acwe,zaklęcie zimna w Nowej Południowej Walii,2026-03-30T05:12:00+00:00,Australia,0.3193784373370132,0,1,pl,EAU,Oceania
@@ -273,8 +274,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,Kanada śnieg,2026-03-18T04:36:00+00:00,Canada,0.3060357270000287,0,1,pl,NEN,North-America
 '283b154c38',extremes,Wet Spell,#d60d2b,random,mokre zaklęcie,2026-03-25T04:33:00+00:00,,0.3060267968518284,0,1,pl,,
 'cb68d1153d',extremes,Storm,#b3b2b1,wmo,burza Sierra Norte y Centro,2026-04-01T05:12:00+00:00,Ecuador,0.3060226239895141,0,1,pl,NWS,South-America
+'9131f8e093',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz Sierra Norte y Centro,2026-03-31T04:59:00+00:00,Ecuador,0.3059620150943005,0,1,pl,NWS,South-America
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,trąba powietrzna,2026-03-14T04:22:00+00:00,,0.305933741421327,1,1,pl,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,szkwał śnieżny,2026-03-22T04:32:00+00:00,,0.3058887172815254,1,1,pl,,
+'2b54723d48',extremes,Precipitation,#d60d2b,wmo,ulewa amazonía,2026-03-31T04:59:00+00:00,Ecuador,0.30586614845156623,0,1,pl,NWS,South-America
+'f5a98ca4eb',extremes,Storm,#b3b2b1,wmo,fala sztormowa litoral norte e wnętrze,2026-03-30T05:12:00+00:00,Ecuador,0.30553419190661624,0,1,pl,NWS,South-America
+'a5a19a733b',extremes,Flood,#030ba1,wmo,powódź błyskawiczna w Etiopii,2026-03-29T05:00:00+00:00,Ethiopia,0.3055273488989083,0,1,pl,NEAF,Africa
 '053bb10e09',extremes,Heat Wave,#c40202,random,indyjskie lato,2026-03-10T04:21:00+00:00,,0.3052187983609614,1,1,pl,,
 'afc393e166',extremes,Precipitation,#d60d2b,wmo,opady w Afryce Południowej,2026-02-23T04:37:00+00:00,South Africa,0.3049961401721008,0,1,pl,WSAF,Africa
 'f63711b763',extremes,Snow Avalanche,#deddd5,wmo,lawina sunnmøre,2026-03-19T04:35:00+00:00,Norway,0.3049235609937491,0,1,pl,NEU,Europe
