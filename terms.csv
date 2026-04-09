@@ -50,13 +50,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd546367e35',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo podlaskie powiat białostocki,2026-04-06T05:11:00+00:00,Poland,0.5471226992603798,0,1,pl,WCE,Europe
 '9558667e31',extremes,Storm,#b3b2b1,wmo,wezbranie sztormowe województwo łódzkie powiat opoczyński,2026-04-06T05:11:00+00:00,Poland,0.5468336166503992,0,1,pl,WCE,Europe
 '9d248c7381',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo śląskie powiat bielski,2026-03-28T04:33:00+00:00,Poland,0.5465528696200759,0,1,pl,WCE,Europe
+'e5608d7c1d',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo podlaskie powiat łomżyński,2026-04-07T04:59:00+00:00,Poland,0.5448828331581439,0,1,pl,WCE,Europe
 '2d4cf5b870',extremes,Storm,#b3b2b1,wmo,burza województwo łódzkie powiat brzeziński,2026-04-06T05:11:00+00:00,Poland,0.5442910807369485,0,1,pl,WCE,Europe
+'bce7bb9084',extremes,Storm,#b3b2b1,wmo,wezbranie sztormowe województwo łódzkie powiat poddębicki,2026-04-06T05:11:00+00:00,Poland,0.5427890890884273,0,1,pl,WCE,Europe
+'c09eae6329',extremes,Storm,#b3b2b1,wmo,burza województwo lubelskie powiat chełmski,2026-04-07T04:59:00+00:00,Poland,0.540627592728819,0,1,pl,WCE,Europe
+'0d23c57059',extremes,Storm,#b3b2b1,wmo,burza województwo wielkopolskie powiat koniński,2026-04-06T05:11:00+00:00,Poland,0.5403700582558084,0,1,pl,WCE,Europe
 'e5ff5d34c8',extremes,Storm,#b3b2b1,wmo,burza województwo łódzkie powiat łęczycki,2026-04-06T05:11:00+00:00,Poland,0.5398527961245881,0,1,pl,WCE,Europe
+'86d9dc697b',extremes,Storm,#b3b2b1,wmo,burza województwo lubelskie powiat lubelski,2026-04-06T05:11:00+00:00,Poland,0.5396106639731257,0,1,pl,WCE,Europe
+'879aed5b1e',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo lubelskie powiat włodawski,2026-04-07T04:59:00+00:00,Poland,0.5363506412505826,0,1,pl,WCE,Europe
 '2c5cdc71cd',extremes,Precipitation,#d60d2b,wmo,ulewa województwo śląskie powiat rybnicki,2026-03-26T04:56:00+00:00,Poland,0.5345314478585944,0,1,pl,WCE,Europe
 '432920d326',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat żywiecki,2026-03-28T04:33:00+00:00,Poland,0.5297554163891512,0,1,pl,WCE,Europe
 '462244798d',extremes,Snow&Ice,#d60d2b,wmo,"lodowe województwo śląskie, powiat cieszyński",2026-03-28T04:33:00+00:00,Poland,0.5292999015339432,0,1,pl,WCE,Europe
 '5be8ccb0ac',extremes,Precipitation,#d60d2b,wmo,deszczowe województwo śląskie powiat raciborski,2026-03-26T04:56:00+00:00,Poland,0.5279157509980784,0,1,pl,WCE,Europe
 '47d4322322',extremes,Storm,#b3b2b1,wmo,burza województwo lubelskie powiat zamojski,2026-04-07T04:59:00+00:00,Poland,0.5254434921980246,0,1,pl,WCE,Europe
+'428c9fc794',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo podlaskie powiat suwalski,2026-04-07T04:59:00+00:00,Poland,0.5235627921250872,0,1,pl,WCE,Europe
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,powódź,2026-03-15T04:44:00+00:00,,0.5200278993054597,2,2,pl,,
 '439cdbcee9',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo pomorskie powiat lęborski,2026-04-04T04:30:00+00:00,Poland,0.5191755746018561,0,1,pl,WCE,Europe
 '9e020e244e',extremes,Drought,#edc291,edo,susza w polsce,2026-03-11T04:22:00+00:00,Poland,0.5189617609683138,3,2,pl,WCE,Europe
@@ -184,11 +191,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'de99db0296',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo podlaskie powiat sokólski,2026-02-23T04:37:00+00:00,Poland,0.3660340839884893,3,1,pl,WCE,Europe
 '9b4588e3b0',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo lubelskie powiat opolski,2026-02-25T04:32:00+00:00,Poland,0.3657414264771818,3,1,pl,WCE,Europe
 '6d9dcf594f',extremes,Fog,#d60d2b,wmo,mgła województwo łódzkie powiat brzeziński,2026-03-02T04:27:00+00:00,Poland,0.3654444386401141,4,1,pl,WCE,Europe
+'10f476720b',extremes,Insect Infestation,#d60d2b,random,konik polny,2026-04-06T05:11:00+00:00,,0.3649805628813269,0,1,pl,,
 '13329f4bf1',extremes,Snow&Ice,#d60d2b,wmo,marznąca Polska,2026-02-25T04:32:00+00:00,Poland,0.3649431246440681,4,1,pl,WCE,Europe
 'c6b3221e2d',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo lubelskie powiat chełmski,2026-02-25T04:32:00+00:00,Poland,0.3634017542181829,3,1,pl,WCE,Europe
+'1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-04-07T04:58:00+00:00,,0.3633584187552879,0,1,pl,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,front atmosferyczny,2026-03-07T04:12:00+00:00,,0.3624450309293145,3,1,pl,,
 'cfc0d33e7d',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo podkarpackie powiat krośnieński,2026-02-25T04:32:00+00:00,Poland,0.3615467961332435,3,1,pl,WCE,Europe
 '5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,lawina w Rosji,2026-03-17T04:30:00+00:00,Russia,0.3612091567247242,1,2,pl,ESB,Europe
+'776fe47817',extremes,Wildfire,#d60d2b,random,pożar,2026-04-08T05:00:00+00:00,,0.36107820538149454,0,1,pl,,
 '3d68d22d55',extremes,Snow&Ice,#d60d2b,wmo,lód województwo małopolskie powiat suski,2026-02-25T04:32:00+00:00,Poland,0.3602199187246971,3,1,pl,WCE,Europe
 '07aa73434d',extremes,Fog,#d60d2b,wmo,mgła województwo opolskie powiat brzeski,2026-03-02T04:27:00+00:00,Poland,0.359571413113219,4,1,pl,WCE,Europe
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,pokrywa śnieżna,2026-03-06T04:20:00+00:00,,0.35943852211225,2,1,pl,,
