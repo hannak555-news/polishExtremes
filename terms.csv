@@ -198,7 +198,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,front atmosferyczny,2026-03-07T04:12:00+00:00,,0.3624450309293145,3,1,pl,,
 'cfc0d33e7d',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo podkarpackie powiat krośnieński,2026-02-25T04:32:00+00:00,Poland,0.3615467961332435,3,1,pl,WCE,Europe
 '5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,lawina w Rosji,2026-03-17T04:30:00+00:00,Russia,0.3612091567247242,1,2,pl,ESB,Europe
-'776fe47817',extremes,Wildfire,#d60d2b,random,pożar,2026-04-08T05:00:00+00:00,,0.36107820538149454,0,1,pl,,
+'776fe47817',extremes,Wildfire,#d60d2b,random,pożar,2026-04-08T05:00:00+00:00,,0.3610782053814945,0,1,pl,,
 '3d68d22d55',extremes,Snow&Ice,#d60d2b,wmo,lód województwo małopolskie powiat suski,2026-02-25T04:32:00+00:00,Poland,0.3602199187246971,3,1,pl,WCE,Europe
 '07aa73434d',extremes,Fog,#d60d2b,wmo,mgła województwo opolskie powiat brzeski,2026-03-02T04:27:00+00:00,Poland,0.359571413113219,4,1,pl,WCE,Europe
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,pokrywa śnieżna,2026-03-06T04:20:00+00:00,,0.35943852211225,2,1,pl,,
@@ -219,6 +219,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '984c06b3ba',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat grajewski,2026-03-06T04:21:00+00:00,Poland,0.3428250347693459,4,1,pl,WCE,Europe
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,ulewny deszcz,2026-03-26T04:56:00+00:00,,0.3412463241800087,0,1,pl,,
 '25363f256f',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat pucki,2026-03-05T04:24:00+00:00,Poland,0.3410564357334216,4,1,pl,WCE,Europe
+'a652c78afc',extremes,Drought,#edc291,random,megasusza,2026-04-09T04:57:00+00:00,,0.34083408944968674,0,1,pl,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,zimny trzask,2026-04-01T05:12:00+00:00,,0.3399474049094569,0,1,pl,,
 '736e25dde1',extremes,Precipitation,#d60d2b,wmo,ulewa litwa,2026-02-21T04:18:00+00:00,Lithuania,0.339902332576405,2,1,pl,WCE,Europe
 '82d648b882',extremes,Drought,#edc291,random,susza,2026-03-23T04:41:00+00:00,,0.3390777467268525,0,1,pl,,
@@ -250,6 +251,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,rekordowo zimno,2026-03-17T04:30:00+00:00,,0.3151827846790475,1,1,pl,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-02-27T04:25:00+00:00,,0.3146620739730586,1,1,pl,,
 'a275910137',extremes,Cold Wave,#a7e9fa,acwe,zimna fala w Nowej Południowej Walii,2026-03-31T05:00:00+00:00,Australia,0.3146116457671248,0,1,pl,EAU,Oceania
+'0fce4685d1',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny vaianu,2026-04-06T05:11:00+00:00,,0.31458833134931774,0,1,pl,SPO,Pacific Ocean
+'cf93c7cea9',extremes,Storm,#b3b2b1,aidr,burza grad Sydney Nowa Południowa Walia 2015,2026-04-01T05:13:00+00:00,,0.31457162707284764,0,1,pl,EAU,Oceania
 '91377cc2a9',extremes,Drought,#edc291,acwe,susza w południowej Australii,2026-03-31T05:00:00+00:00,Australia,0.3143690315103082,0,1,pl,SAU,Oceania
 '6a814a5817',extremes,Drought,#edc291,acwe,niski poziom wody w Nowej Południowej Walii,2026-03-25T04:34:00+00:00,Australia,0.3141888685951871,0,1,pl,EAU,Oceania
 '79e930cd7f',extremes,Cold Wave,#a7e9fa,acwe,lodowate temperatury w południowej Australii,2026-03-31T05:00:00+00:00,Australia,0.3141497750120998,0,1,pl,SAU,Oceania
@@ -273,8 +276,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '352775dd3c',extremes,Drought,#edc291,edo,susza w Nepalu,2026-04-02T04:42:00+00:00,Nepal,0.309616930047449,0,1,pl,TIB,Asia
 '4508810067',extremes,Storm,#b3b2b1,wmo,burza litoral norte e wnętrze,2026-03-31T04:59:00+00:00,Ecuador,0.3088576176033376,0,1,pl,NWS,South-America
 'ca64be4528',extremes,Storm,#b3b2b1,wmo,burza Białoruś,2026-03-24T04:31:00+00:00,Belarus,0.3082598547552654,0,1,pl,WCE,Europe
+'d2761af41e',extremes,Tropical Cyclone,#4f4f4f,aidr,cyklon 2018 nt cyklon tropikalny Marcus,2026-04-01T05:13:00+00:00,,0.3082299465782532,0,1,pl,NAU,Oceania
 '7e68dc4baa',extremes,Drought,#edc291,edo,susza w Bhutanie,2026-03-20T04:26:00+00:00,Bhutan,0.308200872080606,0,1,pl,TIB,Asia
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,zimna fala,2026-03-12T04:25:00+00:00,,0.3081590792022701,1,1,pl,,
+'c8a777de4f',extremes,Tropical Cyclone,#4f4f4f,aidr,miejsce wyjścia na ląd w Australii,2026-04-08T05:01:00+00:00,Australia,0.3080602181646537,0,1,pl,CAU,Oceania
 '548a967433',extremes,Storm,#b3b2b1,emdat,burza tete,2026-03-24T04:32:00+00:00,Mozambique,0.3080423630688019,0,1,pl,ESAF,Africa
 '1512e9c6b2',extremes,Drought,#edc291,edo,okres suszy w Surinamie,2026-03-25T04:33:00+00:00,Suriname,0.3079867827810443,0,1,pl,NSA,South-America
 'a715281618',extremes,Storm,#b3b2b1,wmo,fala sztormowa vanuatu,2026-04-02T04:42:00+00:00,Vanuatu,0.3079145219475853,0,1,pl,SPO,Oceania
@@ -282,6 +287,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,burza w Nowej Zelandii,2026-03-24T04:31:00+00:00,New Zealand,0.3077925354998936,0,1,pl,NZ,Oceania
 'c47d7a4f90',extremes,Snow&Ice,#d60d2b,wmo,śnieg w Austrii,2026-03-25T04:33:00+00:00,Austria,0.3075731661603725,0,1,pl,WCE,Europe
 'e7e7fc0a58',extremes,Snow&Ice,#d60d2b,wmo,mróz bregenz,2026-03-25T04:33:00+00:00,Austria,0.3073919949138848,0,1,pl,WCE,Europe
+'8bd48e7016',extremes,Storm,#b3b2b1,wmo,burza Litoral y Sierra,2026-04-05T05:01:00+00:00,Ecuador,0.30732311271304574,0,1,pl,NWS,South-America
 '4a4ee6b9d7',extremes,Storm,#b3b2b1,wmo,fala sztormowa wien währing,2026-03-25T04:33:00+00:00,Austria,0.3073227471149911,0,1,pl,WCE,Europe
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Nowej Zelandii,2026-03-25T04:33:00+00:00,New Zealand,0.3073017129476323,0,1,pl,NZ,Oceania
 '6171ca62b4',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Irlandii,2026-03-25T04:33:00+00:00,Ireland,0.3072871531175196,0,1,pl,NEU,Europe
@@ -299,7 +305,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3f5d4b9ffe',extremes,Storm,#b3b2b1,wmo,burza spittal an der drau,2026-03-25T04:33:00+00:00,Austria,0.3069484649507599,0,1,pl,WCE,Europe
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,sztorm w Irlandii,2026-03-25T04:33:00+00:00,Ireland,0.3069179904982869,0,1,pl,NEU,Europe
 '2a1438957e',extremes,Snow&Ice,#d60d2b,wmo,lodowy halein,2026-03-25T04:33:00+00:00,Austria,0.3068582465521975,0,1,pl,WCE,Europe
+'a4ea76ca76',extremes,Storm,#b3b2b1,wmo,fala sztormowa Algieria,2026-04-06T05:11:00+00:00,Algeria,0.306822394715412,0,1,pl,SAH,Africa
 'cda3b95773',extremes,Storm,#b3b2b1,wmo,burza w Arabii Saudyjskiej,2026-03-18T04:36:00+00:00,Saudi Arabia,0.3067782886341297,0,1,pl,ARP,Asia
+'f484ebfc83',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Bułgarii,2026-04-07T04:59:00+00:00,Bulgaria,0.3066514008335583,0,1,pl,MED,Europe
+'5cb766f03d',extremes,Storm,#b3b2b1,wmo,fala sztormowa – obszar 2 – umiarkowany,2026-03-23T04:42:00+00:00,Paraguay,0.3066406231175352,0,1,pl,SES,South-America
 '2db1256b65',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Macedonii Północnej,2026-03-26T04:56:00+00:00,North Macedonia,0.3066240679014336,0,1,pl,MED,Europe
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,lodowa Islandia,2026-03-19T04:35:00+00:00,Iceland,0.3065618318911581,0,1,pl,GIC,Europe
 '25908560bf',extremes,Snow&Ice,#d60d2b,wmo,zamarzająca Arabia Saudyjska,2026-03-25T04:33:00+00:00,Saudi Arabia,0.3065257524642164,0,1,pl,ARP,Asia
@@ -311,6 +320,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,mokre zaklęcie,2026-03-25T04:33:00+00:00,,0.3060267968518284,0,1,pl,,
 'cb68d1153d',extremes,Storm,#b3b2b1,wmo,burza Sierra Norte y Centro,2026-04-01T05:12:00+00:00,Ecuador,0.3060226239895141,0,1,pl,NWS,South-America
 '9131f8e093',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz Sierra Norte y Centro,2026-03-31T04:59:00+00:00,Ecuador,0.3059620150943005,0,1,pl,NWS,South-America
+'c8dd7549e0',extremes,Storm,#b3b2b1,wmo,burza w regionie południowo-wschodnim,2026-03-26T04:56:00+00:00,North Macedonia,0.30595149406355693,0,1,pl,MED,Europe
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,trąba powietrzna,2026-03-14T04:22:00+00:00,,0.305933741421327,1,1,pl,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,szkwał śnieżny,2026-03-22T04:32:00+00:00,,0.3058887172815254,1,1,pl,,
 '2b54723d48',extremes,Precipitation,#d60d2b,wmo,ulewa amazonía,2026-03-31T04:59:00+00:00,Ecuador,0.3058661484515662,0,1,pl,NWS,South-America
