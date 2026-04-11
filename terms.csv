@@ -259,6 +259,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0fce4685d1',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny vaianu,2026-04-06T05:11:00+00:00,,0.3145883313493177,0,1,pl,SPO,Pacific Ocean
 'cf93c7cea9',extremes,Storm,#b3b2b1,aidr,burza grad Sydney Nowa Południowa Walia 2015,2026-04-01T05:13:00+00:00,,0.3145716270728476,0,1,pl,EAU,Oceania
 '91377cc2a9',extremes,Drought,#edc291,acwe,susza w południowej Australii,2026-03-31T05:00:00+00:00,Australia,0.3143690315103082,0,1,pl,SAU,Oceania
+'8c548a735e',extremes,Tropical Cyclone,#4f4f4f,eonet,burza tropikalna sinlaku,2026-04-11T04:34:00+00:00,,0.31424688903381603,0,1,pl,NPO,Pacific Ocean
 '6a814a5817',extremes,Drought,#edc291,acwe,niski poziom wody w Nowej Południowej Walii,2026-03-25T04:34:00+00:00,Australia,0.3141888685951871,0,1,pl,EAU,Oceania
 '79e930cd7f',extremes,Cold Wave,#a7e9fa,acwe,lodowate temperatury w południowej Australii,2026-03-31T05:00:00+00:00,Australia,0.3141497750120998,0,1,pl,SAU,Oceania
 '792a35d4a4',extremes,Flood,#030ba1,random,powódź opadowa,2026-03-24T04:31:00+00:00,,0.313683898390347,0,1,pl,,
@@ -288,6 +289,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '548a967433',extremes,Storm,#b3b2b1,emdat,burza tete,2026-03-24T04:32:00+00:00,Mozambique,0.3080423630688019,0,1,pl,ESAF,Africa
 '1512e9c6b2',extremes,Drought,#edc291,edo,okres suszy w Surinamie,2026-03-25T04:33:00+00:00,Suriname,0.3079867827810443,0,1,pl,NSA,South-America
 'a715281618',extremes,Storm,#b3b2b1,wmo,fala sztormowa vanuatu,2026-04-02T04:42:00+00:00,Vanuatu,0.3079145219475853,0,1,pl,SPO,Oceania
+'ecd6c72a27',extremes,Drought,#edc291,edo,brak deszczu na Madagaskarze,2026-03-24T04:32:00+00:00,Madagascar,0.3078963385187357,0,1,pl,MDG,Africa
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,burza vanuatu,2026-04-03T04:43:00+00:00,Vanuatu,0.3078225662309529,0,1,pl,SPO,Oceania
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,burza w Nowej Zelandii,2026-03-24T04:31:00+00:00,New Zealand,0.3077925354998936,0,1,pl,NZ,Oceania
 'c47d7a4f90',extremes,Snow&Ice,#d60d2b,wmo,śnieg w Austrii,2026-03-25T04:33:00+00:00,Austria,0.3075731661603725,0,1,pl,WCE,Europe
@@ -319,12 +321,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '25908560bf',extremes,Snow&Ice,#d60d2b,wmo,zamarzająca Arabia Saudyjska,2026-03-25T04:33:00+00:00,Saudi Arabia,0.3065257524642164,0,1,pl,ARP,Asia
 '4508d0e7cc',extremes,Drought,#edc291,acwe,niski poziom wody w Australii,2026-03-26T04:57:00+00:00,Australia,0.3064714702150453,0,1,pl,CAU,Oceania
 '6a3e3c9638',extremes,Storm,#b3b2b1,wmo,fala sztormowa rejon Grodna,2026-03-26T04:56:00+00:00,Belarus,0.3064317783458752,0,1,pl,WCE,Europe
+'e52ebb2900',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz Algieria,2026-04-11T04:34:00+00:00,Algeria,0.3064275382457869,0,1,pl,SAH,Africa
 '39afca9687',extremes,Storm,#b3b2b1,wmo,fala sztormowa region skopje,2026-03-26T04:56:00+00:00,North Macedonia,0.3062516929422517,0,1,pl,MED,Europe
 '3e44561d4c',extremes,Snow&Ice,#d60d2b,wmo,lodowa republika mołdawii,2026-04-10T05:13:00+00:00,Republic of Moldova,0.3061361481127652,0,1,pl,WCE,Europe
 '4093195155',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Indiach,2026-04-02T04:42:00+00:00,India,0.3060850052388456,0,1,pl,SAS,Asia
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,Kanada śnieg,2026-03-18T04:36:00+00:00,Canada,0.3060357270000287,0,1,pl,NEN,North-America
 '283b154c38',extremes,Wet Spell,#d60d2b,random,mokre zaklęcie,2026-03-25T04:33:00+00:00,,0.3060267968518284,0,1,pl,,
 'cb68d1153d',extremes,Storm,#b3b2b1,wmo,burza Sierra Norte y Centro,2026-04-01T05:12:00+00:00,Ecuador,0.3060226239895141,0,1,pl,NWS,South-America
+'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,mróz w Argentynie,2026-04-11T04:34:00+00:00,Argentina,0.30596995194314197,0,1,pl,SES,South-America
 '9131f8e093',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz Sierra Norte y Centro,2026-03-31T04:59:00+00:00,Ecuador,0.3059620150943005,0,1,pl,NWS,South-America
 'c8dd7549e0',extremes,Storm,#b3b2b1,wmo,burza w regionie południowo-wschodnim,2026-03-26T04:56:00+00:00,North Macedonia,0.3059514940635569,0,1,pl,MED,Europe
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,trąba powietrzna,2026-03-14T04:22:00+00:00,,0.305933741421327,1,1,pl,,
@@ -336,20 +340,26 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a5a19a733b',extremes,Flood,#030ba1,wmo,powódź błyskawiczna w Etiopii,2026-03-29T05:00:00+00:00,Ethiopia,0.3055273488989083,0,1,pl,NEAF,Africa
 'e1048c4180',extremes,Drought,#edc291,edo,susza w Urugwaju,2026-03-22T04:33:00+00:00,Uruguay,0.3055232906384368,0,1,pl,SES,South-America
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,fala upałów corrientes y alrededores,2026-03-29T05:00:00+00:00,Argentina,0.3054732489954445,0,1,pl,SES,South-America
-'c7c86df95e',extremes,Storm,#b3b2b1,wmo,burza w Izraelu,2026-03-31T04:59:00+00:00,Israel,0.30546674713786515,0,1,pl,MED,Asia
+'c7c86df95e',extremes,Storm,#b3b2b1,wmo,burza w Izraelu,2026-03-31T04:59:00+00:00,Israel,0.3054667471378651,0,1,pl,MED,Asia
 'b9df18cf46',extremes,Storm,#b3b2b1,wmo,fala sztormowa na przybrzeżnych obszarach północnego wybrzeża,2026-04-06T05:11:00+00:00,Jamaica,0.3054282285911406,0,1,pl,CAR,North-America
 'b7410cf0a8',extremes,Precipitation,#d60d2b,wmo,ulewa Sierra Norte y Centro,2026-03-30T05:12:00+00:00,Ecuador,0.3054121607074903,0,1,pl,NWS,South-America
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz Ekwador,2026-04-01T05:12:00+00:00,Ecuador,0.3053792269826932,0,1,pl,NWS,South-America
-'69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,fala upałów parana y alrededores,2026-04-03T04:43:00+00:00,Argentina,0.30534700002184717,0,1,pl,SES,South-America
+'69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,fala upałów parana y alrededores,2026-04-03T04:43:00+00:00,Argentina,0.3053470000218471,0,1,pl,SES,South-America
 '5b66901fd7',extremes,Wildfire,#d60d2b,wmo,pożar kareeberg vanwykksvlei,2026-03-31T04:59:00+00:00,South Africa,0.305339804916354,0,1,pl,WSAF,Africa
 '053bb10e09',extremes,Heat Wave,#c40202,random,indyjskie lato,2026-03-10T04:21:00+00:00,,0.3052187983609614,1,1,pl,,
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,deszcz Ekwador,2026-04-01T05:12:00+00:00,Ecuador,0.3052032435730108,0,1,pl,NWS,South-America
 '1260f3a52f',extremes,Heat Wave,#c40202,wmo,fala upałów Moskwa,2026-04-01T05:12:00+00:00,Russia,0.3051991349493278,0,1,pl,ESB,Europe
-'2840754e5c',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Libii,2026-04-01T05:12:00+00:00,Libya,0.30514012217002623,0,1,pl,SAH,Africa
-'a93ca33fc4',extremes,Storm,#b3b2b1,wmo,fala sztormowa w kanale i na wodach południowych.,2026-04-06T05:11:00+00:00,Vanuatu,0.30510843227668266,0,1,pl,SPO,Oceania
+'2840754e5c',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Libii,2026-04-01T05:12:00+00:00,Libya,0.3051401221700262,0,1,pl,SAH,Africa
+'a93ca33fc4',extremes,Storm,#b3b2b1,wmo,fala sztormowa w kanale i na wodach południowych.,2026-04-06T05:11:00+00:00,Vanuatu,0.3051084322766826,0,1,pl,SPO,Oceania
 'afc393e166',extremes,Precipitation,#d60d2b,wmo,opady w Afryce Południowej,2026-02-23T04:37:00+00:00,South Africa,0.3049961401721008,0,1,pl,WSAF,Africa
+'6dbe18bed3',extremes,Wildfire,#d60d2b,wmo,telangana pożaru,2026-03-29T05:00:00+00:00,India,0.3049376652607233,0,1,pl,SAS,Asia
 'f63711b763',extremes,Snow Avalanche,#deddd5,wmo,lawina sunnmøre,2026-03-19T04:35:00+00:00,Norway,0.3049235609937491,0,1,pl,NEU,Europe
+'91c0c7bb02',extremes,Precipitation,#d60d2b,wmo,opady litoral y sierra,2026-04-03T04:43:00+00:00,Ecuador,0.3049171763010511,0,1,pl,NWS,South-America
 '852eb2b733',extremes,Snow&Ice,#d60d2b,wmo,zamarzający półwysep Avalon na południowym wschodzie,2026-02-21T04:18:00+00:00,Canada,0.3049120631537407,0,1,pl,NEN,North-America
+'110d2ee2b9',extremes,Heat Wave,#c40202,wmo,fala upałów rejon Kaługi,2026-04-02T04:42:00+00:00,Russia,0.3049083413624503,0,1,pl,ESB,Europe
+'b2bc2d0c7f',extremes,Snow Avalanche,#deddd5,wmo,lawina w Indiach,2026-03-29T05:00:00+00:00,India,0.30490715142602726,0,1,pl,SAS,Asia
+'ebe9220c27',extremes,Snow&Ice,#d60d2b,wmo,mróz bouira,2026-04-02T04:42:00+00:00,Algeria,0.3048987922028955,0,1,pl,SAH,Africa
+'e0317bbd00',extremes,Heat Wave,#c40202,wmo,fala upałów w regionie Orenburga,2026-04-01T05:12:00+00:00,Russia,0.3048917293129805,0,1,pl,ESB,Europe
 'ea0aa28870',extremes,Drought,#edc291,edo,brak deszczu w Finlandii,2026-02-26T04:29:00+00:00,Finland,0.3048308172590284,0,1,pl,NEU,Europe
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,burza Chile,2026-02-25T04:32:00+00:00,Chile,0.3046908166848892,0,1,pl,SWS,South-America
 '7e303c7e63',extremes,Snow Avalanche,#deddd5,random,lawina śnieżna,2026-03-08T04:24:00+00:00,,0.3045518902795551,0,1,pl,,
