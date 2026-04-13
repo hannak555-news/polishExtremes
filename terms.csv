@@ -339,6 +339,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2b54723d48',extremes,Precipitation,#d60d2b,wmo,ulewa amazonía,2026-03-31T04:59:00+00:00,Ecuador,0.3058661484515662,0,1,pl,NWS,South-America
 'a29729e148',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Izraelu,2026-04-02T04:42:00+00:00,Israel,0.3058268324597389,0,1,pl,MED,Asia
 'f22d69fd3e',extremes,Storm,#b3b2b1,wmo,burza w Guzzam,2026-04-08T05:01:00+00:00,Algeria,0.3057155840718022,0,1,pl,SAH,Africa
+'49f364b3e2',extremes,Precipitation,#d60d2b,wmo,ulewa formosa patino pirane.,2026-04-13T05:28:00+00:00,Argentina,0.3056346795329553,0,1,pl,SES,South-America
 'f5a98ca4eb',extremes,Storm,#b3b2b1,wmo,fala sztormowa litoral norte e wnętrze,2026-03-30T05:12:00+00:00,Ecuador,0.3055341919066162,0,1,pl,NWS,South-America
 'a5a19a733b',extremes,Flood,#030ba1,wmo,powódź błyskawiczna w Etiopii,2026-03-29T05:00:00+00:00,Ethiopia,0.3055273488989083,0,1,pl,NEAF,Africa
 'e1048c4180',extremes,Drought,#edc291,edo,susza w Urugwaju,2026-03-22T04:33:00+00:00,Uruguay,0.3055232906384368,0,1,pl,SES,South-America
@@ -375,6 +376,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,burza Chile,2026-02-25T04:32:00+00:00,Chile,0.3046908166848892,0,1,pl,SWS,South-America
 'a82da7ee1b',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz litoral norte e interior,2026-04-01T05:12:00+00:00,Ecuador,0.3046660862365147,0,1,pl,NWS,South-America
 '7c39867b86',extremes,Flood,#030ba1,wmo,powódź błyskawiczna obwód władimirski,2026-03-28T04:33:00+00:00,Russia,0.3046584160208917,0,1,pl,ESB,Europe
+'97b6b58da4',extremes,Earthquake,#870007,usgs,stany federacyjne dotknięte trzęsieniem ziemi,2026-04-13T05:27:00+00:00,Federated States,0.3046360606864617,0,1,pl,NPO,Pacific Ocean
 '0719424b4d',extremes,Snow&Ice,#d60d2b,wmo,śnieżna blida,2026-03-29T05:00:00+00:00,Algeria,0.3045986241432377,0,1,pl,SAH,Africa
 '5ea801d5f7',extremes,Snow&Ice,#d60d2b,wmo,marznące Czechy,2026-03-26T04:56:00+00:00,Czechia,0.3045775518637997,0,1,pl,WCE,Europe
 'f85bf58878',extremes,Wildfire,#d60d2b,wmo,pożar w Pekinie,2026-03-28T04:33:00+00:00,China,0.3045686029632263,0,1,pl,EAS,Asia
@@ -390,17 +392,25 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8a3ed6b772',extremes,Heat Wave,#c40202,wmo,fala upałów w regionie Ryazan,2026-04-01T05:12:00+00:00,Russia,0.3043731521621845,0,1,pl,ESB,Europe
 '3dea46c095',extremes,Flood,#030ba1,wmo,flashflood Stany Zjednoczone,2026-03-24T04:31:00+00:00,United States,0.3043673686149204,0,1,pl,CNA,North-America
 'e6200fd658',extremes,Drought,#edc291,edo,susza w Angoli,2026-04-04T04:30:00+00:00,Angola,0.3042461018059758,0,1,pl,WSAF,Africa
-'fda000bba3',extremes,Storm,#b3b2b1,wmo,fala sztormowa Litoral y Sierra,2026-04-05T05:01:00+00:00,Ecuador,0.30423098098124385,0,1,pl,NWS,South-America
+'fda000bba3',extremes,Storm,#b3b2b1,wmo,fala sztormowa Litoral y Sierra,2026-04-05T05:01:00+00:00,Ecuador,0.3042309809812438,0,1,pl,NWS,South-America
 '61a00c0855',extremes,Drought,#edc291,edo,susza Surinamu,2026-03-04T04:21:00+00:00,Suriname,0.3042268524226613,0,1,pl,NSA,South-America
-'a015920a8d',extremes,Precipitation,#d60d2b,wmo,ulewne deszcze w pasmach kaweka i ruahine,2026-04-11T04:34:00+00:00,New Zealand,0.30421852921009673,0,1,pl,NZ,Oceania
-'854af57bd3',extremes,Fog,#d60d2b,wmo,mgła Kanada,2026-04-03T04:43:00+00:00,Canada,0.30418767183848067,0,1,pl,NEN,North-America
-'8f1c5d5139',extremes,Tropical Cyclone,#4f4f4f,wmo,tajfun zachodni isabel i choiseul,2026-04-05T05:01:00+00:00,Solomon Islands,0.30415837295785175,0,1,pl,EPO,Oceania
+'a015920a8d',extremes,Precipitation,#d60d2b,wmo,ulewne deszcze w pasmach kaweka i ruahine,2026-04-11T04:34:00+00:00,New Zealand,0.3042185292100967,0,1,pl,NZ,Oceania
+'6852666385',extremes,Earthquake,#870007,usgs,trzęsienie ziemi w porcie Mathurin,2026-04-13T05:27:00+00:00,Mauritius,0.3042037335889874,0,1,pl,SIO,Indian Ocean
+'854af57bd3',extremes,Fog,#d60d2b,wmo,mgła Kanada,2026-04-03T04:43:00+00:00,Canada,0.3041876718384806,0,1,pl,NEN,North-America
+'8f1c5d5139',extremes,Tropical Cyclone,#4f4f4f,wmo,tajfun zachodni isabel i choiseul,2026-04-05T05:01:00+00:00,Solomon Islands,0.3041583729578517,0,1,pl,EPO,Oceania
 'a138ccf5bc',extremes,Precipitation,#d60d2b,wmo,deszcz sucumbíos orellana y pastaza.,2026-03-03T04:27:00+00:00,Ecuador,0.3041466724088109,0,1,pl,NWS,South-America
 '3d204af14f',extremes,Snow Avalanche,#deddd5,wmo,lawina lyngen,2026-02-25T04:32:00+00:00,Norway,0.3041118414378748,0,1,pl,NEU,Europe
-'69840e877f',extremes,Storm,#b3b2b1,wmo,burza Bułgaria,2026-04-08T05:01:00+00:00,Bulgaria,0.30411074961481765,0,1,pl,MED,Europe
+'69840e877f',extremes,Storm,#b3b2b1,wmo,burza Bułgaria,2026-04-08T05:01:00+00:00,Bulgaria,0.3041107496148176,0,1,pl,MED,Europe
+'8e0ac5b7e8',extremes,Earthquake,#870007,usgs,trzęsienie ziemi w Luganville,2026-03-31T04:59:00+00:00,Vanuatu,0.3041059412057678,0,1,pl,SPO,Pacific Ocean
 '6507524436',extremes,Tropical Cyclone,#4f4f4f,wmo,"cyklon tropikalny, jałowe wyspy na wschód",2026-02-25T04:32:00+00:00,United States,0.304095104246414,0,1,pl,CNA,North-America
 '1f5ce6636c',extremes,Thunderstorm,#53785a,wmo,ciężka pogoda w Botswanie,2026-03-23T04:42:00+00:00,Botswana,0.304092267143164,0,1,pl,WSAF,Africa
+'271200cbb0',extremes,Wildfire,#d60d2b,wmo,pożar w andhra pradesh,2026-04-03T04:43:00+00:00,India,0.30405742148731385,0,1,pl,SAS,Asia
 'dc8be80c47',extremes,Drought,#edc291,edo,susza Wysp Owczych,2026-03-16T05:05:00+00:00,Faroe Islands,0.3040515693462315,0,1,pl,NEU,Europe
+'919b5ab130',extremes,Earthquake,#870007,usgs,"trzęsienie ziemi, tak",2026-04-10T05:12:00+00:00,Federated States,0.30402440275105824,0,1,pl,NPO,Pacific Ocean
+'f986239716',extremes,Wildfire,#d60d2b,wmo,pożar gujarat,2026-04-03T04:43:00+00:00,India,0.3040090207763129,0,1,pl,SAS,Asia
+'1c644a9153',extremes,Tropical Cyclone,#4f4f4f,wmo,tajfun na Wyspach Salomona,2026-04-10T05:13:00+00:00,Solomon Islands,0.3039253635911395,0,1,pl,EPO,Oceania
+'5295642073',extremes,Flood,#030ba1,wmo,powódź w Rosji,2026-03-30T05:12:00+00:00,Russia,0.3039169689649052,0,1,pl,ESB,Europe
+'8ade601e1d',extremes,Precipitation,#d60d2b,wmo,ulewa nowa zelandia,2026-04-03T04:43:00+00:00,New Zealand,0.30391641999642677,0,1,pl,NZ,Oceania
 '0a54633be0',extremes,Drought,#edc291,edo,brak deszczu luksemburg,2026-02-28T04:07:00+00:00,Luxembourg,0.3038834972891434,0,1,pl,WCE,Europe
 '9fb010255c',extremes,Precipitation,#d60d2b,wmo,opady cordoba gral roca rio cuarto.,2026-03-06T04:21:00+00:00,Argentina,0.3038388934051371,0,1,pl,SES,South-America
 'aba9de13df',extremes,Wildfire,#d60d2b,wmo,pożar w Afryce Południowej,2026-02-27T04:26:00+00:00,South Africa,0.3037796135178769,0,1,pl,WSAF,Africa
