@@ -312,7 +312,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c62db23b0d',extremes,Storm,#b3b2b1,wmo,fala sztormowa Liienfeld,2026-03-25T04:33:00+00:00,Austria,0.3070366672655601,0,1,pl,WCE,Europe
 '3f5d4b9ffe',extremes,Storm,#b3b2b1,wmo,burza spittal an der drau,2026-03-25T04:33:00+00:00,Austria,0.3069484649507599,0,1,pl,WCE,Europe
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,sztorm w Irlandii,2026-03-25T04:33:00+00:00,Ireland,0.3069179904982869,0,1,pl,NEU,Europe
-'0daffd462e',extremes,Storm,#b3b2b1,eonet,super tajfun sinlaku,2026-04-13T05:27:00+00:00,,0.30688057824569137,0,1,pl,NPO,Pacific Ocean
+'0daffd462e',extremes,Storm,#b3b2b1,eonet,super tajfun sinlaku,2026-04-13T05:27:00+00:00,,0.3068805782456913,0,1,pl,NPO,Pacific Ocean
 '2a1438957e',extremes,Snow&Ice,#d60d2b,wmo,lodowy halein,2026-03-25T04:33:00+00:00,Austria,0.3068582465521975,0,1,pl,WCE,Europe
 'a4ea76ca76',extremes,Storm,#b3b2b1,wmo,fala sztormowa Algieria,2026-04-06T05:11:00+00:00,Algeria,0.306822394715412,0,1,pl,SAH,Africa
 'cda3b95773',extremes,Storm,#b3b2b1,wmo,burza w Arabii Saudyjskiej,2026-03-18T04:36:00+00:00,Saudi Arabia,0.3067782886341297,0,1,pl,ARP,Asia
@@ -457,20 +457,30 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,mróz Kanada,2026-02-28T04:07:00+00:00,Canada,0.3032836896668672,0,1,pl,NEN,North-America
 '8180415a6e',extremes,Storm,#b3b2b1,wmo,fala sztormowa Solapur,2026-04-03T04:43:00+00:00,India,0.3032790462829553,0,1,pl,SAS,Asia
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,lód w Argentynie,2026-04-12T05:12:00+00:00,Argentina,0.3032620321360473,0,1,pl,SES,South-America
-'27fd81d198',extremes,Storm,#b3b2b1,wmo,sztorm na Wyspy Salomona,2026-04-11T04:34:00+00:00,Solomon Islands,0.30325592039096577,0,1,pl,EPO,Oceania
+'27fd81d198',extremes,Storm,#b3b2b1,wmo,sztorm na Wyspy Salomona,2026-04-11T04:34:00+00:00,Solomon Islands,0.3032559203909657,0,1,pl,EPO,Oceania
 '95436f364d',extremes,Storm,#b3b2b1,wmo,sztormowa fala litoral y occidente de sierra,2026-02-27T04:26:00+00:00,Ecuador,0.3032511324614753,0,1,pl,NWS,South-America
-'a574def091',extremes,Tropical Cyclone,#4f4f4f,wmo,huragan w środkowych i wschodnich regionach,2026-04-09T04:58:00+00:00,Solomon Islands,0.30322880781042877,0,1,pl,EPO,Oceania
-'826fa05cf0',extremes,Snow Avalanche,#deddd5,wmo,lawina nordenskiöld land,2026-04-10T05:13:00+00:00,Norway,0.30320533276110906,0,1,pl,NEU,Europe
-'96236781fb',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz satun trang,2026-04-10T05:13:00+00:00,Thailand,0.30320437469257283,0,1,pl,SEA,Asia
+'a574def091',extremes,Tropical Cyclone,#4f4f4f,wmo,huragan w środkowych i wschodnich regionach,2026-04-09T04:58:00+00:00,Solomon Islands,0.3032288078104287,0,1,pl,EPO,Oceania
+'826fa05cf0',extremes,Snow Avalanche,#deddd5,wmo,lawina nordenskiöld land,2026-04-10T05:13:00+00:00,Norway,0.303205332761109,0,1,pl,NEU,Europe
+'96236781fb',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz satun trang,2026-04-10T05:13:00+00:00,Thailand,0.3032043746925728,0,1,pl,SEA,Asia
 'b2c023909a',extremes,Storm,#b3b2b1,wmo,burza obszar 2 – umiarkowana,2026-03-21T04:17:00+00:00,Paraguay,0.3031992103029168,0,1,pl,SES,South-America
-'afd06422c3',extremes,Storm,#b3b2b1,wmo,burza Wellington,2026-04-12T05:12:00+00:00,New Zealand,0.30319374567671403,0,1,pl,NZ,Oceania
+'afd06422c3',extremes,Storm,#b3b2b1,wmo,burza Wellington,2026-04-12T05:12:00+00:00,New Zealand,0.303193745676714,0,1,pl,NZ,Oceania
 '49e564d95b',extremes,Drought,#edc291,edo,susza na wyspach Svalbard i Jan Mayen,2026-03-02T04:27:00+00:00,Svalbard and Jan Mayen Islands,0.3031813003143713,0,1,pl,ARO,Arctica
 '9fc62ce49b',extremes,Earthquake,#870007,usgs,trzęsienie ziemi w Anguilli,2026-04-09T04:57:00+00:00,Anguilla,0.3031770227199946,0,1,pl,NAO,Atlantic Ocean
-'3c35edb296',extremes,Thunderstorm,#53785a,wmo,burza z piorunami w Botswanie,2026-04-14T05:11:00+00:00,Botswana,0.30317090500363997,0,1,pl,WSAF,Africa
+'3c35edb296',extremes,Thunderstorm,#53785a,wmo,burza z piorunami w Botswanie,2026-04-14T05:11:00+00:00,Botswana,0.3031709050036399,0,1,pl,WSAF,Africa
+'3a67915e02',extremes,Earthquake,#870007,usgs,trzęsienie ziemi w Peru,2026-04-06T05:11:00+00:00,Peru,0.30315101112315074,0,1,pl,NWS,South-America
+'70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,cyklon tropikalny w stanach zjednoczonych,2026-04-11T04:34:00+00:00,United States,0.30313865846175014,0,1,pl,CNA,North-America
+'604b1e160a',extremes,Heat Wave,#c40202,wmo,fala upałów 33 mandale,2026-04-04T04:30:00+00:00,India,0.30313536520903517,0,1,pl,SAS,Asia
+'0006615477',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz w Kanadzie,2026-04-06T05:11:00+00:00,Canada,0.3031256629501653,0,1,pl,NEN,North-America
+'dad4b2a07f',extremes,Snow&Ice,#d60d2b,wmo,salwa lodowa,2026-04-14T05:11:00+00:00,Canada,0.3031153412464506,0,1,pl,NEN,North-America
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,najgorętszy rok,2026-03-12T04:25:00+00:00,,0.3030936944496941,1,1,pl,,
+'8ee5eff537',extremes,Snow Avalanche,#deddd5,wmo,lawina kargil w dzielnicy ladakh,2026-03-29T05:00:00+00:00,India,0.3030212789421758,0,1,pl,SAS,Asia
+'c229b0919c',extremes,Precipitation,#d60d2b,wmo,deszcz Arabia Saudyjska,2026-04-08T05:01:00+00:00,Saudi Arabia,0.30301831780046656,0,1,pl,ARP,Asia
+'12f98a50ad',extremes,Snow Avalanche,#deddd5,wmo,utwardzacz lawinowy,2026-04-10T05:13:00+00:00,Norway,0.3030160721593833,0,1,pl,NEU,Europe
 '4faeae3d65',extremes,Snow Avalanche,#deddd5,wmo,lawina stany zjednoczone,2026-03-12T04:26:00+00:00,United States,0.3030156099475125,0,1,pl,CNA,North-America
 'd865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,cyklon tropikalny w Australii,2026-02-27T04:26:00+00:00,Australia,0.3030019074924943,0,1,pl,EAU,Oceania
 '8d1767f806',extremes,Storm,#b3b2b1,wmo,fala sztormowa na Islandii,2026-02-27T04:26:00+00:00,Iceland,0.3029889297224113,0,1,pl,GIC,Europe
+'7848dc716c',extremes,Landslide,#572c03,wmo,osuwisko Qianshan County,2026-03-30T05:12:00+00:00,China,0.30298702007507367,0,1,pl,EAS,Asia
+'2e88ab8e95',extremes,Tropical Cyclone,#4f4f4f,wmo,cyklon tropikalny zachodni isabel i choiseul,2026-04-09T04:58:00+00:00,Solomon Islands,0.3029755957877312,0,1,pl,EPO,Oceania
 '0a64ea35d9',extremes,Tropical Cyclone,#4f4f4f,wmo,huragan w Australii,2026-03-17T04:30:00+00:00,Australia,0.3027834925859256,0,1,pl,CAU,Oceania
 'd46c388af4',extremes,Tropical Cyclone,#4f4f4f,aidr,cyklon tropikalny debbie queensland 2017,2026-03-03T04:27:00+00:00,Australia,0.3027307570759854,0,1,pl,EAU,Oceania
 '98dca675e7',extremes,Precipitation,#d60d2b,wmo,deszcz Malawi,2026-03-16T05:05:00+00:00,Malawi,0.3026476227642903,0,1,pl,ESAF,Africa
