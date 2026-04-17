@@ -490,9 +490,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e537c7081f',extremes,Thunderstorm,#53785a,wmo,burza z piorunami w Hongkongu,2026-04-04T04:30:00+00:00,Hong Kong,0.3028716396346471,0,1,pl,EAS,Asia
 '9865ee96b6',extremes,Thunderstorm,#53785a,wmo,grad środkowy i przejściowy,2026-04-08T05:01:00+00:00,Ghana,0.3028614527975817,0,1,pl,WAF,Africa
 '233dbed709',extremes,Storm,#b3b2b1,wmo,fala sztormowa Republika Mołdawii,2026-04-07T04:59:00+00:00,Republic of Moldova,0.3028595266777551,0,1,pl,WCE,Europe
-'4d32562979',extremes,Storm,#b3b2b1,wmo,burza na wschodniej Islandii,2026-04-11T04:34:00+00:00,Iceland,0.30285814710841324,0,1,pl,GIC,Europe
+'4d32562979',extremes,Storm,#b3b2b1,wmo,burza na wschodniej Islandii,2026-04-11T04:34:00+00:00,Iceland,0.3028581471084132,0,1,pl,GIC,Europe
+'aacf82e274',extremes,Drought,#edc291,edo,okres suszy na Wyspach Owczych,2026-04-04T04:30:00+00:00,Faroe Islands,0.30283664482324363,0,1,pl,NEU,Europe
+'5a5dd83274',extremes,Fog,#d60d2b,wmo,mgła regionu wołgogradskiego,2026-04-08T05:01:00+00:00,Russia,0.3028348763047253,0,1,pl,ESB,Europe
+'9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,"tajfun, stany zjednoczone",2026-04-12T05:12:00+00:00,United States,0.3028278979887822,0,1,pl,CNA,North-America
+'56b0f39c90',extremes,Storm,#b3b2b1,wmo,fala sztormowa Zatoka Jakutacka,2026-03-31T04:59:00+00:00,United States,0.30282766855613,0,1,pl,CNA,North-America
+'d56de5f4df',extremes,Drought,#edc291,edo,brak deszczu na Łotwie,2026-04-11T04:34:00+00:00,Latvia,0.30278475107103886,0,1,pl,WCE,Europe
 '0a64ea35d9',extremes,Tropical Cyclone,#4f4f4f,wmo,huragan w Australii,2026-03-17T04:30:00+00:00,Australia,0.3027834925859256,0,1,pl,CAU,Oceania
+'2cb70e27d7',extremes,Snow Avalanche,#deddd5,wmo,lawina republika buriacji,2026-04-10T05:13:00+00:00,Russia,0.3027725251001858,0,1,pl,ESB,Europe
+'79e64835e0',extremes,Wildfire,#d60d2b,wmo,pożar w hrabstwie Qiubei,2026-04-05T05:01:00+00:00,China,0.3027483918448603,0,1,pl,EAS,Asia
+'e190a41be9',extremes,Precipitation,#d60d2b,wmo,deszcz على بعض مناطق غرب ليبيا.,2026-03-31T04:59:00+00:00,Libya,0.3027442274390931,0,1,pl,SAH,Africa
+'d709206c08',extremes,Storm,#b3b2b1,wmo,burza rej. 15 kordylerów,2026-04-13T05:28:00+00:00,Chile,0.30274371790685917,0,1,pl,SWS,South-America
 'd46c388af4',extremes,Tropical Cyclone,#4f4f4f,aidr,cyklon tropikalny debbie queensland 2017,2026-03-03T04:27:00+00:00,Australia,0.3027307570759854,0,1,pl,EAU,Oceania
+'0a84ababc1',extremes,Snow&Ice,#d60d2b,wmo,ice nakina aroland pagwa,2026-04-08T05:01:00+00:00,Canada,0.3027266669364094,0,1,pl,NEN,North-America
 '98dca675e7',extremes,Precipitation,#d60d2b,wmo,deszcz Malawi,2026-03-16T05:05:00+00:00,Malawi,0.3026476227642903,0,1,pl,ESAF,Africa
 'f1e7b52954',extremes,Flood,#030ba1,wmo,powódź błyskawiczna na Łotwie,2026-02-28T04:07:00+00:00,Latvia,0.3025368911535508,0,1,pl,WCE,Europe
 '300c9d7114',extremes,Snow&Ice,#d60d2b,wmo,śnieg w północno-zachodniej Islandii,2026-03-10T04:22:00+00:00,Iceland,0.3024868281791998,0,1,pl,GIC,Europe
