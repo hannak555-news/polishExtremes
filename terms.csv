@@ -1,5 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '29f27e328f',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat sztumski,2026-04-02T04:42:00+00:00,Poland,0.7165174724097261,0,1,pl,WCE,Europe
+'0e27a49222',extremes,Fog,#d60d2b,wmo,mgła w zachodniej strefie przybrzeżnej,2026-04-17T05:16:00+00:00,Poland,0.7036050457337226,0,1,pl,WCE,Europe
 'e01f0ea465',extremes,Fog,#d60d2b,wmo,mgła wschodniej strefy przybrzeżnej,2026-04-01T05:12:00+00:00,Poland,0.7025972868907722,0,1,pl,WCE,Europe
 '149f6bbb51',extremes,Fog,#d60d2b,wmo,mgła w środkowej strefie przybrzeżnej,2026-04-01T05:12:00+00:00,Poland,0.6345770187661726,0,1,pl,WCE,Europe
 '72699e8b6a',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo podlaskie powiat suwałki,2026-04-06T05:11:00+00:00,Poland,0.6201437516372141,0,1,pl,WCE,Europe
@@ -17,6 +18,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fb9c86e069',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo pomorskie powiat sopocki,2026-04-05T05:01:00+00:00,Poland,0.5920930972152414,0,1,pl,WCE,Europe
 'f81802c0d3',extremes,Storm,#b3b2b1,wmo,burza województwo pomorskie powiat gdański,2026-03-25T04:33:00+00:00,Poland,0.5914453841823204,0,1,pl,WCE,Europe
 '4c473f18e3',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo lubelskie powiat łęczyński,2026-04-10T05:13:00+00:00,Poland,0.5880374951783763,0,1,pl,WCE,Europe
+'3fe481b522',extremes,Storm,#b3b2b1,wmo,fala sztormowa w środkowej strefie przybrzeżnej,2026-04-17T05:16:00+00:00,Poland,0.5852477840478925,0,1,pl,WCE,Europe
 'dfe3190216',extremes,Storm,#b3b2b1,wmo,burza województwo podlaskie powiat łomżyński,2026-04-06T05:11:00+00:00,Poland,0.5851342015331905,0,1,pl,WCE,Europe
 '51740b1fc3',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo lubelskie powiat chełmski,2026-04-10T05:13:00+00:00,Poland,0.5783354599587066,0,1,pl,WCE,Europe
 'a44f901c8a',extremes,Storm,#b3b2b1,wmo,burza województwo lubuskie powiat słubicki,2026-03-25T04:33:00+00:00,Poland,0.5783267394995769,0,1,pl,WCE,Europe
@@ -246,6 +248,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '595acbcf9f',extremes,Heat Wave,#c40202,random,najgorętszy dzień,2026-04-04T04:30:00+00:00,,0.3226339267122532,0,1,pl,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,huragan,2026-03-01T04:34:00+00:00,,0.3215604761843476,1,1,pl,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-03-31T04:59:00+00:00,,0.3211439890830261,0,1,pl,,
+'72e8366c4b',extremes,Unknown,#d60d2b,cmeter,nieznany Orlando,2026-04-17T05:16:00+00:00,United States,0.31949934454918827,0,1,pl,ENA,North-America
 'c7fa466900',extremes,Cold Wave,#a7e9fa,acwe,zaklęcie zimna w Nowej Południowej Walii,2026-03-30T05:12:00+00:00,Australia,0.3193784373370132,0,1,pl,EAU,Oceania
 'c759fb6bc1',extremes,Cold Wave,#a7e9fa,acwe,Wiktoria z zimną pogodą,2026-03-30T05:12:00+00:00,Australia,0.3193759020564724,0,1,pl,SAU,Oceania
 'f5cbe3ea20',extremes,Drought,#edc291,acwe,okres suszy w Nowej Południowej Walii,2026-03-19T04:36:00+00:00,Australia,0.3193675107648344,0,1,pl,EAU,Oceania
@@ -463,6 +466,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,sztorm na Wyspy Salomona,2026-04-11T04:34:00+00:00,Solomon Islands,0.3032559203909657,0,1,pl,EPO,Oceania
 '95436f364d',extremes,Storm,#b3b2b1,wmo,sztormowa fala litoral y occidente de sierra,2026-02-27T04:26:00+00:00,Ecuador,0.3032511324614753,0,1,pl,NWS,South-America
 'a574def091',extremes,Tropical Cyclone,#4f4f4f,wmo,huragan w środkowych i wschodnich regionach,2026-04-09T04:58:00+00:00,Solomon Islands,0.3032288078104287,0,1,pl,EPO,Oceania
+'4fe34cb23e',extremes,Precipitation,#d60d2b,wmo,pasma ulew w dystrykcie Westland,2026-04-17T05:16:00+00:00,New Zealand,0.3032273335880311,0,1,pl,NZ,Oceania
 '826fa05cf0',extremes,Snow Avalanche,#deddd5,wmo,lawina nordenskiöld land,2026-04-10T05:13:00+00:00,Norway,0.303205332761109,0,1,pl,NEU,Europe
 '96236781fb',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz satun trang,2026-04-10T05:13:00+00:00,Thailand,0.3032043746925728,0,1,pl,SEA,Asia
 'b2c023909a',extremes,Storm,#b3b2b1,wmo,burza obszar 2 – umiarkowana,2026-03-21T04:17:00+00:00,Paraguay,0.3031992103029168,0,1,pl,SES,South-America
@@ -491,19 +495,25 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9865ee96b6',extremes,Thunderstorm,#53785a,wmo,grad środkowy i przejściowy,2026-04-08T05:01:00+00:00,Ghana,0.3028614527975817,0,1,pl,WAF,Africa
 '233dbed709',extremes,Storm,#b3b2b1,wmo,fala sztormowa Republika Mołdawii,2026-04-07T04:59:00+00:00,Republic of Moldova,0.3028595266777551,0,1,pl,WCE,Europe
 '4d32562979',extremes,Storm,#b3b2b1,wmo,burza na wschodniej Islandii,2026-04-11T04:34:00+00:00,Iceland,0.3028581471084132,0,1,pl,GIC,Europe
-'aacf82e274',extremes,Drought,#edc291,edo,okres suszy na Wyspach Owczych,2026-04-04T04:30:00+00:00,Faroe Islands,0.30283664482324363,0,1,pl,NEU,Europe
+'aacf82e274',extremes,Drought,#edc291,edo,okres suszy na Wyspach Owczych,2026-04-04T04:30:00+00:00,Faroe Islands,0.3028366448232436,0,1,pl,NEU,Europe
 '5a5dd83274',extremes,Fog,#d60d2b,wmo,mgła regionu wołgogradskiego,2026-04-08T05:01:00+00:00,Russia,0.3028348763047253,0,1,pl,ESB,Europe
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,"tajfun, stany zjednoczone",2026-04-12T05:12:00+00:00,United States,0.3028278979887822,0,1,pl,CNA,North-America
 '56b0f39c90',extremes,Storm,#b3b2b1,wmo,fala sztormowa Zatoka Jakutacka,2026-03-31T04:59:00+00:00,United States,0.30282766855613,0,1,pl,CNA,North-America
-'d56de5f4df',extremes,Drought,#edc291,edo,brak deszczu na Łotwie,2026-04-11T04:34:00+00:00,Latvia,0.30278475107103886,0,1,pl,WCE,Europe
+'7ef3a20daf',extremes,Storm,#b3b2b1,wmo,fala sztormowa galapagos,2026-04-17T05:16:00+00:00,Ecuador,0.3028155901980441,0,1,pl,NWS,South-America
+'d56de5f4df',extremes,Drought,#edc291,edo,brak deszczu na Łotwie,2026-04-11T04:34:00+00:00,Latvia,0.3027847510710388,0,1,pl,WCE,Europe
 '0a64ea35d9',extremes,Tropical Cyclone,#4f4f4f,wmo,huragan w Australii,2026-03-17T04:30:00+00:00,Australia,0.3027834925859256,0,1,pl,CAU,Oceania
 '2cb70e27d7',extremes,Snow Avalanche,#deddd5,wmo,lawina republika buriacji,2026-04-10T05:13:00+00:00,Russia,0.3027725251001858,0,1,pl,ESB,Europe
 '79e64835e0',extremes,Wildfire,#d60d2b,wmo,pożar w hrabstwie Qiubei,2026-04-05T05:01:00+00:00,China,0.3027483918448603,0,1,pl,EAS,Asia
 'e190a41be9',extremes,Precipitation,#d60d2b,wmo,deszcz على بعض مناطق غرب ليبيا.,2026-03-31T04:59:00+00:00,Libya,0.3027442274390931,0,1,pl,SAH,Africa
-'d709206c08',extremes,Storm,#b3b2b1,wmo,burza rej. 15 kordylerów,2026-04-13T05:28:00+00:00,Chile,0.30274371790685917,0,1,pl,SWS,South-America
+'d709206c08',extremes,Storm,#b3b2b1,wmo,burza rej. 15 kordylerów,2026-04-13T05:28:00+00:00,Chile,0.3027437179068591,0,1,pl,SWS,South-America
 'd46c388af4',extremes,Tropical Cyclone,#4f4f4f,aidr,cyklon tropikalny debbie queensland 2017,2026-03-03T04:27:00+00:00,Australia,0.3027307570759854,0,1,pl,EAU,Oceania
 '0a84ababc1',extremes,Snow&Ice,#d60d2b,wmo,ice nakina aroland pagwa,2026-04-08T05:01:00+00:00,Canada,0.3027266669364094,0,1,pl,NEN,North-America
+'c0c49a9063',extremes,Wildfire,#d60d2b,wmo,pożar w Kerali,2026-03-29T05:00:00+00:00,India,0.30271529005834646,0,1,pl,SAS,Asia
+'0077950340',extremes,Wildfire,#d60d2b,wmo,pożar w Norwegii,2026-04-10T05:13:00+00:00,Norway,0.302671927130144,0,1,pl,NEU,Europe
+'d1f2d0f87a',extremes,Fog,#d60d2b,wmo,mgła północno-wschodnia Negew,2026-03-31T04:59:00+00:00,Israel,0.3026502053638687,0,1,pl,MED,Asia
 '98dca675e7',extremes,Precipitation,#d60d2b,wmo,deszcz Malawi,2026-03-16T05:05:00+00:00,Malawi,0.3026476227642903,0,1,pl,ESAF,Africa
+'8db658717e',extremes,Flood,#030ba1,wmo,powódź błyskawiczna w Australii,2026-04-06T05:11:00+00:00,Australia,0.30263336413317377,0,1,pl,CAU,Oceania
+'61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,huragan stany zjednoczone,2026-04-12T05:12:00+00:00,United States,0.3025822289873801,0,1,pl,CNA,North-America
 'f1e7b52954',extremes,Flood,#030ba1,wmo,powódź błyskawiczna na Łotwie,2026-02-28T04:07:00+00:00,Latvia,0.3025368911535508,0,1,pl,WCE,Europe
 '300c9d7114',extremes,Snow&Ice,#d60d2b,wmo,śnieg w północno-zachodniej Islandii,2026-03-10T04:22:00+00:00,Iceland,0.3024868281791998,0,1,pl,GIC,Europe
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,pożar w Indiach,2026-03-04T04:20:00+00:00,India,0.3024606759876082,0,1,pl,SAS,Asia
