@@ -385,7 +385,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a82da7ee1b',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz litoral norte e interior,2026-04-01T05:12:00+00:00,Ecuador,0.3046660862365147,0,1,pl,NWS,South-America
 '7c39867b86',extremes,Flood,#030ba1,wmo,powódź błyskawiczna obwód władimirski,2026-03-28T04:33:00+00:00,Russia,0.3046584160208917,0,1,pl,ESB,Europe
 '97b6b58da4',extremes,Earthquake,#870007,usgs,stany federacyjne dotknięte trzęsieniem ziemi,2026-04-13T05:27:00+00:00,Federated States,0.3046360606864617,0,1,pl,NPO,Pacific Ocean
-'9131a17dd2',extremes,Earthquake,#870007,usgs,trzęsienie ziemi w Nevadzie,2026-04-18T04:56:00+00:00,Nevada,0.30463268674318417,0,1,pl,WNA,North-America
+'9131a17dd2',extremes,Earthquake,#870007,usgs,trzęsienie ziemi w Nevadzie,2026-04-18T04:56:00+00:00,Nevada,0.3046326867431841,0,1,pl,WNA,North-America
 '0719424b4d',extremes,Snow&Ice,#d60d2b,wmo,śnieżna blida,2026-03-29T05:00:00+00:00,Algeria,0.3045986241432377,0,1,pl,SAH,Africa
 '5ea801d5f7',extremes,Snow&Ice,#d60d2b,wmo,marznące Czechy,2026-03-26T04:56:00+00:00,Czechia,0.3045775518637997,0,1,pl,WCE,Europe
 'f85bf58878',extremes,Wildfire,#d60d2b,wmo,pożar w Pekinie,2026-03-28T04:33:00+00:00,China,0.3045686029632263,0,1,pl,EAS,Asia
@@ -530,27 +530,37 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,pożar w Indiach,2026-03-04T04:20:00+00:00,India,0.3024606759876082,0,1,pl,SAS,Asia
 '3b0e352b6e',extremes,Flood,#030ba1,wmo,"powódź w południowej australii, warburton",2026-04-13T05:28:00+00:00,Australia,0.3024445312560712,0,1,pl,CAU,Oceania
 'bee7cf7ad2',extremes,Snow&Ice,#d60d2b,wmo,lodowe Chile,2026-04-14T05:11:00+00:00,Chile,0.3024428148931546,0,1,pl,SWS,South-America
-'93134788d8',extremes,Tropical Cyclone,#4f4f4f,aidr,tajfun w Australii,2026-04-07T04:59:00+00:00,Australia,0.30242079324011056,0,1,pl,NAU,Oceania
-'87f28505d1',extremes,Snow Avalanche,#deddd5,wmo,lawina w Hiszpanii,2026-04-01T05:12:00+00:00,Spain,0.30242041775126466,0,1,pl,MED,Europe
-'356d25c0ef',extremes,Flood,#030ba1,wmo,powódź Hancocka och,2026-04-02T04:42:00+00:00,United States,0.30237413066994895,0,1,pl,CNA,North-America
-'38fb523e0e',extremes,Flood,#030ba1,wmo,powódź błyskawiczna w Botswanie,2026-04-15T05:12:00+00:00,Botswana,0.30236728476010805,0,1,pl,WSAF,Africa
+'93134788d8',extremes,Tropical Cyclone,#4f4f4f,aidr,tajfun w Australii,2026-04-07T04:59:00+00:00,Australia,0.3024207932401105,0,1,pl,NAU,Oceania
+'87f28505d1',extremes,Snow Avalanche,#deddd5,wmo,lawina w Hiszpanii,2026-04-01T05:12:00+00:00,Spain,0.3024204177512646,0,1,pl,MED,Europe
+'356d25c0ef',extremes,Flood,#030ba1,wmo,powódź Hancocka och,2026-04-02T04:42:00+00:00,United States,0.3023741306699489,0,1,pl,CNA,North-America
+'38fb523e0e',extremes,Flood,#030ba1,wmo,powódź błyskawiczna w Botswanie,2026-04-15T05:12:00+00:00,Botswana,0.302367284760108,0,1,pl,WSAF,Africa
 '6b471a0f5b',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Afryce Południowej,2026-03-01T04:35:00+00:00,South Africa,0.3023606015904981,0,1,pl,WSAF,Africa
 'fcb1daa9f9',extremes,Snow Avalanche,#deddd5,wmo,republika lawinowa tuwy,2026-03-19T04:35:00+00:00,Russia,0.3023499646538952,0,1,pl,ESB,Europe
 'eec215cb6d',extremes,Heat Wave,#c40202,wmo,fala upałów w obszarze 2 – silna,2026-03-04T04:20:00+00:00,Paraguay,0.302327838822496,0,1,pl,SES,South-America
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,mróz Niemcy,2026-03-17T04:30:00+00:00,Germany,0.302319813409862,0,1,pl,WCE,Europe
-'298c01d6b6',extremes,Snow Avalanche,#deddd5,wmo,kamizelka lawinowa telemark,2026-04-11T04:34:00+00:00,Norway,0.30231964720629056,0,1,pl,NEU,Europe
+'298c01d6b6',extremes,Snow Avalanche,#deddd5,wmo,kamizelka lawinowa telemark,2026-04-11T04:34:00+00:00,Norway,0.3023196472062905,0,1,pl,NEU,Europe
 '9c373151bb',extremes,Storm,#b3b2b1,wmo,burza obszar 1 – silna,2026-03-19T04:35:00+00:00,Paraguay,0.3023187912308874,0,1,pl,SES,South-America
 'b4368e26f0',extremes,Snow Avalanche,#deddd5,wmo,lawina w Republice Khakassia,2026-03-17T04:30:00+00:00,Russia,0.3023047297451104,0,1,pl,ESB,Europe
-'e72de5f83a',extremes,Landslide,#572c03,wmo,osuwisko miasto Shangrao,2026-04-05T05:01:00+00:00,China,0.30230101569966766,0,1,pl,EAS,Asia
+'e72de5f83a',extremes,Landslide,#572c03,wmo,osuwisko miasto Shangrao,2026-04-05T05:01:00+00:00,China,0.3023010156996676,0,1,pl,EAS,Asia
 '2267094058',extremes,Snow&Ice,#d60d2b,wmo,lód nowa zelandia,2026-03-01T04:35:00+00:00,New Zealand,0.3022835942248303,0,1,pl,NZ,Oceania
 '31919931b3',extremes,Landslide,#572c03,wmo,osuwisko skalne w Chinach,2026-04-12T05:12:00+00:00,China,0.3022792192039521,0,1,pl,EAS,Asia
+'656a35b67b',extremes,Wildfire,#d60d2b,wmo,pożar w hrabstwie Menghai,2026-04-04T04:30:00+00:00,China,0.30227873249068055,0,1,pl,EAS,Asia
 '586bd179b6',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz wielka wyspa barierowa,2026-03-24T04:31:00+00:00,New Zealand,0.3022765363214351,0,1,pl,NZ,Oceania
 '41a496b9d7',extremes,Thunderstorm,#53785a,wmo,ciężka pogoda letsemeng koffiefontein,2026-03-01T04:35:00+00:00,South Africa,0.3022740520665376,0,1,pl,WSAF,Africa
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,burza z piorunami w Afryce Południowej,2026-03-05T04:24:00+00:00,South Africa,0.3022376112572211,0,1,pl,WSAF,Africa
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,fala upałów w Rosji,2026-03-02T04:27:00+00:00,Russia,0.3022352723239532,0,1,pl,ESB,Europe
+'432bab655c',extremes,Wildfire,#d60d2b,eonet,pożar w stanach zjednoczonych,2026-04-07T04:58:00+00:00,United States,0.30221491934442957,0,1,pl,ENA,North-America
 '97185764af',extremes,Snow Avalanche,#deddd5,wmo,lawina indre fjordane,2026-03-22T04:33:00+00:00,Norway,0.3021989431962806,0,1,pl,NEU,Europe
+'6b6e3b7c81',extremes,Wildfire,#d60d2b,wmo,pożar miasta Xuanwei,2026-04-09T04:58:00+00:00,China,0.30218710916207453,0,1,pl,EAS,Asia
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,burza tropikalna,2026-03-15T04:44:00+00:00,,0.3021818673446911,0,1,pl,,
+'a57654f4ed',extremes,Earthquake,#870007,usgs,trzęsienie ziemi w zatoce królewskiej,2026-04-13T05:27:00+00:00,Alaska,0.30215716347371946,0,1,pl,NWN,North-America
 '039582a476',extremes,Storm,#b3b2b1,wmo,fala sztormowa litoral de la provincia de huasco,2026-03-21T04:17:00+00:00,Chile,0.3021428632749822,0,1,pl,SWS,South-America
+'0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,lód Kanada,2026-04-08T05:01:00+00:00,Canada,0.302115816394122,0,1,pl,NEN,North-America
+'9298e9b0d8',extremes,Precipitation,#d60d2b,wmo,ulewa w regionie miasta Nelson,2026-04-12T05:12:00+00:00,New Zealand,0.30211273621364926,0,1,pl,NZ,Oceania
+'afccf77c89',extremes,Storm,#b3b2b1,wmo,burza litora interandina y amazonia,2026-04-14T05:11:00+00:00,Ecuador,0.30210787081433943,0,1,pl,NWS,South-America
+'420886cb54',extremes,Wildfire,#d60d2b,wmo,pożar autonomiczny hrabstwa eshan yi,2026-04-05T05:01:00+00:00,China,0.30210380078256344,0,1,pl,EAS,Asia
+'93312f4a33',extremes,Storm,#b3b2b1,wmo,fala sztormowa na Węgrzech,2026-04-17T05:16:00+00:00,Hungary,0.3020765051397529,0,1,pl,WCE,Europe
+'62d415428e',extremes,Snow Avalanche,#deddd5,wmo,lawina obwód irkucki,2026-04-01T05:12:00+00:00,Russia,0.30204669096830516,0,1,pl,ESB,Europe
 '9ede3b1c93',extremes,Heat Wave,#c40202,wmo,fala upałów w hrabstwie Orange na wybrzeżu,2026-03-20T04:26:00+00:00,United States,0.3020459285221188,0,1,pl,CNA,North-America
 '596bcf1fdb',extremes,Storm,#b3b2b1,wmo,fala sztormowa á obszar 1 – silna,2026-03-12T04:26:00+00:00,Paraguay,0.3019362383974837,0,1,pl,SES,South-America
 '209884e08d',extremes,Thunderstorm,#53785a,wmo,grad Algieria,2026-03-05T04:24:00+00:00,Algeria,0.3019234599761995,0,1,pl,SAH,Africa
