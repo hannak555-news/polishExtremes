@@ -6,7 +6,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '72699e8b6a',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo podlaskie powiat suwałki,2026-04-06T05:11:00+00:00,Poland,0.6201437516372141,0,1,pl,WCE,Europe
 '004d2c2888',extremes,Storm,#b3b2b1,wmo,wezbranie sztormowe woj. lubelskie powiat janowski,2026-04-06T05:11:00+00:00,Poland,0.6129303979884653,0,1,pl,WCE,Europe
 '3a9f7ed519',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo pomorskie powiat słupski,2026-03-25T04:33:00+00:00,Poland,0.6105051450909295,0,1,pl,WCE,Europe
+'326831cb12',extremes,Precipitation,#d60d2b,wmo,ulewa województwo łódzkie powiat sieradzki,2026-04-19T05:16:00+00:00,Poland,0.6053417582214632,0,1,pl,WCE,Europe
 '990fe45419',extremes,Snow&Ice,#d60d2b,wmo,"mroźne województwo śląskie, powiat cieszyński",2026-03-27T04:57:00+00:00,Poland,0.6044262025767663,0,1,pl,WCE,Europe
+'c1fe854a19',extremes,Precipitation,#d60d2b,wmo,ulewa województwo łódzkie powiat zgierski,2026-04-19T05:16:00+00:00,Poland,0.6036322632762154,0,1,pl,WCE,Europe
+'ae6765fbfd',extremes,Precipitation,#d60d2b,wmo,ulewne deszcze województwo łódzkie powiat łódzki,2026-04-19T05:16:00+00:00,Poland,0.6019283754450165,0,1,pl,WCE,Europe
+'447adfff2e',extremes,Precipitation,#d60d2b,wmo,deszczowe województwo śląskie powiat myszkowski,2026-04-19T05:16:00+00:00,Poland,0.5995854149480945,0,1,pl,WCE,Europe
 '1757eb9923',extremes,Storm,#b3b2b1,wmo,burza województwo podlaskie powiat grajewski,2026-04-07T04:59:00+00:00,Poland,0.5994596817481082,0,1,pl,WCE,Europe
 'e8962d6955',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo pomorskie powiat pucki,2026-04-04T04:30:00+00:00,Poland,0.5976206025641699,0,1,pl,WCE,Europe
 '498a6fd5d0',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo lubelskie powiat świdnicki,2026-04-10T05:13:00+00:00,Poland,0.5975350508147007,0,1,pl,WCE,Europe
@@ -15,9 +19,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9b187888d2',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo lubelskie powiat lubelski,2026-04-10T05:13:00+00:00,Poland,0.5953705463084715,0,1,pl,WCE,Europe
 '0c47c83dd7',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo małopolskie powiat suski,2026-03-27T04:57:00+00:00,Poland,0.595020313866675,0,1,pl,WCE,Europe
 'a22387ad2e',extremes,Precipitation,#d60d2b,wmo,deszczowa polska,2026-03-26T04:56:00+00:00,Poland,0.5947105864304598,0,1,pl,WCE,Europe
+'2752348aea',extremes,Precipitation,#d60d2b,wmo,opady atmosferyczne województwo lubuskie powiat żarski,2026-04-19T05:16:00+00:00,Poland,0.5924473443511875,0,1,pl,WCE,Europe
 'fb9c86e069',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo pomorskie powiat sopocki,2026-04-05T05:01:00+00:00,Poland,0.5920930972152414,0,1,pl,WCE,Europe
 'f81802c0d3',extremes,Storm,#b3b2b1,wmo,burza województwo pomorskie powiat gdański,2026-03-25T04:33:00+00:00,Poland,0.5914453841823204,0,1,pl,WCE,Europe
 '4c473f18e3',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo lubelskie powiat łęczyński,2026-04-10T05:13:00+00:00,Poland,0.5880374951783763,0,1,pl,WCE,Europe
+'d0bd4fb7aa',extremes,Precipitation,#d60d2b,wmo,deszcz ulewny województwo lubuskie powiat wschowski,2026-04-19T05:16:00+00:00,Poland,0.5874516004323549,0,1,pl,WCE,Europe
 '3fe481b522',extremes,Storm,#b3b2b1,wmo,fala sztormowa w środkowej strefie przybrzeżnej,2026-04-17T05:16:00+00:00,Poland,0.5852477840478925,0,1,pl,WCE,Europe
 'dfe3190216',extremes,Storm,#b3b2b1,wmo,burza województwo podlaskie powiat łomżyński,2026-04-06T05:11:00+00:00,Poland,0.5851342015331905,0,1,pl,WCE,Europe
 '51740b1fc3',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo lubelskie powiat chełmski,2026-04-10T05:13:00+00:00,Poland,0.5783354599587066,0,1,pl,WCE,Europe
@@ -31,11 +37,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd092f1c2a8',extremes,Storm,#b3b2b1,wmo,burza województwo pomorskie powiat malborski,2026-04-06T05:11:00+00:00,Poland,0.5723454558960498,0,1,pl,WCE,Europe
 '46d4d2dd9f',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo mazowieckie powiat mławski,2026-04-06T05:11:00+00:00,Poland,0.5705415836433128,0,1,pl,WCE,Europe
 '92778fb04e',extremes,Snow&Ice,#d60d2b,wmo,lodowe województwo śląskie powiat żywiecki,2026-03-31T04:59:00+00:00,Poland,0.5705383483799806,0,1,pl,WCE,Europe
+'3921b06b03',extremes,Precipitation,#d60d2b,wmo,ulewne deszcze województwo łódzkie powiat pajęczański,2026-04-19T05:16:00+00:00,Poland,0.5692757064205329,0,1,pl,WCE,Europe
 '080f75259e',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo pomorskie powiat sztumski,2026-03-25T04:33:00+00:00,Poland,0.5690861459092555,0,1,pl,WCE,Europe
 'd8f2c766c4',extremes,Storm,#b3b2b1,wmo,wezbranie sztormowe województwo lubuskie powiat sulęciński,2026-03-25T04:33:00+00:00,Poland,0.5689916248318442,0,1,pl,WCE,Europe
 '69288ebd4f',extremes,Precipitation,#d60d2b,wmo,ulewne deszcze polska,2026-03-26T04:56:00+00:00,Poland,0.567508048506026,0,1,pl,WCE,Europe
 'c3e290c2f7',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo lubelskie powiat bialski,2026-04-06T05:11:00+00:00,Poland,0.5670957226386462,0,1,pl,WCE,Europe
 '2689ec9210',extremes,Storm,#b3b2b1,wmo,burza województwo podlaskie powiat moniecki,2026-04-06T05:11:00+00:00,Poland,0.5656694013183079,0,1,pl,WCE,Europe
+'cfe6434c64',extremes,Precipitation,#d60d2b,wmo,deszcz ulewny województwo lubuskie powiat żagański,2026-04-19T05:16:00+00:00,Poland,0.5644013069128302,0,1,pl,WCE,Europe
 '94495c8d88',extremes,Storm,#b3b2b1,wmo,burza województwo lubelskie powiat bialski,2026-04-07T04:59:00+00:00,Poland,0.5624541179872434,0,1,pl,WCE,Europe
 '3bfa4c2bf4',extremes,Storm,#b3b2b1,wmo,burza województwo mazowieckie powiat płocki,2026-04-06T05:11:00+00:00,Poland,0.5619542666522775,0,1,pl,WCE,Europe
 '1ab85de561',extremes,Storm,#b3b2b1,wmo,burza województwo podlaskie powiat bielski,2026-04-06T05:11:00+00:00,Poland,0.5619184914091038,0,1,pl,WCE,Europe
@@ -44,8 +52,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b0c8dda79e',extremes,Storm,#b3b2b1,wmo,burza województwo lubelskie powiat radzyński,2026-04-06T05:11:00+00:00,Poland,0.5614679957720535,0,1,pl,WCE,Europe
 'fe9f06f03f',extremes,Storm,#b3b2b1,wmo,burza województwo lubelskie powiat kraśnicki,2026-04-06T05:11:00+00:00,Poland,0.5602003421058821,0,1,pl,WCE,Europe
 'feffdb8947',extremes,Storm,#b3b2b1,wmo,burza województwo pomorskie powiat kartuski,2026-03-25T04:33:00+00:00,Poland,0.5580608827501753,0,1,pl,WCE,Europe
+'8116f2621f',extremes,Precipitation,#d60d2b,wmo,deszcz województwo opolskie powiat oleski,2026-04-19T05:16:00+00:00,Poland,0.5578588280618423,0,1,pl,WCE,Europe
 'e385e0ba1c',extremes,Storm,#b3b2b1,wmo,wezbranie sztormowe województwo pomorskie powiat tczewski,2026-03-25T04:33:00+00:00,Poland,0.5569055001987699,0,1,pl,WCE,Europe
 '226aacca8d',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo śląskie powiat cieszyński,2026-03-31T04:59:00+00:00,Poland,0.5562241898749956,0,1,pl,WCE,Europe
+'624bd2f0ee',extremes,Precipitation,#d60d2b,wmo,ulewne deszcze województwo łódzkie powiat łaski,2026-04-19T05:16:00+00:00,Poland,0.5557634766144162,0,1,pl,WCE,Europe
 '102f0c17ef',extremes,Storm,#b3b2b1,wmo,burza województwo lubelskie powiat łukowski,2026-04-06T05:11:00+00:00,Poland,0.5557325643479019,0,1,pl,WCE,Europe
 '775ed8712b',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo lubelskie powiat lubelski,2026-04-06T05:11:00+00:00,Poland,0.5537391432107307,0,1,pl,WCE,Europe
 '35e377bb6e',extremes,Storm,#b3b2b1,wmo,burza województwo lubelskie powiat opolski,2026-04-06T05:11:00+00:00,Poland,0.5535358138724958,0,1,pl,WCE,Europe
@@ -544,23 +554,23 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e72de5f83a',extremes,Landslide,#572c03,wmo,osuwisko miasto Shangrao,2026-04-05T05:01:00+00:00,China,0.3023010156996676,0,1,pl,EAS,Asia
 '2267094058',extremes,Snow&Ice,#d60d2b,wmo,lód nowa zelandia,2026-03-01T04:35:00+00:00,New Zealand,0.3022835942248303,0,1,pl,NZ,Oceania
 '31919931b3',extremes,Landslide,#572c03,wmo,osuwisko skalne w Chinach,2026-04-12T05:12:00+00:00,China,0.3022792192039521,0,1,pl,EAS,Asia
-'656a35b67b',extremes,Wildfire,#d60d2b,wmo,pożar w hrabstwie Menghai,2026-04-04T04:30:00+00:00,China,0.30227873249068055,0,1,pl,EAS,Asia
+'656a35b67b',extremes,Wildfire,#d60d2b,wmo,pożar w hrabstwie Menghai,2026-04-04T04:30:00+00:00,China,0.3022787324906805,0,1,pl,EAS,Asia
 '586bd179b6',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz wielka wyspa barierowa,2026-03-24T04:31:00+00:00,New Zealand,0.3022765363214351,0,1,pl,NZ,Oceania
 '41a496b9d7',extremes,Thunderstorm,#53785a,wmo,ciężka pogoda letsemeng koffiefontein,2026-03-01T04:35:00+00:00,South Africa,0.3022740520665376,0,1,pl,WSAF,Africa
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,burza z piorunami w Afryce Południowej,2026-03-05T04:24:00+00:00,South Africa,0.3022376112572211,0,1,pl,WSAF,Africa
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,fala upałów w Rosji,2026-03-02T04:27:00+00:00,Russia,0.3022352723239532,0,1,pl,ESB,Europe
-'432bab655c',extremes,Wildfire,#d60d2b,eonet,pożar w stanach zjednoczonych,2026-04-07T04:58:00+00:00,United States,0.30221491934442957,0,1,pl,ENA,North-America
+'432bab655c',extremes,Wildfire,#d60d2b,eonet,pożar w stanach zjednoczonych,2026-04-07T04:58:00+00:00,United States,0.3022149193444295,0,1,pl,ENA,North-America
 '97185764af',extremes,Snow Avalanche,#deddd5,wmo,lawina indre fjordane,2026-03-22T04:33:00+00:00,Norway,0.3021989431962806,0,1,pl,NEU,Europe
-'6b6e3b7c81',extremes,Wildfire,#d60d2b,wmo,pożar miasta Xuanwei,2026-04-09T04:58:00+00:00,China,0.30218710916207453,0,1,pl,EAS,Asia
+'6b6e3b7c81',extremes,Wildfire,#d60d2b,wmo,pożar miasta Xuanwei,2026-04-09T04:58:00+00:00,China,0.3021871091620745,0,1,pl,EAS,Asia
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,burza tropikalna,2026-03-15T04:44:00+00:00,,0.3021818673446911,0,1,pl,,
-'a57654f4ed',extremes,Earthquake,#870007,usgs,trzęsienie ziemi w zatoce królewskiej,2026-04-13T05:27:00+00:00,Alaska,0.30215716347371946,0,1,pl,NWN,North-America
+'a57654f4ed',extremes,Earthquake,#870007,usgs,trzęsienie ziemi w zatoce królewskiej,2026-04-13T05:27:00+00:00,Alaska,0.3021571634737194,0,1,pl,NWN,North-America
 '039582a476',extremes,Storm,#b3b2b1,wmo,fala sztormowa litoral de la provincia de huasco,2026-03-21T04:17:00+00:00,Chile,0.3021428632749822,0,1,pl,SWS,South-America
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,lód Kanada,2026-04-08T05:01:00+00:00,Canada,0.302115816394122,0,1,pl,NEN,North-America
-'9298e9b0d8',extremes,Precipitation,#d60d2b,wmo,ulewa w regionie miasta Nelson,2026-04-12T05:12:00+00:00,New Zealand,0.30211273621364926,0,1,pl,NZ,Oceania
-'afccf77c89',extremes,Storm,#b3b2b1,wmo,burza litora interandina y amazonia,2026-04-14T05:11:00+00:00,Ecuador,0.30210787081433943,0,1,pl,NWS,South-America
-'420886cb54',extremes,Wildfire,#d60d2b,wmo,pożar autonomiczny hrabstwa eshan yi,2026-04-05T05:01:00+00:00,China,0.30210380078256344,0,1,pl,EAS,Asia
+'9298e9b0d8',extremes,Precipitation,#d60d2b,wmo,ulewa w regionie miasta Nelson,2026-04-12T05:12:00+00:00,New Zealand,0.3021127362136492,0,1,pl,NZ,Oceania
+'afccf77c89',extremes,Storm,#b3b2b1,wmo,burza litora interandina y amazonia,2026-04-14T05:11:00+00:00,Ecuador,0.3021078708143394,0,1,pl,NWS,South-America
+'420886cb54',extremes,Wildfire,#d60d2b,wmo,pożar autonomiczny hrabstwa eshan yi,2026-04-05T05:01:00+00:00,China,0.3021038007825634,0,1,pl,EAS,Asia
 '93312f4a33',extremes,Storm,#b3b2b1,wmo,fala sztormowa na Węgrzech,2026-04-17T05:16:00+00:00,Hungary,0.3020765051397529,0,1,pl,WCE,Europe
-'62d415428e',extremes,Snow Avalanche,#deddd5,wmo,lawina obwód irkucki,2026-04-01T05:12:00+00:00,Russia,0.30204669096830516,0,1,pl,ESB,Europe
+'62d415428e',extremes,Snow Avalanche,#deddd5,wmo,lawina obwód irkucki,2026-04-01T05:12:00+00:00,Russia,0.3020466909683051,0,1,pl,ESB,Europe
 '9ede3b1c93',extremes,Heat Wave,#c40202,wmo,fala upałów w hrabstwie Orange na wybrzeżu,2026-03-20T04:26:00+00:00,United States,0.3020459285221188,0,1,pl,CNA,North-America
 '596bcf1fdb',extremes,Storm,#b3b2b1,wmo,fala sztormowa á obszar 1 – silna,2026-03-12T04:26:00+00:00,Paraguay,0.3019362383974837,0,1,pl,SES,South-America
 '209884e08d',extremes,Thunderstorm,#53785a,wmo,grad Algieria,2026-03-05T04:24:00+00:00,Algeria,0.3019234599761995,0,1,pl,SAH,Africa
