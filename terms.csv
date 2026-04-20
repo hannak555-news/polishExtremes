@@ -61,6 +61,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '35e377bb6e',extremes,Storm,#b3b2b1,wmo,burza województwo lubelskie powiat opolski,2026-04-06T05:11:00+00:00,Poland,0.5535358138724958,0,1,pl,WCE,Europe
 '589bf12fbd',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo pomorskie powiat słupski,2026-03-25T04:33:00+00:00,Poland,0.5533247975344775,0,1,pl,WCE,Europe
 'd389b29a32',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo pomorskie powiat kartuski,2026-04-06T05:11:00+00:00,Poland,0.5523399663998413,0,1,pl,WCE,Europe
+'d0bd3f2033',extremes,Precipitation,#d60d2b,wmo,opady województwo łódzkie powiat wieluński,2026-04-19T05:16:00+00:00,Poland,0.5511202413905641,0,1,pl,WCE,Europe
 'fffa920622',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo mazowieckie powiat miński,2026-04-06T05:11:00+00:00,Poland,0.5498102344052697,0,1,pl,WCE,Europe
 '906b587502',extremes,Storm,#b3b2b1,wmo,burza województwo pomorskie powiat lęborski,2026-04-05T05:01:00+00:00,Poland,0.5476249975664789,0,1,pl,WCE,Europe
 'c520df0cc2',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo lubelskie powiat zamojski,2026-04-06T05:11:00+00:00,Poland,0.5474856402038171,0,1,pl,WCE,Europe
@@ -199,6 +200,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '11d8faf51c',extremes,Fog,#d60d2b,wmo,mgła województwo lubelskie powiat bialski,2026-03-02T04:27:00+00:00,Poland,0.3735624197386702,4,1,pl,WCE,Europe
 '53fda39314',extremes,Drought,#edc291,edo,brak opadów na Litwie,2026-03-04T04:21:00+00:00,Lithuania,0.373020430320678,3,1,pl,WCE,Europe
 'cd40a13229',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat białostocki,2026-03-02T04:27:00+00:00,Poland,0.3727311991206362,4,1,pl,WCE,Europe
+'72b6332728',extremes,Snow&Ice,#d60d2b,random,zamieć śnieżna,2026-04-19T05:16:00+00:00,,0.3724758693951933,0,1,pl,,
 '4d2ecb1653',extremes,Snow&Ice,#d60d2b,wmo,mróz województwo pomorskie powiat gdyński,2026-02-25T04:32:00+00:00,Poland,0.36875022829813,3,1,pl,WCE,Europe
 'f37139fe2d',extremes,Landslide,#572c03,random,osuwisko błotne,2026-02-12T04:36:00+00:00,,0.3686707905301351,1,2,pl,,
 '921075f013',extremes,Fog,#d60d2b,wmo,mgła województwo łódzkie powiat kutnowski,2026-03-02T04:27:00+00:00,Poland,0.3686597476633014,4,1,pl,WCE,Europe
@@ -283,6 +285,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '39670c8999',extremes,Drought,#edc291,acwe,brak deszczu w południowej Australii,2026-03-25T04:34:00+00:00,Australia,0.3128718467676712,0,1,pl,CAU,Oceania
 '17a0d42ea4',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny maila,2026-04-05T05:01:00+00:00,,0.3124177201917431,0,1,pl,EPO,Pacific Ocean
 'db9244a045',extremes,Drought,#edc291,acwe,susza Wiktoria,2026-03-29T05:01:00+00:00,Australia,0.3123613056738151,0,1,pl,SAU,Oceania
+'7a2481f0b1',extremes,Flood,#030ba1,aidr,powódź w Australii,2026-04-08T05:01:00+00:00,Australia,0.31228765944035175,0,1,pl,NAU,Oceania
 'ba221738be',extremes,Cold Wave,#a7e9fa,acwe,zimna pogoda w Australii,2026-03-31T05:00:00+00:00,Australia,0.3117066864320307,0,1,pl,CAU,Oceania
 'dba9977fc1',extremes,Drought,#edc291,edo,brak opadów na Wyspach Owczych,2026-03-20T04:26:00+00:00,Faroe Islands,0.311445665446138,0,1,pl,NEU,Europe
 '6fde59a3a9',extremes,Drought,#edc291,acwe,suchość w Queensland,2026-03-20T04:27:00+00:00,Australia,0.3114252888609886,0,1,pl,CAU,Oceania
@@ -294,6 +297,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '62dc5cf511',extremes,Storm,#b3b2b1,aidr,burza silna burza Melbourne Victoria 2010,2026-03-25T04:34:00+00:00,Australia,0.3106532539141498,0,1,pl,SAU,Oceania
 '9ca1eb0a20',extremes,Drought,#edc291,edo,susza w Australii,2026-03-20T04:26:00+00:00,Australia,0.3105618430622348,0,1,pl,SAU,Oceania
 '136998b302',extremes,Cold Wave,#a7e9fa,acwe,Queensland zimnej pogody,2026-03-31T05:00:00+00:00,Australia,0.310529476902571,0,1,pl,CAU,Oceania
+'bebba26d24',extremes,Unknown,#d60d2b,cmeter,nieznane Stany Zjednoczone,2026-04-19T05:17:00+00:00,United States,0.30963650787313146,0,1,pl,ENA,North-America
 '352775dd3c',extremes,Drought,#edc291,edo,susza w Nepalu,2026-04-02T04:42:00+00:00,Nepal,0.309616930047449,0,1,pl,TIB,Asia
 '37d08d7316',extremes,Precipitation,#d60d2b,acwe,"okres mokry, południowa Australia",2026-04-12T05:12:00+00:00,Australia,0.3096086511659965,0,1,pl,SAU,Oceania
 '4508810067',extremes,Storm,#b3b2b1,wmo,burza litoral norte e wnętrze,2026-03-31T04:59:00+00:00,Ecuador,0.3088576176033376,0,1,pl,NWS,South-America
@@ -550,6 +554,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,mróz Niemcy,2026-03-17T04:30:00+00:00,Germany,0.302319813409862,0,1,pl,WCE,Europe
 '298c01d6b6',extremes,Snow Avalanche,#deddd5,wmo,kamizelka lawinowa telemark,2026-04-11T04:34:00+00:00,Norway,0.3023196472062905,0,1,pl,NEU,Europe
 '9c373151bb',extremes,Storm,#b3b2b1,wmo,burza obszar 1 – silna,2026-03-19T04:35:00+00:00,Paraguay,0.3023187912308874,0,1,pl,SES,South-America
+'f0a7622c15',extremes,Storm,#b3b2b1,wmo,burza Galapagos,2026-04-19T05:16:00+00:00,Ecuador,0.30231580950099696,0,1,pl,NWS,South-America
 'b4368e26f0',extremes,Snow Avalanche,#deddd5,wmo,lawina w Republice Khakassia,2026-03-17T04:30:00+00:00,Russia,0.3023047297451104,0,1,pl,ESB,Europe
 'e72de5f83a',extremes,Landslide,#572c03,wmo,osuwisko miasto Shangrao,2026-04-05T05:01:00+00:00,China,0.3023010156996676,0,1,pl,EAS,Asia
 '2267094058',extremes,Snow&Ice,#d60d2b,wmo,lód nowa zelandia,2026-03-01T04:35:00+00:00,New Zealand,0.3022835942248303,0,1,pl,NZ,Oceania
@@ -572,7 +577,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '93312f4a33',extremes,Storm,#b3b2b1,wmo,fala sztormowa na Węgrzech,2026-04-17T05:16:00+00:00,Hungary,0.3020765051397529,0,1,pl,WCE,Europe
 '62d415428e',extremes,Snow Avalanche,#deddd5,wmo,lawina obwód irkucki,2026-04-01T05:12:00+00:00,Russia,0.3020466909683051,0,1,pl,ESB,Europe
 '9ede3b1c93',extremes,Heat Wave,#c40202,wmo,fala upałów w hrabstwie Orange na wybrzeżu,2026-03-20T04:26:00+00:00,United States,0.3020459285221188,0,1,pl,CNA,North-America
+'9a93354f3b',extremes,Drought,#edc291,edo,okres suszy w Angoli,2026-04-05T05:01:00+00:00,Angola,0.30201268339607584,0,1,pl,WSAF,Africa
+'66dde132e2',extremes,Landslide,#572c03,wmo,lawina błotna w hrabstwie Xiajiang,2026-04-13T05:28:00+00:00,China,0.30198637587754085,0,1,pl,EAS,Asia
+'24b660695f',extremes,Landslide,#572c03,wmo,lawina błotna w Chinach,2026-04-11T04:34:00+00:00,China,0.30196296131368006,0,1,pl,EAS,Asia
+'fa06cd330a',extremes,Landslide,#572c03,wmo,osuwisko w Chinach,2026-04-13T05:28:00+00:00,China,0.30196034596426213,0,1,pl,EAS,Asia
 '596bcf1fdb',extremes,Storm,#b3b2b1,wmo,fala sztormowa á obszar 1 – silna,2026-03-12T04:26:00+00:00,Paraguay,0.3019362383974837,0,1,pl,SES,South-America
+'d3ea8177c3',extremes,Flood,#030ba1,wmo,powódź w Stanach Zjednoczonych,2026-04-09T04:58:00+00:00,United States,0.301935876142458,0,1,pl,CNA,North-America
 '209884e08d',extremes,Thunderstorm,#53785a,wmo,grad Algieria,2026-03-05T04:24:00+00:00,Algeria,0.3019234599761995,0,1,pl,SAH,Africa
 'aa611870f3',extremes,Earthquake,#870007,usgs,trzęsienie ziemi w dolinie,2026-03-22T04:33:00+00:00,Anguilla,0.301907284961536,0,1,pl,NAO,Atlantic Ocean
 'a353db3a18',extremes,Flood,#030ba1,wmo,powódź na Łotwie,2026-03-22T04:33:00+00:00,Latvia,0.3018196152289152,0,1,pl,WCE,Europe
