@@ -1,4 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'9b59bee21e',extremes,Drought,#edc291,edo,okres suszy w polsce,2026-04-08T05:01:00+00:00,Poland,0.766316414384831,0,1,pl,WCE,Europe
+'628c73fc75',extremes,Drought,#edc291,edo,susza w polsce,2026-04-11T04:34:00+00:00,Poland,0.7501796299404607,0,1,pl,WCE,Europe
+'da1d506ce7',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat słupski,2026-04-17T05:16:00+00:00,Poland,0.711624802434908,0,1,pl,WCE,Europe
+'8352f2224a',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat gdański,2026-04-17T05:16:00+00:00,Poland,0.6988291628701324,0,1,pl,WCE,Europe
+'ce7ca89385',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat słupski,2026-04-17T05:16:00+00:00,Poland,0.6983287382691815,0,1,pl,WCE,Europe
+'2180c0c4a1',extremes,Drought,#edc291,edo,brak opadów w polsce,2026-04-19T05:16:00+00:00,Poland,0.694343838780346,0,1,pl,WCE,Europe
+'9e020e244e',extremes,Drought,#edc291,edo,susza w polsce,2026-04-04T04:30:00+00:00,Poland,0.6803201767984552,0,1,pl,WCE,Europe
+'4340c9e06c',extremes,Snow&Ice,#d60d2b,wmo,mroźna polska,2026-04-09T04:58:00+00:00,Poland,0.6768487793200285,0,1,pl,WCE,Europe
+'40b7000e71',extremes,Storm,#b3b2b1,wmo,fala sztormowa w polsce,2026-04-04T04:30:00+00:00,Poland,0.6726640216364111,0,1,pl,WCE,Europe
+'13329f4bf1',extremes,Snow&Ice,#d60d2b,wmo,marznąca Polska,2026-04-10T05:13:00+00:00,Poland,0.6664112309742182,0,1,pl,WCE,Europe
 '29f27e328f',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat sztumski,2026-04-02T04:42:00+00:00,Poland,0.6090398515482671,1,1,pl,WCE,Europe
 '0e27a49222',extremes,Fog,#d60d2b,wmo,mgła w zachodniej strefie przybrzeżnej,2026-04-17T05:16:00+00:00,Poland,0.5980642888736643,1,1,pl,WCE,Europe
 'e01f0ea465',extremes,Fog,#d60d2b,wmo,mgła wschodniej strefy przybrzeżnej,2026-04-01T05:12:00+00:00,Poland,0.5972076938571563,1,1,pl,WCE,Europe
@@ -86,20 +96,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c2a1de8dc8',extremes,Storm,#b3b2b1,wmo,burza Polska,2026-03-14T04:22:00+00:00,Poland,0.5034002295286113,3,2,pl,WCE,Europe
 'fb9c86e069',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo pomorskie powiat sopocki,2026-04-05T05:01:00+00:00,Poland,0.5032791326329552,1,1,pl,WCE,Europe
 'f81802c0d3',extremes,Storm,#b3b2b1,wmo,burza województwo pomorskie powiat gdański,2026-03-25T04:33:00+00:00,Poland,0.5027285765549723,1,1,pl,WCE,Europe
-'4c473f18e3',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo lubelskie powiat łęczyński,2026-04-10T05:13:00+00:00,Poland,0.49983187090161985,1,1,pl,WCE,Europe
+'4c473f18e3',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo lubelskie powiat łęczyński,2026-04-10T05:13:00+00:00,Poland,0.4998318709016198,1,1,pl,WCE,Europe
 '90ef4b4bca',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat gdyński,2026-03-18T04:36:00+00:00,Poland,0.4997624884764001,2,1,pl,WCE,Europe
-'d0bd4fb7aa',extremes,Precipitation,#d60d2b,wmo,deszcz ulewny województwo lubuskie powiat wschowski,2026-04-19T05:16:00+00:00,Poland,0.49933386036750166,1,1,pl,WCE,Europe
-'8791278548',extremes,Precipitation,#d60d2b,wmo,ulewa województwo łódzkie powiat wieluński,2026-04-20T05:27:00+00:00,Poland,0.49900803401569127,1,1,pl,WCE,Europe
-'ec9781b6b1',extremes,Precipitation,#d60d2b,wmo,ulewa województwo łódzkie powiat piotrkowski,2026-04-20T05:27:00+00:00,Poland,0.49756857137138694,1,1,pl,WCE,Europe
+'d0bd4fb7aa',extremes,Precipitation,#d60d2b,wmo,deszcz ulewny województwo lubuskie powiat wschowski,2026-04-19T05:16:00+00:00,Poland,0.4993338603675016,1,1,pl,WCE,Europe
+'8791278548',extremes,Precipitation,#d60d2b,wmo,ulewa województwo łódzkie powiat wieluński,2026-04-20T05:27:00+00:00,Poland,0.4990080340156912,1,1,pl,WCE,Europe
+'ec9781b6b1',extremes,Precipitation,#d60d2b,wmo,ulewa województwo łódzkie powiat piotrkowski,2026-04-20T05:27:00+00:00,Poland,0.4975685713713869,1,1,pl,WCE,Europe
 '3fe481b522',extremes,Storm,#b3b2b1,wmo,fala sztormowa w środkowej strefie przybrzeżnej,2026-04-17T05:16:00+00:00,Poland,0.4974606164407086,1,1,pl,WCE,Europe
 'dfe3190216',extremes,Storm,#b3b2b1,wmo,burza województwo podlaskie powiat łomżyński,2026-04-06T05:11:00+00:00,Poland,0.4973640713032119,1,1,pl,WCE,Europe
-'4ec60e407f',extremes,Precipitation,#d60d2b,wmo,ulewa województwo małopolskie powiat krakowski,2026-04-20T05:27:00+00:00,Poland,0.49564998260952736,1,1,pl,WCE,Europe
-'e8e6fb4218',extremes,Precipitation,#d60d2b,wmo,ulewa województwo wielkopolskie powiat koniński,2026-04-20T05:27:00+00:00,Poland,0.49258801234136335,1,1,pl,WCE,Europe
+'4ec60e407f',extremes,Precipitation,#d60d2b,wmo,ulewa województwo małopolskie powiat krakowski,2026-04-20T05:27:00+00:00,Poland,0.4956499826095273,1,1,pl,WCE,Europe
+'e8e6fb4218',extremes,Precipitation,#d60d2b,wmo,ulewa województwo wielkopolskie powiat koniński,2026-04-20T05:27:00+00:00,Poland,0.4925880123413633,1,1,pl,WCE,Europe
 '51740b1fc3',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo lubelskie powiat chełmski,2026-04-10T05:13:00+00:00,Poland,0.4915851409649006,1,1,pl,WCE,Europe
 'a44f901c8a',extremes,Storm,#b3b2b1,wmo,burza województwo lubuskie powiat słubicki,2026-03-25T04:33:00+00:00,Poland,0.4915777285746404,1,1,pl,WCE,Europe
 '1d9c104bbb',extremes,Storm,#b3b2b1,wmo,burza na Litwie,2026-03-15T04:45:00+00:00,Lithuania,0.4914272347923978,1,1,pl,WCE,Europe
-'79bdde90d9',extremes,Storm,#b3b2b1,wmo,burza województwo lubuskie powiat żarski,2026-03-25T04:33:00+00:00,Poland,0.49119745740211174,1,1,pl,WCE,Europe
-'879e6634e1',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo małopolskie powiat suski,2026-03-26T04:56:00+00:00,Poland,0.49042213369499643,1,1,pl,WCE,Europe
+'79bdde90d9',extremes,Storm,#b3b2b1,wmo,burza województwo lubuskie powiat żarski,2026-03-25T04:33:00+00:00,Poland,0.4911974574021117,1,1,pl,WCE,Europe
+'879e6634e1',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo małopolskie powiat suski,2026-03-26T04:56:00+00:00,Poland,0.4904221336949964,1,1,pl,WCE,Europe
 '3292e576a4',extremes,Storm,#b3b2b1,wmo,sztorm na wschodniej strefie przybrzeżnej,2026-03-19T04:35:00+00:00,Poland,0.4896959806321328,1,1,pl,WCE,Europe
 '6b3658b4c9',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat gdański,2026-03-18T04:36:00+00:00,Poland,0.4894014895657306,2,1,pl,WCE,Europe
 '12d45ed01c',extremes,Precipitation,#d60d2b,wmo,deszcz województwo małopolskie powiat krakowski,2026-03-27T04:57:00+00:00,Poland,0.474596689739818,0,1,pl,WCE,Europe
