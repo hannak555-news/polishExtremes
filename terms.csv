@@ -124,15 +124,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '489d1a30e1',extremes,Drought,#edc291,edo,susza na Ukrainie,2026-04-16T05:17:00+00:00,Ukraine,0.4384894031371855,1,1,pl,WCE,Europe
 '0a8e5743d9',extremes,Landslide,#572c03,random,osuwisko,2026-03-21T04:17:00+00:00,,0.4309477140553633,1,2,pl,,
 '56335c3ea8',extremes,Fog,#d60d2b,wmo,mgła rejon kłajpedzki,2026-03-21T04:17:00+00:00,Lithuania,0.4297723234728441,2,1,pl,WCE,Europe
+'f90601fa23',extremes,Volcano,#b83202,random,erupcja wulkanu,2026-04-07T04:58:00+00:00,,0.4100075473236523,0,1,pl,,
 '12d45ed01c',extremes,Precipitation,#d60d2b,wmo,deszcz województwo małopolskie powiat krakowski,2026-03-27T04:57:00+00:00,Poland,0.4034071862788453,1,1,pl,WCE,Europe
 'f668c483f9',extremes,Precipitation,#d60d2b,wmo,deszczowe województwo śląskie powiat cieszyński,2026-03-27T04:57:00+00:00,Poland,0.3942812428565558,1,1,pl,WCE,Europe
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,szarańcza,2026-04-06T05:11:00+00:00,,0.3930962192895902,0,1,pl,,
 '4d9577e33d',extremes,Volcano,#b83202,random,wulkan,2026-04-07T04:58:00+00:00,,0.3927408169393645,0,1,pl,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,góra lodowa Antarktyda,2026-04-03T04:42:00+00:00,,0.3918777351204041,0,1,pl,,
+'7b765a4d4c',extremes,Precipitation,#d60d2b,random,ulewa,2026-04-13T05:27:00+00:00,,0.38554434895015516,0,1,pl,,
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,burza,2026-03-16T05:04:00+00:00,,0.3842089985867276,1,3,pl,,
 '8a2f2c0d0e',extremes,Drought,#edc291,edo,brak deszczu na Ukrainie,2026-04-05T05:01:00+00:00,Ukraine,0.372536279591755,1,1,pl,WCE,Europe
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,zamieć śnieżna,2026-04-19T05:16:00+00:00,,0.3724758693951933,0,1,pl,,
+'15a9c61e3e',extremes,Landslide,#572c03,random,osuwisko,2026-04-20T05:26:00+00:00,,0.3717588404477796,0,1,pl,,
 'e160088f17',extremes,Drought,#edc291,edo,okres suszy na Ukrainie,2026-04-07T04:59:00+00:00,Ukraine,0.3675648961950137,1,1,pl,WCE,Europe
+'d59a7e48d7',extremes,Drought,#edc291,random,ewapotranspiracja,2026-04-16T05:16:00+00:00,,0.3639615524535334,0,1,pl,,
 '5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,lawina w Rosji,2026-03-17T04:30:00+00:00,Russia,0.3612091567247242,1,2,pl,ESB,Europe
 '776fe47817',extremes,Wildfire,#d60d2b,random,pożar,2026-04-08T05:00:00+00:00,,0.3610782053814945,0,1,pl,,
 '596eeee208',extremes,Precipitation,#d60d2b,wmo,opady województwo małopolskie powiat suski,2026-03-27T04:57:00+00:00,Poland,0.3545747244327057,1,1,pl,WCE,Europe
@@ -187,13 +191,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '62dc5cf511',extremes,Storm,#b3b2b1,aidr,burza silna burza Melbourne Victoria 2010,2026-03-25T04:34:00+00:00,Australia,0.3106532539141498,0,1,pl,SAU,Oceania
 '9ca1eb0a20',extremes,Drought,#edc291,edo,susza w Australii,2026-03-20T04:26:00+00:00,Australia,0.3105618430622348,0,1,pl,SAU,Oceania
 '136998b302',extremes,Cold Wave,#a7e9fa,acwe,Queensland zimnej pogody,2026-03-31T05:00:00+00:00,Australia,0.310529476902571,0,1,pl,CAU,Oceania
-'10f476720b',extremes,Insect Infestation,#d60d2b,random,konik polny,2026-04-06T05:11:00+00:00,,0.31023347844912785,1,1,pl,,
+'10f476720b',extremes,Insect Infestation,#d60d2b,random,konik polny,2026-04-06T05:11:00+00:00,,0.3102334784491278,1,1,pl,,
 'ab5d1234a0',extremes,Flood,#030ba1,aidr,powódź Hobart błyskawiczna powódź na Tasmanii 2018,2026-04-18T04:57:00+00:00,Australia,0.3098893252607623,0,1,pl,SAU,Oceania
 'bebba26d24',extremes,Unknown,#d60d2b,cmeter,nieznane Stany Zjednoczone,2026-04-19T05:17:00+00:00,United States,0.3096365078731314,0,1,pl,ENA,North-America
 '352775dd3c',extremes,Drought,#edc291,edo,susza w Nepalu,2026-04-02T04:42:00+00:00,Nepal,0.309616930047449,0,1,pl,TIB,Asia
 '37d08d7316',extremes,Precipitation,#d60d2b,acwe,"okres mokry, południowa Australia",2026-04-12T05:12:00+00:00,Australia,0.3096086511659965,0,1,pl,SAU,Oceania
 '4508810067',extremes,Storm,#b3b2b1,wmo,burza litoral norte e wnętrze,2026-03-31T04:59:00+00:00,Ecuador,0.3088576176033376,0,1,pl,NWS,South-America
-'1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-04-07T04:58:00+00:00,,0.30885465594199474,1,1,pl,,
+'1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-04-07T04:58:00+00:00,,0.3088546559419947,1,1,pl,,
 'ca64be4528',extremes,Storm,#b3b2b1,wmo,burza Białoruś,2026-03-24T04:31:00+00:00,Belarus,0.3082598547552654,0,1,pl,WCE,Europe
 'd2761af41e',extremes,Tropical Cyclone,#4f4f4f,aidr,cyklon 2018 nt cyklon tropikalny Marcus,2026-04-01T05:13:00+00:00,,0.3082299465782532,0,1,pl,NAU,Oceania
 '7e68dc4baa',extremes,Drought,#edc291,edo,susza w Bhutanie,2026-03-20T04:26:00+00:00,Bhutan,0.308200872080606,0,1,pl,TIB,Asia
@@ -461,5 +465,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e67e09eb5d',extremes,Flood,#030ba1,wmo,powódź saginaw mi shiawassee mi,2026-04-05T05:01:00+00:00,United States,0.3013291172423352,0,1,pl,CNA,North-America
 'd8a54a840e',extremes,Precipitation,#d60d2b,wmo,opady mikoa ya lindi na mtwara.,2026-04-15T05:12:00+00:00,Tanzania,0.3013056665376299,0,1,pl,SEAF,Africa
 '7747997246',extremes,Fog,#d60d2b,wmo,mgła Rosja,2026-04-06T05:11:00+00:00,Russia,0.3012719300887841,0,1,pl,ESB,Europe
-'4dc8bdbf14',extremes,Flood,#030ba1,random,wylanie rzeki,2026-04-20T05:26:00+00:00,,0.29875857600894895,1,1,pl,,
-'3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,ulewny deszcz,2026-03-26T04:56:00+00:00,,0.29050942055300744,1,1,pl,,
+'4dc8bdbf14',extremes,Flood,#030ba1,random,wylanie rzeki,2026-04-20T05:26:00+00:00,,0.2987585760089489,1,1,pl,,
+'3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,ulewny deszcz,2026-03-26T04:56:00+00:00,,0.2905094205530074,1,1,pl,,
