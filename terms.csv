@@ -159,22 +159,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9aceadd432',extremes,Heat Wave,#c40202,random,rekordowe ciepło,2026-03-30T05:11:00+00:00,,0.3228808540414464,1,1,pl,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-03-31T04:59:00+00:00,,0.3211439890830261,0,1,pl,,
 '54927bfe65',extremes,Flood,#030ba1,random,powódź przybrzeżna,2026-03-27T04:56:00+00:00,,0.3205575926419128,1,1,pl,,
-'8c548a735e',extremes,Tropical Cyclone,#4f4f4f,eonet,burza tropikalna sinlaku,2026-04-11T04:34:00+00:00,,0.314246889033816,0,1,pl,NPO,Pacific Ocean
-'6a814a5817',extremes,Drought,#edc291,acwe,niski poziom wody w Nowej Południowej Walii,2026-03-25T04:34:00+00:00,Australia,0.3141888685951871,0,1,pl,EAU,Oceania
-'79e930cd7f',extremes,Cold Wave,#a7e9fa,acwe,lodowate temperatury w południowej Australii,2026-03-31T05:00:00+00:00,Australia,0.3141497750120998,0,1,pl,SAU,Oceania
-'792a35d4a4',extremes,Flood,#030ba1,random,powódź opadowa,2026-03-24T04:31:00+00:00,,0.313683898390347,0,1,pl,,
-'75b5c9d5e7',extremes,Cold Wave,#a7e9fa,acwe,terytorium północne zaklęcia zimnego,2026-03-31T05:00:00+00:00,Australia,0.3136478514448681,0,1,pl,NAU,Oceania
-'b6c613d063',extremes,Drought,#edc291,acwe,brak deszczu w Queensland,2026-03-28T04:34:00+00:00,Australia,0.3128850144086549,0,1,pl,CAU,Oceania
-'39670c8999',extremes,Drought,#edc291,acwe,brak deszczu w południowej Australii,2026-03-25T04:34:00+00:00,Australia,0.3128718467676712,0,1,pl,CAU,Oceania
-'17a0d42ea4',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny maila,2026-04-05T05:01:00+00:00,,0.3124177201917431,0,1,pl,EPO,Pacific Ocean
-'db9244a045',extremes,Drought,#edc291,acwe,susza Wiktoria,2026-03-29T05:01:00+00:00,Australia,0.3123613056738151,0,1,pl,SAU,Oceania
-'7a2481f0b1',extremes,Flood,#030ba1,aidr,powódź w Australii,2026-04-08T05:01:00+00:00,Australia,0.3122876594403517,0,1,pl,NAU,Oceania
-'ba221738be',extremes,Cold Wave,#a7e9fa,acwe,zimna pogoda w Australii,2026-03-31T05:00:00+00:00,Australia,0.3117066864320307,0,1,pl,CAU,Oceania
-'dba9977fc1',extremes,Drought,#edc291,edo,brak opadów na Wyspach Owczych,2026-03-20T04:26:00+00:00,Faroe Islands,0.311445665446138,0,1,pl,NEU,Europe
-'6fde59a3a9',extremes,Drought,#edc291,acwe,suchość w Queensland,2026-03-20T04:27:00+00:00,Australia,0.3114252888609886,0,1,pl,CAU,Oceania
-'eff78b7be8',extremes,Drought,#edc291,edo,susza w Bangladeszu,2026-03-26T04:56:00+00:00,Bangladesh,0.3112288132589387,0,1,pl,SAS,Asia
-'9969e8e386',extremes,Flood,#030ba1,emdat,powódź w regionie centralnym,2026-03-24T04:32:00+00:00,Kenya,0.311191071088893,0,1,pl,SEAF,Africa
-'8d5bbc659e',extremes,Flood,#030ba1,emdat,powódź w Malawi,2026-03-24T04:32:00+00:00,Malawi,0.3110488392092518,0,1,pl,ESAF,Africa
 'ed806b22f8',extremes,Drought,#edc291,edo,susza w Bhutanie,2026-03-19T04:35:00+00:00,Bhutan,0.3107393905397488,0,1,pl,TIB,Asia
 '62dc5cf511',extremes,Storm,#b3b2b1,aidr,burza silna burza Melbourne Victoria 2010,2026-03-25T04:34:00+00:00,Australia,0.3106532539141498,0,1,pl,SAU,Oceania
 '9ca1eb0a20',extremes,Drought,#edc291,edo,susza w Australii,2026-03-20T04:26:00+00:00,Australia,0.3105618430622348,0,1,pl,SAU,Oceania
@@ -465,3 +449,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a275910137',extremes,Cold Wave,#a7e9fa,acwe,zimna fala w Nowej Południowej Walii,2026-03-31T05:00:00+00:00,Australia,0.2674198989020561,1,1,pl,EAU,Oceania
 '0fce4685d1',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny vaianu,2026-04-06T05:11:00+00:00,,0.26740008164692,1,1,pl,SPO,Pacific Ocean
 'cf93c7cea9',extremes,Storm,#b3b2b1,aidr,burza grad Sydney Nowa Południowa Walia 2015,2026-04-01T05:13:00+00:00,,0.2673858830119204,1,1,pl,EAU,Oceania
+'8c548a735e',extremes,Tropical Cyclone,#4f4f4f,eonet,burza tropikalna sinlaku,2026-04-11T04:34:00+00:00,,0.26710985567874357,1,1,pl,NPO,Pacific Ocean
+'6a814a5817',extremes,Drought,#edc291,acwe,niski poziom wody w Nowej Południowej Walii,2026-03-25T04:34:00+00:00,Australia,0.26706053830590903,1,1,pl,EAU,Oceania
+'79e930cd7f',extremes,Cold Wave,#a7e9fa,acwe,lodowate temperatury w południowej Australii,2026-03-31T05:00:00+00:00,Australia,0.2670273087602848,1,1,pl,SAU,Oceania
+'792a35d4a4',extremes,Flood,#030ba1,random,powódź opadowa,2026-03-24T04:31:00+00:00,,0.26663131363179493,1,1,pl,,
+'75b5c9d5e7',extremes,Cold Wave,#a7e9fa,acwe,terytorium północne zaklęcia zimnego,2026-03-31T05:00:00+00:00,Australia,0.2666006737281379,1,1,pl,NAU,Oceania
+'b6c613d063',extremes,Drought,#edc291,acwe,brak deszczu w Queensland,2026-03-28T04:34:00+00:00,Australia,0.2659522622473567,1,1,pl,CAU,Oceania
+'39670c8999',extremes,Drought,#edc291,acwe,brak deszczu w południowej Australii,2026-03-25T04:34:00+00:00,Australia,0.2659410697525205,1,1,pl,CAU,Oceania
+'17a0d42ea4',extremes,Tropical Cyclone,#4f4f4f,eonet,cyklon tropikalny maila,2026-04-05T05:01:00+00:00,,0.2655550621629816,1,1,pl,EPO,Pacific Ocean
+'db9244a045',extremes,Drought,#edc291,acwe,susza Wiktoria,2026-03-29T05:01:00+00:00,Australia,0.26550710982274284,1,1,pl,SAU,Oceania
+'7a2481f0b1',extremes,Flood,#030ba1,aidr,powódź w Australii,2026-04-08T05:01:00+00:00,Australia,0.26544451052429896,1,1,pl,NAU,Oceania
+'ba221738be',extremes,Cold Wave,#a7e9fa,acwe,zimna pogoda w Australii,2026-03-31T05:00:00+00:00,Australia,0.2649506834672261,1,1,pl,CAU,Oceania
+'eff78b7be8',extremes,Drought,#edc291,edo,susza w Bangladeszu,2026-03-26T04:56:00+00:00,Bangladesh,0.2645444912700979,1,1,pl,SAS,Asia
+'9969e8e386',extremes,Flood,#030ba1,emdat,powódź w regionie centralnym,2026-03-24T04:32:00+00:00,Kenya,0.264512410425559,1,1,pl,SEAF,Africa
+'8d5bbc659e',extremes,Flood,#030ba1,emdat,powódź w Malawi,2026-03-24T04:32:00+00:00,Malawi,0.26439151332786404,1,1,pl,ESAF,Africa
