@@ -147,7 +147,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '15a9c61e3e',extremes,Landslide,#572c03,random,osuwisko,2026-04-20T05:26:00+00:00,,0.3717588404477796,0,1,pl,,
 'e160088f17',extremes,Drought,#edc291,edo,okres suszy na Ukrainie,2026-04-07T04:59:00+00:00,Ukraine,0.3675648961950137,1,1,pl,WCE,Europe
 '62084daeb0',extremes,Earthquake,#870007,random,trzęsienie ziemi,2026-04-11T04:34:00+00:00,,0.3647209667581304,0,1,pl,,
-'a28c8ef428',extremes,Storm,#b3b2b1,wmo,burza w Wielkiej Brytanii,2026-04-03T04:43:00+00:00,United Kingdom,0.36149428765799546,1,2,pl,NEU,Europe
+'a28c8ef428',extremes,Storm,#b3b2b1,wmo,burza w Wielkiej Brytanii,2026-04-03T04:43:00+00:00,United Kingdom,0.3614942876579954,1,2,pl,NEU,Europe
 '5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,lawina w Rosji,2026-03-17T04:30:00+00:00,Russia,0.3612091567247242,1,2,pl,ESB,Europe
 '776fe47817',extremes,Wildfire,#d60d2b,random,pożar,2026-04-08T05:00:00+00:00,,0.3610782053814945,0,1,pl,,
 '1c38b19449',extremes,Storm,#b3b2b1,random,miski kurzu,2026-04-18T04:56:00+00:00,,0.3562001765171357,0,1,pl,,
@@ -175,23 +175,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-04-07T04:58:00+00:00,,0.3088546559419947,1,1,pl,,
 'd2761af41e',extremes,Tropical Cyclone,#4f4f4f,aidr,cyklon 2018 nt cyklon tropikalny Marcus,2026-04-01T05:13:00+00:00,,0.3082299465782532,0,1,pl,NAU,Oceania
 '6171ca62b4',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Irlandii,2026-03-25T04:33:00+00:00,Ireland,0.3072871531175196,0,1,pl,NEU,Europe
-'9443ce57dd',extremes,Snow&Ice,#d60d2b,wmo,zamarzający schwaz,2026-03-25T04:33:00+00:00,Austria,0.3071105483636682,0,1,pl,WCE,Europe
-'17a0212ee2',extremes,Storm,#b3b2b1,wmo,fala sztormowa mistelbach,2026-03-25T04:33:00+00:00,Austria,0.3071019545980102,0,1,pl,WCE,Europe
-'92615c8656',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie gmunden,2026-03-25T04:33:00+00:00,Austria,0.3070853725836008,0,1,pl,WCE,Europe
-'7ea2c869dc',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie kirchdorf an der krems,2026-03-25T04:33:00+00:00,Austria,0.3070813246008601,0,1,pl,WCE,Europe
-'a84fc06e39',extremes,Storm,#b3b2b1,wmo,fala sztormowa reutte,2026-03-25T04:33:00+00:00,Austria,0.3070474130848392,0,1,pl,WCE,Europe
-'c62db23b0d',extremes,Storm,#b3b2b1,wmo,fala sztormowa Liienfeld,2026-03-25T04:33:00+00:00,Austria,0.3070366672655601,0,1,pl,WCE,Europe
-'3f5d4b9ffe',extremes,Storm,#b3b2b1,wmo,burza spittal an der drau,2026-03-25T04:33:00+00:00,Austria,0.3069484649507599,0,1,pl,WCE,Europe
-'b0903e574b',extremes,Storm,#b3b2b1,wmo,sztorm w Irlandii,2026-03-25T04:33:00+00:00,Ireland,0.3069179904982869,0,1,pl,NEU,Europe
-'0daffd462e',extremes,Storm,#b3b2b1,eonet,super tajfun sinlaku,2026-04-13T05:27:00+00:00,,0.3068805782456913,0,1,pl,NPO,Pacific Ocean
-'2a1438957e',extremes,Snow&Ice,#d60d2b,wmo,lodowy halein,2026-03-25T04:33:00+00:00,Austria,0.3068582465521975,0,1,pl,WCE,Europe
 'a4ea76ca76',extremes,Storm,#b3b2b1,wmo,fala sztormowa Algieria,2026-04-06T05:11:00+00:00,Algeria,0.306822394715412,0,1,pl,SAH,Africa
-'92035e2c20',extremes,Drought,#edc291,edo,okres suszy na Madagaskarze,2026-03-28T04:33:00+00:00,Madagascar,0.3066751643255777,0,1,pl,MDG,Africa
-'f484ebfc83',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Bułgarii,2026-04-07T04:59:00+00:00,Bulgaria,0.3066514008335583,0,1,pl,MED,Europe
-'5cb766f03d',extremes,Storm,#b3b2b1,wmo,fala sztormowa – obszar 2 – umiarkowany,2026-03-23T04:42:00+00:00,Paraguay,0.3066406231175352,0,1,pl,SES,South-America
-'2db1256b65',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Macedonii Północnej,2026-03-26T04:56:00+00:00,North Macedonia,0.3066240679014336,0,1,pl,MED,Europe
-'25908560bf',extremes,Snow&Ice,#d60d2b,wmo,zamarzająca Arabia Saudyjska,2026-03-25T04:33:00+00:00,Saudi Arabia,0.3065257524642164,0,1,pl,ARP,Asia
-'4508d0e7cc',extremes,Drought,#edc291,acwe,niski poziom wody w Australii,2026-03-26T04:57:00+00:00,Australia,0.3064714702150453,0,1,pl,CAU,Oceania
 '6a3e3c9638',extremes,Storm,#b3b2b1,wmo,fala sztormowa rejon Grodna,2026-03-26T04:56:00+00:00,Belarus,0.3064317783458752,0,1,pl,WCE,Europe
 'e52ebb2900',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz Algieria,2026-04-11T04:34:00+00:00,Algeria,0.3064275382457869,0,1,pl,SAH,Africa
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,śnieg w Argentynie,2026-04-11T04:34:00+00:00,Argentina,0.3064037406171632,0,1,pl,SES,South-America
@@ -460,10 +444,25 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,burza w Nowej Zelandii,2026-03-24T04:31:00+00:00,New Zealand,0.2616236551749095,1,1,pl,NZ,Oceania
 'c47d7a4f90',extremes,Snow&Ice,#d60d2b,wmo,śnieg w Austrii,2026-03-25T04:33:00+00:00,Austria,0.2615872062363166,1,1,pl,WCE,Europe
 'e7e7fc0a58',extremes,Snow&Ice,#d60d2b,wmo,mróz bregenz,2026-03-25T04:33:00+00:00,Austria,0.2612831956768021,1,1,pl,WCE,Europe
-'8bd48e7016',extremes,Storm,#b3b2b1,wmo,burza Litoral y Sierra,2026-04-05T05:01:00+00:00,Ecuador,0.26122464580608884,1,1,pl,NWS,South-America
+'8bd48e7016',extremes,Storm,#b3b2b1,wmo,burza Litoral y Sierra,2026-04-05T05:01:00+00:00,Ecuador,0.2612246458060888,1,1,pl,NWS,South-America
 '4a4ee6b9d7',extremes,Storm,#b3b2b1,wmo,fala sztormowa wien währing,2026-03-25T04:33:00+00:00,Austria,0.2612243350477424,1,1,pl,WCE,Europe
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Nowej Zelandii,2026-03-25T04:33:00+00:00,New Zealand,0.2612064560054875,1,1,pl,NZ,Oceania
 'ddcce350d3',extremes,Storm,#b3b2b1,wmo,burza auckland i wielka wyspa barierowa,2026-03-26T04:56:00+00:00,New Zealand,0.2611919735534157,1,1,pl,NZ,Oceania
 '9883dfe0ae',extremes,Storm,#b3b2b1,wmo,fala sztormowa völkermarkt,2026-03-25T04:33:00+00:00,Austria,0.2611826383557279,1,1,pl,WCE,Europe
 'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,mróz Czechy,2026-03-26T04:56:00+00:00,Czechia,0.2611604637200597,1,1,pl,WCE,Europe
 '0eea90a85e',extremes,Snow&Ice,#d60d2b,wmo,mróz oberwart,2026-03-25T04:33:00+00:00,Austria,0.2610875411865379,1,1,pl,WCE,Europe
+'9443ce57dd',extremes,Snow&Ice,#d60d2b,wmo,zamarzający schwaz,2026-03-25T04:33:00+00:00,Austria,0.26104396610911795,1,1,pl,WCE,Europe
+'17a0212ee2',extremes,Storm,#b3b2b1,wmo,fala sztormowa mistelbach,2026-03-25T04:33:00+00:00,Austria,0.26103666140830867,1,1,pl,WCE,Europe
+'92615c8656',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie gmunden,2026-03-25T04:33:00+00:00,Austria,0.26102256669606066,1,1,pl,WCE,Europe
+'7ea2c869dc',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie kirchdorf an der krems,2026-03-25T04:33:00+00:00,Austria,0.26101912591073106,1,1,pl,WCE,Europe
+'a84fc06e39',extremes,Storm,#b3b2b1,wmo,fala sztormowa reutte,2026-03-25T04:33:00+00:00,Austria,0.2609903011221133,1,1,pl,WCE,Europe
+'c62db23b0d',extremes,Storm,#b3b2b1,wmo,fala sztormowa Liienfeld,2026-03-25T04:33:00+00:00,Austria,0.2609811671757261,1,1,pl,WCE,Europe
+'3f5d4b9ffe',extremes,Storm,#b3b2b1,wmo,burza spittal an der drau,2026-03-25T04:33:00+00:00,Austria,0.2609061952081459,1,1,pl,WCE,Europe
+'b0903e574b',extremes,Storm,#b3b2b1,wmo,sztorm w Irlandii,2026-03-25T04:33:00+00:00,Ireland,0.26088029192354384,1,1,pl,NEU,Europe
+'0daffd462e',extremes,Storm,#b3b2b1,eonet,super tajfun sinlaku,2026-04-13T05:27:00+00:00,,0.2608484915088376,1,1,pl,NPO,Pacific Ocean
+'2a1438957e',extremes,Snow&Ice,#d60d2b,wmo,lodowy halein,2026-03-25T04:33:00+00:00,Austria,0.2608295095693679,1,1,pl,WCE,Europe
+'92035e2c20',extremes,Drought,#edc291,edo,okres suszy na Madagaskarze,2026-03-28T04:33:00+00:00,Madagascar,0.26067388967674104,1,1,pl,MDG,Africa
+'f484ebfc83',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Bułgarii,2026-04-07T04:59:00+00:00,Bulgaria,0.26065369070852457,1,1,pl,MED,Europe
+'2db1256b65',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Macedonii Północnej,2026-03-26T04:56:00+00:00,North Macedonia,0.26063045771621857,1,1,pl,MED,Europe
+'25908560bf',extremes,Snow&Ice,#d60d2b,wmo,zamarzająca Arabia Saudyjska,2026-03-25T04:33:00+00:00,Saudi Arabia,0.26054688959458394,1,1,pl,ARP,Asia
+'4508d0e7cc',extremes,Drought,#edc291,acwe,niski poziom wody w Australii,2026-03-26T04:57:00+00:00,Australia,0.26050074968278847,1,1,pl,CAU,Oceania
