@@ -133,6 +133,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '489d1a30e1',extremes,Drought,#edc291,edo,susza na Ukrainie,2026-04-16T05:17:00+00:00,Ukraine,0.4384894031371855,1,1,pl,WCE,Europe
 '0a8e5743d9',extremes,Landslide,#572c03,random,osuwisko,2026-03-21T04:17:00+00:00,,0.4309477140553633,1,2,pl,,
 '91377cc2a9',extremes,Drought,#edc291,acwe,susza w południowej Australii,2026-03-31T05:00:00+00:00,Australia,0.417363691783762,1,2,pl,SAU,Oceania
+'c7c86df95e',extremes,Storm,#b3b2b1,wmo,burza w Izraelu,2026-03-31T04:59:00+00:00,Israel,0.4097967500671853,1,2,pl,MED,Asia
 '12d45ed01c',extremes,Precipitation,#d60d2b,wmo,deszcz województwo małopolskie powiat krakowski,2026-03-27T04:57:00+00:00,Poland,0.4034071862788453,1,1,pl,WCE,Europe
 'f668c483f9',extremes,Precipitation,#d60d2b,wmo,deszczowe województwo śląskie powiat cieszyński,2026-03-27T04:57:00+00:00,Poland,0.3942812428565558,1,1,pl,WCE,Europe
 '4d9577e33d',extremes,Volcano,#b83202,random,wulkan,2026-04-07T04:58:00+00:00,,0.3927408169393645,0,1,pl,,
@@ -174,17 +175,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd2761af41e',extremes,Tropical Cyclone,#4f4f4f,aidr,cyklon 2018 nt cyklon tropikalny Marcus,2026-04-01T05:13:00+00:00,,0.3082299465782532,0,1,pl,NAU,Oceania
 '6171ca62b4',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Irlandii,2026-03-25T04:33:00+00:00,Ireland,0.3072871531175196,0,1,pl,NEU,Europe
 'a4ea76ca76',extremes,Storm,#b3b2b1,wmo,fala sztormowa Algieria,2026-04-06T05:11:00+00:00,Algeria,0.306822394715412,0,1,pl,SAH,Africa
-'9131f8e093',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz Sierra Norte y Centro,2026-03-31T04:59:00+00:00,Ecuador,0.3059620150943005,0,1,pl,NWS,South-America
-'c8dd7549e0',extremes,Storm,#b3b2b1,wmo,burza w regionie południowo-wschodnim,2026-03-26T04:56:00+00:00,North Macedonia,0.3059514940635569,0,1,pl,MED,Europe
-'2b54723d48',extremes,Precipitation,#d60d2b,wmo,ulewa amazonía,2026-03-31T04:59:00+00:00,Ecuador,0.3058661484515662,0,1,pl,NWS,South-America
-'a29729e148',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Izraelu,2026-04-02T04:42:00+00:00,Israel,0.3058268324597389,0,1,pl,MED,Asia
-'f22d69fd3e',extremes,Storm,#b3b2b1,wmo,burza w Guzzam,2026-04-08T05:01:00+00:00,Algeria,0.3057155840718022,0,1,pl,SAH,Africa
-'49f364b3e2',extremes,Precipitation,#d60d2b,wmo,ulewa formosa patino pirane.,2026-04-13T05:28:00+00:00,Argentina,0.3056346795329553,0,1,pl,SES,South-America
-'f5a98ca4eb',extremes,Storm,#b3b2b1,wmo,fala sztormowa litoral norte e wnętrze,2026-03-30T05:12:00+00:00,Ecuador,0.3055341919066162,0,1,pl,NWS,South-America
-'a5a19a733b',extremes,Flood,#030ba1,wmo,powódź błyskawiczna w Etiopii,2026-03-29T05:00:00+00:00,Ethiopia,0.3055273488989083,0,1,pl,NEAF,Africa
-'e1048c4180',extremes,Drought,#edc291,edo,susza w Urugwaju,2026-03-22T04:33:00+00:00,Uruguay,0.3055232906384368,0,1,pl,SES,South-America
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,fala upałów corrientes y alrededores,2026-03-29T05:00:00+00:00,Argentina,0.3054732489954445,0,1,pl,SES,South-America
-'c7c86df95e',extremes,Storm,#b3b2b1,wmo,burza w Izraelu,2026-03-31T04:59:00+00:00,Israel,0.3054667471378651,0,1,pl,MED,Asia
 'b9df18cf46',extremes,Storm,#b3b2b1,wmo,fala sztormowa na przybrzeżnych obszarach północnego wybrzeża,2026-04-06T05:11:00+00:00,Jamaica,0.3054282285911406,0,1,pl,CAR,North-America
 'b7410cf0a8',extremes,Precipitation,#d60d2b,wmo,ulewa Sierra Norte y Centro,2026-03-30T05:12:00+00:00,Ecuador,0.3054121607074903,0,1,pl,NWS,South-America
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz Ekwador,2026-04-01T05:12:00+00:00,Ecuador,0.3053792269826932,0,1,pl,NWS,South-America
@@ -445,12 +436,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '25908560bf',extremes,Snow&Ice,#d60d2b,wmo,zamarzająca Arabia Saudyjska,2026-03-25T04:33:00+00:00,Saudi Arabia,0.2605468895945839,1,1,pl,ARP,Asia
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,mróz w Argentynie,2026-04-11T04:34:00+00:00,Argentina,0.2605245041516706,1,1,pl,SES,South-America
 '4508d0e7cc',extremes,Drought,#edc291,acwe,niski poziom wody w Australii,2026-03-26T04:57:00+00:00,Australia,0.2605007496827884,1,1,pl,CAU,Oceania
-'6a3e3c9638',extremes,Storm,#b3b2b1,wmo,fala sztormowa rejon Grodna,2026-03-26T04:56:00+00:00,Belarus,0.26046701159399394,1,1,pl,WCE,Europe
-'e52ebb2900',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz Algieria,2026-04-11T04:34:00+00:00,Algeria,0.26046340750891883,1,1,pl,SAH,Africa
-'589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,śnieg w Argentynie,2026-04-11T04:34:00+00:00,Argentina,0.26044317952458873,1,1,pl,SES,South-America
-'39afca9687',extremes,Storm,#b3b2b1,wmo,fala sztormowa region skopje,2026-03-26T04:56:00+00:00,North Macedonia,0.26031393900091393,1,1,pl,MED,Europe
+'6a3e3c9638',extremes,Storm,#b3b2b1,wmo,fala sztormowa rejon Grodna,2026-03-26T04:56:00+00:00,Belarus,0.2604670115939939,1,1,pl,WCE,Europe
+'e52ebb2900',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz Algieria,2026-04-11T04:34:00+00:00,Algeria,0.2604634075089188,1,1,pl,SAH,Africa
+'589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,śnieg w Argentynie,2026-04-11T04:34:00+00:00,Argentina,0.2604431795245887,1,1,pl,SES,South-America
+'39afca9687',extremes,Storm,#b3b2b1,wmo,fala sztormowa region skopje,2026-03-26T04:56:00+00:00,North Macedonia,0.2603139390009139,1,1,pl,MED,Europe
 '3e44561d4c',extremes,Snow&Ice,#d60d2b,wmo,lodowa republika mołdawii,2026-04-10T05:13:00+00:00,Republic of Moldova,0.2602157258958504,1,1,pl,WCE,Europe
-'0ef55bcfe1',extremes,Storm,#b3b2b1,wmo,sztorm formosa patino pirane.,2026-04-14T05:11:00+00:00,Argentina,0.26019734097850566,1,1,pl,SES,South-America
+'0ef55bcfe1',extremes,Storm,#b3b2b1,wmo,sztorm formosa patino pirane.,2026-04-14T05:11:00+00:00,Argentina,0.2601973409785056,1,1,pl,SES,South-America
 '4093195155',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Indiach,2026-04-02T04:42:00+00:00,India,0.2601722544530187,1,1,pl,SAS,Asia
 '283b154c38',extremes,Wet Spell,#d60d2b,random,mokre zaklęcie,2026-03-25T04:33:00+00:00,,0.2601227773240541,1,1,pl,,
 'cb68d1153d',extremes,Storm,#b3b2b1,wmo,burza Sierra Norte y Centro,2026-04-01T05:12:00+00:00,Ecuador,0.260119230391087,1,1,pl,NWS,South-America
+'9131f8e093',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz Sierra Norte y Centro,2026-03-31T04:59:00+00:00,Ecuador,0.2600677128301554,1,1,pl,NWS,South-America
+'c8dd7549e0',extremes,Storm,#b3b2b1,wmo,burza w regionie południowo-wschodnim,2026-03-26T04:56:00+00:00,North Macedonia,0.2600587699540233,1,1,pl,MED,Europe
+'2b54723d48',extremes,Precipitation,#d60d2b,wmo,ulewa amazonía,2026-03-31T04:59:00+00:00,Ecuador,0.25998622618383127,1,1,pl,NWS,South-America
+'a29729e148',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Izraelu,2026-04-02T04:42:00+00:00,Israel,0.25995280759077805,1,1,pl,MED,Asia
+'f22d69fd3e',extremes,Storm,#b3b2b1,wmo,burza w Guzzam,2026-04-08T05:01:00+00:00,Algeria,0.2598582464610319,1,1,pl,SAH,Africa
+'49f364b3e2',extremes,Precipitation,#d60d2b,wmo,ulewa formosa patino pirane.,2026-04-13T05:28:00+00:00,Argentina,0.259789477603012,1,1,pl,SES,South-America
+'f5a98ca4eb',extremes,Storm,#b3b2b1,wmo,fala sztormowa litoral norte e wnętrze,2026-03-30T05:12:00+00:00,Ecuador,0.2597040631206238,1,1,pl,NWS,South-America
+'a5a19a733b',extremes,Flood,#030ba1,wmo,powódź błyskawiczna w Etiopii,2026-03-29T05:00:00+00:00,Ethiopia,0.25969824656407203,1,1,pl,NEAF,Africa
