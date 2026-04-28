@@ -4,7 +4,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '13329f4bf1',extremes,Snow&Ice,#d60d2b,wmo,marznąca Polska,2026-04-10T05:13:00+00:00,Poland,0.6664112309742182,0,1,pl,WCE,Europe
 'c2a1de8dc8',extremes,Storm,#b3b2b1,wmo,burza Polska,2026-04-25T05:00:00+00:00,Poland,0.6632938718846604,1,3,pl,WCE,Europe
 '9b59bee21e',extremes,Drought,#edc291,edo,okres suszy w polsce,2026-04-08T05:01:00+00:00,Poland,0.6518189972271063,1,1,pl,WCE,Europe
+'afc70a952a',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo śląskie powiat sosnowiecki,2026-04-26T05:25:00+00:00,Poland,0.6246729157248221,0,1,pl,WCE,Europe
 '2180c0c4a1',extremes,Drought,#edc291,edo,brak opadów w polsce,2026-04-19T05:16:00+00:00,Poland,0.6216924129632941,1,1,pl,WCE,Europe
+'3d71d4c81a',extremes,Storm,#b3b2b1,wmo,burza województwo podlaskie powiat sejneński,2026-04-26T05:25:00+00:00,Poland,0.6199099965007514,0,1,pl,WCE,Europe
 '9f56f3696e',extremes,Drought,#edc291,edo,okres suszy na Litwie,2026-04-07T04:59:00+00:00,Lithuania,0.6095742089120425,0,1,pl,WCE,Europe
 '29f27e328f',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat sztumski,2026-04-02T04:42:00+00:00,Poland,0.6090398515482671,1,1,pl,WCE,Europe
 'da1d506ce7',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat słupski,2026-04-17T05:16:00+00:00,Poland,0.6048810820696718,1,1,pl,WCE,Europe
@@ -15,7 +17,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6e288119bc',extremes,Precipitation,#d60d2b,wmo,opady w polsce,2026-03-26T04:56:00+00:00,Poland,0.5755477319236723,0,1,pl,WCE,Europe
 '4340c9e06c',extremes,Snow&Ice,#d60d2b,wmo,mroźna polska,2026-04-09T04:58:00+00:00,Poland,0.5753214624220242,1,1,pl,WCE,Europe
 '40b7000e71',extremes,Storm,#b3b2b1,wmo,fala sztormowa w polsce,2026-04-04T04:30:00+00:00,Poland,0.5717644183909495,1,1,pl,WCE,Europe
+'966a6e8bf2',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo małopolskie powiat brzeski,2026-04-26T05:25:00+00:00,Poland,0.5663795764658395,0,1,pl,WCE,Europe
 '6c11585835',extremes,Drought,#edc291,edo,susza na Litwie,2026-04-16T05:17:00+00:00,Lithuania,0.5657228869854205,0,1,pl,WCE,Europe
+'6fbebc79f4',extremes,Storm,#b3b2b1,wmo,wezbranie sztormowe województwo łódzkie powiat tomaszowski,2026-04-26T05:25:00+00:00,Poland,0.5655977245485329,0,1,pl,WCE,Europe
+'79a8acb212',extremes,Storm,#b3b2b1,wmo,burza województwo łódzkie powiat opoczyński,2026-04-26T05:25:00+00:00,Poland,0.5641440190280564,0,1,pl,WCE,Europe
+'9eb5abf250',extremes,Storm,#b3b2b1,wmo,burza województwo mazowieckie powiat płoński,2026-04-26T05:25:00+00:00,Poland,0.563008616226102,0,1,pl,WCE,Europe
+'5ddf9d818d',extremes,Storm,#b3b2b1,wmo,burza województwo śląskie powiat katowicki,2026-04-26T05:25:00+00:00,Poland,0.5625297649249348,0,1,pl,WCE,Europe
 '98db96b6de',extremes,Drought,#edc291,edo,susza na Litwie,2026-04-21T05:15:00+00:00,Lithuania,0.5588562911606658,0,1,pl,WCE,Europe
 '2609bda0f2',extremes,Snow&Ice,#d60d2b,wmo,lodowa Polska,2026-04-09T04:58:00+00:00,Poland,0.5587220961052237,1,1,pl,WCE,Europe
 '69288ebd4f',extremes,Precipitation,#d60d2b,wmo,ulewne deszcze polska,2026-03-26T04:56:00+00:00,Poland,0.557681871230122,1,2,pl,WCE,Europe
@@ -429,6 +436,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fda000bba3',extremes,Storm,#b3b2b1,wmo,fala sztormowa Litoral y Sierra,2026-04-05T05:01:00+00:00,Ecuador,0.2585963338340572,1,1,pl,NWS,South-America
 'a015920a8d',extremes,Precipitation,#d60d2b,wmo,ulewne deszcze w pasmach kaweka i ruahine,2026-04-11T04:34:00+00:00,New Zealand,0.2585857498285822,1,1,pl,NZ,Oceania
 '6852666385',extremes,Earthquake,#870007,usgs,trzęsienie ziemi w porcie Mathurin,2026-04-13T05:27:00+00:00,Mauritius,0.2585731735506393,1,1,pl,SIO,Indian Ocean
-'69840e877f',extremes,Storm,#b3b2b1,wmo,burza Bułgaria,2026-04-08T05:01:00+00:00,Bulgaria,0.25849413717259495,1,1,pl,MED,Europe
+'69840e877f',extremes,Storm,#b3b2b1,wmo,burza Bułgaria,2026-04-08T05:01:00+00:00,Bulgaria,0.2584941371725949,1,1,pl,MED,Europe
 '8e0ac5b7e8',extremes,Earthquake,#870007,usgs,trzęsienie ziemi w Luganville,2026-03-31T04:59:00+00:00,Vanuatu,0.2584900500249026,1,1,pl,SPO,Pacific Ocean
-'271200cbb0',extremes,Wildfire,#d60d2b,wmo,pożar w andhra pradesh,2026-04-03T04:43:00+00:00,India,0.25844880826421673,1,1,pl,SAS,Asia
+'271200cbb0',extremes,Wildfire,#d60d2b,wmo,pożar w andhra pradesh,2026-04-03T04:43:00+00:00,India,0.2584488082642167,1,1,pl,SAS,Asia
