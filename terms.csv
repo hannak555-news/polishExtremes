@@ -4,7 +4,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '13329f4bf1',extremes,Snow&Ice,#d60d2b,wmo,marznąca Polska,2026-04-10T05:13:00+00:00,Poland,0.6664112309742182,0,1,pl,WCE,Europe
 'c2a1de8dc8',extremes,Storm,#b3b2b1,wmo,burza Polska,2026-04-25T05:00:00+00:00,Poland,0.6632938718846604,1,3,pl,WCE,Europe
 '9b59bee21e',extremes,Drought,#edc291,edo,okres suszy w polsce,2026-04-08T05:01:00+00:00,Poland,0.6518189972271063,1,1,pl,WCE,Europe
+'5adf90546e',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo mazowieckie powiat siedlecki,2026-04-26T05:25:00+00:00,Poland,0.6258406699756929,0,1,pl,WCE,Europe
 '2180c0c4a1',extremes,Drought,#edc291,edo,brak opadów w polsce,2026-04-19T05:16:00+00:00,Poland,0.6216924129632941,1,1,pl,WCE,Europe
+'0a067fb676',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo śląskie powiat mysłowicki,2026-04-26T05:25:00+00:00,Poland,0.6206471345663865,0,1,pl,WCE,Europe
+'fbfbc528cc',extremes,Storm,#b3b2b1,wmo,burza województwo mazowieckie powiat mławski,2026-04-26T05:25:00+00:00,Poland,0.6166347008793505,0,1,pl,WCE,Europe
 '9f56f3696e',extremes,Drought,#edc291,edo,okres suszy na Litwie,2026-04-07T04:59:00+00:00,Lithuania,0.6095742089120425,0,1,pl,WCE,Europe
 '29f27e328f',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat sztumski,2026-04-02T04:42:00+00:00,Poland,0.6090398515482671,1,1,pl,WCE,Europe
 'da1d506ce7',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat słupski,2026-04-17T05:16:00+00:00,Poland,0.6048810820696718,1,1,pl,WCE,Europe
@@ -13,6 +16,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8352f2224a',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat gdański,2026-04-17T05:16:00+00:00,Poland,0.5940047884396126,1,1,pl,WCE,Europe
 'ce7ca89385',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat słupski,2026-04-17T05:16:00+00:00,Poland,0.5935794275288043,1,1,pl,WCE,Europe
 '6e288119bc',extremes,Precipitation,#d60d2b,wmo,opady w polsce,2026-03-26T04:56:00+00:00,Poland,0.5755477319236723,0,1,pl,WCE,Europe
+'f795b27f6e',extremes,Storm,#b3b2b1,wmo,burza województwo mazowieckie powiat otwocki,2026-04-26T05:25:00+00:00,Poland,0.5755277894258404,0,1,pl,WCE,Europe
 '4340c9e06c',extremes,Snow&Ice,#d60d2b,wmo,mroźna polska,2026-04-09T04:58:00+00:00,Poland,0.5753214624220242,1,1,pl,WCE,Europe
 '40b7000e71',extremes,Storm,#b3b2b1,wmo,fala sztormowa w polsce,2026-04-04T04:30:00+00:00,Poland,0.5717644183909495,1,1,pl,WCE,Europe
 '6c11585835',extremes,Drought,#edc291,edo,susza na Litwie,2026-04-16T05:17:00+00:00,Lithuania,0.5657228869854205,0,1,pl,WCE,Europe
@@ -448,7 +452,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Ekwadorze,2026-04-03T04:43:00+00:00,Ecuador,0.2591239636201065,1,1,pl,NWS,South-America
 '2866b55c37',extremes,Storm,#b3b2b1,wmo,burza w Macedonii Północnej,2026-03-26T04:56:00+00:00,North Macedonia,0.2591213251075898,1,1,pl,MED,Europe
 '5e35e9b9cc',extremes,Earthquake,#870007,usgs,trzęsienie ziemi Yacuiba,2026-04-07T04:59:00+00:00,Argentina,0.2590696182849797,1,1,pl,SES,South-America
-'f85bf58878',extremes,Wildfire,#d60d2b,wmo,pożar w Pekinie,2026-03-28T04:33:00+00:00,China,0.25903332751874236,1,1,pl,EAS,Asia
+'f85bf58878',extremes,Wildfire,#d60d2b,wmo,pożar w Pekinie,2026-03-28T04:33:00+00:00,China,0.2590333275187423,1,1,pl,EAS,Asia
 'b3805b8a4c',extremes,Heat Wave,#c40202,wmo,fala upałów 53 mandale,2026-04-03T04:43:00+00:00,India,0.2589972760302464,1,1,pl,SAS,Asia
 'a82da7ee1b',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz litoral norte e interior,2026-04-01T05:12:00+00:00,Ecuador,0.2589661733010375,1,1,pl,NWS,South-America
 '7c39867b86',extremes,Flood,#030ba1,wmo,powódź błyskawiczna obwód władimirski,2026-03-28T04:33:00+00:00,Russia,0.2589596536177579,1,1,pl,ESB,Europe
