@@ -195,23 +195,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e6200fd658',extremes,Drought,#edc291,edo,susza w Angoli,2026-04-04T04:30:00+00:00,Angola,0.3042461018059758,0,1,pl,WSAF,Africa
 '8f1c5d5139',extremes,Tropical Cyclone,#4f4f4f,wmo,tajfun zachodni isabel i choiseul,2026-04-05T05:01:00+00:00,Solomon Islands,0.3041583729578517,0,1,pl,EPO,Oceania
 'ce4931e51e',extremes,Flood,#030ba1,wmo,powódź błyskawiczna w południowej Australii Cooper Creek,2026-04-06T05:11:00+00:00,Australia,0.3036399609400913,0,1,pl,CAU,Oceania
-'e8f2fdcc3a',extremes,Precipitation,#d60d2b,wmo,deszcz w Tajlandii,2026-04-11T04:34:00+00:00,Thailand,0.3035903101001305,0,1,pl,SEA,Asia
-'1a5d7f7924',extremes,Wildfire,#d60d2b,wmo,pożar uttar pradesh,2026-04-03T04:43:00+00:00,India,0.3035490178801949,0,1,pl,SAS,Asia
-'8b022b84c7',extremes,Wildfire,#d60d2b,wmo,pożar madhya pradesh,2026-04-03T04:43:00+00:00,India,0.3035460948328474,0,1,pl,SAS,Asia
-'2f5808d63b',extremes,Storm,#b3b2b1,wmo,burza sztormowa wielka brytania,2026-04-04T04:30:00+00:00,United Kingdom,0.3035419732587088,0,1,pl,NEU,Europe
-'43e3252826',extremes,Storm,#b3b2b1,wmo,burza mołdawia,2026-04-08T05:01:00+00:00,Moldova,0.3035351835768036,0,1,pl,WCE,Europe
-'adacd65a27',extremes,Storm,#b3b2b1,wmo,burza w Paragwaju,2026-04-12T05:12:00+00:00,Paraguay,0.3034871939336278,0,1,pl,SES,South-America
-'4849129548',extremes,Tropical Cyclone,#4f4f4f,wmo,cyklon tropikalny Wyspy Salomona,2026-04-05T05:01:00+00:00,Solomon Islands,0.3034639200153801,0,1,pl,EPO,Oceania
-'4ae75fc210',extremes,Precipitation,#d60d2b,wmo,ulewa Arabia Saudyjska,2026-04-08T05:01:00+00:00,Saudi Arabia,0.3034468390158691,0,1,pl,ARP,Asia
-'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,pożar uttarakhand,2026-04-03T04:43:00+00:00,India,0.3034241162624382,0,1,pl,SAS,Asia
-'97cf231a2f',extremes,Wildfire,#d60d2b,wmo,odisha pożaru,2026-04-03T04:43:00+00:00,India,0.3034159997060623,0,1,pl,SAS,Asia
-'6e5947027b',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz waikato,2026-04-11T04:34:00+00:00,New Zealand,0.3033922672886855,0,1,pl,NZ,Oceania
-'aab7909052',extremes,Fog,#d60d2b,wmo,mgła izrael,2026-04-03T04:43:00+00:00,Israel,0.3033913470732473,0,1,pl,MED,Asia
-'5e4ea480a4',extremes,Thunderstorm,#53785a,wmo,grad Katar,2026-03-26T04:56:00+00:00,Qatar,0.3033856975802409,0,1,pl,ARP,Asia
-'f19783ecd9',extremes,Heat Wave,#c40202,wmo,fala upałów w hrabstwie Honghe,2026-04-01T05:12:00+00:00,China,0.3033167136551409,0,1,pl,EAS,Asia
 '22f763dc6a',extremes,Precipitation,#d60d2b,wmo,deszcz Amazonia,2026-03-30T05:12:00+00:00,Ecuador,0.3033161175312742,0,1,pl,NWS,South-America
-'8180415a6e',extremes,Storm,#b3b2b1,wmo,fala sztormowa Solapur,2026-04-03T04:43:00+00:00,India,0.3032790462829553,0,1,pl,SAS,Asia
-'151e85aca0',extremes,Precipitation,#d60d2b,wmo,opady atmosferyczne otago górnego biegu,2026-04-16T05:17:00+00:00,New Zealand,0.303270105266469,0,1,pl,NZ,Oceania
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,lód w Argentynie,2026-04-12T05:12:00+00:00,Argentina,0.3032620321360473,0,1,pl,SES,South-America
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,sztorm na Wyspy Salomona,2026-04-11T04:34:00+00:00,Solomon Islands,0.3032559203909657,0,1,pl,EPO,Oceania
 'a574def091',extremes,Tropical Cyclone,#4f4f4f,wmo,huragan w środkowych i wschodnich regionach,2026-04-09T04:58:00+00:00,Solomon Islands,0.3032288078104287,0,1,pl,EPO,Oceania
@@ -426,15 +410,31 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,ulewa nowa zelandia,2026-04-03T04:43:00+00:00,New Zealand,0.2583289569969627,1,1,pl,NZ,Oceania
 '1c54e04594',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz mila,2026-04-03T04:43:00+00:00,Algeria,0.2583067143984065,1,1,pl,SAH,Africa
 '5d4d529776',extremes,Storm,#b3b2b1,wmo,burza rej. 11 cordillera australijska sur,2026-04-11T04:34:00+00:00,Chile,0.2582991952708087,1,1,pl,SWS,South-America
-'bd2a31b00c',extremes,Snow&Ice,#d60d2b,wmo,"jezioro marynowane w lodzie, jezioro dla kotów",2026-04-09T04:58:00+00:00,Canada,0.25828851669793473,1,1,pl,NEN,North-America
-'1b2dcb2db6',extremes,Storm,#b3b2b1,wmo,"fala sztormowa, wielka wyspa barierowa",2026-04-12T05:12:00+00:00,New Zealand,0.25824503479824357,1,1,pl,NZ,Oceania
+'bd2a31b00c',extremes,Snow&Ice,#d60d2b,wmo,"jezioro marynowane w lodzie, jezioro dla kotów",2026-04-09T04:58:00+00:00,Canada,0.2582885166979347,1,1,pl,NEN,North-America
+'1b2dcb2db6',extremes,Storm,#b3b2b1,wmo,"fala sztormowa, wielka wyspa barierowa",2026-04-12T05:12:00+00:00,New Zealand,0.2582450347982435,1,1,pl,NZ,Oceania
 '042968096b',extremes,Storm,#b3b2b1,wmo,burza na Islandii,2026-04-06T05:11:00+00:00,Iceland,0.2582387235109957,1,1,pl,GIC,Europe
 'bd8c88b2ec',extremes,Drought,#edc291,edo,brak deszczu Demokratyczna Republika Konga,2026-04-11T04:34:00+00:00,Democratic Republic of the Congo,0.2582225291646463,1,1,pl,CAF,Africa
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,marznąca Argentyna,2026-04-11T04:34:00+00:00,Argentina,0.2581933648072421,1,1,pl,SES,South-America
-'b265b66e10',extremes,Snow&Ice,#d60d2b,wmo,mróz czarnogóra,2026-03-26T04:56:00+00:00,Montenegro,0.25815163327081647,1,1,pl,MED,Europe
-'48a9733a03',extremes,Storm,#b3b2b1,wmo,sztorm na Malediwach,2026-04-09T04:58:00+00:00,Maldives,0.25813453196729313,1,1,pl,EIO,Indian Ocean
-'0335b20cbc',extremes,Storm,#b3b2b1,wmo,"sztorm, rej. 15 kordylerów",2026-04-11T04:34:00+00:00,Chile,0.25811936042464034,1,1,pl,SWS,South-America
+'b265b66e10',extremes,Snow&Ice,#d60d2b,wmo,mróz czarnogóra,2026-03-26T04:56:00+00:00,Montenegro,0.2581516332708164,1,1,pl,MED,Europe
+'48a9733a03',extremes,Storm,#b3b2b1,wmo,sztorm na Malediwach,2026-04-09T04:58:00+00:00,Maldives,0.2581345319672931,1,1,pl,EIO,Indian Ocean
+'0335b20cbc',extremes,Storm,#b3b2b1,wmo,"sztorm, rej. 15 kordylerów",2026-04-11T04:34:00+00:00,Chile,0.2581193604246403,1,1,pl,SWS,South-America
 '071c3b0054',extremes,Thunderstorm,#53785a,wmo,grad w Botswanie,2026-04-13T05:28:00+00:00,Botswana,0.2580697033561041,1,1,pl,WSAF,Africa
-'6c5632b883',extremes,Snow Avalanche,#deddd5,wmo,lawina w inguszetii,2026-04-08T05:01:00+00:00,Russia,0.25806100839700563,1,1,pl,ESB,Europe
+'6c5632b883',extremes,Snow Avalanche,#deddd5,wmo,lawina w inguszetii,2026-04-08T05:01:00+00:00,Russia,0.2580610083970056,1,1,pl,ESB,Europe
 'af081911d9',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz Wellington z wyłączeniem Porirua,2026-04-20T05:27:00+00:00,New Zealand,0.2580607524749966,1,1,pl,NZ,Oceania
-'355605856d',extremes,Precipitation,#d60d2b,wmo,opady czad,2026-04-07T04:59:00+00:00,Chad,0.25805606588304025,1,1,pl,SAH,Africa
+'355605856d',extremes,Precipitation,#d60d2b,wmo,opady czad,2026-04-07T04:59:00+00:00,Chad,0.2580560658830402,1,1,pl,SAH,Africa
+'e8f2fdcc3a',extremes,Precipitation,#d60d2b,wmo,deszcz w Tajlandii,2026-04-11T04:34:00+00:00,Thailand,0.2580517635851109,1,1,pl,SEA,Asia
+'1a5d7f7924',extremes,Wildfire,#d60d2b,wmo,pożar uttar pradesh,2026-04-03T04:43:00+00:00,India,0.25801666519816563,1,1,pl,SAS,Asia
+'8b022b84c7',extremes,Wildfire,#d60d2b,wmo,pożar madhya pradesh,2026-04-03T04:43:00+00:00,India,0.25801418060792025,1,1,pl,SAS,Asia
+'2f5808d63b',extremes,Storm,#b3b2b1,wmo,burza sztormowa wielka brytania,2026-04-04T04:30:00+00:00,United Kingdom,0.25801067726990246,1,1,pl,NEU,Europe
+'43e3252826',extremes,Storm,#b3b2b1,wmo,burza mołdawia,2026-04-08T05:01:00+00:00,Moldova,0.25800490604028303,1,1,pl,WCE,Europe
+'adacd65a27',extremes,Storm,#b3b2b1,wmo,burza w Paragwaju,2026-04-12T05:12:00+00:00,Paraguay,0.2579641148435836,1,1,pl,SES,South-America
+'4849129548',extremes,Tropical Cyclone,#4f4f4f,wmo,cyklon tropikalny Wyspy Salomona,2026-04-05T05:01:00+00:00,Solomon Islands,0.25794433201307304,1,1,pl,EPO,Oceania
+'4ae75fc210',extremes,Precipitation,#d60d2b,wmo,ulewa Arabia Saudyjska,2026-04-08T05:01:00+00:00,Saudi Arabia,0.25792981316348873,1,1,pl,ARP,Asia
+'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,pożar uttarakhand,2026-04-03T04:43:00+00:00,India,0.2579104988230725,1,1,pl,SAS,Asia
+'97cf231a2f',extremes,Wildfire,#d60d2b,wmo,odisha pożaru,2026-04-03T04:43:00+00:00,India,0.257903599750153,1,1,pl,SAS,Asia
+'6e5947027b',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz waikato,2026-04-11T04:34:00+00:00,New Zealand,0.25788342719538265,1,1,pl,NZ,Oceania
+'aab7909052',extremes,Fog,#d60d2b,wmo,mgła izrael,2026-04-03T04:43:00+00:00,Israel,0.25788264501226016,1,1,pl,MED,Asia
+'5e4ea480a4',extremes,Thunderstorm,#53785a,wmo,grad Katar,2026-03-26T04:56:00+00:00,Qatar,0.25787784294320476,1,1,pl,ARP,Asia
+'f19783ecd9',extremes,Heat Wave,#c40202,wmo,fala upałów w hrabstwie Honghe,2026-04-01T05:12:00+00:00,China,0.25781920660686974,1,1,pl,EAS,Asia
+'8180415a6e',extremes,Storm,#b3b2b1,wmo,fala sztormowa Solapur,2026-04-03T04:43:00+00:00,India,0.25778718934051204,1,1,pl,SAS,Asia
+'151e85aca0',extremes,Precipitation,#d60d2b,wmo,opady atmosferyczne otago górnego biegu,2026-04-16T05:17:00+00:00,New Zealand,0.25777958947649865,1,1,pl,NZ,Oceania
