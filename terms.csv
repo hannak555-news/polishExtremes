@@ -16,6 +16,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3292e576a4',extremes,Storm,#b3b2b1,wmo,sztorm na wschodniej strefie przybrzeżnej,2026-04-25T05:00:00+00:00,Poland,0.566772716877894,0,1,pl,WCE,Europe
 '13329f4bf1',extremes,Snow&Ice,#d60d2b,wmo,marznąca Polska,2026-04-10T05:13:00+00:00,Poland,0.5664495463280854,1,1,pl,WCE,Europe
 '6c11585835',extremes,Drought,#edc291,edo,susza na Litwie,2026-04-16T05:17:00+00:00,Lithuania,0.5657228869854205,0,1,pl,WCE,Europe
+'e39a0c7809',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo śląskie powiat chorzowski,2026-04-26T05:25:00+00:00,Poland,0.5633749341729642,0,1,pl,WCE,Europe
 '98db96b6de',extremes,Drought,#edc291,edo,susza na Litwie,2026-04-21T05:15:00+00:00,Lithuania,0.5588562911606658,0,1,pl,WCE,Europe
 '2609bda0f2',extremes,Snow&Ice,#d60d2b,wmo,lodowa Polska,2026-04-09T04:58:00+00:00,Poland,0.5587220961052237,1,1,pl,WCE,Europe
 '69288ebd4f',extremes,Precipitation,#d60d2b,wmo,ulewne deszcze polska,2026-03-26T04:56:00+00:00,Poland,0.557681871230122,1,2,pl,WCE,Europe
@@ -171,6 +172,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '919b5ab130',extremes,Earthquake,#870007,usgs,"trzęsienie ziemi, tak",2026-04-10T05:12:00+00:00,Federated States,0.3646841105642059,1,3,pl,NPO,Pacific Ocean
 'a28c8ef428',extremes,Storm,#b3b2b1,wmo,burza w Wielkiej Brytanii,2026-04-03T04:43:00+00:00,United Kingdom,0.3614942876579954,1,2,pl,NEU,Europe
 '776fe47817',extremes,Wildfire,#d60d2b,random,pożar,2026-04-08T05:00:00+00:00,,0.3610782053814945,0,1,pl,,
+'f1d3442696',extremes,Drought,#edc291,edo,susza na Ukrainie,2026-04-27T05:40:00+00:00,Ukraine,0.3604062312768847,0,1,pl,WCE,Europe
 '1c38b19449',extremes,Storm,#b3b2b1,random,miski kurzu,2026-04-18T04:56:00+00:00,,0.3562001765171357,0,1,pl,,
 '596eeee208',extremes,Precipitation,#d60d2b,wmo,opady województwo małopolskie powiat suski,2026-03-27T04:57:00+00:00,Poland,0.3545747244327057,1,1,pl,WCE,Europe
 '829105287e',extremes,Storm,#b3b2b1,wmo,burza Jamajka,2026-03-22T04:33:00+00:00,Jamaica,0.3489314377637297,2,2,pl,CAR,North-America
@@ -183,7 +185,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a01a4d5226',extremes,Storm,#b3b2b1,wmo,burza na północy,2026-03-23T04:42:00+00:00,New Zealand,0.3366406921152076,1,2,pl,NZ,Oceania
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,cyklon bombowy,2026-04-23T05:16:00+00:00,,0.3356541328167986,1,1,pl,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,szarańcza,2026-04-06T05:11:00+00:00,,0.3341317863961516,1,1,pl,,
+'e593608bfa',extremes,Snow&Ice,#d60d2b,random,pokrywa śnieżna,2026-04-20T05:26:00+00:00,,0.3321871475371254,0,1,pl,,
 'da1ae5191e',extremes,Storm,#b3b2b1,random,fala sztormowa,2026-04-05T05:00:00+00:00,,0.3300096789303587,1,1,pl,,
+'80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,gwałtowny spadek temperatury,2026-04-18T04:56:00+00:00,,0.32907292913252495,0,1,pl,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,najzimniejsza zima,2026-04-13T05:27:00+00:00,,0.3257289395512072,1,1,pl,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,błoto pośniegowe,2026-03-27T04:56:00+00:00,,0.3254450446958264,1,1,pl,,
 '59b529f428',extremes,Thunderstorm,#53785a,random,burza z gradem,2026-04-17T05:15:00+00:00,,0.3251297389530634,1,1,pl,,
@@ -420,16 +424,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0006615477',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz w Kanadzie,2026-04-06T05:11:00+00:00,Canada,0.2576568135076404,1,1,pl,NEN,North-America
 'dad4b2a07f',extremes,Snow&Ice,#d60d2b,wmo,salwa lodowa,2026-04-14T05:11:00+00:00,Canada,0.257648040059483,1,1,pl,NEN,North-America
 '8ee5eff537',extremes,Snow Avalanche,#deddd5,wmo,lawina kargil w dzielnicy ladakh,2026-03-29T05:00:00+00:00,India,0.2575680871008494,1,1,pl,SAS,Asia
-'c229b0919c',extremes,Precipitation,#d60d2b,wmo,deszcz Arabia Saudyjska,2026-04-08T05:01:00+00:00,Saudi Arabia,0.25756557013039655,1,1,pl,ARP,Asia
+'c229b0919c',extremes,Precipitation,#d60d2b,wmo,deszcz Arabia Saudyjska,2026-04-08T05:01:00+00:00,Saudi Arabia,0.2575655701303965,1,1,pl,ARP,Asia
 '12f98a50ad',extremes,Snow Avalanche,#deddd5,wmo,utwardzacz lawinowy,2026-04-10T05:13:00+00:00,Norway,0.2575636613354758,1,1,pl,NEU,Europe
 '7848dc716c',extremes,Landslide,#572c03,wmo,osuwisko Qianshan County,2026-03-30T05:12:00+00:00,China,0.2575389670638126,1,1,pl,EAS,Asia
-'2e88ab8e95',extremes,Tropical Cyclone,#4f4f4f,wmo,cyklon tropikalny zachodni isabel i choiseul,2026-04-09T04:58:00+00:00,Solomon Islands,0.25752925641957153,1,1,pl,EPO,Oceania
+'2e88ab8e95',extremes,Tropical Cyclone,#4f4f4f,wmo,cyklon tropikalny zachodni isabel i choiseul,2026-04-09T04:58:00+00:00,Solomon Islands,0.2575292564195715,1,1,pl,EPO,Oceania
 '4e05f7cf69',extremes,Precipitation,#d60d2b,wmo,ulewa czad,2026-04-08T05:01:00+00:00,Chad,0.2575204650309173,1,1,pl,SAH,Africa
-'c46f2a69e5',extremes,Snow Avalanche,#deddd5,wmo,lawina nord troms,2026-04-10T05:13:00+00:00,Norway,0.25749992719466197,1,1,pl,NEU,Europe
-'2bb3d20abc',extremes,Fog,#d60d2b,wmo,mgła Belgia,2026-04-01T05:12:00+00:00,Belgium,0.25745034296586816,1,1,pl,WCE,Europe
+'c46f2a69e5',extremes,Snow Avalanche,#deddd5,wmo,lawina nord troms,2026-04-10T05:13:00+00:00,Norway,0.2574999271946619,1,1,pl,NEU,Europe
+'2bb3d20abc',extremes,Fog,#d60d2b,wmo,mgła Belgia,2026-04-01T05:12:00+00:00,Belgium,0.2574503429658681,1,1,pl,WCE,Europe
 'e537c7081f',extremes,Thunderstorm,#53785a,wmo,burza z piorunami w Hongkongu,2026-04-04T04:30:00+00:00,Hong Kong,0.25744089368945,1,1,pl,EAS,Asia
 '9865ee96b6',extremes,Thunderstorm,#53785a,wmo,grad środkowy i przejściowy,2026-04-08T05:01:00+00:00,Ghana,0.2574322348779444,1,1,pl,WAF,Africa
-'233dbed709',extremes,Storm,#b3b2b1,wmo,fala sztormowa Republika Mołdawii,2026-04-07T04:59:00+00:00,Republic of Moldova,0.25743059767609183,1,1,pl,WCE,Europe
+'233dbed709',extremes,Storm,#b3b2b1,wmo,fala sztormowa Republika Mołdawii,2026-04-07T04:59:00+00:00,Republic of Moldova,0.2574305976760918,1,1,pl,WCE,Europe
 '4d32562979',extremes,Storm,#b3b2b1,wmo,burza na wschodniej Islandii,2026-04-11T04:34:00+00:00,Iceland,0.2574294250421512,1,1,pl,GIC,Europe
 'aacf82e274',extremes,Drought,#edc291,edo,okres suszy na Wyspach Owczych,2026-04-04T04:30:00+00:00,Faroe Islands,0.257411148099757,1,1,pl,NEU,Europe
-'5a5dd83274',extremes,Fog,#d60d2b,wmo,mgła regionu wołgogradskiego,2026-04-08T05:01:00+00:00,Russia,0.25740964485901646,1,1,pl,ESB,Europe
+'5a5dd83274',extremes,Fog,#d60d2b,wmo,mgła regionu wołgogradskiego,2026-04-08T05:01:00+00:00,Russia,0.2574096448590164,1,1,pl,ESB,Europe
