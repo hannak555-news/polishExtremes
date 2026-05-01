@@ -9,7 +9,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e01f0ea465',extremes,Fog,#d60d2b,wmo,mgła wschodniej strefy przybrzeżnej,2026-04-01T05:12:00+00:00,Poland,0.5972076938571563,1,1,pl,WCE,Europe
 '9e020e244e',extremes,Drought,#edc291,edo,susza w polsce,2026-04-04T04:30:00+00:00,Poland,0.5962889519453536,1,1,pl,WCE,Europe
 'ce7ca89385',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat słupski,2026-04-17T05:16:00+00:00,Poland,0.5935794275288043,1,1,pl,WCE,Europe
-'2752348aea',extremes,Precipitation,#d60d2b,wmo,opady atmosferyczne województwo lubuskie powiat żarski,2026-04-19T05:16:00+00:00,Poland,0.5924473443511875,0,1,pl,WCE,Europe
 '4340c9e06c',extremes,Snow&Ice,#d60d2b,wmo,mroźna polska,2026-04-09T04:58:00+00:00,Poland,0.5753214624220242,1,1,pl,WCE,Europe
 '40b7000e71',extremes,Storm,#b3b2b1,wmo,fala sztormowa w polsce,2026-04-04T04:30:00+00:00,Poland,0.5717644183909495,1,1,pl,WCE,Europe
 '2609bda0f2',extremes,Snow&Ice,#d60d2b,wmo,lodowa Polska,2026-04-09T04:58:00+00:00,Poland,0.5587220961052237,1,1,pl,WCE,Europe
@@ -51,6 +50,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a22387ad2e',extremes,Precipitation,#d60d2b,wmo,deszczowa polska,2026-03-26T04:56:00+00:00,Poland,0.5058040284658908,1,1,pl,WCE,Europe
 '0c47c83dd7',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo małopolskie powiat suski,2026-03-27T04:57:00+00:00,Poland,0.5057672667866737,1,1,pl,WCE,Europe
 '8352f2224a',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat gdański,2026-04-17T05:16:00+00:00,Poland,0.5049040701736707,2,1,pl,WCE,Europe
+'2752348aea',extremes,Precipitation,#d60d2b,wmo,opady atmosferyczne województwo lubuskie powiat żarski,2026-04-19T05:16:00+00:00,Poland,0.5035802426985093,1,1,pl,WCE,Europe
 'fb9c86e069',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo pomorskie powiat sopocki,2026-04-05T05:01:00+00:00,Poland,0.5032791326329552,1,1,pl,WCE,Europe
 'f81802c0d3',extremes,Storm,#b3b2b1,wmo,burza województwo pomorskie powiat gdański,2026-03-25T04:33:00+00:00,Poland,0.5027285765549723,1,1,pl,WCE,Europe
 '4c473f18e3',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo lubelskie powiat łęczyński,2026-04-10T05:13:00+00:00,Poland,0.4998318709016198,1,1,pl,WCE,Europe
@@ -164,10 +164,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b4587c763',extremes,Storm,#b3b2b1,random,burza piaskowa,2026-04-28T05:44:00+00:00,,0.3901701871824551,1,2,pl,,
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,burza,2026-03-16T05:04:00+00:00,,0.3842089985867276,1,3,pl,,
 '4d9577e33d',extremes,Volcano,#b83202,random,wulkan,2026-04-07T04:58:00+00:00,,0.3840484004510914,1,1,pl,,
+'4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,nocne przymrozki,2026-04-30T05:45:00+00:00,,0.373856874778117,1,1,pl,,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,lawina,2026-04-05T05:00:00+00:00,,0.3726208649160646,0,1,pl,,
 '8a2f2c0d0e',extremes,Drought,#edc291,edo,brak deszczu na Ukrainie,2026-04-05T05:01:00+00:00,Ukraine,0.372536279591755,1,1,pl,WCE,Europe
 '15a9c61e3e',extremes,Landslide,#572c03,random,osuwisko,2026-04-20T05:26:00+00:00,,0.3717588404477796,0,1,pl,,
-'4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,nocne przymrozki,2026-04-30T05:45:00+00:00,,0.3696639671597757,0,1,pl,,
 '82d648b882',extremes,Drought,#edc291,random,susza,2026-04-24T05:21:00+00:00,,0.3683831203024377,0,1,pl,,
 'e160088f17',extremes,Drought,#edc291,edo,okres suszy na Ukrainie,2026-04-07T04:59:00+00:00,Ukraine,0.3675648961950137,1,1,pl,WCE,Europe
 '919b5ab130',extremes,Earthquake,#870007,usgs,"trzęsienie ziemi, tak",2026-04-10T05:12:00+00:00,Federated States,0.3646841105642059,1,3,pl,NPO,Pacific Ocean
@@ -204,7 +204,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,huragan,2026-04-11T04:34:00+00:00,,0.3199672519219394,0,1,pl,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,lek,2026-04-17T05:15:00+00:00,,0.3188517212409431,0,1,pl,,
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,zamieć śnieżna,2026-04-19T05:16:00+00:00,,0.3166044889859142,1,1,pl,,
-'152914913d',extremes,Heat Wave,#c40202,acwe,fala upałów w Tasmanii,2026-04-28T05:45:00+00:00,Australia,0.31472552711875673,0,1,pl,SAU,Oceania
+'152914913d',extremes,Heat Wave,#c40202,acwe,fala upałów w Tasmanii,2026-04-28T05:45:00+00:00,Australia,0.3147255271187567,0,1,pl,SAU,Oceania
 '3fa143a609',extremes,Storm,#b3b2b1,random,zamieć piaskowa,2026-04-19T05:16:00+00:00,,0.3144651054690082,0,1,pl,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,konik polny,2026-04-06T05:11:00+00:00,,0.3102334784491278,1,1,pl,,
 '352775dd3c',extremes,Drought,#edc291,edo,susza w Nepalu,2026-04-02T04:42:00+00:00,Nepal,0.309616930047449,0,1,pl,TIB,Asia
