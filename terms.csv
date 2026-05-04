@@ -65,7 +65,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '18fe399589',extremes,Storm,#b3b2b1,wmo,fala sztormowa na Litwie,2026-04-03T04:43:00+00:00,Lithuania,0.4876116229353564,1,1,pl,WCE,Europe
 '46d4d2dd9f',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo mazowieckie powiat mławski,2026-04-06T05:11:00+00:00,Poland,0.4849603460968158,1,1,pl,WCE,Europe
 '92778fb04e',extremes,Snow&Ice,#d60d2b,wmo,lodowe województwo śląskie powiat żywiecki,2026-03-31T04:59:00+00:00,Poland,0.4849575961229835,1,1,pl,WCE,Europe
-'f81802c0d3',extremes,Storm,#b3b2b1,wmo,burza województwo pomorskie powiat gdański,2026-04-25T05:00:00+00:00,Poland,0.48491327118050537,1,1,pl,WCE,Europe
+'f81802c0d3',extremes,Storm,#b3b2b1,wmo,burza województwo pomorskie powiat gdański,2026-04-25T05:00:00+00:00,Poland,0.4849132711805053,1,1,pl,WCE,Europe
 'e8c802d6fb',extremes,Storm,#b3b2b1,wmo,burza województwo śląskie powiat będziński,2026-04-26T05:25:00+00:00,Poland,0.4839634746232757,1,1,pl,WCE,Europe
 '3921b06b03',extremes,Precipitation,#d60d2b,wmo,ulewne deszcze województwo łódzkie powiat pajęczański,2026-04-19T05:16:00+00:00,Poland,0.483884350457453,1,1,pl,WCE,Europe
 '628bf5d4cb',extremes,Storm,#b3b2b1,wmo,sztorm w środkowej strefie przybrzeżnej,2026-04-06T05:11:00+00:00,Poland,0.483591784015391,1,1,pl,WCE,Europe
@@ -166,9 +166,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,cyklon bombowy,2026-04-23T05:16:00+00:00,,0.3356541328167986,1,1,pl,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,szarańcza,2026-04-06T05:11:00+00:00,,0.3341317863961516,1,1,pl,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,góra lodowa Antarktyda,2026-04-03T04:42:00+00:00,,0.3330960748523434,1,1,pl,,
-'e593608bfa',extremes,Snow&Ice,#d60d2b,random,pokrywa śnieżna,2026-04-20T05:26:00+00:00,,0.3321871475371254,0,1,pl,,
 'da1ae5191e',extremes,Storm,#b3b2b1,random,fala sztormowa,2026-04-05T05:00:00+00:00,,0.3300096789303587,1,1,pl,,
-'80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,cyklon,2026-05-03T05:43:00+00:00,,0.32935032236413003,1,1,pl,,
+'80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,cyklon,2026-05-03T05:43:00+00:00,,0.32935032236413,1,1,pl,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,cielenie się lodowca,2026-04-19T05:16:00+00:00,,0.3292701907376102,0,1,pl,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,gwałtowny spadek temperatury,2026-04-18T04:56:00+00:00,,0.3290729291325249,0,1,pl,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,lód morski Arktyki,2026-04-15T05:11:00+00:00,,0.3287050051915511,0,1,pl,,
@@ -282,6 +281,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,zimny trzask,2026-04-01T05:12:00+00:00,,0.2889552941730384,1,1,pl,,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,burza tropikalna,2026-04-26T05:25:00+00:00,,0.286027391756174,1,1,pl,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-04-21T05:14:00+00:00,,0.2836157536377933,1,1,pl,,
+'e593608bfa',extremes,Snow&Ice,#d60d2b,random,pokrywa śnieżna,2026-04-20T05:26:00+00:00,,0.2825090904065566,1,1,pl,,
 '595acbcf9f',extremes,Heat Wave,#c40202,random,najgorętszy dzień,2026-04-04T04:30:00+00:00,,0.2742388377054152,1,1,pl,,
 '72e8366c4b',extremes,Unknown,#d60d2b,cmeter,nieznany Orlando,2026-04-17T05:16:00+00:00,United States,0.27157444286681,1,1,pl,ENA,North-America
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,pożar buszu,2026-04-18T04:56:00+00:00,,0.2695208262678216,1,1,pl,,
