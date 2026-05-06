@@ -189,7 +189,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '04f990069a',extremes,Drought,#edc291,edo,brak deszczu na Białorusi,2026-04-22T05:13:00+00:00,Belarus,0.3088568151459622,0,1,pl,WCE,Europe
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-04-07T04:58:00+00:00,,0.3088546559419947,1,1,pl,,
 '179c5c0d77',extremes,Snow Avalanche,#deddd5,wmo,lawina soczi,2026-04-19T05:16:00+00:00,Russia,0.3085355037087449,0,1,pl,ESB,Europe
-'6be9519179',extremes,Cold Wave,#a7e9fa,random,zimna fala,2026-04-15T05:11:00+00:00,,0.3082774465873569,0,1,pl,,
 'd2761af41e',extremes,Tropical Cyclone,#4f4f4f,aidr,cyklon 2018 nt cyklon tropikalny Marcus,2026-04-01T05:13:00+00:00,,0.3082299465782532,0,1,pl,NAU,Oceania
 '2eb242efc8',extremes,Snow&Ice,#d60d2b,wmo,marznąca Mołdawia,2026-04-29T05:40:00+00:00,Moldova,0.3072782131967367,0,1,pl,WCE,Europe
 '0514da3654',extremes,Snow&Ice,#d60d2b,wmo,lodowa Brazylia,2026-04-28T05:45:00+00:00,Brazil,0.3072286968586741,0,1,pl,SAM,South-America
@@ -245,13 +244,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '037bb37761',extremes,Flood,#030ba1,wmo,powódź w Stanach Zjednoczonych,2026-04-07T04:59:00+00:00,United States,0.3017285488177367,0,1,pl,CNA,North-America
 '6c7c509ea5',extremes,Flood,#030ba1,wmo,powódź w Szwecji,2026-04-13T05:28:00+00:00,Sweden,0.3016657381844466,0,1,pl,NEU,Europe
 'ba0df33205',extremes,Storm,#b3b2b1,wmo,fala sztormowa tamanrasset,2026-04-10T05:13:00+00:00,Algeria,0.3015488777191332,0,1,pl,SAH,Africa
-'fceedbfdbe',extremes,Storm,#b3b2b1,wmo,burza bechar,2026-04-09T04:58:00+00:00,Algeria,0.3013980997923414,0,1,pl,SAH,Africa
 'ffc1964f79',extremes,Snow Avalanche,#deddd5,wmo,lawina Helgeland,2026-04-11T04:34:00+00:00,Norway,0.3013967518862783,0,1,pl,NEU,Europe
 '94e628bbb7',extremes,Wildfire,#d60d2b,wmo,dzielnica pożarów Qilin,2026-04-11T04:34:00+00:00,China,0.3013628276820925,0,1,pl,EAS,Asia
 '42b882d252',extremes,Drought,#edc291,edo,brak deszczu w Danii,2026-04-02T04:42:00+00:00,Denmark,0.3013550459687975,0,1,pl,NEU,Europe
 'e67e09eb5d',extremes,Flood,#030ba1,wmo,powódź saginaw mi shiawassee mi,2026-04-05T05:01:00+00:00,United States,0.3013291172423352,0,1,pl,CNA,North-America
 'd8a54a840e',extremes,Precipitation,#d60d2b,wmo,opady mikoa ya lindi na mtwara.,2026-04-15T05:12:00+00:00,Tanzania,0.3013056665376299,0,1,pl,SEAF,Africa
 '7747997246',extremes,Fog,#d60d2b,wmo,mgła Rosja,2026-04-06T05:11:00+00:00,Russia,0.3012719300887841,0,1,pl,ESB,Europe
+'6be9519179',extremes,Cold Wave,#a7e9fa,random,zimna fala,2026-04-15T05:11:00+00:00,,0.30013588959925336,1,1,pl,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,zamieć,2026-04-22T05:13:00+00:00,,0.3000963145700744,1,1,pl,,
 'ccefefc59e',extremes,Drought,#edc291,random,błyskawiczna susza,2026-04-12T05:11:00+00:00,,0.2944273189002455,1,1,pl,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,najgorętszy rok,2026-04-22T05:13:00+00:00,,0.2940678634459824,1,1,pl,,
@@ -384,6 +383,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ed391213f',extremes,Snow&Ice,#d60d2b,wmo,mróz wielka brytania,2026-04-04T04:30:00+00:00,United Kingdom,0.2565128913507851,1,1,pl,NEU,Europe
 '7bc7d3a97f',extremes,Storm,#b3b2b1,wmo,"fala sztormowa, wnętrze litoru",2026-04-21T05:15:00+00:00,Ecuador,0.2564606219618339,1,1,pl,NWS,South-America
 '755def29d6',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Malawi,2026-04-21T05:15:00+00:00,Malawi,0.256412587541573,1,1,pl,ESAF,Africa
+'fceedbfdbe',extremes,Storm,#b3b2b1,wmo,burza bechar,2026-04-09T04:58:00+00:00,Algeria,0.25618838482349016,1,1,pl,SAH,Africa
 '4dc8bdbf14',extremes,Flood,#030ba1,random,wylanie rzeki,2026-04-20T05:26:00+00:00,,0.2539447896076066,2,1,pl,,
 '0335b20cbc',extremes,Storm,#b3b2b1,wmo,"sztorm, rej. 15 kordylerów",2026-04-11T04:34:00+00:00,Chile,0.2194014563609442,2,1,pl,SWS,South-America
 '6e5947027b',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz waikato,2026-04-11T04:34:00+00:00,New Zealand,0.2192009131160752,2,1,pl,NZ,Oceania
