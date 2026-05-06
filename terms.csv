@@ -168,11 +168,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,trąba powietrzna,2026-04-30T05:45:00+00:00,,0.3262606031927741,1,1,pl,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,najzimniejsza zima,2026-04-13T05:27:00+00:00,,0.3257289395512072,1,1,pl,,
 '59b529f428',extremes,Thunderstorm,#53785a,random,burza z gradem,2026-04-17T05:15:00+00:00,,0.3251297389530634,1,1,pl,,
-'845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-03-31T04:59:00+00:00,,0.3211439890830261,0,1,pl,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,huragan,2026-04-11T04:34:00+00:00,,0.3199672519219394,0,1,pl,,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,wyjście na ląd,2026-05-03T05:43:00+00:00,,0.3196792514015503,0,1,pl,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,lek,2026-04-17T05:15:00+00:00,,0.3188517212409431,0,1,pl,,
-'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,intensywne opady,2026-04-28T05:44:00+00:00,,0.31832435468482645,1,2,pl,,
+'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,intensywne opady,2026-04-28T05:44:00+00:00,,0.3183243546848264,1,2,pl,,
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,zamieć śnieżna,2026-04-19T05:16:00+00:00,,0.3166044889859142,1,1,pl,,
 '152914913d',extremes,Heat Wave,#c40202,acwe,fala upałów w Tasmanii,2026-04-28T05:45:00+00:00,Australia,0.3147255271187567,0,1,pl,SAU,Oceania
 '940a9f74b0',extremes,Wildfire,#d60d2b,acwe,pożar buszu w Tasmanii,2026-04-29T05:41:00+00:00,Australia,0.314687066615574,0,1,pl,SAU,Oceania
@@ -369,7 +368,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5a5dd83274',extremes,Fog,#d60d2b,wmo,mgła regionu wołgogradskiego,2026-04-08T05:01:00+00:00,Russia,0.2574096448590164,1,1,pl,ESB,Europe
 '61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,huragan stany zjednoczone,2026-04-12T05:12:00+00:00,United States,0.257194894639273,1,1,pl,CNA,North-America
 '609a79d405',extremes,Wildfire,#d60d2b,wmo,hrabstwo Xichou,2026-04-11T04:34:00+00:00,China,0.2571826220787185,1,1,pl,EAS,Asia
-'c8be322002',extremes,Snow Avalanche,#deddd5,wmo,lawina Hallingdal,2026-04-10T05:13:00+00:00,Norway,0.25710474436866615,1,1,pl,NEU,Europe
+'c8be322002',extremes,Snow Avalanche,#deddd5,wmo,lawina Hallingdal,2026-04-10T05:13:00+00:00,Norway,0.2571047443686661,1,1,pl,NEU,Europe
 '70773b5956',extremes,Earthquake,#870007,usgs,trzęsienie ziemi na Alasce,2026-04-06T05:11:00+00:00,Alaska,0.2570953991558316,1,1,pl,NPO,Pacific Ocean
 '38fb523e0e',extremes,Flood,#030ba1,wmo,powódź błyskawiczna w Botswanie,2026-04-15T05:12:00+00:00,Botswana,0.2570121920460917,1,1,pl,WSAF,Africa
 '298c01d6b6',extremes,Snow Avalanche,#deddd5,wmo,kamizelka lawinowa telemark,2026-04-11T04:34:00+00:00,Norway,0.2569717001253469,1,1,pl,NEU,Europe
