@@ -148,12 +148,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b4587c763',extremes,Storm,#b3b2b1,random,burza piaskowa,2026-04-28T05:44:00+00:00,,0.3901701871824551,1,2,pl,,
 'a48927d193',extremes,Precipitation,#d60d2b,wmo,ulewne deszcze województwo podkarpackie powiat krośnieński,2026-04-20T05:27:00+00:00,Poland,0.3893863012395353,2,1,pl,WCE,Europe
 '4d9577e33d',extremes,Volcano,#b83202,random,wulkan,2026-04-07T04:58:00+00:00,,0.3840484004510914,1,1,pl,,
+'053bb10e09',extremes,Heat Wave,#c40202,random,indyjskie lato,2026-05-03T05:43:00+00:00,,0.3833366462645316,0,1,pl,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,nocne przymrozki,2026-04-30T05:45:00+00:00,,0.373856874778117,1,1,pl,,
 '8a2f2c0d0e',extremes,Drought,#edc291,edo,brak deszczu na Ukrainie,2026-04-05T05:01:00+00:00,Ukraine,0.372536279591755,1,1,pl,WCE,Europe
+'3e2894fd0c',extremes,Iceberg,#d60d2b,random,lód morski Antarktyki,2026-05-04T05:49:00+00:00,,0.36989845054436415,0,1,pl,,
 'e160088f17',extremes,Drought,#edc291,edo,okres suszy na Ukrainie,2026-04-07T04:59:00+00:00,Ukraine,0.3675648961950137,1,1,pl,WCE,Europe
 '919b5ab130',extremes,Earthquake,#870007,usgs,"trzęsienie ziemi, tak",2026-04-10T05:12:00+00:00,Federated States,0.3646841105642059,1,3,pl,NPO,Pacific Ocean
 'a28c8ef428',extremes,Storm,#b3b2b1,wmo,burza w Wielkiej Brytanii,2026-04-03T04:43:00+00:00,United Kingdom,0.3614942876579954,1,2,pl,NEU,Europe
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tajfun,2026-05-03T05:43:00+00:00,,0.3604668588202758,1,1,pl,,
+'8447ef896b',extremes,Snow&Ice,#d60d2b,random,błoto pośniegowe,2026-05-06T05:43:00+00:00,,0.34284935869956057,0,1,pl,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,cielenie się góry lodowej,2026-04-27T05:39:00+00:00,,0.3398697051047775,1,1,pl,,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,krople rtęci,2026-04-30T05:45:00+00:00,,0.3394825828034618,1,1,pl,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,mokre zaklęcie,2026-04-17T05:15:00+00:00,,0.3389256570150449,1,1,pl,,
@@ -170,11 +173,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,najzimniejsza zima,2026-04-13T05:27:00+00:00,,0.3257289395512072,1,1,pl,,
 '59b529f428',extremes,Thunderstorm,#53785a,random,burza z gradem,2026-04-17T05:15:00+00:00,,0.3251297389530634,1,1,pl,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,huragan,2026-04-11T04:34:00+00:00,,0.3199672519219394,0,1,pl,,
+'0fa8bbc8c4',extremes,Wildfire,#d60d2b,emdat,pożary hrabstw gliniastych na Florydzie,2026-05-05T05:29:00+00:00,United States,0.3198870690928678,0,1,pl,WNA,North-America
 '11dee0d421',extremes,Tropical Cyclone,#4f4f4f,emdat,cyklon tropikalny guam,2026-05-05T05:29:00+00:00,Guam,0.3198190795519768,0,1,pl,NPO,Oceania
 '9cb0438918',extremes,Storm,#b3b2b1,emdat,burza w Minnesocie,2026-05-05T05:29:00+00:00,United States,0.3197580981953635,0,1,pl,WNA,North-America
 '3ea8a9b3b3',extremes,Storm,#b3b2b1,emdat,"cyklon tropikalny, Mariany Północne",2026-05-05T05:29:00+00:00,Northern Mariana Islands,0.3197446682499358,0,1,pl,NPO,Pacific Ocean
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,wyjście na ląd,2026-05-03T05:43:00+00:00,,0.3196792514015503,0,1,pl,,
 '96285201b2',extremes,Storm,#b3b2b1,emdat,burza lao cai,2026-05-05T05:29:00+00:00,Vietnam,0.3196522804315967,0,1,pl,SEA,Asia
+'8182ed2818',extremes,Precipitation,#d60d2b,acwe,opady na Tasmanii,2026-05-04T05:50:00+00:00,Australia,0.319444101092315,0,1,pl,SAU,Oceania
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,lek,2026-04-17T05:15:00+00:00,,0.3188517212409431,0,1,pl,,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,intensywne opady,2026-04-28T05:44:00+00:00,,0.3183243546848264,1,2,pl,,
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,zamieć śnieżna,2026-04-19T05:16:00+00:00,,0.3166044889859142,1,1,pl,,
@@ -250,7 +255,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e67e09eb5d',extremes,Flood,#030ba1,wmo,powódź saginaw mi shiawassee mi,2026-04-05T05:01:00+00:00,United States,0.3013291172423352,0,1,pl,CNA,North-America
 'd8a54a840e',extremes,Precipitation,#d60d2b,wmo,opady mikoa ya lindi na mtwara.,2026-04-15T05:12:00+00:00,Tanzania,0.3013056665376299,0,1,pl,SEAF,Africa
 '7747997246',extremes,Fog,#d60d2b,wmo,mgła Rosja,2026-04-06T05:11:00+00:00,Russia,0.3012719300887841,0,1,pl,ESB,Europe
-'6be9519179',extremes,Cold Wave,#a7e9fa,random,zimna fala,2026-04-15T05:11:00+00:00,,0.30013588959925336,1,1,pl,,
+'6be9519179',extremes,Cold Wave,#a7e9fa,random,zimna fala,2026-04-15T05:11:00+00:00,,0.3001358895992533,1,1,pl,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,zamieć,2026-04-22T05:13:00+00:00,,0.3000963145700744,1,1,pl,,
 'ccefefc59e',extremes,Drought,#edc291,random,błyskawiczna susza,2026-04-12T05:11:00+00:00,,0.2944273189002455,1,1,pl,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,najgorętszy rok,2026-04-22T05:13:00+00:00,,0.2940678634459824,1,1,pl,,
@@ -383,7 +388,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ed391213f',extremes,Snow&Ice,#d60d2b,wmo,mróz wielka brytania,2026-04-04T04:30:00+00:00,United Kingdom,0.2565128913507851,1,1,pl,NEU,Europe
 '7bc7d3a97f',extremes,Storm,#b3b2b1,wmo,"fala sztormowa, wnętrze litoru",2026-04-21T05:15:00+00:00,Ecuador,0.2564606219618339,1,1,pl,NWS,South-America
 '755def29d6',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Malawi,2026-04-21T05:15:00+00:00,Malawi,0.256412587541573,1,1,pl,ESAF,Africa
-'fceedbfdbe',extremes,Storm,#b3b2b1,wmo,burza bechar,2026-04-09T04:58:00+00:00,Algeria,0.25618838482349016,1,1,pl,SAH,Africa
+'fceedbfdbe',extremes,Storm,#b3b2b1,wmo,burza bechar,2026-04-09T04:58:00+00:00,Algeria,0.2561883848234901,1,1,pl,SAH,Africa
 '4dc8bdbf14',extremes,Flood,#030ba1,random,wylanie rzeki,2026-04-20T05:26:00+00:00,,0.2539447896076066,2,1,pl,,
 '0335b20cbc',extremes,Storm,#b3b2b1,wmo,"sztorm, rej. 15 kordylerów",2026-04-11T04:34:00+00:00,Chile,0.2194014563609442,2,1,pl,SWS,South-America
 '6e5947027b',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz waikato,2026-04-11T04:34:00+00:00,New Zealand,0.2192009131160752,2,1,pl,NZ,Oceania
