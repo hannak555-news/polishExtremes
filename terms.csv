@@ -1,6 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'a22387ad2e',extremes,Precipitation,#d60d2b,wmo,deszczowa polska,2026-04-19T05:16:00+00:00,Poland,0.6211146056215451,0,1,pl,WCE,Europe
 'e01f0ea465',extremes,Fog,#d60d2b,wmo,mgła wschodniej strefy przybrzeżnej,2026-04-01T05:12:00+00:00,Poland,0.5972076938571563,1,1,pl,WCE,Europe
 '9e020e244e',extremes,Drought,#edc291,edo,susza w polsce,2026-04-04T04:30:00+00:00,Poland,0.5962889519453536,1,1,pl,WCE,Europe
+'26037c6e0f',extremes,Thunderstorm,#53785a,wmo,"grad, Litwa",2026-05-05T05:29:00+00:00,Lithuania,0.5854614464846033,0,1,pl,WCE,Europe
 '628c73fc75',extremes,Drought,#edc291,edo,susza w polsce,2026-04-11T04:34:00+00:00,Poland,0.5840798002746853,3,1,pl,WCE,Europe
 '4340c9e06c',extremes,Snow&Ice,#d60d2b,wmo,mroźna polska,2026-04-09T04:58:00+00:00,Poland,0.5753214624220242,1,1,pl,WCE,Europe
 '2180c0c4a1',extremes,Drought,#edc291,edo,brak opadów w polsce,2026-04-19T05:16:00+00:00,Poland,0.5751064530776235,2,1,pl,WCE,Europe
@@ -169,7 +171,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,najzimniejsza zima,2026-04-13T05:27:00+00:00,,0.3257289395512072,1,1,pl,,
 '59b529f428',extremes,Thunderstorm,#53785a,random,burza z gradem,2026-04-17T05:15:00+00:00,,0.3251297389530634,1,1,pl,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,huragan,2026-04-11T04:34:00+00:00,,0.3199672519219394,0,1,pl,,
+'11dee0d421',extremes,Tropical Cyclone,#4f4f4f,emdat,cyklon tropikalny guam,2026-05-05T05:29:00+00:00,Guam,0.31981907955197686,0,1,pl,NPO,Oceania
+'9cb0438918',extremes,Storm,#b3b2b1,emdat,burza w Minnesocie,2026-05-05T05:29:00+00:00,United States,0.31975809819536355,0,1,pl,WNA,North-America
+'3ea8a9b3b3',extremes,Storm,#b3b2b1,emdat,"cyklon tropikalny, Mariany Północne",2026-05-05T05:29:00+00:00,Northern Mariana Islands,0.31974466824993586,0,1,pl,NPO,Pacific Ocean
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,wyjście na ląd,2026-05-03T05:43:00+00:00,,0.3196792514015503,0,1,pl,,
+'96285201b2',extremes,Storm,#b3b2b1,emdat,burza lao cai,2026-05-05T05:29:00+00:00,Vietnam,0.3196522804315967,0,1,pl,SEA,Asia
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,lek,2026-04-17T05:15:00+00:00,,0.3188517212409431,0,1,pl,,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,intensywne opady,2026-04-28T05:44:00+00:00,,0.3183243546848264,1,2,pl,,
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,zamieć śnieżna,2026-04-19T05:16:00+00:00,,0.3166044889859142,1,1,pl,,
