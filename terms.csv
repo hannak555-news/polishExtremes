@@ -1,7 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'628c73fc75',extremes,Drought,#edc291,edo,susza w polsce,2026-04-11T04:34:00+00:00,Poland,0.5840798002746853,3,1,pl,WCE,Europe
 '2180c0c4a1',extremes,Drought,#edc291,edo,brak opadów w polsce,2026-04-19T05:16:00+00:00,Poland,0.5751064530776235,2,1,pl,WCE,Europe
 'c2a1de8dc8',extremes,Storm,#b3b2b1,wmo,burza Polska,2026-04-25T05:00:00+00:00,Poland,0.5641003161019613,2,3,pl,WCE,Europe
+'628c73fc75',extremes,Drought,#edc291,edo,susza w polsce,2026-04-11T04:34:00+00:00,Poland,0.5639038595191967,4,2,pl,WCE,Europe
 '69288ebd4f',extremes,Precipitation,#d60d2b,wmo,ulewne deszcze polska,2026-03-26T04:56:00+00:00,Poland,0.557681871230122,1,2,pl,WCE,Europe
 '9b59bee21e',extremes,Drought,#edc291,edo,okres suszy w polsce,2026-04-08T05:01:00+00:00,Poland,0.5544961926430404,2,1,pl,WCE,Europe
 'a22387ad2e',extremes,Precipitation,#d60d2b,wmo,deszczowa polska,2026-04-19T05:16:00+00:00,Poland,0.5280974297783133,1,1,pl,WCE,Europe
@@ -138,18 +138,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9aa85864ec',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo mazowieckie powiat płocki,2026-04-26T05:25:00+00:00,Poland,0.4182060931927068,2,1,pl,WCE,Europe
 '15cb1e1745',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo lubelskie powiat janowski,2026-05-07T05:46:00+00:00,Poland,0.4179938708275262,1,1,pl,WCE,Europe
 '8a4808840b',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo lubelskie powiat kraśnicki,2026-05-07T05:46:00+00:00,Poland,0.4179454398326356,1,1,pl,WCE,Europe
-'51740b1fc3',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo lubelskie powiat chełmski,2026-04-10T05:13:00+00:00,Poland,0.41784736982016546,2,1,pl,WCE,Europe
+'51740b1fc3',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie województwo lubelskie powiat chełmski,2026-04-10T05:13:00+00:00,Poland,0.4178473698201654,2,1,pl,WCE,Europe
 '91377cc2a9',extremes,Drought,#edc291,acwe,susza w południowej Australii,2026-03-31T05:00:00+00:00,Australia,0.417363691783762,1,2,pl,SAU,Oceania
-'bf19124963',extremes,Storm,#b3b2b1,wmo,burza województwo podkarpackie powiat krośnieński,2026-04-26T05:25:00+00:00,Poland,0.41718201559790546,2,1,pl,WCE,Europe
-'1132e38d50',extremes,Storm,#b3b2b1,wmo,burza województwo małopolskie powiat olkuski,2026-05-07T05:46:00+00:00,Poland,0.41696498876891713,2,1,pl,WCE,Europe
+'bf19124963',extremes,Storm,#b3b2b1,wmo,burza województwo podkarpackie powiat krośnieński,2026-04-26T05:25:00+00:00,Poland,0.4171820155979054,2,1,pl,WCE,Europe
+'1132e38d50',extremes,Storm,#b3b2b1,wmo,burza województwo małopolskie powiat olkuski,2026-05-07T05:46:00+00:00,Poland,0.4169649887689171,2,1,pl,WCE,Europe
 '5b33a8ba38',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo śląskie powiat bytomski,2026-04-26T05:25:00+00:00,Poland,0.416273606202613,2,1,pl,WCE,Europe
 '6029cfd5c9',extremes,Precipitation,#d60d2b,wmo,ulewne deszcze województwo małopolskie powiat brzeski,2026-04-20T05:27:00+00:00,Poland,0.4160713216252699,2,1,pl,WCE,Europe
-'cba9cbfddd',extremes,Thunderstorm,#53785a,wmo,grad województwo lubelskie powiat puławski,2026-05-07T05:46:00+00:00,Poland,0.41353388394274093,2,1,pl,WCE,Europe
+'cba9cbfddd',extremes,Thunderstorm,#53785a,wmo,grad województwo lubelskie powiat puławski,2026-05-07T05:46:00+00:00,Poland,0.4135338839427409,2,1,pl,WCE,Europe
 'd092f1c2a8',extremes,Storm,#b3b2b1,wmo,burza województwo pomorskie powiat malborski,2026-04-06T05:11:00+00:00,Poland,0.4135195918848959,2,1,pl,WCE,Europe
-'46d4d2dd9f',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo mazowieckie powiat mławski,2026-04-06T05:11:00+00:00,Poland,0.41221629418229344,2,1,pl,WCE,Europe
+'46d4d2dd9f',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo mazowieckie powiat mławski,2026-04-06T05:11:00+00:00,Poland,0.4122162941822934,2,1,pl,WCE,Europe
 'f81802c0d3',extremes,Storm,#b3b2b1,wmo,burza województwo pomorskie powiat gdański,2026-04-25T05:00:00+00:00,Poland,0.4121762805034295,2,1,pl,WCE,Europe
 '3921b06b03',extremes,Precipitation,#d60d2b,wmo,ulewne deszcze województwo łódzkie powiat pajęczański,2026-04-19T05:16:00+00:00,Poland,0.411301697888835,2,1,pl,WCE,Europe
-'628bf5d4cb',extremes,Storm,#b3b2b1,wmo,sztorm w środkowej strefie przybrzeżnej,2026-04-06T05:11:00+00:00,Poland,0.41105301641308234,2,1,pl,WCE,Europe
+'628bf5d4cb',extremes,Storm,#b3b2b1,wmo,sztorm w środkowej strefie przybrzeżnej,2026-04-06T05:11:00+00:00,Poland,0.4110530164130823,2,1,pl,WCE,Europe
 'c7c86df95e',extremes,Storm,#b3b2b1,wmo,burza w Izraelu,2026-03-31T04:59:00+00:00,Israel,0.4097967500671853,1,2,pl,MED,Asia
 'c3e290c2f7',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo lubelskie powiat bialski,2026-04-06T05:11:00+00:00,Poland,0.4097266596064218,2,1,pl,WCE,Europe
 '560b05d603',extremes,Heat Wave,#c40202,random,fala upałów,2026-05-01T05:54:00+00:00,,0.4072135104472461,1,2,pl,,
@@ -200,7 +200,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '92035e2c20',extremes,Drought,#edc291,edo,okres suszy na Madagaskarze,2026-04-17T05:16:00+00:00,Madagascar,0.3120146162699184,0,1,pl,MDG,Africa
 'a5ff1cde4a',extremes,Drought,#edc291,random,wilgotność gleby,2026-04-13T05:27:00+00:00,,0.3117465486896926,0,1,pl,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,konik polny,2026-04-06T05:11:00+00:00,,0.3102334784491278,1,1,pl,,
-'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,zimny trzask,2026-04-27T05:39:00+00:00,,0.31019316204807745,1,1,pl,,
+'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,zimny trzask,2026-04-27T05:39:00+00:00,,0.3101931620480774,1,1,pl,,
 '352775dd3c',extremes,Drought,#edc291,edo,susza w Nepalu,2026-04-02T04:42:00+00:00,Nepal,0.309616930047449,0,1,pl,TIB,Asia
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-04-07T04:58:00+00:00,,0.3088546559419947,1,1,pl,,
 '179c5c0d77',extremes,Snow Avalanche,#deddd5,wmo,lawina soczi,2026-04-19T05:16:00+00:00,Russia,0.3085355037087449,0,1,pl,ESB,Europe
