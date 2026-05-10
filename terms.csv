@@ -38,7 +38,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6fea2877df',extremes,Storm,#b3b2b1,wmo,burza województwo podlaskie powiat suwalski,2026-04-26T05:25:00+00:00,Poland,0.47167688422915,1,1,pl,WCE,Europe
 'f3c258d60c',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo lubelskie powiat łęczyński,2026-05-07T05:46:00+00:00,Poland,0.4716607499735905,1,1,pl,WCE,Europe
 '6945b7c1b5',extremes,Storm,#b3b2b1,wmo,burza województwo mazowieckie powiat łosicki,2026-04-26T05:25:00+00:00,Poland,0.470724823840449,1,1,pl,WCE,Europe
-'775ed8712b',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo lubelskie powiat lubelski,2026-04-06T05:11:00+00:00,Poland,0.4706782717291211,1,1,pl,WCE,Europe
 '35e377bb6e',extremes,Storm,#b3b2b1,wmo,burza województwo lubelskie powiat opolski,2026-04-06T05:11:00+00:00,Poland,0.4705054417916214,1,1,pl,WCE,Europe
 'c485a52f57',extremes,Storm,#b3b2b1,wmo,burza województwo pomorskie powiat słupski,2026-04-25T05:00:00+00:00,Poland,0.4704627820441484,1,1,pl,WCE,Europe
 '9737717f4f',extremes,Precipitation,#d60d2b,wmo,deszczowe województwo lubuskie powiat nowosolski,2026-04-20T05:27:00+00:00,Poland,0.4703170167668438,1,1,pl,WCE,Europe
@@ -156,6 +155,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9032f79c85',extremes,Storm,#b3b2b1,wmo,burza województwo lubelskie powiat chełmski,2026-04-06T05:11:00+00:00,Poland,0.4057878669742258,2,1,pl,WCE,Europe
 '102f0c17ef',extremes,Storm,#b3b2b1,wmo,burza województwo lubelskie powiat łukowski,2026-04-06T05:11:00+00:00,Poland,0.401516777741359,2,1,pl,WCE,Europe
 '84febdd06c',extremes,Thunderstorm,#53785a,random,burza,2026-04-18T04:56:00+00:00,,0.4011683027368015,1,3,pl,,
+'775ed8712b',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo lubelskie powiat lubelski,2026-04-06T05:11:00+00:00,Poland,0.40007653096975293,2,1,pl,WCE,Europe
 '62084daeb0',extremes,Earthquake,#870007,random,trzęsienie ziemi,2026-04-11T04:34:00+00:00,,0.3967822185625926,1,3,pl,,
 '82d648b882',extremes,Drought,#edc291,random,susza,2026-04-24T05:21:00+00:00,,0.3949233056781246,1,2,pl,,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,lawina,2026-04-05T05:00:00+00:00,,0.3944061629059276,1,3,pl,,
@@ -180,6 +180,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,szarańcza,2026-04-06T05:11:00+00:00,,0.3341317863961516,1,1,pl,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,gwałtowny spadek temperatury,2026-04-18T04:56:00+00:00,,0.3301620347626461,1,1,pl,,
 'da1ae5191e',extremes,Storm,#b3b2b1,random,fala sztormowa,2026-04-05T05:00:00+00:00,,0.3300096789303587,1,1,pl,,
+'9f0423d739',extremes,Drought,#edc291,random,susza,2026-05-10T05:51:00+00:00,,0.3296983527317571,1,2,pl,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,cyklon,2026-05-03T05:43:00+00:00,,0.32935032236413,1,1,pl,,
 '5032c3d748',extremes,Wildfire,#d60d2b,wmo,pożar lasu,2026-04-06T05:11:00+00:00,China,0.3275548537619324,1,1,pl,EAS,Asia
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,trąba powietrzna,2026-04-30T05:45:00+00:00,,0.3262606031927741,1,1,pl,,
@@ -188,14 +189,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '59b529f428',extremes,Thunderstorm,#53785a,random,burza z gradem,2026-04-17T05:15:00+00:00,,0.3251297389530634,1,1,pl,,
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,kry,2026-05-07T05:46:00+00:00,,0.3245932702177177,1,2,pl,,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,intensywne opady,2026-04-28T05:44:00+00:00,,0.3183243546848264,1,2,pl,,
-'ed6998ea23',extremes,Tropical Cyclone,#4f4f4f,eonet,burza tropikalna hagupit,2026-05-07T05:46:00+00:00,,0.3183154273373211,0,1,pl,EPO,Pacific Ocean
-'d53ef05f64',extremes,Precipitation,#d60d2b,acwe,okres mokry w zachodniej Australii,2026-05-04T05:50:00+00:00,Australia,0.3179863264112316,0,1,pl,CAU,Oceania
-'ffcf460c48',extremes,Heat Wave,#c40202,acwe,fala upałów w Queensland,2026-05-04T05:50:00+00:00,Australia,0.3179722418644156,0,1,pl,CAU,Oceania
-'9f0423d739',extremes,Drought,#edc291,random,susza,2026-05-10T05:51:00+00:00,,0.3178850037485913,0,1,pl,,
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,zamieć śnieżna,2026-04-19T05:16:00+00:00,,0.3166044889859142,1,1,pl,,
 'f9a3abc8c2',extremes,Landslide,#572c03,random,błoto,2026-05-05T05:28:00+00:00,,0.3151588516244603,0,1,pl,,
 '152914913d',extremes,Heat Wave,#c40202,acwe,fala upałów w Tasmanii,2026-04-28T05:45:00+00:00,Australia,0.3147255271187567,0,1,pl,SAU,Oceania
-'940a9f74b0',extremes,Wildfire,#d60d2b,acwe,pożar buszu w Tasmanii,2026-04-29T05:41:00+00:00,Australia,0.314687066615574,0,1,pl,SAU,Oceania
 '0646039361',extremes,Drought,#edc291,acwe,brak deszczu w Tasmanii,2026-04-21T05:15:00+00:00,Australia,0.314628013585,0,1,pl,SAU,Oceania
 '3fa143a609',extremes,Storm,#b3b2b1,random,zamieć piaskowa,2026-04-19T05:16:00+00:00,,0.3144651054690082,0,1,pl,,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,lód morski Antarktyki,2026-05-04T05:49:00+00:00,,0.3144136829627095,1,1,pl,,
@@ -207,7 +203,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '44211c95de',extremes,Flood,#030ba1,wmo,powódź w Australii,2026-04-26T05:25:00+00:00,Australia,0.3129511824043872,0,1,pl,CAU,Oceania
 'f314bb7747',extremes,Flood,#030ba1,aidr,powódź opadowa w Australii,2026-04-29T05:40:00+00:00,Australia,0.3128902327855637,0,1,pl,EAU,Oceania
 '1a89155ed1',extremes,Drought,#edc291,edo,brak deszczu na Wyspach Świętego Tomasza i Książęcej,2026-04-22T05:13:00+00:00,Sao Tome and Principe,0.3128478544108936,0,1,pl,WAF,Africa
-'ec51ecb5d3',extremes,Flood,#030ba1,acwe,błyskawiczna powódź na Tasmanii,2026-05-05T05:29:00+00:00,Australia,0.3123754045642738,0,1,pl,SAU,Oceania
 '92035e2c20',extremes,Drought,#edc291,edo,okres suszy na Madagaskarze,2026-04-17T05:16:00+00:00,Madagascar,0.3120146162699184,0,1,pl,MDG,Africa
 'acd0e1409b',extremes,Flood,#030ba1,acwe,zalanie nowej południowej Walii,2026-05-05T05:29:00+00:00,Australia,0.3117812345544722,0,1,pl,EAU,Oceania
 'a5ff1cde4a',extremes,Drought,#edc291,random,wilgotność gleby,2026-04-13T05:27:00+00:00,,0.3117465486896926,0,1,pl,,
@@ -248,10 +243,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3b0e352b6e',extremes,Flood,#030ba1,wmo,"powódź w południowej australii, warburton",2026-04-13T05:28:00+00:00,Australia,0.3024445312560712,0,1,pl,CAU,Oceania
 'bee7cf7ad2',extremes,Snow&Ice,#d60d2b,wmo,lodowe Chile,2026-04-14T05:11:00+00:00,Chile,0.3024428148931546,0,1,pl,SWS,South-America
 '93134788d8',extremes,Tropical Cyclone,#4f4f4f,aidr,tajfun w Australii,2026-04-07T04:59:00+00:00,Australia,0.3024207932401105,0,1,pl,NAU,Oceania
-'f0a7622c15',extremes,Storm,#b3b2b1,wmo,burza Galapagos,2026-04-19T05:16:00+00:00,Ecuador,0.3023158095009969,0,1,pl,NWS,South-America
 'e72de5f83a',extremes,Landslide,#572c03,wmo,osuwisko miasto Shangrao,2026-04-05T05:01:00+00:00,China,0.3023010156996676,0,1,pl,EAS,Asia
 '31919931b3',extremes,Landslide,#572c03,wmo,osuwisko skalne w Chinach,2026-04-12T05:12:00+00:00,China,0.3022792192039521,0,1,pl,EAS,Asia
-'432bab655c',extremes,Wildfire,#d60d2b,eonet,pożar w stanach zjednoczonych,2026-04-07T04:58:00+00:00,United States,0.3022149193444295,0,1,pl,ENA,North-America
 'a57654f4ed',extremes,Earthquake,#870007,usgs,trzęsienie ziemi w zatoce królewskiej,2026-04-13T05:27:00+00:00,Alaska,0.3021571634737194,0,1,pl,NWN,North-America
 '9a93354f3b',extremes,Drought,#edc291,edo,okres suszy w Angoli,2026-04-05T05:01:00+00:00,Angola,0.3020126833960758,0,1,pl,WSAF,Africa
 '66dde132e2',extremes,Landslide,#572c03,wmo,lawina błotna w hrabstwie Xiajiang,2026-04-13T05:28:00+00:00,China,0.3019863758775408,0,1,pl,EAS,Asia
@@ -297,9 +290,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a66d6e96e1',extremes,Heat Wave,#c40202,acwe,ciepły okres w Australii,2026-05-04T05:50:00+00:00,Australia,0.2713702887782294,1,1,pl,CAU,Oceania
 '2595e5c49a',extremes,Flood,#030ba1,acwe,wysoki poziom wody w Australii,2026-05-04T05:50:00+00:00,Australia,0.2712012609768909,1,1,pl,CAU,Oceania
 '248cc444aa',extremes,Heat Wave,#c40202,acwe,łagodna zima w zachodniej Australii,2026-05-04T05:50:00+00:00,Australia,0.2711431259064057,1,1,pl,CAU,Oceania
+'ed6998ea23',extremes,Tropical Cyclone,#4f4f4f,eonet,burza tropikalna hagupit,2026-05-07T05:46:00+00:00,,0.2705681132367229,1,1,pl,EPO,Pacific Ocean
+'d53ef05f64',extremes,Precipitation,#d60d2b,acwe,okres mokry w zachodniej Australii,2026-05-04T05:50:00+00:00,Australia,0.27028837744954687,1,1,pl,CAU,Oceania
+'ffcf460c48',extremes,Heat Wave,#c40202,acwe,fala upałów w Queensland,2026-05-04T05:50:00+00:00,Australia,0.27027640558475324,1,1,pl,CAU,Oceania
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,pożar buszu,2026-04-18T04:56:00+00:00,,0.2695208262678216,1,1,pl,,
+'940a9f74b0',extremes,Wildfire,#d60d2b,acwe,pożar buszu w Tasmanii,2026-04-29T05:41:00+00:00,Australia,0.2674840066232379,1,1,pl,SAU,Oceania
 '8c548a735e',extremes,Tropical Cyclone,#4f4f4f,eonet,burza tropikalna sinlaku,2026-04-11T04:34:00+00:00,,0.2671098556787435,1,1,pl,NPO,Pacific Ocean
 'd5b4afae1b',extremes,Precipitation,#d60d2b,acwe,mokry okres w Tasmanii,2026-04-29T05:41:00+00:00,Australia,0.2667580811462497,1,1,pl,SAU,Oceania
+'ec51ecb5d3',extremes,Flood,#030ba1,acwe,błyskawiczna powódź na Tasmanii,2026-05-05T05:29:00+00:00,Australia,0.26551909387963274,1,1,pl,SAU,Oceania
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,powódź w Australii,2026-04-08T05:01:00+00:00,Australia,0.2654445105242989,1,1,pl,NAU,Oceania
 'bebba26d24',extremes,Unknown,#d60d2b,cmeter,nieznane Stany Zjednoczone,2026-04-19T05:17:00+00:00,United States,0.2634910616921617,1,1,pl,ENA,North-America
 'ab5d1234a0',extremes,Flood,#030ba1,aidr,powódź Hobart błyskawiczna powódź na Tasmanii 2018,2026-04-18T04:57:00+00:00,Australia,0.2634059264716479,1,1,pl,SAU,Oceania
@@ -369,6 +367,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c8be322002',extremes,Snow Avalanche,#deddd5,wmo,lawina Hallingdal,2026-04-10T05:13:00+00:00,Norway,0.2571047443686661,1,1,pl,NEU,Europe
 '38fb523e0e',extremes,Flood,#030ba1,wmo,powódź błyskawiczna w Botswanie,2026-04-15T05:12:00+00:00,Botswana,0.2570121920460917,1,1,pl,WSAF,Africa
 '298c01d6b6',extremes,Snow Avalanche,#deddd5,wmo,kamizelka lawinowa telemark,2026-04-11T04:34:00+00:00,Norway,0.2569717001253469,1,1,pl,NEU,Europe
+'f0a7622c15',extremes,Storm,#b3b2b1,wmo,burza Galapagos,2026-04-19T05:16:00+00:00,Ecuador,0.25696843807584735,1,1,pl,NWS,South-America
+'432bab655c',extremes,Wildfire,#d60d2b,eonet,pożar w stanach zjednoczonych,2026-04-07T04:58:00+00:00,United States,0.2568826814427651,1,1,pl,ENA,North-America
 '6b6e3b7c81',extremes,Wildfire,#d60d2b,wmo,pożar miasta Xuanwei,2026-04-09T04:58:00+00:00,China,0.2568590427877633,1,1,pl,EAS,Asia
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,lód Kanada,2026-04-08T05:01:00+00:00,Canada,0.2567984439350037,1,1,pl,NEN,North-America
 '9298e9b0d8',extremes,Precipitation,#d60d2b,wmo,ulewa w regionie miasta Nelson,2026-04-12T05:12:00+00:00,New Zealand,0.2567958257816018,1,1,pl,NZ,Oceania
