@@ -140,6 +140,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,ulewa,2026-04-13T05:27:00+00:00,,0.406693475866487,2,1,pl,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,rekordowo zimno,2026-04-07T04:58:00+00:00,,0.4066538006246762,2,2,pl,,
 '5ddf9d818d',extremes,Storm,#b3b2b1,wmo,burza województwo śląskie powiat katowicki,2026-04-26T05:25:00+00:00,Poland,0.4064277551582653,2,1,pl,WCE,Europe
+'20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-05-07T05:46:00+00:00,,0.4013632116091791,1,3,pl,,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,burza,2026-04-18T04:56:00+00:00,,0.4011683027368015,1,3,pl,,
 '62084daeb0',extremes,Earthquake,#870007,random,trzęsienie ziemi,2026-04-11T04:34:00+00:00,,0.3967822185625926,1,3,pl,,
 '82d648b882',extremes,Drought,#edc291,random,susza,2026-04-24T05:21:00+00:00,,0.3949233056781246,1,2,pl,,
@@ -175,7 +176,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f9a3abc8c2',extremes,Landslide,#572c03,random,błoto,2026-05-05T05:28:00+00:00,,0.3201352488807912,1,1,pl,,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,intensywne opady,2026-04-28T05:44:00+00:00,,0.3183243546848264,1,2,pl,,
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,zamieć śnieżna,2026-04-19T05:16:00+00:00,,0.3166044889859142,1,1,pl,,
-'152914913d',extremes,Heat Wave,#c40202,acwe,fala upałów w Tasmanii,2026-04-28T05:45:00+00:00,Australia,0.3147255271187567,0,1,pl,SAU,Oceania
 '0646039361',extremes,Drought,#edc291,acwe,brak deszczu w Tasmanii,2026-04-21T05:15:00+00:00,Australia,0.314628013585,0,1,pl,SAU,Oceania
 '3fa143a609',extremes,Storm,#b3b2b1,random,zamieć piaskowa,2026-04-19T05:16:00+00:00,,0.3144651054690082,0,1,pl,,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,lód morski Antarktyki,2026-05-04T05:49:00+00:00,,0.3144136829627095,1,1,pl,,
@@ -191,7 +191,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'acd0e1409b',extremes,Flood,#030ba1,acwe,zalanie nowej południowej Walii,2026-05-05T05:29:00+00:00,Australia,0.3117812345544722,0,1,pl,EAU,Oceania
 'a5ff1cde4a',extremes,Drought,#edc291,random,wilgotność gleby,2026-04-13T05:27:00+00:00,,0.3117465486896926,0,1,pl,,
 'f6774fb5b2',extremes,Drought,#edc291,acwe,brak deszczu Victorii,2026-05-04T05:50:00+00:00,Australia,0.3114947567363839,0,1,pl,SAU,Oceania
-'20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-05-07T05:46:00+00:00,,0.3112876526952909,0,1,pl,,
 '3894a694d1',extremes,Flood,#030ba1,aidr,gwałtowna powódź w Australii,2026-05-08T05:16:00+00:00,Australia,0.3106745082811578,0,1,pl,SAU,Oceania
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,zimny trzask,2026-04-27T05:39:00+00:00,,0.3101931620480774,1,1,pl,,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-04-07T04:58:00+00:00,,0.3088546559419947,1,1,pl,,
@@ -242,7 +241,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '66dde132e2',extremes,Landslide,#572c03,wmo,lawina błotna w hrabstwie Xiajiang,2026-04-13T05:28:00+00:00,China,0.3019863758775408,0,1,pl,EAS,Asia
 '24b660695f',extremes,Landslide,#572c03,wmo,lawina błotna w Chinach,2026-04-11T04:34:00+00:00,China,0.30196296131368,0,1,pl,EAS,Asia
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,powódź w Stanach Zjednoczonych,2026-04-09T04:58:00+00:00,United States,0.301935876142458,0,1,pl,CNA,North-America
-'aafce152ff',extremes,Storm,#b3b2b1,wmo,burza litoral y estibación de cordillera,2026-04-14T05:11:00+00:00,Ecuador,0.3018960059907544,0,1,pl,NWS,South-America
 '4eb2182ddc',extremes,Snow&Ice,#d60d2b,wmo,fort śnieżny Hope Lansdowne House Ogoki,2026-04-09T04:58:00+00:00,Canada,0.301837122026619,0,1,pl,NEN,North-America
 'abaa416f4d',extremes,Snow Avalanche,#deddd5,wmo,lawina salten,2026-04-11T04:34:00+00:00,Norway,0.3017804526787876,0,1,pl,NEU,Europe
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,góra lodowa Antarktyda,2026-04-23T05:16:00+00:00,,0.3017193410972955,1,1,pl,,
@@ -286,6 +284,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd53ef05f64',extremes,Precipitation,#d60d2b,acwe,okres mokry w zachodniej Australii,2026-05-04T05:50:00+00:00,Australia,0.2702883774495468,1,1,pl,CAU,Oceania
 'ffcf460c48',extremes,Heat Wave,#c40202,acwe,fala upałów w Queensland,2026-05-04T05:50:00+00:00,Australia,0.2702764055847532,1,1,pl,CAU,Oceania
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,pożar buszu,2026-04-18T04:56:00+00:00,,0.2695208262678216,1,1,pl,,
+'152914913d',extremes,Heat Wave,#c40202,acwe,fala upałów w Tasmanii,2026-04-28T05:45:00+00:00,Australia,0.2675166980509432,1,1,pl,SAU,Oceania
 '940a9f74b0',extremes,Wildfire,#d60d2b,acwe,pożar buszu w Tasmanii,2026-04-29T05:41:00+00:00,Australia,0.2674840066232379,1,1,pl,SAU,Oceania
 '8c548a735e',extremes,Tropical Cyclone,#4f4f4f,eonet,burza tropikalna sinlaku,2026-04-11T04:34:00+00:00,,0.2671098556787435,1,1,pl,NPO,Pacific Ocean
 'd5b4afae1b',extremes,Precipitation,#d60d2b,acwe,mokry okres w Tasmanii,2026-04-29T05:41:00+00:00,Australia,0.2667580811462497,1,1,pl,SAU,Oceania
@@ -363,6 +362,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '93312f4a33',extremes,Storm,#b3b2b1,wmo,fala sztormowa na Węgrzech,2026-04-17T05:16:00+00:00,Hungary,0.25676502936879,1,1,pl,WCE,Europe
 'fa06cd330a',extremes,Landslide,#572c03,wmo,osuwisko w Chinach,2026-04-13T05:28:00+00:00,China,0.2566662940696227,1,1,pl,EAS,Asia
 'a840b9c328',extremes,Snow&Ice,#d60d2b,wmo,śnieg w Nowej Zelandii,2026-04-19T05:16:00+00:00,New Zealand,0.2566159884185007,1,1,pl,NZ,Oceania
+'aafce152ff',extremes,Storm,#b3b2b1,wmo,burza litoral y estibación de cordillera,2026-04-14T05:11:00+00:00,Ecuador,0.2566116050921412,1,1,pl,NWS,South-America
 '1e31928c5b',extremes,Storm,#b3b2b1,wmo,fala sztormowa na północy,2026-04-11T04:34:00+00:00,New Zealand,0.2566033618490099,1,1,pl,NZ,Oceania
 '6d73764800',extremes,Earthquake,#870007,usgs,trzęsienie ziemi srebrne źródła,2026-04-14T05:10:00+00:00,United States,0.2565491652930308,1,1,pl,WNA,North-America
 '111942eccf',extremes,Storm,#b3b2b1,wmo,burza w Auckland,2026-04-10T05:13:00+00:00,New Zealand,0.2565310562440437,1,1,pl,NZ,Oceania
