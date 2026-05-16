@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'628c73fc75',extremes,Drought,#edc291,edo,susza w polsce,2026-05-05T05:29:00+00:00,Poland,0.6547205158654664,1,2,pl,WCE,Europe
 '9f56f3696e',extremes,Drought,#edc291,edo,okres suszy na Litwie,2026-04-27T05:40:00+00:00,Lithuania,0.5912723165189716,0,1,pl,WCE,Europe
-'fe93d58d94',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo podkarpackie powiat krośnieński,2026-05-16T05:40:00+00:00,Poland,0.5570898107259599,0,1,pl,WCE,Europe
+'628c73fc75',extremes,Drought,#edc291,edo,susza w polsce,2026-05-05T05:29:00+00:00,Poland,0.5599627834856464,2,2,pl,WCE,Europe
 'a22387ad2e',extremes,Precipitation,#d60d2b,wmo,deszczowa polska,2026-04-19T05:16:00+00:00,Poland,0.5241828453115663,2,2,pl,WCE,Europe
 '1d7f2a6b94',extremes,Precipitation,#d60d2b,wmo,opady województwo śląskie powiat żywiecki,2026-05-16T05:40:00+00:00,Poland,0.5208074666372617,0,1,pl,WCE,Europe
 '69288ebd4f',extremes,Precipitation,#d60d2b,wmo,ulewne deszcze polska,2026-05-12T05:52:00+00:00,Poland,0.5172748449915835,2,1,pl,WCE,Europe
@@ -28,6 +27,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5905e9f08d',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo mazowieckie powiat radomski,2026-04-26T05:25:00+00:00,Poland,0.4804227275684998,1,1,pl,WCE,Europe
 'c2a1de8dc8',extremes,Storm,#b3b2b1,wmo,burza Polska,2026-04-25T05:00:00+00:00,Poland,0.4794858686866671,3,2,pl,WCE,Europe
 '4c15cd9081',extremes,Storm,#b3b2b1,wmo,wezbranie sztormowe województwo małopolskie powiat tarnowski,2026-04-26T05:25:00+00:00,Poland,0.4770072865317451,1,1,pl,WCE,Europe
+'fe93d58d94',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo podkarpackie powiat krośnieński,2026-05-16T05:40:00+00:00,Poland,0.4735263391170659,1,1,pl,WCE,Europe
 '624bd2f0ee',extremes,Precipitation,#d60d2b,wmo,ulewne deszcze województwo łódzkie powiat łaski,2026-04-19T05:16:00+00:00,Poland,0.4723989551222537,1,1,pl,WCE,Europe
 'f3c258d60c',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo lubelskie powiat łęczyński,2026-05-07T05:46:00+00:00,Poland,0.4716607499735905,1,1,pl,WCE,Europe
 '15a9c61e3e',extremes,Landslide,#572c03,random,osuwisko,2026-04-20T05:26:00+00:00,,0.4665950743806126,1,2,pl,,
