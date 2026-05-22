@@ -229,7 +229,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fe732a9082',extremes,Storm,#b3b2b1,wmo,burza województwo śląskie powiat chorzowski,2026-05-11T06:14:00+00:00,Poland,0.3535285822945661,3,1,pl,WCE,Europe
 '489d1a30e1',extremes,Drought,#edc291,edo,susza na Ukrainie,2026-05-08T05:16:00+00:00,Ukraine,0.3530728041284895,1,1,pl,WCE,Europe
 '8612e7b92c',extremes,Thunderstorm,#53785a,wmo,grad województwo małopolskie powiat olkuski,2026-05-11T06:14:00+00:00,Poland,0.3502534512535202,2,1,pl,WCE,Europe
-'845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-05-19T06:33:00+00:00,,0.3490130860454594,0,1,pl,,
 '4354f5c317',extremes,Thunderstorm,#53785a,wmo,grad województwo śląskie powiat lubliniecki,2026-05-11T06:14:00+00:00,Poland,0.3462857406826801,2,1,pl,WCE,Europe
 '510ed94b67',extremes,Storm,#b3b2b1,wmo,burza województwo podkarpackie powiat leski,2026-05-12T05:52:00+00:00,Poland,0.3459990946200212,3,1,pl,WCE,Europe
 'ed634eb568',extremes,Thunderstorm,#53785a,wmo,burza województwo łódzkie powiat wieluński,2026-05-11T06:14:00+00:00,Poland,0.3455005493713934,2,1,pl,WCE,Europe
@@ -300,6 +299,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,kopuła cieplna,2026-05-16T05:40:00+00:00,,0.3137155548125164,1,1,pl,,
 '6389edd212',extremes,Thunderstorm,#53785a,wmo,burza z piorunami województwo podkarpackie powiat leski,2026-05-07T05:46:00+00:00,Poland,0.3134645174025762,3,1,pl,WCE,Europe
 '3e4b341619',extremes,Storm,#b3b2b1,random,burza,2026-05-20T06:32:00+00:00,,0.312194272952203,0,1,pl,,
+'845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-05-19T06:33:00+00:00,,0.3119476517750041,1,1,pl,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,zimny trzask,2026-04-27T05:39:00+00:00,,0.3101931620480774,1,1,pl,,
 '3296e9a239',extremes,Flood,#030ba1,aidr,ulewny deszcz w Australii,2026-05-17T06:01:00+00:00,Australia,0.3094945512159481,0,1,pl,SAU,Oceania
 '969dbf1866',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz w Afryce Południowej,2026-05-09T05:36:00+00:00,South Africa,0.308563372010795,0,1,pl,WSAF,Africa
