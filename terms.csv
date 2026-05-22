@@ -1,4 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'a22387ad2e',extremes,Precipitation,#d60d2b,wmo,deszczowa polska,2026-05-12T05:52:00+00:00,Poland,0.595259685315707,0,1,pl,WCE,Europe
+'6c11585835',extremes,Drought,#edc291,edo,susza na Litwie,2026-05-07T05:46:00+00:00,Lithuania,0.561006251115265,0,1,pl,WCE,Europe
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,szarańcza,2026-05-17T06:01:00+00:00,,0.5118564918798935,2,2,pl,,
 '3fe481b522',extremes,Storm,#b3b2b1,wmo,fala sztormowa w środkowej strefie przybrzeżnej,2026-04-17T05:16:00+00:00,Poland,0.4974606164407086,1,1,pl,WCE,Europe
 '6e288119bc',extremes,Precipitation,#d60d2b,wmo,opady w polsce,2026-05-12T05:52:00+00:00,Poland,0.4892885947725777,2,3,pl,WCE,Europe
@@ -183,7 +185,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4abecd55e4',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo wielkopolskie powiat koniński,2026-05-14T06:02:00+00:00,Poland,0.3753847714171462,2,1,pl,WCE,Europe
 'eeb879efc0',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo lubelskie powiat opolski,2026-05-18T06:38:00+00:00,Poland,0.3753808201893214,1,1,pl,WCE,Europe
 '76baa59529',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo lubelskie powiat radzyński,2026-05-12T05:52:00+00:00,Poland,0.3753790161304036,1,1,pl,WCE,Europe
-'e8f35ea4ae',extremes,Thunderstorm,#53785a,wmo,grad województwo pomorskie powiat malborski,2026-05-21T06:35:00+00:00,Poland,0.37498853495145446,1,1,pl,WCE,Europe
+'e8f35ea4ae',extremes,Thunderstorm,#53785a,wmo,grad województwo pomorskie powiat malborski,2026-05-21T06:35:00+00:00,Poland,0.3749885349514544,1,1,pl,WCE,Europe
 '69288ebd4f',extremes,Precipitation,#d60d2b,wmo,ulewne deszcze polska,2026-05-12T05:52:00+00:00,Poland,0.374841186506419,4,1,pl,WCE,Europe
 '4d9b9cdb4d',extremes,Thunderstorm,#53785a,wmo,grad województwo pomorskie powiat tczewski,2026-05-14T06:02:00+00:00,Poland,0.3747210618231631,1,1,pl,WCE,Europe
 'a746af6fa3',extremes,Thunderstorm,#53785a,wmo,burza województwo mazowieckie powiat miński,2026-05-18T06:38:00+00:00,Poland,0.3745085839978454,1,1,pl,WCE,Europe
@@ -319,6 +321,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5a404b2b5a',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz Tanzania,2026-05-01T05:54:00+00:00,Tanzania,0.3074864825820533,0,1,pl,SEAF,Africa
 '23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,ulewa tanzania,2026-05-07T05:46:00+00:00,Tanzania,0.3074546462362887,0,1,pl,SEAF,Africa
 '4844b80c63',extremes,Precipitation,#d60d2b,wmo,deszcz Buller District,2026-05-08T05:16:00+00:00,New Zealand,0.3073587133009319,0,1,pl,NZ,Oceania
+'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,lód w Argentynie,2026-05-04T05:50:00+00:00,Argentina,0.3073318075650983,0,1,pl,SES,South-America
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,opady w nowej zelandii,2026-05-06T05:43:00+00:00,New Zealand,0.3072986177183093,0,1,pl,NZ,Oceania
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz w Nowej Zelandii,2026-05-06T05:43:00+00:00,New Zealand,0.3072516510598797,0,1,pl,NZ,Oceania
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,deszcz w Ekwadorze,2026-05-18T06:38:00+00:00,Ecuador,0.3072401619742098,0,1,pl,NWS,South-America
@@ -326,6 +329,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b2edd21efd',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz w dystrykcie Westland,2026-05-06T05:43:00+00:00,New Zealand,0.3071627076656484,0,1,pl,NZ,Oceania
 '2f7fa1d528',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz region amazónica,2026-05-04T05:50:00+00:00,Ecuador,0.3070372550129375,0,1,pl,NWS,South-America
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,burza z piorunami w Afryce Południowej,2026-05-06T05:43:00+00:00,South Africa,0.3069985065275658,0,1,pl,WSAF,Africa
+'f94bed33ad',extremes,Precipitation,#d60d2b,wmo,ulewa fiordland na północ od wątpliwego dźwięku,2026-05-05T05:29:00+00:00,New Zealand,0.30678478795069103,0,1,pl,NZ,Oceania
+'dc2f58f7da',extremes,Precipitation,#d60d2b,wmo,opady w Tajlandii,2026-05-09T05:36:00+00:00,Thailand,0.30658768401297887,0,1,pl,SEA,Asia
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,deszcz Argentyna,2026-04-28T05:45:00+00:00,Argentina,0.30650968213525,0,1,pl,SES,South-America
 'f1d3442696',extremes,Drought,#edc291,edo,susza na Ukrainie,2026-04-27T05:40:00+00:00,Ukraine,0.306345296585352,1,1,pl,WCE,Europe
 '1c38b19449',extremes,Storm,#b3b2b1,random,miski kurzu,2026-04-18T04:56:00+00:00,,0.3029201650395653,1,1,pl,,
