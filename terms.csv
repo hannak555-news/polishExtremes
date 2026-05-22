@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'a22387ad2e',extremes,Precipitation,#d60d2b,wmo,deszczowa polska,2026-05-12T05:52:00+00:00,Poland,0.595259685315707,0,1,pl,WCE,Europe
-'6c11585835',extremes,Drought,#edc291,edo,susza na Litwie,2026-05-07T05:46:00+00:00,Lithuania,0.561006251115265,0,1,pl,WCE,Europe
+'a22387ad2e',extremes,Precipitation,#d60d2b,wmo,deszczowa polska,2026-05-12T05:52:00+00:00,Poland,0.606420777518351,1,2,pl,WCE,Europe
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,szarańcza,2026-05-17T06:01:00+00:00,,0.5118564918798935,2,2,pl,,
 '3fe481b522',extremes,Storm,#b3b2b1,wmo,fala sztormowa w środkowej strefie przybrzeżnej,2026-04-17T05:16:00+00:00,Poland,0.4974606164407086,1,1,pl,WCE,Europe
 '6e288119bc',extremes,Precipitation,#d60d2b,wmo,opady w polsce,2026-05-12T05:52:00+00:00,Poland,0.4892885947725777,2,3,pl,WCE,Europe
@@ -8,6 +7,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6fbebc79f4',extremes,Storm,#b3b2b1,wmo,wezbranie sztormowe województwo łódzkie powiat tomaszowski,2026-04-26T05:25:00+00:00,Poland,0.4807580658662529,1,1,pl,WCE,Europe
 '2689ec9210',extremes,Storm,#b3b2b1,wmo,burza województwo podlaskie powiat moniecki,2026-05-19T06:33:00+00:00,Poland,0.4805957538783314,1,1,pl,WCE,Europe
 '628c73fc75',extremes,Drought,#edc291,edo,susza w polsce,2026-05-05T05:29:00+00:00,Poland,0.4794187109627995,3,2,pl,WCE,Europe
+'6c11585835',extremes,Drought,#edc291,edo,susza na Litwie,2026-05-07T05:46:00+00:00,Lithuania,0.47685531344797527,1,1,pl,WCE,Europe
 'c2a1de8dc8',extremes,Storm,#b3b2b1,wmo,burza Polska,2026-04-25T05:00:00+00:00,Poland,0.4761499820200306,4,2,pl,WCE,Europe
 '624bd2f0ee',extremes,Precipitation,#d60d2b,wmo,ulewne deszcze województwo łódzkie powiat łaski,2026-04-19T05:16:00+00:00,Poland,0.4723989551222537,1,1,pl,WCE,Europe
 'f3c258d60c',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo lubelskie powiat łęczyński,2026-05-07T05:46:00+00:00,Poland,0.4716607499735905,1,1,pl,WCE,Europe
@@ -329,8 +329,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b2edd21efd',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz w dystrykcie Westland,2026-05-06T05:43:00+00:00,New Zealand,0.3071627076656484,0,1,pl,NZ,Oceania
 '2f7fa1d528',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz region amazónica,2026-05-04T05:50:00+00:00,Ecuador,0.3070372550129375,0,1,pl,NWS,South-America
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,burza z piorunami w Afryce Południowej,2026-05-06T05:43:00+00:00,South Africa,0.3069985065275658,0,1,pl,WSAF,Africa
-'f94bed33ad',extremes,Precipitation,#d60d2b,wmo,ulewa fiordland na północ od wątpliwego dźwięku,2026-05-05T05:29:00+00:00,New Zealand,0.30678478795069103,0,1,pl,NZ,Oceania
-'dc2f58f7da',extremes,Precipitation,#d60d2b,wmo,opady w Tajlandii,2026-05-09T05:36:00+00:00,Thailand,0.30658768401297887,0,1,pl,SEA,Asia
+'f94bed33ad',extremes,Precipitation,#d60d2b,wmo,ulewa fiordland na północ od wątpliwego dźwięku,2026-05-05T05:29:00+00:00,New Zealand,0.306784787950691,0,1,pl,NZ,Oceania
+'dc2f58f7da',extremes,Precipitation,#d60d2b,wmo,opady w Tajlandii,2026-05-09T05:36:00+00:00,Thailand,0.3065876840129788,0,1,pl,SEA,Asia
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,deszcz Argentyna,2026-04-28T05:45:00+00:00,Argentina,0.30650968213525,0,1,pl,SES,South-America
 'f1d3442696',extremes,Drought,#edc291,edo,susza na Ukrainie,2026-04-27T05:40:00+00:00,Ukraine,0.306345296585352,1,1,pl,WCE,Europe
 '1c38b19449',extremes,Storm,#b3b2b1,random,miski kurzu,2026-04-18T04:56:00+00:00,,0.3029201650395653,1,1,pl,,
