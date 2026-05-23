@@ -55,6 +55,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '278c0845bf',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo podkarpackie powiat leski,2026-05-06T05:43:00+00:00,Poland,0.4231871004733405,2,1,pl,WCE,Europe
 'ec9781b6b1',extremes,Precipitation,#d60d2b,wmo,ulewa województwo łódzkie powiat piotrkowski,2026-04-20T05:27:00+00:00,Poland,0.4229332856656788,2,1,pl,WCE,Europe
 '826536d968',extremes,Storm,#b3b2b1,wmo,wezbranie sztormowe województwo łódzkie powiat łęczycki,2026-05-14T06:02:00+00:00,Poland,0.4220678379077208,2,1,pl,WCE,Europe
+'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,powódź,2026-05-19T06:33:00+00:00,,0.41950816249714373,1,2,pl,,
 'bb91f3a914',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo śląskie powiat katowicki,2026-05-15T06:09:00+00:00,Poland,0.4194842310198378,2,1,pl,WCE,Europe
 '14cefd6764',extremes,Storm,#b3b2b1,wmo,burza województwo łódzkie powiat zgierski,2026-05-11T06:14:00+00:00,Poland,0.4189431790462023,2,1,pl,WCE,Europe
 'e8e6fb4218',extremes,Precipitation,#d60d2b,wmo,ulewa województwo wielkopolskie powiat koniński,2026-04-20T05:27:00+00:00,Poland,0.4186998104901588,2,1,pl,WCE,Europe
@@ -296,7 +297,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,intensywne opady,2026-04-28T05:44:00+00:00,,0.3183243546848264,1,2,pl,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,zimna fala,2026-05-07T05:46:00+00:00,,0.3169644387870596,0,1,pl,,
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,zamieć śnieżna,2026-04-19T05:16:00+00:00,,0.3166044889859142,1,1,pl,,
-'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,powódź,2026-05-19T06:33:00+00:00,,0.3163624735260514,0,1,pl,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,góra lodowa arctis,2026-05-13T06:02:00+00:00,,0.3159476730973257,0,1,pl,,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,lód morski Antarktyki,2026-05-04T05:49:00+00:00,,0.3144136829627095,1,1,pl,,
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,powódź w Australii,2026-05-01T05:55:00+00:00,Australia,0.3143482050589688,0,1,pl,SAU,Oceania
@@ -304,8 +304,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6389edd212',extremes,Thunderstorm,#53785a,wmo,burza z piorunami województwo podkarpackie powiat leski,2026-05-07T05:46:00+00:00,Poland,0.3134645174025762,3,1,pl,WCE,Europe
 '3e4b341619',extremes,Storm,#b3b2b1,random,burza,2026-05-20T06:32:00+00:00,,0.312194272952203,0,1,pl,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-05-19T06:33:00+00:00,,0.3119476517750041,1,1,pl,,
-'4d446959e2',extremes,Drought,#edc291,edo,susza w Estonii,2026-05-04T05:50:00+00:00,Estonia,0.31156645575814873,0,1,pl,NEU,Europe
-'96f0408faf',extremes,Drought,#edc291,edo,susza na Łotwie,2026-05-04T05:50:00+00:00,Latvia,0.31081897383572543,0,1,pl,WCE,Europe
+'4d446959e2',extremes,Drought,#edc291,edo,susza w Estonii,2026-05-04T05:50:00+00:00,Estonia,0.3115664557581487,0,1,pl,NEU,Europe
+'96f0408faf',extremes,Drought,#edc291,edo,susza na Łotwie,2026-05-04T05:50:00+00:00,Latvia,0.3108189738357254,0,1,pl,WCE,Europe
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,zimny trzask,2026-04-27T05:39:00+00:00,,0.3101931620480774,1,1,pl,,
 '3296e9a239',extremes,Flood,#030ba1,aidr,ulewny deszcz w Australii,2026-05-17T06:01:00+00:00,Australia,0.3094945512159481,0,1,pl,SAU,Oceania
 '969dbf1866',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz w Afryce Południowej,2026-05-09T05:36:00+00:00,South Africa,0.308563372010795,0,1,pl,WSAF,Africa
@@ -323,7 +323,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1d029532ac',extremes,Snow&Ice,#d60d2b,wmo,mróz w Afryce Południowej,2026-05-06T05:43:00+00:00,South Africa,0.3075165279877251,0,1,pl,WSAF,Africa
 '5a404b2b5a',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz Tanzania,2026-05-01T05:54:00+00:00,Tanzania,0.3074864825820533,0,1,pl,SEAF,Africa
 '23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,ulewa tanzania,2026-05-07T05:46:00+00:00,Tanzania,0.3074546462362887,0,1,pl,SEAF,Africa
-'3f340afd02',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz Ekwador,2026-05-23T05:53:00+00:00,Ecuador,0.30740102528815866,0,1,pl,NWS,South-America
+'3f340afd02',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz Ekwador,2026-05-23T05:53:00+00:00,Ecuador,0.3074010252881586,0,1,pl,NWS,South-America
 '4844b80c63',extremes,Precipitation,#d60d2b,wmo,deszcz Buller District,2026-05-08T05:16:00+00:00,New Zealand,0.3073587133009319,0,1,pl,NZ,Oceania
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,lód w Argentynie,2026-05-04T05:50:00+00:00,Argentina,0.3073318075650983,0,1,pl,SES,South-America
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,opady w nowej zelandii,2026-05-06T05:43:00+00:00,New Zealand,0.3072986177183093,0,1,pl,NZ,Oceania
@@ -343,7 +343,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dc85d12fc4',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz Czarnogóra,2026-05-16T05:40:00+00:00,Montenegro,0.3057886096403002,0,1,pl,MED,Europe
 '5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,lawina w Rosji,2026-05-16T05:40:00+00:00,Russia,0.3057063186238186,0,1,pl,ESB,Europe
 '7ef3a20daf',extremes,Storm,#b3b2b1,wmo,fala sztormowa galapagos,2026-04-17T05:16:00+00:00,Ecuador,0.3028155901980441,0,1,pl,NWS,South-America
-'a95a8736e1',extremes,Thunderstorm,#53785a,wmo,grad Jordan,2026-04-17T05:16:00+00:00,Jordan,0.3024978678352998,0,1,pl,MED,Asia
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,góra lodowa Antarktyda,2026-04-23T05:16:00+00:00,,0.3017193410972955,1,1,pl,,
 'ccefefc59e',extremes,Drought,#edc291,random,błyskawiczna susza,2026-05-02T05:23:00+00:00,,0.3013586139733563,1,1,pl,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,zamieć,2026-04-22T05:13:00+00:00,,0.3000963145700744,1,1,pl,,
