@@ -114,6 +114,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9737717f4f',extremes,Precipitation,#d60d2b,wmo,deszczowe województwo lubuskie powiat nowosolski,2026-04-20T05:27:00+00:00,Poland,0.3997694642518172,2,1,pl,WCE,Europe
 'b132015d67',extremes,Storm,#b3b2b1,wmo,wezbranie sztormowe województwo śląskie powiat rybnicki,2026-05-12T05:52:00+00:00,Poland,0.3995477987705849,2,1,pl,WCE,Europe
 'ce82cacf3c',extremes,Storm,#b3b2b1,wmo,wezbranie sztormowe województwo mazowieckie powiat płoński,2026-05-11T06:14:00+00:00,Poland,0.3992325725350903,2,1,pl,WCE,Europe
+'40f675561f',extremes,Heat Wave,#c40202,random,najgorętsze lato,2026-05-22T06:31:00+00:00,,0.3989403773377403,0,1,pl,,
 '147876226f',extremes,Thunderstorm,#53785a,wmo,ciężka pogoda w polsce,2026-05-07T05:46:00+00:00,Poland,0.3985058214000734,2,1,pl,WCE,Europe
 'd0bd3f2033',extremes,Precipitation,#d60d2b,wmo,opady województwo łódzkie powiat wieluński,2026-04-19T05:16:00+00:00,Poland,0.3981843744046826,2,1,pl,WCE,Europe
 'feffdb8947',extremes,Storm,#b3b2b1,wmo,burza województwo pomorskie powiat kartuski,2026-05-14T06:02:00+00:00,Poland,0.3969031848040712,2,1,pl,WCE,Europe
@@ -330,9 +331,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2f7fa1d528',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz region amazónica,2026-05-04T05:50:00+00:00,Ecuador,0.3070372550129375,0,1,pl,NWS,South-America
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,burza z piorunami w Afryce Południowej,2026-05-06T05:43:00+00:00,South Africa,0.3069985065275658,0,1,pl,WSAF,Africa
 'f94bed33ad',extremes,Precipitation,#d60d2b,wmo,ulewa fiordland na północ od wątpliwego dźwięku,2026-05-05T05:29:00+00:00,New Zealand,0.306784787950691,0,1,pl,NZ,Oceania
+'983c5f75d7',extremes,Precipitation,#d60d2b,wmo,deszcz bechar,2026-05-10T05:51:00+00:00,Algeria,0.3066587830791596,0,1,pl,SAH,Africa
 'dc2f58f7da',extremes,Precipitation,#d60d2b,wmo,opady w Tajlandii,2026-05-09T05:36:00+00:00,Thailand,0.3065876840129788,0,1,pl,SEA,Asia
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,deszcz Argentyna,2026-04-28T05:45:00+00:00,Argentina,0.30650968213525,0,1,pl,SES,South-America
 'f1d3442696',extremes,Drought,#edc291,edo,susza na Ukrainie,2026-04-27T05:40:00+00:00,Ukraine,0.306345296585352,1,1,pl,WCE,Europe
+'41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,marznąca Brazylia,2026-05-11T06:14:00+00:00,Brazil,0.30614702790141163,0,1,pl,SAM,South-America
+'7fced7e700',extremes,Precipitation,#d60d2b,wmo,ulewa luksemburg,2026-05-10T05:51:00+00:00,Luxembourg,0.30590619678526604,0,1,pl,WCE,Europe
+'dc85d12fc4',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz Czarnogóra,2026-05-16T05:40:00+00:00,Montenegro,0.3057886096403002,0,1,pl,MED,Europe
+'5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,lawina w Rosji,2026-05-16T05:40:00+00:00,Russia,0.30570631862381864,0,1,pl,ESB,Europe
 '1c38b19449',extremes,Storm,#b3b2b1,random,miski kurzu,2026-04-18T04:56:00+00:00,,0.3029201650395653,1,1,pl,,
 '7ef3a20daf',extremes,Storm,#b3b2b1,wmo,fala sztormowa galapagos,2026-04-17T05:16:00+00:00,Ecuador,0.3028155901980441,0,1,pl,NWS,South-America
 'a95a8736e1',extremes,Thunderstorm,#53785a,wmo,grad Jordan,2026-04-17T05:16:00+00:00,Jordan,0.3024978678352998,0,1,pl,MED,Asia
