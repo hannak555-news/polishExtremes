@@ -1,6 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'db201ef51e',extremes,Heat Wave,#c40202,wmo,fala upałów w polsce,2026-05-26T06:31:00+00:00,Poland,0.5604295106813235,3,2,pl,WCE,Europe
-'6e288119bc',extremes,Precipitation,#d60d2b,wmo,opady w polsce,2026-05-12T05:52:00+00:00,Poland,0.5469588283023858,7,3,pl,WCE,Europe
+'6e288119bc',extremes,Precipitation,#d60d2b,wmo,opady w polsce,2026-05-12T05:52:00+00:00,Poland,0.5198662490570279,8,3,pl,WCE,Europe
 '2206074bfa',extremes,Precipitation,#d60d2b,wmo,ulewa polska,2026-05-12T05:52:00+00:00,Poland,0.5071401744030148,1,1,pl,WCE,Europe
 '628bf5d4cb',extremes,Storm,#b3b2b1,wmo,sztorm w środkowej strefie przybrzeżnej,2026-05-27T06:46:00+00:00,Poland,0.4990693586138544,1,1,pl,WCE,Europe
 'ed4dbfb27b',extremes,Heat Wave,#c40202,wmo,fala upałów województwo lubuskie powiat żagański,2026-05-26T06:31:00+00:00,Poland,0.4857446127507347,2,1,pl,WCE,Europe
@@ -151,7 +151,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tajfun,2026-05-03T05:43:00+00:00,,0.3604668588202758,1,1,pl,,
 '1f96d30a0c',extremes,Precipitation,#d60d2b,wmo,ulewa województwo śląskie powiat żywiecki,2026-05-12T05:52:00+00:00,Poland,0.3601481232024395,1,1,pl,WCE,Europe
 '394ffc0042',extremes,Precipitation,#d60d2b,wmo,deszcz ulewny województwo śląskie powiat cieszyński,2026-05-16T05:40:00+00:00,Poland,0.3600307372220716,2,1,pl,WCE,Europe
-'cb43c2bb0b',extremes,Heat Wave,#c40202,random,najgorętszy rok,2026-05-14T06:02:00+00:00,,0.3591828459661224,0,1,pl,,
 '9dfaef7c26',extremes,Thunderstorm,#53785a,wmo,burza województwo lubelskie powiat zamojski,2026-05-15T06:09:00+00:00,Poland,0.3587789141356278,2,1,pl,WCE,Europe
 'aa2e706f42',extremes,Thunderstorm,#53785a,wmo,grad województwo lubelskie powiat lubelski,2026-05-07T05:46:00+00:00,Poland,0.3583824445109445,2,1,pl,WCE,Europe
 'df6261fa7e',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo małopolskie powiat tarnowski,2026-05-07T05:46:00+00:00,Poland,0.3583711749128476,2,1,pl,WCE,Europe
@@ -312,6 +311,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dc85d12fc4',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz Czarnogóra,2026-05-16T05:40:00+00:00,Montenegro,0.3057886096403002,0,1,pl,MED,Europe
 'ce4931e51e',extremes,Flood,#030ba1,wmo,powódź błyskawiczna w południowej Australii Cooper Creek,2026-05-23T05:53:00+00:00,Australia,0.3053434298198413,0,1,pl,CAU,Oceania
 '2fb9bcabc4',extremes,Drought,#edc291,edo,susza w Estonii,2026-05-17T06:01:00+00:00,Estonia,0.3053107229079144,0,1,pl,NEU,Europe
+'cb43c2bb0b',extremes,Heat Wave,#c40202,random,najgorętszy rok,2026-05-14T06:02:00+00:00,,0.305305419071204,1,1,pl,,
 '907a393546',extremes,Precipitation,#d60d2b,wmo,ulewa naujaat,2026-05-24T06:22:00+00:00,Canada,0.3051208638353802,0,1,pl,NEN,North-America
 'e8573dc87f',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie puvirnituq inukjuak,2026-05-17T06:01:00+00:00,Canada,0.3049871745886765,0,1,pl,NEN,North-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,burza w Ekwadorze,2026-05-18T06:38:00+00:00,Ecuador,0.3049372346307525,0,1,pl,NWS,South-America
@@ -380,7 +380,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,opady tanzania,2026-04-27T05:40:00+00:00,Tanzania,0.2605737003536598,1,1,pl,SEAF,Africa
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,deszcz Argentyna,2026-04-28T05:45:00+00:00,Argentina,0.2605332298149624,1,1,pl,SES,South-America
 'e4d5bf1603',extremes,Drought,#edc291,edo,susza na Węgrzech,2026-05-06T05:43:00+00:00,Hungary,0.2596335142812708,1,1,pl,WCE,Europe
-'01b678efbf',extremes,Heat Wave,#c40202,wmo,fala upałów reg. 3 prekorillery,2026-05-09T05:36:00+00:00,Chile,0.25952700153135916,1,1,pl,SWS,South-America
+'01b678efbf',extremes,Heat Wave,#c40202,wmo,fala upałów reg. 3 prekorillery,2026-05-09T05:36:00+00:00,Chile,0.2595270015313591,1,1,pl,SWS,South-America
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,opady w Kanadzie,2026-05-19T06:33:00+00:00,Canada,0.2593667947842379,1,1,pl,NEN,North-America
 'd61de81685',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Chile,2026-05-05T05:29:00+00:00,Chile,0.258972062351317,1,1,pl,SWS,South-America
 'c948617fef',extremes,Heat Wave,#c40202,random,ekstremalne narażenie na ciepło,2026-05-02T05:23:00+00:00,,0.2522716383423901,2,1,pl,,
