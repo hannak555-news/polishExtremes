@@ -1,5 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'c2a1de8dc8',extremes,Storm,#b3b2b1,wmo,burza Polska,2026-05-15T06:09:00+00:00,Poland,0.6307081260636739,1,2,pl,WCE,Europe
+'91a5e43886',extremes,Thunderstorm,#53785a,wmo,burza województwo małopolskie powiat olkuski,2026-06-01T07:30:00+00:00,Poland,0.6261165186354588,0,1,pl,WCE,Europe
+'dce756fefb',extremes,Thunderstorm,#53785a,wmo,grad województwo śląskie powiat bytomski,2026-06-01T07:30:00+00:00,Poland,0.6215043491178782,0,1,pl,WCE,Europe
+'fe9f06f03f',extremes,Storm,#b3b2b1,wmo,burza województwo lubelskie powiat kraśnicki,2026-06-01T07:30:00+00:00,Poland,0.6173303192267845,0,1,pl,WCE,Europe
+'94cb9eca4c',extremes,Storm,#b3b2b1,wmo,burza województwo łódzkie powiat pabianicki,2026-06-01T07:30:00+00:00,Poland,0.6158397011684055,0,1,pl,WCE,Europe
 '9b59bee21e',extremes,Drought,#edc291,edo,okres suszy w polsce,2026-05-22T06:32:00+00:00,Poland,0.574735185432972,4,1,pl,WCE,Europe
 '3292e576a4',extremes,Storm,#b3b2b1,wmo,sztorm na wschodniej strefie przybrzeżnej,2026-05-20T06:33:00+00:00,Poland,0.5727928533000273,0,1,pl,WCE,Europe
 '1af313a328',extremes,Thunderstorm,#53785a,wmo,witaj polsko,2026-05-07T05:46:00+00:00,Poland,0.5354457709860576,3,2,pl,WCE,Europe
@@ -52,7 +56,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,powódź,2026-05-19T06:33:00+00:00,,0.4195081624971437,1,2,pl,,
 'bb91f3a914',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo śląskie powiat katowicki,2026-05-15T06:09:00+00:00,Poland,0.4194842310198378,2,1,pl,WCE,Europe
 '14cefd6764',extremes,Storm,#b3b2b1,wmo,burza województwo łódzkie powiat zgierski,2026-05-11T06:14:00+00:00,Poland,0.4189431790462023,2,1,pl,WCE,Europe
-'c7404ffe12',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo lubuskie powiat gorzowski,2026-05-30T06:01:00+00:00,Poland,0.41893002678353447,1,1,pl,WCE,Europe
+'c7404ffe12',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo lubuskie powiat gorzowski,2026-05-30T06:01:00+00:00,Poland,0.4189300267835344,1,1,pl,WCE,Europe
 '76b962edf0',extremes,Thunderstorm,#53785a,wmo,burza województwo łódzkie powiat kutnowski,2026-05-15T06:09:00+00:00,Poland,0.417603695660718,2,1,pl,WCE,Europe
 '1132e38d50',extremes,Storm,#b3b2b1,wmo,burza województwo małopolskie powiat olkuski,2026-05-07T05:46:00+00:00,Poland,0.4169649887689171,2,1,pl,WCE,Europe
 '59b529f428',extremes,Thunderstorm,#53785a,random,burza z gradem,2026-05-07T05:46:00+00:00,,0.4161996712545736,2,1,pl,,
