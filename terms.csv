@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c2a1de8dc8',extremes,Storm,#b3b2b1,wmo,burza Polska,2026-05-15T06:09:00+00:00,Poland,0.6307081260636739,1,2,pl,WCE,Europe
+'c2a1de8dc8',extremes,Storm,#b3b2b1,wmo,burza Polska,2026-05-15T06:09:00+00:00,Poland,0.6683254594268501,2,3,pl,WCE,Europe
 '9b59bee21e',extremes,Drought,#edc291,edo,okres suszy w polsce,2026-05-22T06:32:00+00:00,Poland,0.574735185432972,4,1,pl,WCE,Europe
 '1af313a328',extremes,Thunderstorm,#53785a,wmo,witaj polsko,2026-05-07T05:46:00+00:00,Poland,0.5354457709860576,3,2,pl,WCE,Europe
 '91a5e43886',extremes,Thunderstorm,#53785a,wmo,burza województwo małopolskie powiat olkuski,2026-06-01T07:30:00+00:00,Poland,0.53219904084014,1,1,pl,WCE,Europe
@@ -10,7 +10,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '97a72617a4',extremes,Thunderstorm,#53785a,wmo,burza województwo śląskie powiat będziński,2026-05-30T06:01:00+00:00,Poland,0.5082521439138137,1,1,pl,WCE,Europe
 '2206074bfa',extremes,Precipitation,#d60d2b,wmo,ulewa polska,2026-05-12T05:52:00+00:00,Poland,0.5071401744030148,1,1,pl,WCE,Europe
 '1d9c104bbb',extremes,Storm,#b3b2b1,wmo,burza na Litwie,2026-04-26T05:25:00+00:00,Lithuania,0.5050524122853918,4,2,pl,WCE,Europe
-'3292e576a4',extremes,Storm,#b3b2b1,wmo,sztorm na wschodniej strefie przybrzeżnej,2026-05-20T06:33:00+00:00,Poland,0.48687392530502316,1,1,pl,WCE,Europe
+'3292e576a4',extremes,Storm,#b3b2b1,wmo,sztorm na wschodniej strefie przybrzeżnej,2026-05-20T06:33:00+00:00,Poland,0.4868739253050231,1,1,pl,WCE,Europe
 'ed4dbfb27b',extremes,Heat Wave,#c40202,wmo,fala upałów województwo lubuskie powiat żagański,2026-05-26T06:31:00+00:00,Poland,0.4857446127507347,2,1,pl,WCE,Europe
 '6fbebc79f4',extremes,Storm,#b3b2b1,wmo,wezbranie sztormowe województwo łódzkie powiat tomaszowski,2026-04-26T05:25:00+00:00,Poland,0.4807580658662529,1,1,pl,WCE,Europe
 '2689ec9210',extremes,Storm,#b3b2b1,wmo,burza województwo podlaskie powiat moniecki,2026-05-19T06:33:00+00:00,Poland,0.4805957538783314,1,1,pl,WCE,Europe
@@ -64,7 +64,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f3e42f0307',extremes,Storm,#b3b2b1,wmo,burza województwo podlaskie powiat sokólski,2026-05-12T05:52:00+00:00,Poland,0.4072324206610078,2,1,pl,WCE,Europe
 '560b05d603',extremes,Heat Wave,#c40202,random,fala upałów,2026-05-01T05:54:00+00:00,,0.4072135104472461,1,2,pl,,
 'fd1d8250b9',extremes,Storm,#b3b2b1,wmo,burza województwo śląskie powiat cieszyński,2026-05-12T05:52:00+00:00,Poland,0.4069849883312851,2,1,pl,WCE,Europe
-'ee676ccabe',extremes,Thunderstorm,#53785a,wmo,burza województwo podkarpackie powiat krośnieński,2026-05-27T06:46:00+00:00,Poland,0.40617004599866596,1,1,pl,WCE,Europe
+'ee676ccabe',extremes,Thunderstorm,#53785a,wmo,burza województwo podkarpackie powiat krośnieński,2026-05-27T06:46:00+00:00,Poland,0.4061700459986659,1,1,pl,WCE,Europe
 '2180c0c4a1',extremes,Drought,#edc291,edo,brak opadów w polsce,2026-05-12T05:53:00+00:00,Poland,0.4060612509011617,3,1,pl,WCE,Europe
 '282655a0fb',extremes,Storm,#b3b2b1,wmo,burza województwo śląskie powiat raciborski,2026-05-11T06:14:00+00:00,Poland,0.4056654964204857,2,1,pl,WCE,Europe
 '6c11585835',extremes,Drought,#edc291,edo,susza na Litwie,2026-05-07T05:46:00+00:00,Lithuania,0.4053270164307789,2,1,pl,WCE,Europe
@@ -156,9 +156,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '725f20a0fb',extremes,Storm,#b3b2b1,wmo,wezbranie sztormowe województwo małopolskie powiat olkuski,2026-05-12T05:52:00+00:00,Poland,0.3521517961533179,3,1,pl,WCE,Europe
 '3e4b341619',extremes,Storm,#b3b2b1,random,burza,2026-05-20T06:32:00+00:00,,0.3521371688275543,1,3,pl,,
 '8612e7b92c',extremes,Thunderstorm,#53785a,wmo,grad województwo małopolskie powiat olkuski,2026-05-11T06:14:00+00:00,Poland,0.3502534512535202,2,1,pl,WCE,Europe
-'a129125ca1',extremes,Thunderstorm,#53785a,wmo,burza województwo łódzkie powiat sieradzki,2026-05-30T06:01:00+00:00,Poland,0.34904863852728196,2,1,pl,WCE,Europe
-'87b5d3b5ef',extremes,Thunderstorm,#53785a,wmo,grad województwo lubuskie powiat wschowski,2026-05-30T06:01:00+00:00,Poland,0.34875586444581713,2,1,pl,WCE,Europe
-'5399d10b82',extremes,Thunderstorm,#53785a,wmo,burza województwo śląskie powiat chorzowski,2026-05-30T06:01:00+00:00,Poland,0.34798213435936526,2,1,pl,WCE,Europe
+'a129125ca1',extremes,Thunderstorm,#53785a,wmo,burza województwo łódzkie powiat sieradzki,2026-05-30T06:01:00+00:00,Poland,0.3490486385272819,2,1,pl,WCE,Europe
+'87b5d3b5ef',extremes,Thunderstorm,#53785a,wmo,grad województwo lubuskie powiat wschowski,2026-05-30T06:01:00+00:00,Poland,0.3487558644458171,2,1,pl,WCE,Europe
+'5399d10b82',extremes,Thunderstorm,#53785a,wmo,burza województwo śląskie powiat chorzowski,2026-05-30T06:01:00+00:00,Poland,0.3479821343593652,2,1,pl,WCE,Europe
 '44bb194a41',extremes,Thunderstorm,#53785a,wmo,burza województwo śląskie powiat ruda śląska,2026-05-30T06:01:00+00:00,Poland,0.3470263328401973,2,1,pl,WCE,Europe
 '4354f5c317',extremes,Thunderstorm,#53785a,wmo,grad województwo śląskie powiat lubliniecki,2026-05-11T06:14:00+00:00,Poland,0.3462857406826801,2,1,pl,WCE,Europe
 '510ed94b67',extremes,Storm,#b3b2b1,wmo,burza województwo podkarpackie powiat leski,2026-05-12T05:52:00+00:00,Poland,0.3459990946200212,3,1,pl,WCE,Europe
@@ -266,7 +266,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,ulewa tanzania,2026-05-07T05:46:00+00:00,Tanzania,0.3074546462362887,0,1,pl,SEAF,Africa
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz Ekwador,2026-05-23T05:53:00+00:00,Ecuador,0.3074010252881586,0,1,pl,NWS,South-America
 '4844b80c63',extremes,Precipitation,#d60d2b,wmo,deszcz Buller District,2026-05-08T05:16:00+00:00,New Zealand,0.3073587133009319,0,1,pl,NZ,Oceania
-'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,lód w Argentynie,2026-05-04T05:50:00+00:00,Argentina,0.3073318075650983,0,1,pl,SES,South-America
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz w Nowej Zelandii,2026-05-06T05:43:00+00:00,New Zealand,0.3072516510598797,0,1,pl,NZ,Oceania
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,marznąca Argentyna,2026-05-01T05:54:00+00:00,Argentina,0.3071759917173925,0,1,pl,SES,South-America
 'b2edd21efd',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz w dystrykcie Westland,2026-05-06T05:43:00+00:00,New Zealand,0.3071627076656484,0,1,pl,NZ,Oceania
@@ -364,6 +363,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3c01ade432',extremes,Precipitation,#d60d2b,wmo,opady w Republice Mołdawii,2026-05-09T05:36:00+00:00,Republic of Moldova,0.2618269337651684,1,1,pl,WCE,Europe
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,ulewa brazylia,2026-04-30T05:46:00+00:00,Brazil,0.2617954429732962,1,1,pl,SAM,South-America
 'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,deszcz w Afryce Południowej,2026-05-06T05:43:00+00:00,South Africa,0.2617952263466672,1,1,pl,WSAF,Africa
+'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,lód w Argentynie,2026-05-04T05:50:00+00:00,Argentina,0.26123203643033355,1,1,pl,SES,South-America
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,opady w nowej zelandii,2026-05-06T05:43:00+00:00,New Zealand,0.2612038250605629,1,1,pl,NZ,Oceania
 '2eb242efc8',extremes,Snow&Ice,#d60d2b,wmo,marznąca Mołdawia,2026-04-29T05:40:00+00:00,Moldova,0.2611864812172262,1,1,pl,WCE,Europe
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,deszcz w Ekwadorze,2026-05-18T06:38:00+00:00,Ecuador,0.2611541376780783,1,1,pl,NWS,South-America
