@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'bb77bd741f',extremes,Storm,#b3b2b1,wmo,wezbranie sztormowe województwo mazowieckie powiat łosicki,2026-06-01T07:30:00+00:00,Poland,0.5968258913362955,0,1,pl,WCE,Europe
 'c2a1de8dc8',extremes,Storm,#b3b2b1,wmo,burza Polska,2026-05-15T06:09:00+00:00,Poland,0.5957853220495356,4,2,pl,WCE,Europe
 '1af313a328',extremes,Thunderstorm,#53785a,wmo,witaj polsko,2026-05-07T05:46:00+00:00,Poland,0.5354457709860576,3,2,pl,WCE,Europe
 'a2f9e0dc38',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo łódzkie powiat brzeziński,2026-06-01T07:30:00+00:00,Poland,0.5344021482389484,1,1,pl,WCE,Europe
@@ -8,7 +9,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2206074bfa',extremes,Precipitation,#d60d2b,wmo,ulewa polska,2026-05-12T05:52:00+00:00,Poland,0.5071401744030148,1,1,pl,WCE,Europe
 '1d9c104bbb',extremes,Storm,#b3b2b1,wmo,burza na Litwie,2026-04-26T05:25:00+00:00,Lithuania,0.5050524122853918,4,2,pl,WCE,Europe
 '9eb5abf250',extremes,Storm,#b3b2b1,wmo,burza województwo mazowieckie powiat płoński,2026-06-01T07:30:00+00:00,Poland,0.5010902704949004,1,1,pl,WCE,Europe
-'9b59bee21e',extremes,Drought,#edc291,edo,okres suszy w polsce,2026-05-22T06:32:00+00:00,Poland,0.48972502761802617,5,1,pl,WCE,Europe
+'9b59bee21e',extremes,Drought,#edc291,edo,okres suszy w polsce,2026-05-22T06:32:00+00:00,Poland,0.4897250276180261,5,1,pl,WCE,Europe
 '3292e576a4',extremes,Storm,#b3b2b1,wmo,sztorm na wschodniej strefie przybrzeżnej,2026-05-20T06:33:00+00:00,Poland,0.4868739253050231,1,1,pl,WCE,Europe
 'ed4dbfb27b',extremes,Heat Wave,#c40202,wmo,fala upałów województwo lubuskie powiat żagański,2026-05-26T06:31:00+00:00,Poland,0.4857446127507347,2,1,pl,WCE,Europe
 '6fbebc79f4',extremes,Storm,#b3b2b1,wmo,wezbranie sztormowe województwo łódzkie powiat tomaszowski,2026-04-26T05:25:00+00:00,Poland,0.4807580658662529,1,1,pl,WCE,Europe
@@ -374,10 +375,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e0946a5f2',extremes,Drought,#edc291,edo,brak deszczu w Estonii,2026-05-10T05:51:00+00:00,Estonia,0.2589400512197,1,1,pl,NEU,Europe
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,pokrywa śnieżna,2026-05-10T05:51:00+00:00,,0.2539089647323463,2,1,pl,,
 'c948617fef',extremes,Heat Wave,#c40202,random,ekstremalne narażenie na ciepło,2026-05-02T05:23:00+00:00,,0.2522716383423901,2,1,pl,,
-'da1ae5191e',extremes,Storm,#b3b2b1,random,fala sztormowa,2026-05-05T05:28:00+00:00,,0.24031425515939187,2,1,pl,,
+'da1ae5191e',extremes,Storm,#b3b2b1,random,fala sztormowa,2026-05-05T05:28:00+00:00,,0.2403142551593918,2,1,pl,,
 '54927bfe65',extremes,Flood,#030ba1,random,powódź przybrzeżna,2026-05-13T06:02:00+00:00,,0.2384163607653218,3,1,pl,,
 '96285201b2',extremes,Storm,#b3b2b1,emdat,burza lao cai,2026-05-05T05:29:00+00:00,Vietnam,0.2309487726118286,2,1,pl,SEA,Asia
 '83b05b31d0',extremes,Precipitation,#d60d2b,acwe,okres mokry Nowa Południowa Walia,2026-05-04T05:50:00+00:00,Australia,0.2307806151108435,2,1,pl,EAU,Oceania
 'efa91cca03',extremes,Drought,#edc291,acwe,niski poziom wody w zachodniej Australii,2026-05-28T06:38:00+00:00,Australia,0.2291206602706471,2,1,pl,CAU,Oceania
 'ec51ecb5d3',extremes,Flood,#030ba1,acwe,błyskawiczna powódź na Tasmanii,2026-05-05T05:29:00+00:00,Australia,0.2256912297976877,2,1,pl,SAU,Oceania
-'969dbf1866',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz w Afryce Południowej,2026-05-09T05:36:00+00:00,South Africa,0.22293703627779932,2,1,pl,WSAF,Africa
+'969dbf1866',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz w Afryce Południowej,2026-05-09T05:36:00+00:00,South Africa,0.2229370362777993,2,1,pl,WSAF,Africa
