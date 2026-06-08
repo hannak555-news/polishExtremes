@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'a10fae0f4e',extremes,Storm,#b3b2b1,wmo,burza województwo pomorskie powiat sztumski,2026-06-07T06:48:00+00:00,Poland,0.5264825325700309,1,1,pl,WCE,Europe
 'c80cb98276',extremes,Thunderstorm,#53785a,wmo,burza województwo łódzkie powiat łęczycki,2026-06-07T06:48:00+00:00,Poland,0.502596336994542,1,1,pl,WCE,Europe
 '9b59bee21e',extremes,Drought,#edc291,edo,okres suszy w polsce,2026-05-22T06:32:00+00:00,Poland,0.4897250276180261,5,1,pl,WCE,Europe
 '1af313a328',extremes,Thunderstorm,#53785a,wmo,witaj polsko,2026-05-27T06:46:00+00:00,Poland,0.4863333467294348,2,1,pl,WCE,Europe
@@ -13,6 +12,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e49bb13411',extremes,Thunderstorm,#53785a,wmo,grad województwo mazowieckie powiat otwocki,2026-06-01T07:30:00+00:00,Poland,0.450861185152797,2,1,pl,WCE,Europe
 '255375d949',extremes,Thunderstorm,#53785a,wmo,burza województwo śląskie powiat rybnicki,2026-06-01T07:30:00+00:00,Poland,0.450257452627505,2,1,pl,WCE,Europe
 'dce756fefb',extremes,Thunderstorm,#53785a,wmo,grad województwo śląskie powiat bytomski,2026-06-01T07:30:00+00:00,Poland,0.4490368922376669,2,1,pl,WCE,Europe
+'a10fae0f4e',extremes,Storm,#b3b2b1,wmo,burza województwo pomorskie powiat sztumski,2026-06-07T06:48:00+00:00,Poland,0.4475101526845262,2,1,pl,WCE,Europe
 '0a067fb676',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo śląskie powiat mysłowicki,2026-06-03T07:23:00+00:00,Poland,0.4467728884846207,2,1,pl,WCE,Europe
 'fe9f06f03f',extremes,Storm,#b3b2b1,wmo,burza województwo lubelskie powiat kraśnicki,2026-06-01T07:30:00+00:00,Poland,0.4460211556413517,2,1,pl,WCE,Europe
 '6016a96c2e',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo małopolskie powiat suski,2026-05-11T06:14:00+00:00,Poland,0.445412241248057,2,1,pl,WCE,Europe
@@ -62,7 +62,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0819532a21',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat sosnowiecki,2026-06-03T07:23:00+00:00,Poland,0.4144958654021867,2,1,pl,WCE,Europe
 '3292e576a4',extremes,Storm,#b3b2b1,wmo,sztorm na wschodniej strefie przybrzeżnej,2026-05-20T06:33:00+00:00,Poland,0.4138428365092696,2,1,pl,WCE,Europe
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,burza,2026-05-25T06:52:00+00:00,,0.412043090302183,2,3,pl,,
-'1d9c104bbb',extremes,Storm,#b3b2b1,wmo,burza na Litwie,2026-05-24T06:22:00+00:00,Lithuania,0.41172186673645,2,1,pl,WCE,Europe
 '3fe481b522',extremes,Storm,#b3b2b1,wmo,fala sztormowa w środkowej strefie przybrzeżnej,2026-05-26T06:31:00+00:00,Poland,0.4115444823219635,2,1,pl,WCE,Europe
 '3de033d52b',extremes,Thunderstorm,#53785a,wmo,burza województwo śląskie powiat żorski,2026-06-03T07:23:00+00:00,Poland,0.4110600352915419,1,1,pl,WCE,Europe
 '8053ccfab3',extremes,Thunderstorm,#53785a,wmo,grad województwo pomorskie powiat bytowski,2026-06-07T06:48:00+00:00,Poland,0.4091578427640306,1,1,pl,WCE,Europe
@@ -174,6 +173,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e4b341619',extremes,Storm,#b3b2b1,random,burza,2026-05-20T06:32:00+00:00,,0.3521371688275543,1,3,pl,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,osuwisko,2026-05-11T06:14:00+00:00,,0.350608920733251,2,2,pl,,
 '8612e7b92c',extremes,Thunderstorm,#53785a,wmo,grad województwo małopolskie powiat olkuski,2026-05-11T06:14:00+00:00,Poland,0.3502534512535202,2,1,pl,WCE,Europe
+'1d9c104bbb',extremes,Storm,#b3b2b1,wmo,burza na Litwie,2026-05-24T06:22:00+00:00,Lithuania,0.3501136017259825,3,1,pl,WCE,Europe
 '314fbeccec',extremes,Thunderstorm,#53785a,wmo,grad województwo śląskie powiat myszkowski,2026-06-01T07:30:00+00:00,Poland,0.3499320181265463,2,1,pl,WCE,Europe
 'a129125ca1',extremes,Thunderstorm,#53785a,wmo,burza województwo łódzkie powiat sieradzki,2026-05-30T06:01:00+00:00,Poland,0.3490486385272819,2,1,pl,WCE,Europe
 '9977620679',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo opolskie powiat nyski,2026-06-03T07:23:00+00:00,Poland,0.3490080716960168,2,1,pl,WCE,Europe
