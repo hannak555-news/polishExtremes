@@ -1,16 +1,13 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'a10fae0f4e',extremes,Storm,#b3b2b1,wmo,burza województwo pomorskie powiat sztumski,2026-06-07T06:48:00+00:00,Poland,0.6193912147882716,0,1,pl,WCE,Europe
-'c80cb98276',extremes,Thunderstorm,#53785a,wmo,burza województwo łódzkie powiat łęczycki,2026-06-07T06:48:00+00:00,Poland,0.5912898082288729,0,1,pl,WCE,Europe
+'a10fae0f4e',extremes,Storm,#b3b2b1,wmo,burza województwo pomorskie powiat sztumski,2026-06-07T06:48:00+00:00,Poland,0.5264825325700309,1,1,pl,WCE,Europe
+'c80cb98276',extremes,Thunderstorm,#53785a,wmo,burza województwo łódzkie powiat łęczycki,2026-06-07T06:48:00+00:00,Poland,0.502596336994542,1,1,pl,WCE,Europe
 '9b59bee21e',extremes,Drought,#edc291,edo,okres suszy w polsce,2026-05-22T06:32:00+00:00,Poland,0.4897250276180261,5,1,pl,WCE,Europe
 '1af313a328',extremes,Thunderstorm,#53785a,wmo,witaj polsko,2026-05-27T06:46:00+00:00,Poland,0.4863333467294348,2,1,pl,WCE,Europe
 'ed4dbfb27b',extremes,Heat Wave,#c40202,wmo,fala upałów województwo lubuskie powiat żagański,2026-05-26T06:31:00+00:00,Poland,0.4857446127507347,2,1,pl,WCE,Europe
-'8053ccfab3',extremes,Thunderstorm,#53785a,wmo,grad województwo pomorskie powiat bytowski,2026-06-07T06:48:00+00:00,Poland,0.4813621679576831,0,1,pl,WCE,Europe
 '628c73fc75',extremes,Drought,#edc291,edo,susza w polsce,2026-05-05T05:29:00+00:00,Poland,0.4794187109627995,3,2,pl,WCE,Europe
 'db201ef51e',extremes,Heat Wave,#c40202,wmo,fala upałów w polsce,2026-05-26T06:31:00+00:00,Poland,0.476365174079125,4,1,pl,WCE,Europe
 '9e020e244e',extremes,Drought,#edc291,edo,susza w polsce,2026-05-23T05:53:00+00:00,Poland,0.4697508487486289,3,1,pl,WCE,Europe
 '59b529f428',extremes,Thunderstorm,#53785a,random,burza z gradem,2026-05-07T05:46:00+00:00,,0.4668697805663875,3,2,pl,,
-'68646514d9',extremes,Thunderstorm,#53785a,wmo,burza województwo łódzkie powiat zgierski,2026-06-01T07:30:00+00:00,Poland,0.46267395761857943,0,1,pl,WCE,Europe
-'3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,ulewny deszcz,2026-05-05T05:28:00+00:00,,0.459571532524549,1,2,pl,,
 'c2e46ad627',extremes,Thunderstorm,#53785a,wmo,surowa pogoda województwo lubuskie powiat żarski,2026-05-30T06:01:00+00:00,Poland,0.4533692627054896,2,1,pl,WCE,Europe
 '91a5e43886',extremes,Thunderstorm,#53785a,wmo,burza województwo małopolskie powiat olkuski,2026-06-01T07:30:00+00:00,Poland,0.452369184714119,2,1,pl,WCE,Europe
 'e49bb13411',extremes,Thunderstorm,#53785a,wmo,grad województwo mazowieckie powiat otwocki,2026-06-01T07:30:00+00:00,Poland,0.450861185152797,2,1,pl,WCE,Europe
@@ -39,7 +36,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '080f75259e',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo pomorskie powiat sztumski,2026-05-21T06:35:00+00:00,Poland,0.4291980573876062,2,1,pl,WCE,Europe
 'a83be30a23',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo śląskie powiat jaworzno,2026-06-03T07:23:00+00:00,Poland,0.4291898565701994,2,1,pl,WCE,Europe
 'a62d851f87',extremes,Storm,#b3b2b1,wmo,burza województwo podlaskie powiat hajnowski,2026-05-19T06:33:00+00:00,Poland,0.4284395137100014,2,1,pl,WCE,Europe
-'0386e85f14',extremes,Thunderstorm,#53785a,wmo,burza województwo łódzkie powiat łowicki,2026-06-07T06:48:00+00:00,Poland,0.4266392800390412,1,1,pl,WCE,Europe
 '0848b860f3',extremes,Storm,#b3b2b1,wmo,burza województwo lubelskie powiat janowski,2026-05-15T06:09:00+00:00,Poland,0.4260338046869419,3,1,pl,WCE,Europe
 '9eb5abf250',extremes,Storm,#b3b2b1,wmo,burza województwo mazowieckie powiat płoński,2026-06-01T07:30:00+00:00,Poland,0.4259267299206653,2,1,pl,WCE,Europe
 'ba29589557',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo śląskie powiat myszkowski,2026-05-30T06:01:00+00:00,Poland,0.4257407558633087,2,1,pl,WCE,Europe
@@ -56,7 +52,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2bad9fb951',extremes,Thunderstorm,#53785a,wmo,burza województwo śląskie powiat tarnogórski,2026-06-03T07:23:00+00:00,Poland,0.4213481264458966,2,1,pl,WCE,Europe
 '2206074bfa',extremes,Precipitation,#d60d2b,wmo,ulewa polska,2026-05-12T05:52:00+00:00,Poland,0.4203392867802514,4,1,pl,WCE,Europe
 '4d9577e33d',extremes,Volcano,#b83202,random,wulkan,2026-05-21T06:34:00+00:00,,0.4197986415450893,3,2,pl,,
-'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,powódź,2026-05-19T06:33:00+00:00,,0.4195081624971437,1,2,pl,,
 'bb91f3a914',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo śląskie powiat katowicki,2026-05-15T06:09:00+00:00,Poland,0.4194842310198378,2,1,pl,WCE,Europe
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,fala upałów w Paryżu,2026-05-29T06:39:00+00:00,France,0.4189645336963797,2,2,pl,,
 'a4d587962e',extremes,Storm,#b3b2b1,wmo,burza województwo śląskie powiat kłobucki,2026-06-03T07:23:00+00:00,Poland,0.4186844411353889,2,1,pl,WCE,Europe
@@ -70,6 +65,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1d9c104bbb',extremes,Storm,#b3b2b1,wmo,burza na Litwie,2026-05-24T06:22:00+00:00,Lithuania,0.41172186673645,2,1,pl,WCE,Europe
 '3fe481b522',extremes,Storm,#b3b2b1,wmo,fala sztormowa w środkowej strefie przybrzeżnej,2026-05-26T06:31:00+00:00,Poland,0.4115444823219635,2,1,pl,WCE,Europe
 '3de033d52b',extremes,Thunderstorm,#53785a,wmo,burza województwo śląskie powiat żorski,2026-06-03T07:23:00+00:00,Poland,0.4110600352915419,1,1,pl,WCE,Europe
+'8053ccfab3',extremes,Thunderstorm,#53785a,wmo,grad województwo pomorskie powiat bytowski,2026-06-07T06:48:00+00:00,Poland,0.4091578427640306,1,1,pl,WCE,Europe
 'd180389ffa',extremes,Storm,#b3b2b1,wmo,burza województwo śląskie powiat sosnowiecki,2026-05-15T06:09:00+00:00,Poland,0.4091523773131708,2,1,pl,WCE,Europe
 'c520df0cc2',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo lubelskie powiat zamojski,2026-05-12T05:52:00+00:00,Poland,0.4091170703770288,2,1,pl,WCE,Europe
 '2689ec9210',extremes,Storm,#b3b2b1,wmo,burza województwo podlaskie powiat moniecki,2026-05-19T06:33:00+00:00,Poland,0.4085063907965817,2,1,pl,WCE,Europe
@@ -97,6 +93,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '248a812146',extremes,Storm,#b3b2b1,wmo,burza w zachodniej strefie przybrzeżnej,2026-05-12T05:52:00+00:00,Poland,0.3942132653970301,2,1,pl,WCE,Europe
 '2b80dba374',extremes,Storm,#b3b2b1,wmo,burza województwo śląskie powiat ruda śląska,2026-05-12T05:52:00+00:00,Poland,0.393655266808139,2,1,pl,WCE,Europe
 '5f736e124a',extremes,Thunderstorm,#53785a,wmo,burza z piorunami w polsce,2026-05-07T05:46:00+00:00,Poland,0.3933194114389272,2,1,pl,WCE,Europe
+'68646514d9',extremes,Thunderstorm,#53785a,wmo,burza województwo łódzkie powiat zgierski,2026-06-01T07:30:00+00:00,Poland,0.3932728639757925,1,1,pl,WCE,Europe
 '828294ce85',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo mazowieckie powiat płocki,2026-05-14T06:02:00+00:00,Poland,0.392735751339212,2,1,pl,WCE,Europe
 '937ff06462',extremes,Thunderstorm,#53785a,wmo,"burza województwo lubuskie, powiat żarski",2026-05-19T06:33:00+00:00,Poland,0.3909603797253516,2,1,pl,WCE,Europe
 'c2a1de8dc8',extremes,Storm,#b3b2b1,wmo,burza Polska,2026-05-15T06:09:00+00:00,Poland,0.3901310003535851,8,2,pl,WCE,Europe
@@ -140,16 +137,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84baa8f0b2',extremes,Storm,#b3b2b1,wmo,burza województwo śląskie powiat bytomski,2026-05-15T06:09:00+00:00,Poland,0.3634285792611651,3,1,pl,WCE,Europe
 '1bcaeb1bc1',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo śląskie powiat kłobucki,2026-05-15T06:09:00+00:00,Poland,0.3633106965036033,3,1,pl,WCE,Europe
 '7d96e1e0ea',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo mazowieckie powiat lipski,2026-05-07T05:46:00+00:00,Poland,0.3626948487651325,2,1,pl,WCE,Europe
+'0386e85f14',extremes,Thunderstorm,#53785a,wmo,burza województwo łódzkie powiat łowicki,2026-06-07T06:48:00+00:00,Poland,0.362643388033185,2,1,pl,WCE,Europe
 '132b89a357',extremes,Snow&Ice,#d60d2b,wmo,litwa śnieżna,2026-05-10T05:51:00+00:00,Lithuania,0.3619327954388782,3,1,pl,WCE,Europe
 '5cd105af10',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo lubelskie powiat lubelski,2026-05-15T06:09:00+00:00,Poland,0.3616118080973192,2,1,pl,WCE,Europe
 '52b2041752',extremes,Storm,#b3b2b1,wmo,wezbranie sztormowe województwo łódzkie powiat kutnowski,2026-06-01T07:30:00+00:00,Poland,0.3612605514791898,3,1,pl,WCE,Europe
 'b74d80740a',extremes,Storm,#b3b2b1,wmo,wezbranie sztormowe województwo łódzkie powiat wieluński,2026-05-30T06:01:00+00:00,Poland,0.3612475846395974,3,1,pl,WCE,Europe
-'45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tajfun,2026-05-03T05:43:00+00:00,,0.3604668588202758,1,1,pl,,
 '01958db114',extremes,Storm,#b3b2b1,wmo,burza województwo małopolskie powiat tarnowski,2026-05-15T06:09:00+00:00,Poland,0.3601349203715529,3,1,pl,WCE,Europe
 '394ffc0042',extremes,Precipitation,#d60d2b,wmo,deszcz ulewny województwo śląskie powiat cieszyński,2026-05-16T05:40:00+00:00,Poland,0.3600307372220716,2,1,pl,WCE,Europe
 'aa2e706f42',extremes,Thunderstorm,#53785a,wmo,grad województwo lubelskie powiat lubelski,2026-05-07T05:46:00+00:00,Poland,0.3583824445109445,2,1,pl,WCE,Europe
 'df6261fa7e',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo małopolskie powiat tarnowski,2026-05-07T05:46:00+00:00,Poland,0.3583711749128476,2,1,pl,WCE,Europe
 '695bc60a7c',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo śląskie powiat gliwicki,2026-06-01T07:30:00+00:00,Poland,0.3583643193369796,2,1,pl,WCE,Europe
+'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,powódź,2026-05-19T06:33:00+00:00,,0.3571819981225721,2,2,pl,,
 '2c1beb5d89',extremes,Thunderstorm,#53785a,wmo,burza województwo śląskie powiat rybnicki,2026-06-03T07:23:00+00:00,Poland,0.357129747657361,2,1,pl,WCE,Europe
 '8a2f2c0d0e',extremes,Drought,#edc291,edo,brak deszczu na Ukrainie,2026-05-19T06:33:00+00:00,Ukraine,0.3567178258599937,2,1,pl,WCE,Europe
 '18fe399589',extremes,Storm,#b3b2b1,wmo,fala sztormowa na Litwie,2026-05-25T06:53:00+00:00,Lithuania,0.3563814529641305,3,1,pl,WCE,Europe
@@ -198,7 +196,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2314fb60ea',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo łódzkie powiat kutnowski,2026-05-14T06:02:00+00:00,Poland,0.3428546350026088,2,1,pl,WCE,Europe
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,szron,2026-05-21T06:34:00+00:00,,0.3427505400455303,2,1,pl,,
 '17392b9b0b',extremes,Thunderstorm,#53785a,wmo,"burza województwo lubuskie, powiat słubicki",2026-05-30T06:01:00+00:00,Poland,0.3423448965322657,2,1,pl,WCE,Europe
-'53fda39314',extremes,Drought,#edc291,edo,brak opadów na Litwie,2026-05-06T05:43:00+00:00,Lithuania,0.3418762690668734,2,1,pl,WCE,Europe
 'fce044716f',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo śląskie powiat tarnogórski,2026-05-11T06:14:00+00:00,Poland,0.3417811282770824,2,1,pl,WCE,Europe
 '191ee1d1e7',extremes,Thunderstorm,#53785a,wmo,grad województwo śląskie powiat teski,2026-05-30T06:01:00+00:00,Poland,0.341662136673184,2,1,pl,WCE,Europe
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-05-07T05:46:00+00:00,,0.3411592698678022,2,2,pl,,
@@ -275,7 +272,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e8f35ea4ae',extremes,Thunderstorm,#53785a,wmo,grad województwo pomorskie powiat malborski,2026-05-21T06:35:00+00:00,Poland,0.3187402547087362,2,1,pl,WCE,Europe
 '4d9b9cdb4d',extremes,Thunderstorm,#53785a,wmo,grad województwo pomorskie powiat tczewski,2026-05-14T06:02:00+00:00,Poland,0.3185129025496886,2,1,pl,WCE,Europe
 'a746af6fa3',extremes,Thunderstorm,#53785a,wmo,burza województwo mazowieckie powiat miński,2026-05-18T06:38:00+00:00,Poland,0.3183322963981686,2,1,pl,WCE,Europe
-'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,intensywne opady,2026-04-28T05:44:00+00:00,,0.3183243546848264,1,2,pl,,
 '46e92f0786',extremes,Thunderstorm,#53785a,wmo,burza województwo lubelskie powiat chełmski,2026-05-15T06:09:00+00:00,Poland,0.3182757716259846,2,1,pl,WCE,Europe
 '610f614420',extremes,Thunderstorm,#53785a,wmo,burza województwo pomorskie powiat malborski,2026-05-19T06:33:00+00:00,Poland,0.317933371082341,2,1,pl,WCE,Europe
 '9f56f3696e',extremes,Drought,#edc291,edo,okres suszy na Litwie,2026-05-24T06:22:00+00:00,Lithuania,0.3178743484139623,2,1,pl,WCE,Europe
@@ -303,8 +299,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5682532253',extremes,Thunderstorm,#53785a,wmo,burza województwo łódzkie powiat rawski,2026-05-11T06:14:00+00:00,Poland,0.2783038914110329,3,1,pl,WCE,Europe
 '95b2881221',extremes,Precipitation,#d60d2b,random,rzeka atmosferyczna,2026-05-09T05:35:00+00:00,,0.2749010065475384,1,1,pl,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,gwałtowny spadek temperatury,2026-05-08T05:16:00+00:00,,0.2729185618892177,2,1,pl,,
-'9cb0438918',extremes,Storm,#b3b2b1,emdat,burza w Minnesocie,2026-05-05T05:29:00+00:00,United States,0.2717943834660589,1,1,pl,WNA,North-America
-'3ea8a9b3b3',extremes,Storm,#b3b2b1,emdat,"cyklon tropikalny, Mariany Północne",2026-05-05T05:29:00+00:00,Northern Mariana Islands,0.2717829680124454,1,1,pl,NPO,Pacific Ocean
 'f8039d6ad1',extremes,Cold Wave,#a7e9fa,acwe,zaklęcie zimne w zachodniej Australii,2026-05-27T06:46:00+00:00,Australia,0.2714206394356628,1,1,pl,CAU,Oceania
 'fec57a6213',extremes,Heat Wave,#c40202,cmeter,europejska fala upałów Paryż,2026-05-28T06:38:00+00:00,France,0.271043232462277,1,1,pl,,
 '3dc98006fe',extremes,Drought,#edc291,acwe,brak deszczu w zachodniej Australii,2026-05-27T06:46:00+00:00,Australia,0.2709251977492804,1,1,pl,CAU,Oceania
@@ -317,7 +311,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,kopuła cieplna,2026-05-16T05:40:00+00:00,,0.2666582215906389,2,1,pl,,
 'd59a7e48d7',extremes,Drought,#edc291,random,ewapotranspiracja,2026-05-26T06:31:00+00:00,,0.2665943497400583,2,1,pl,,
 'cf93c7cea9',extremes,Storm,#b3b2b1,aidr,burza grad Sydney Nowa Południowa Walia 2015,2026-05-11T06:14:00+00:00,,0.2656480548895296,1,1,pl,EAU,Oceania
-'acd0e1409b',extremes,Flood,#030ba1,acwe,zalanie nowej południowej Walii,2026-05-05T05:29:00+00:00,Australia,0.2650140493713013,1,1,pl,EAU,Oceania
 '6c34512524',extremes,Drought,#edc291,edo,brak deszczu na Sri Lance,2026-05-16T05:40:00+00:00,Sri Lanka,0.2648927874603543,1,1,pl,BOB,Asia
 '92035e2c20',extremes,Drought,#edc291,edo,okres suszy na Madagaskarze,2026-05-07T05:46:00+00:00,Madagascar,0.2644448196385559,1,1,pl,MDG,Africa
 '3894a694d1',extremes,Flood,#030ba1,aidr,gwałtowna powódź w Australii,2026-05-08T05:16:00+00:00,Australia,0.2640733320389841,1,1,pl,SAU,Oceania
@@ -326,13 +319,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f89b96cf78',extremes,Drought,#edc291,edo,susza w Czechach,2026-05-06T05:43:00+00:00,Czechia,0.262177401703547,1,1,pl,WCE,Europe
 '9f05eaaf90',extremes,Drought,#edc291,edo,okres suszy w Islandii,2026-05-21T06:35:00+00:00,Iceland,0.262138753334355,1,1,pl,GIC,Europe
 'ecd6c72a27',extremes,Drought,#edc291,edo,brak deszczu na Madagaskarze,2026-05-11T06:14:00+00:00,Madagascar,0.2620936000787702,1,1,pl,MDG,Africa
-'afc393e166',extremes,Precipitation,#d60d2b,wmo,opady w Afryce Południowej,2026-05-05T05:29:00+00:00,South Africa,0.2619642622387933,1,1,pl,WSAF,Africa
 '50bfa8f85d',extremes,Precipitation,#d60d2b,wmo,ulewa theewaterskloof grabouw,2026-05-12T05:52:00+00:00,South Africa,0.2618273906422647,1,1,pl,WSAF,Africa
 '3c01ade432',extremes,Precipitation,#d60d2b,wmo,opady w Republice Mołdawii,2026-05-09T05:36:00+00:00,Republic of Moldova,0.2618269337651684,1,1,pl,WCE,Europe
 '6636b82ba3',extremes,Thunderstorm,#53785a,wmo,burza z piorunami w Libii,2026-05-25T06:53:00+00:00,Libya,0.2617997875920144,1,1,pl,SAH,Africa
 'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,deszcz w Afryce Południowej,2026-05-06T05:43:00+00:00,South Africa,0.2617952263466672,1,1,pl,WSAF,Africa
 '501b14a5de',extremes,Precipitation,#d60d2b,wmo,region opadów amazónica,2026-05-06T05:43:00+00:00,Ecuador,0.261763050608809,1,1,pl,NWS,South-America
-'3d4880a15e',extremes,Heat Wave,#c40202,acwe,ciepły okres w południowej Australii,2026-05-05T05:29:00+00:00,Australia,0.2615666183735609,1,1,pl,SAU,Oceania
 '70bf96ce01',extremes,Thunderstorm,#53785a,wmo,ciężka pogoda w Libii,2026-05-26T06:31:00+00:00,Libya,0.261536709198916,1,1,pl,SAH,Africa
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz Ekwador,2026-05-23T05:53:00+00:00,Ecuador,0.2612908714949348,1,1,pl,NWS,South-America
 '4844b80c63',extremes,Precipitation,#d60d2b,wmo,deszcz Buller District,2026-05-08T05:16:00+00:00,New Zealand,0.2612549063057921,1,1,pl,NZ,Oceania
@@ -342,7 +333,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '226e93183d',extremes,Precipitation,#d60d2b,wmo,opady w pasmach Westland,2026-05-21T06:35:00+00:00,New Zealand,0.2610548253812801,1,1,pl,NZ,Oceania
 'aaee78223c',extremes,Precipitation,#d60d2b,wmo,ulewa región litoral e interandina,2026-05-23T05:53:00+00:00,Ecuador,0.2609633181302535,1,1,pl,NWS,South-America
 '8ece67f5a6',extremes,Thunderstorm,#53785a,wmo,grad على بعض مناطق جنوب غرب ليبيا,2026-05-27T06:46:00+00:00,Libya,0.2608692753094236,1,1,pl,SAH,Africa
-'f94bed33ad',extremes,Precipitation,#d60d2b,wmo,ulewa fiordland na północ od wątpliwego dźwięku,2026-05-05T05:29:00+00:00,New Zealand,0.2607670697580873,1,1,pl,NZ,Oceania
 '983c5f75d7',extremes,Precipitation,#d60d2b,wmo,deszcz bechar,2026-05-10T05:51:00+00:00,Algeria,0.2606599656172856,1,1,pl,SAH,Africa
 'dc2f58f7da',extremes,Precipitation,#d60d2b,wmo,opady w Tajlandii,2026-05-09T05:36:00+00:00,Thailand,0.260599531411032,1,1,pl,SEA,Asia
 'dea87e6ccd',extremes,Drought,#edc291,edo,okres suszy na Łotwie,2026-05-17T06:01:00+00:00,Latvia,0.2605176763738543,1,1,pl,WCE,Europe
@@ -359,13 +349,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '907a393546',extremes,Precipitation,#d60d2b,wmo,ulewa naujaat,2026-05-24T06:22:00+00:00,Canada,0.2593527342600731,1,1,pl,NEN,North-America
 'e8573dc87f',extremes,Snow&Ice,#d60d2b,wmo,zamarzanie puvirnituq inukjuak,2026-05-17T06:01:00+00:00,Canada,0.259239098400375,1,1,pl,NEN,North-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,burza w Ekwadorze,2026-05-18T06:38:00+00:00,Ecuador,0.2591966494361396,1,1,pl,NWS,South-America
-'d61de81685',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Chile,2026-05-05T05:29:00+00:00,Chile,0.258972062351317,1,1,pl,SWS,South-America
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,fala sztormowa w Ekwadorze,2026-05-21T06:35:00+00:00,Ecuador,0.2589642534077949,1,1,pl,NWS,South-America
 '8e0946a5f2',extremes,Drought,#edc291,edo,brak deszczu w Estonii,2026-05-10T05:51:00+00:00,Estonia,0.2589400512197,1,1,pl,NEU,Europe
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,pokrywa śnieżna,2026-05-10T05:51:00+00:00,,0.2539089647323463,2,1,pl,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,najniższa temperatura minimalna,2026-05-14T06:02:00+00:00,,0.2490083526142757,2,1,pl,,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,burza piaskowa,2026-05-15T06:09:00+00:00,,0.2447942872799175,2,1,pl,,
-'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,narodowe centrum huraganów,2026-05-08T05:16:00+00:00,,0.2427548246380683,2,1,pl,,
 '54927bfe65',extremes,Flood,#030ba1,random,powódź przybrzeżna,2026-05-13T06:02:00+00:00,,0.2384163607653218,3,1,pl,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,najzimniejszy rok,2026-05-18T06:38:00+00:00,,0.2315267004487633,2,1,pl,,
 'db417cfee9',extremes,Cold Wave,#a7e9fa,acwe,zimna pogoda w zachodniej Australii,2026-05-28T06:38:00+00:00,Australia,0.2304970199005753,2,1,pl,CAU,Oceania
