@@ -1,4 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'5d0e229cc3',extremes,Thunderstorm,#53785a,wmo,grad województwo podlaskie powiat suwalski,2026-06-08T07:13:00+00:00,Poland,0.5119695469229539,0,1,pl,WCE,Europe
+'8757eb11cd',extremes,Thunderstorm,#53785a,wmo,burza województwo pomorskie powiat gdański,2026-06-07T06:48:00+00:00,Poland,0.48801053374121,0,1,pl,WCE,Europe
 '1af313a328',extremes,Thunderstorm,#53785a,wmo,witaj polsko,2026-05-27T06:46:00+00:00,Poland,0.4863333467294348,2,1,pl,WCE,Europe
 '628c73fc75',extremes,Drought,#edc291,edo,susza w polsce,2026-05-05T05:29:00+00:00,Poland,0.4794187109627995,3,2,pl,WCE,Europe
 'db201ef51e',extremes,Heat Wave,#c40202,wmo,fala upałów w polsce,2026-05-26T06:31:00+00:00,Poland,0.476365174079125,4,1,pl,WCE,Europe
@@ -78,9 +80,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fe93d58d94',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo podkarpackie powiat krośnieński,2026-05-16T05:40:00+00:00,Poland,0.402497388249506,2,1,pl,WCE,Europe
 '133c50a744',extremes,Storm,#b3b2b1,wmo,burza województwo łódzkie powiat łaski,2026-05-14T06:02:00+00:00,Poland,0.4024166118073132,2,1,pl,WCE,Europe
 'f3c258d60c',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo lubelskie powiat łęczyński,2026-05-07T05:46:00+00:00,Poland,0.4009116374775519,2,1,pl,WCE,Europe
+'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,zimny trzask,2026-05-21T06:34:00+00:00,,0.4004422002238279,0,1,pl,,
 'ce82cacf3c',extremes,Storm,#b3b2b1,wmo,wezbranie sztormowe województwo mazowieckie powiat płoński,2026-05-11T06:14:00+00:00,Poland,0.3992325725350903,2,1,pl,WCE,Europe
+'283b154c38',extremes,Wet Spell,#d60d2b,random,mokre zaklęcie,2026-05-31T06:40:00+00:00,,0.39922267128205285,0,1,pl,,
 '147876226f',extremes,Thunderstorm,#53785a,wmo,ciężka pogoda w polsce,2026-05-07T05:46:00+00:00,Poland,0.3985058214000734,2,1,pl,WCE,Europe
 'feffdb8947',extremes,Storm,#b3b2b1,wmo,burza województwo pomorskie powiat kartuski,2026-05-14T06:02:00+00:00,Poland,0.3969031848040712,2,1,pl,WCE,Europe
+'45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tajfun,2026-05-23T05:52:00+00:00,,0.39690049967881996,0,1,pl,,
 'cef815b506',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo lubelskie powiat zamojski,2026-05-12T05:52:00+00:00,Poland,0.3966293290105789,2,1,pl,WCE,Europe
 'fb3825f3b9',extremes,Storm,#b3b2b1,wmo,burza województwo śląskie powiat jaworzno,2026-05-12T05:52:00+00:00,Poland,0.3965609019425586,2,1,pl,WCE,Europe
 '6668ff8b65',extremes,Storm,#b3b2b1,wmo,burza województwo podlaskie powiat łomżyński,2026-05-18T06:38:00+00:00,Poland,0.3965348214790876,2,1,pl,WCE,Europe
@@ -103,7 +108,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '255375d949',extremes,Thunderstorm,#53785a,wmo,burza województwo śląskie powiat rybnicki,2026-06-01T07:30:00+00:00,Poland,0.3827188347333792,3,1,pl,WCE,Europe
 'b7f75a1587',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo małopolskie powiat krakowski,2026-05-07T05:46:00+00:00,Poland,0.3817562402762604,2,1,pl,WCE,Europe
 '773881b8d5',extremes,Thunderstorm,#53785a,wmo,burza województwo pomorskie powiat lęborski,2026-05-14T06:02:00+00:00,Poland,0.3807037993622634,2,1,pl,WCE,Europe
-'a10fae0f4e',extremes,Storm,#b3b2b1,wmo,burza województwo pomorskie powiat sztumski,2026-06-07T06:48:00+00:00,Poland,0.38038362978184725,3,1,pl,WCE,Europe
+'a10fae0f4e',extremes,Storm,#b3b2b1,wmo,burza województwo pomorskie powiat sztumski,2026-06-07T06:48:00+00:00,Poland,0.3803836297818472,3,1,pl,WCE,Europe
 '0a067fb676',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo śląskie powiat mysłowicki,2026-06-03T07:23:00+00:00,Poland,0.3797569552119276,3,1,pl,WCE,Europe
 'a49e7eb6c9',extremes,Thunderstorm,#53785a,wmo,burza województwo pomorskie powiat sopocki,2026-05-11T06:14:00+00:00,Poland,0.3794506902293083,2,1,pl,WCE,Europe
 'fe9f06f03f',extremes,Storm,#b3b2b1,wmo,burza województwo lubelskie powiat kraśnicki,2026-06-01T07:30:00+00:00,Poland,0.3791179822951489,3,1,pl,WCE,Europe
