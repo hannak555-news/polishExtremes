@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'ddb2e86fb0',extremes,Heat Wave,#c40202,wmo,fala upałów województwo mazowieckie powiat otwocki,2026-06-09T06:32:00+00:00,Poland,0.6813552667553918,0,1,pl,WCE,Europe
-'c2a1de8dc8',extremes,Storm,#b3b2b1,wmo,burza Polska,2026-06-04T07:06:00+00:00,Poland,0.6614703398180535,0,1,pl,WCE,Europe
 '5575eab381',extremes,Heat Wave,#c40202,wmo,fala upałów województwo lubelskie powiat janowski,2026-06-09T06:32:00+00:00,Poland,0.6609852807218014,0,1,pl,WCE,Europe
 'cd7b613ff1',extremes,Thunderstorm,#53785a,wmo,burza z piorunami województwo małopolskie powiat krakowski,2026-06-09T06:32:00+00:00,Poland,0.6383158988832836,0,1,pl,WCE,Europe
 'cba9cbfddd',extremes,Thunderstorm,#53785a,wmo,grad województwo lubelskie powiat puławski,2026-06-09T06:32:00+00:00,Poland,0.6347524383704172,0,1,pl,WCE,Europe
@@ -9,6 +7,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '22c1ff1179',extremes,Thunderstorm,#53785a,wmo,grad województwo łódzkie powiat wieluński,2026-06-09T06:32:00+00:00,Poland,0.6234917551749369,0,1,pl,WCE,Europe
 '53fda39314',extremes,Drought,#edc291,edo,brak opadów na Litwie,2026-05-30T06:01:00+00:00,Lithuania,0.6225382165972884,0,1,pl,WCE,Europe
 '26ada99d75',extremes,Storm,#b3b2b1,wmo,burza województwo mazowieckie powiat radomski,2026-06-09T06:32:00+00:00,Poland,0.6216855524452534,0,1,pl,WCE,Europe
+'c2a1de8dc8',extremes,Storm,#b3b2b1,wmo,burza Polska,2026-06-04T07:06:00+00:00,Poland,0.6035642952089818,1,2,pl,WCE,Europe
+'ddb2e86fb0',extremes,Heat Wave,#c40202,wmo,fala upałów województwo mazowieckie powiat otwocki,2026-06-09T06:32:00+00:00,Poland,0.5791519767420831,1,1,pl,WCE,Europe
 '1af313a328',extremes,Thunderstorm,#53785a,wmo,witaj polsko,2026-05-27T06:46:00+00:00,Poland,0.4863333467294348,2,1,pl,WCE,Europe
 '628c73fc75',extremes,Drought,#edc291,edo,susza w polsce,2026-05-05T05:29:00+00:00,Poland,0.4794187109627995,3,2,pl,WCE,Europe
 'db201ef51e',extremes,Heat Wave,#c40202,wmo,fala upałów w polsce,2026-05-26T06:31:00+00:00,Poland,0.476365174079125,4,1,pl,WCE,Europe
