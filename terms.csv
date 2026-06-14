@@ -19,6 +19,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cba9cbfddd',extremes,Thunderstorm,#53785a,wmo,grad województwo lubelskie powiat puławski,2026-06-09T06:32:00+00:00,Poland,0.4586086367226264,2,1,pl,WCE,Europe
 'f54eadc6be',extremes,Storm,#b3b2b1,wmo,wezbranie sztormowe województwo opolskie powiat nyski,2026-06-13T06:38:00+00:00,Poland,0.4525305467909763,2,1,pl,WCE,Europe
 '91a5e43886',extremes,Thunderstorm,#53785a,wmo,burza województwo małopolskie powiat olkuski,2026-06-01T07:30:00+00:00,Poland,0.452369184714119,2,1,pl,WCE,Europe
+'4d9577e33d',extremes,Volcano,#b83202,random,wulkan,2026-05-21T06:34:00+00:00,,0.45108673262101817,4,2,pl,,
 '736e25dde1',extremes,Precipitation,#d60d2b,wmo,ulewa litwa,2026-06-11T07:14:00+00:00,Lithuania,0.4495552470553962,1,1,pl,WCE,Europe
 '26ada99d75',extremes,Storm,#b3b2b1,wmo,burza województwo mazowieckie powiat radomski,2026-06-09T06:32:00+00:00,Poland,0.4491678116416955,2,1,pl,WCE,Europe
 'c89afb1d79',extremes,Precipitation,#d60d2b,wmo,ulewne deszcze województwo mazowieckie powiat siedlecki,2026-06-11T07:14:00+00:00,Poland,0.4488561845266716,1,1,pl,WCE,Europe
@@ -85,7 +86,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2bad9fb951',extremes,Thunderstorm,#53785a,wmo,burza województwo śląskie powiat tarnogórski,2026-06-03T07:23:00+00:00,Poland,0.4213481264458966,2,1,pl,WCE,Europe
 'aa2e706f42',extremes,Thunderstorm,#53785a,wmo,grad województwo lubelskie powiat lubelski,2026-06-02T07:08:00+00:00,Poland,0.4210396637680103,1,1,pl,WCE,Europe
 'cc31ee194b',extremes,Thunderstorm,#53785a,wmo,burza województwo opolskie powiat brzeski,2026-06-09T06:32:00+00:00,Poland,0.4209947088349533,1,1,pl,WCE,Europe
-'4d9577e33d',extremes,Volcano,#b83202,random,wulkan,2026-05-21T06:34:00+00:00,,0.4197986415450893,3,2,pl,,
 'bb91f3a914',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo śląskie powiat katowicki,2026-05-15T06:09:00+00:00,Poland,0.4194842310198378,2,1,pl,WCE,Europe
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,fala upałów w Paryżu,2026-05-29T06:39:00+00:00,France,0.4189645336963797,2,2,pl,,
 'eaa0a40b2a',extremes,Heat Wave,#c40202,wmo,fala upałów województwo lubelskie powiat rycki,2026-06-09T06:32:00+00:00,Poland,0.4187356004068101,2,1,pl,WCE,Europe
@@ -147,7 +147,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '432aba575c',extremes,Precipitation,#d60d2b,wmo,ulewa województwo mazowieckie powiat lipski,2026-06-11T07:14:00+00:00,Poland,0.3920931001298972,2,1,pl,WCE,Europe
 'cd7b613ff1',extremes,Thunderstorm,#53785a,wmo,burza z piorunami województwo małopolskie powiat krakowski,2026-06-09T06:32:00+00:00,Poland,0.3920057514016964,3,1,pl,WCE,Europe
 '937ff06462',extremes,Thunderstorm,#53785a,wmo,"burza województwo lubuskie, powiat żarski",2026-05-19T06:33:00+00:00,Poland,0.3909603797253516,2,1,pl,WCE,Europe
-'74cf9bacf4',extremes,Storm,#b3b2b1,wmo,burza województwo mazowieckie powiat miński,2026-06-12T07:05:00+00:00,Poland,0.39089272224546884,3,1,pl,WCE,Europe
+'74cf9bacf4',extremes,Storm,#b3b2b1,wmo,burza województwo mazowieckie powiat miński,2026-06-12T07:05:00+00:00,Poland,0.3908927222454688,3,1,pl,WCE,Europe
 'eb63bf1b06',extremes,Precipitation,#d60d2b,wmo,ulewa województwo podlaskie powiat łomżyński,2026-06-11T07:14:00+00:00,Poland,0.3882004804123854,2,1,pl,WCE,Europe
 '741d1245a0',extremes,Thunderstorm,#53785a,wmo,ciężka pogoda na Litwie,2026-05-14T06:02:00+00:00,Lithuania,0.3875854094539337,2,1,pl,WCE,Europe
 'a2f9e0dc38',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo łódzkie powiat brzeziński,2026-06-01T07:30:00+00:00,Poland,0.3861055521026401,3,1,pl,WCE,Europe
@@ -336,7 +336,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fec57a6213',extremes,Heat Wave,#c40202,cmeter,europejska fala upałów Paryż,2026-05-28T06:38:00+00:00,France,0.271043232462277,1,1,pl,,
 '3dc98006fe',extremes,Drought,#edc291,acwe,brak deszczu w zachodniej Australii,2026-05-27T06:46:00+00:00,Australia,0.2709251977492804,1,1,pl,CAU,Oceania
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,góra lodowa arctis,2026-05-13T06:02:00+00:00,,0.2685555221327268,1,1,pl,,
-'ec9681f6d8',extremes,Flood,#030ba1,aidr,powódź na Tasmanii czerwiec lipiec 2016 r,2026-05-12T05:53:00+00:00,Australia,0.2681635819746423,1,1,pl,SAU,Oceania
 '45500dcb47',extremes,Precipitation,#d60d2b,random,rekordowe opady,2026-05-16T05:40:00+00:00,,0.267970562025559,1,1,pl,,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,kopuła cieplna,2026-05-16T05:40:00+00:00,,0.2666582215906389,2,1,pl,,
 'd59a7e48d7',extremes,Drought,#edc291,random,ewapotranspiracja,2026-05-26T06:31:00+00:00,,0.2665943497400583,2,1,pl,,
