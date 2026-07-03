@@ -1,4 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'c7404ffe12',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo lubuskie powiat gorzowski,2026-06-19T07:39:00+00:00,Poland,0.6095408820643468,0,1,pl,WCE,Europe
+'906b587502',extremes,Storm,#b3b2b1,wmo,burza województwo pomorskie powiat lęborski,2026-07-03T06:09:00+00:00,Poland,0.6084434528932918,0,1,pl,WCE,Europe
+'958448c5c5',extremes,Storm,#b3b2b1,wmo,burza województwo pomorskie powiat pucki,2026-07-03T06:09:00+00:00,Poland,0.5875755634449062,0,1,pl,WCE,Europe
+'e385e0ba1c',extremes,Storm,#b3b2b1,wmo,wezbranie sztormowe województwo pomorskie powiat tczewski,2026-07-03T06:09:00+00:00,Poland,0.585149867120279,0,1,pl,WCE,Europe
+'7c5438f941',extremes,Precipitation,#d60d2b,wmo,opady na Litwie,2026-07-03T06:09:00+00:00,Lithuania,0.5844856501177229,0,1,pl,WCE,Europe
+'ca7c25a10a',extremes,Storm,#b3b2b1,wmo,fala sztormowa w zachodniej strefie przybrzeżnej,2026-07-03T06:09:00+00:00,Poland,0.5773847935093195,0,1,pl,WCE,Europe
+'65abefb128',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo pomorskie powiat bytowski,2026-07-03T06:09:00+00:00,Poland,0.5724974712854687,0,1,pl,WCE,Europe
+'5e989b5791',extremes,Storm,#b3b2b1,wmo,fala sztormowa rejon tauragski rejon telszajski,2026-07-03T06:09:00+00:00,Lithuania,0.5497705493539077,0,1,pl,WCE,Europe
+'a2f9e0dc38',extremes,Thunderstorm,#53785a,wmo,ciężka pogoda województwo łódzkie powiat brzeziński,2026-07-01T06:52:00+00:00,Poland,0.4849096947721296,0,1,pl,WCE,Europe
+'b7f75a1587',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo małopolskie powiat krakowski,2026-06-29T07:13:00+00:00,Poland,0.48287638378473674,0,1,pl,WCE,Europe
 'c2a1de8dc8',extremes,Storm,#b3b2b1,wmo,burza Polska,2026-06-04T07:06:00+00:00,Poland,0.4782237144812793,3,3,pl,WCE,Europe
 '0d23c57059',extremes,Storm,#b3b2b1,wmo,burza województwo wielkopolskie powiat koniński,2026-06-21T07:16:00+00:00,Poland,0.4768078215786127,1,1,pl,WCE,Europe
 '147876226f',extremes,Thunderstorm,#53785a,wmo,ciężka pogoda w polsce,2026-06-19T07:39:00+00:00,Poland,0.4759385848571704,2,1,pl,WCE,Europe
@@ -273,7 +283,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3abeabd47d',extremes,Heat Wave,#c40202,wmo,fala upałów województwo mazowieckie powiat płocki,2026-06-20T06:47:00+00:00,Poland,0.4056147922300721,3,1,pl,WCE,Europe
 'a22387ad2e',extremes,Precipitation,#d60d2b,wmo,deszczowa polska,2026-06-10T06:49:00+00:00,Poland,0.4045780383587014,3,1,pl,WCE,Europe
 '4bf4f79ac7',extremes,Heat Wave,#c40202,wmo,fala upałów województwo lubuskie powiat nowosolski,2026-06-26T06:36:00+00:00,Poland,0.4039289310002397,3,1,pl,WCE,Europe
-'e5cfa12ce9',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat mysłowicki,2026-06-20T06:47:00+00:00,Poland,0.40338229417529586,3,1,pl,WCE,Europe
+'e5cfa12ce9',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat mysłowicki,2026-06-20T06:47:00+00:00,Poland,0.4033822941752958,3,1,pl,WCE,Europe
 'd43df3a489',extremes,Precipitation,#d60d2b,wmo,deszcz województwo lubelskie powiat włodawski,2026-06-11T07:14:00+00:00,Poland,0.4032267580228475,2,1,pl,WCE,Europe
 '23136e458a',extremes,Heat Wave,#c40202,wmo,fala upałów województwo pomorskie powiat malborski,2026-06-20T06:47:00+00:00,Poland,0.4030113023289941,3,1,pl,WCE,Europe
 '50852ac2ea',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat myszkowski,2026-06-20T06:47:00+00:00,Poland,0.4029137168196838,3,1,pl,WCE,Europe
