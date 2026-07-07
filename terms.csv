@@ -244,7 +244,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '25f080edf3',extremes,Storm,#b3b2b1,wmo,burza rejon kłajpedzki,2026-06-11T07:14:00+00:00,Lithuania,0.3979940209690564,2,1,pl,WCE,Europe
 'aaaff856a6',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo śląskie powiat mysłowicki,2026-06-29T07:13:00+00:00,Poland,0.3979866332230883,1,1,pl,WCE,Europe
 '43a0c7f8d8',extremes,Thunderstorm,#53785a,wmo,grad województwo pomorskie powiat słupski,2026-07-03T06:09:00+00:00,Poland,0.3974874447021165,1,1,pl,WCE,Europe
-'6be9519179',extremes,Cold Wave,#a7e9fa,random,zimna fala,2026-06-23T06:32:00+00:00,,0.3973451593479842,0,1,pl,,
 '628bf5d4cb',extremes,Storm,#b3b2b1,wmo,sztorm w środkowej strefie przybrzeżnej,2026-06-16T08:27:00+00:00,Poland,0.3973423339065596,2,1,pl,WCE,Europe
 '5e989b5791',extremes,Storm,#b3b2b1,wmo,fala sztormowa rejon tauragski rejon telszajski,2026-07-03T06:09:00+00:00,Lithuania,0.3972092219081983,2,1,pl,WCE,Europe
 'eaeec0845b',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo opolskie powiat brzeski,2026-06-20T06:47:00+00:00,Poland,0.396986485302661,1,1,pl,WCE,Europe
@@ -280,6 +279,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '68b4c2ec23',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo lubelskie powiat puławski,2026-07-01T06:52:00+00:00,Poland,0.3895117104855002,3,1,pl,WCE,Europe
 '95f4812f42',extremes,Thunderstorm,#53785a,wmo,grad województwo pomorskie powiat gdański,2026-07-01T06:52:00+00:00,Poland,0.3890769040769237,1,1,pl,WCE,Europe
 '2ed01dd26d',extremes,Heat Wave,#c40202,wmo,fala upałów województwo pomorskie powiat sopocki,2026-06-20T06:47:00+00:00,Poland,0.3890219956589811,3,1,pl,WCE,Europe
+'6be9519179',extremes,Cold Wave,#a7e9fa,random,zimna fala,2026-06-23T06:32:00+00:00,,0.3886434754457866,1,1,pl,,
 'decd80e121',extremes,Thunderstorm,#53785a,wmo,grad województwo wielkopolskie powiat koniński,2026-06-13T06:38:00+00:00,Poland,0.3885289545288563,1,1,pl,WCE,Europe
 'a02391f2e7',extremes,Heat Wave,#c40202,wmo,fala upałów województwo podlaskie powiat białostocki,2026-06-21T07:16:00+00:00,Poland,0.3882670752221007,3,1,pl,WCE,Europe
 'eb63bf1b06',extremes,Precipitation,#d60d2b,wmo,ulewa województwo podlaskie powiat łomżyński,2026-06-11T07:14:00+00:00,Poland,0.3882004804123854,2,1,pl,WCE,Europe
