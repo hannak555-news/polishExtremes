@@ -1,6 +1,13 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'a22387ad2e',extremes,Precipitation,#d60d2b,wmo,deszczowa polska,2026-07-09T06:27:00+00:00,Poland,0.6969680248318345,0,1,pl,WCE,Europe
+'2206074bfa',extremes,Precipitation,#d60d2b,wmo,ulewa polska,2026-07-01T06:52:00+00:00,Poland,0.622927860142398,0,1,pl,WCE,Europe
+'2c3a801ff2',extremes,Thunderstorm,#53785a,wmo,grad województwo śląskie powiat ruda śląska,2026-07-01T06:52:00+00:00,Poland,0.5991146148595158,0,1,pl,WCE,Europe
 'c2a1de8dc8',extremes,Storm,#b3b2b1,wmo,burza Polska,2026-06-28T06:44:00+00:00,Poland,0.5778532487220444,3,3,pl,WCE,Europe
+'57bf8d6b7b',extremes,Thunderstorm,#53785a,wmo,grad województwo lubelskie powiat radzyński,2026-07-10T06:27:00+00:00,Poland,0.49764539291787957,0,1,pl,WCE,Europe
 'db201ef51e',extremes,Heat Wave,#c40202,wmo,fala upałów w polsce,2026-06-19T07:39:00+00:00,Poland,0.4695990050459914,9,3,pl,WCE,Europe
+'5d0e229cc3',extremes,Thunderstorm,#53785a,wmo,grad województwo podlaskie powiat suwalski,2026-07-04T05:59:00+00:00,Poland,0.46552417008711877,0,1,pl,WCE,Europe
+'d6131987a7',extremes,Thunderstorm,#53785a,wmo,grad województwo podlaskie powiat sejneński,2026-07-04T05:59:00+00:00,Poland,0.46211102589614134,0,1,pl,WCE,Europe
+'6624029e6f',extremes,Earthquake,#870007,usgs,trzęsienie ziemi w polsce,2026-07-12T05:43:00+00:00,Poland,0.45437465857280357,0,1,pl,WCE,Europe
 '4340c9e06c',extremes,Snow&Ice,#d60d2b,wmo,mroźna polska,2026-06-20T06:47:00+00:00,Poland,0.4542099981609817,3,1,pl,WCE,Europe
 '13329f4bf1',extremes,Snow&Ice,#d60d2b,wmo,marznąca Polska,2026-07-01T06:52:00+00:00,Poland,0.4541127390889211,3,1,pl,WCE,Europe
 '0819532a21',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat sosnowiecki,2026-06-29T07:13:00+00:00,Poland,0.4504385762597284,3,1,pl,WCE,Europe
@@ -419,6 +426,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6016a96c2e',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo małopolskie powiat suski,2026-06-21T07:16:00+00:00,Poland,0.3593985996530954,3,1,pl,WCE,Europe
 '75b45db573',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo śląskie powiat żorski,2026-06-20T06:47:00+00:00,Poland,0.3590659338762386,2,1,pl,WCE,Europe
 '4abecd55e4',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo wielkopolskie powiat koniński,2026-06-09T06:32:00+00:00,Poland,0.3589514431059774,2,1,pl,WCE,Europe
+'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,burza śnieżna,2026-07-12T05:43:00+00:00,,0.3565843698774905,0,1,pl,,
 'db8a916937',extremes,Thunderstorm,#53785a,wmo,burza województwo śląskie powiat bielski,2026-06-22T08:39:00+00:00,Poland,0.3560144174083784,2,1,pl,WCE,Europe
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,deszcz ze śniegiem,2026-06-24T06:29:00+00:00,,0.3555401294808705,0,1,pl,,
 '0d83c6bdfb',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo podlaskie powiat bielski,2026-06-15T08:36:00+00:00,Poland,0.355496719850895,3,1,pl,WCE,Europe
@@ -474,6 +482,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '59a78679b0',extremes,Thunderstorm,#53785a,wmo,surowa pogoda województwo łódzkie powiat pabianicki,2026-06-21T07:16:00+00:00,Poland,0.3431692622340112,2,1,pl,WCE,Europe
 '5ac6b59d5a',extremes,Thunderstorm,#53785a,wmo,grad województwo łódzkie powiat łódzki,2026-06-11T07:14:00+00:00,Poland,0.3428694732676727,2,1,pl,WCE,Europe
 'eeddd96409',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo śląskie powiat bielski,2026-06-21T07:16:00+00:00,Poland,0.3417549544764289,2,1,pl,WCE,Europe
+'0a98fdd376',extremes,Snow Avalanche,#deddd5,random,lawina,2026-07-04T05:59:00+00:00,,0.34160376479056087,0,1,pl,,
+'a5ff1cde4a',extremes,Drought,#edc291,random,wilgotność gleby,2026-06-22T08:39:00+00:00,,0.3413961467016578,0,1,pl,,
 '30166cec90',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo łódzkie powiat wieluński,2026-06-29T07:13:00+00:00,Poland,0.3410838162347072,2,1,pl,WCE,Europe
 '4f08f91021',extremes,Thunderstorm,#53785a,wmo,grad województwo lubuskie powiat słubicki,2026-06-14T07:07:00+00:00,Poland,0.3410572622187886,2,1,pl,WCE,Europe
 '0fdd9e6d92',extremes,Thunderstorm,#53785a,wmo,grad województwo łódzkie powiat piotrkowski,2026-06-29T07:13:00+00:00,Poland,0.3404515674865833,2,1,pl,WCE,Europe
