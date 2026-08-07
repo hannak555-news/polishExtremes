@@ -1,10 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'6e288119bc',extremes,Precipitation,#d60d2b,wmo,opady w polsce,2026-07-23T05:40:00+00:00,Poland,0.5945073376363446,8,3,pl,WCE,Europe
 '2404faf9be',extremes,Thunderstorm,#53785a,wmo,burza województwo łódzkie powiat piotrkowski,2026-08-07T04:37:00+00:00,Poland,0.5929638626267297,1,1,pl,WCE,Europe
 '4d56387510',extremes,Thunderstorm,#53785a,wmo,ciężka pogoda województwo śląskie powiat lubliniecki,2026-08-07T04:37:00+00:00,Poland,0.5888918475617725,1,1,pl,WCE,Europe
 '9e020e244e',extremes,Drought,#edc291,edo,susza w polsce,2026-07-04T05:59:00+00:00,Poland,0.5784483872251178,2,2,pl,WCE,Europe
 '9032f79c85',extremes,Storm,#b3b2b1,wmo,burza województwo lubelskie powiat chełmski,2026-08-07T04:37:00+00:00,Poland,0.5658625960940395,1,1,pl,WCE,Europe
 'c2a1de8dc8',extremes,Storm,#b3b2b1,wmo,burza Polska,2026-07-19T05:37:00+00:00,Poland,0.5642649425111537,2,2,pl,WCE,Europe
+'6e288119bc',extremes,Precipitation,#d60d2b,wmo,opady w polsce,2026-07-23T05:40:00+00:00,Poland,0.5602830219908929,9,3,pl,WCE,Europe
 'da22e13ce6',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo śląskie powiat gliwicki,2026-08-07T04:37:00+00:00,Poland,0.5528653242147823,1,1,pl,WCE,Europe
 'db201ef51e',extremes,Heat Wave,#c40202,wmo,fala upałów w polsce,2026-07-16T05:25:00+00:00,Poland,0.5502413564689519,4,3,pl,WCE,Europe
 '84baa8f0b2',extremes,Storm,#b3b2b1,wmo,burza województwo śląskie powiat bytomski,2026-08-07T04:37:00+00:00,Poland,0.5456236637485711,1,1,pl,WCE,Europe
@@ -184,7 +184,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8a079fcf72',extremes,Thunderstorm,#53785a,wmo,burza województwo śląskie powiat myszkowski,2026-08-06T05:33:00+00:00,Poland,0.4198771865964157,1,1,pl,WCE,Europe
 '2206074bfa',extremes,Precipitation,#d60d2b,wmo,ulewa polska,2026-07-23T05:40:00+00:00,Poland,0.4198060917521664,2,1,pl,WCE,Europe
 'c89f6c620b',extremes,Precipitation,#d60d2b,wmo,deszczowe województwo podlaskie powiat suwalski,2026-07-10T06:27:00+00:00,Poland,0.4192595814424442,2,1,pl,WCE,Europe
-'a9f2e553dc',extremes,Thunderstorm,#53785a,wmo,grad województwo łódzkie powiat pajęczański,2026-08-06T05:33:00+00:00,Poland,0.41894957316541026,1,1,pl,WCE,Europe
+'a9f2e553dc',extremes,Thunderstorm,#53785a,wmo,grad województwo łódzkie powiat pajęczański,2026-08-06T05:33:00+00:00,Poland,0.4189495731654102,1,1,pl,WCE,Europe
 '862df530ed',extremes,Heat Wave,#c40202,wmo,fala upałów województwo lubuskie powiat żarski,2026-07-16T05:25:00+00:00,Poland,0.4166348692912981,2,1,pl,WCE,Europe
 '0fdd9e6d92',extremes,Thunderstorm,#53785a,wmo,grad województwo łódzkie powiat piotrkowski,2026-07-27T06:05:00+00:00,Poland,0.4165235954997035,2,1,pl,WCE,Europe
 '5aa5194319',extremes,Heat Wave,#c40202,wmo,fala upałów województwo lubelskie powiat puławski,2026-07-17T05:27:00+00:00,Poland,0.41636979835181,3,1,pl,WCE,Europe
