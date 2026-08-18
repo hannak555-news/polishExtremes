@@ -92,7 +92,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3f2caa8447',extremes,Thunderstorm,#53785a,wmo,burza województwo opolskie powiat oleski,2026-07-17T05:27:00+00:00,Poland,0.4346208899577721,2,1,pl,WCE,Europe
 'cd066a598f',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo łódzkie powiat łódzki,2026-07-23T05:40:00+00:00,Poland,0.4345633924312208,2,1,pl,WCE,Europe
 'be09e14425',extremes,Heat Wave,#c40202,wmo,fala upałów województwo pomorskie powiat kartuski,2026-07-30T05:24:00+00:00,Poland,0.4343695689394345,2,1,pl,WCE,Europe
-'df6261fa7e',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo małopolskie powiat tarnowski,2026-07-18T05:10:00+00:00,Poland,0.434299915724353,2,1,pl,WCE,Europe
 '01958db114',extremes,Storm,#b3b2b1,wmo,burza województwo małopolskie powiat tarnowski,2026-07-14T05:14:00+00:00,Poland,0.4340974338222123,2,1,pl,WCE,Europe
 '516da68350',extremes,Storm,#b3b2b1,wmo,burza województwo lubelskie powiat świdnicki,2026-07-19T05:37:00+00:00,Poland,0.433825113869094,2,1,pl,WCE,Europe
 'ca7c25a10a',extremes,Storm,#b3b2b1,wmo,fala sztormowa w zachodniej strefie przybrzeżnej,2026-07-28T05:31:00+00:00,Poland,0.4336227947798534,2,1,pl,WCE,Europe
@@ -100,7 +99,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a49e7eb6c9',extremes,Thunderstorm,#53785a,wmo,burza województwo pomorskie powiat sopocki,2026-08-01T05:42:00+00:00,Poland,0.4332544394207128,2,1,pl,WCE,Europe
 '94495c8d88',extremes,Storm,#b3b2b1,wmo,burza województwo lubelskie powiat bialski,2026-08-01T05:42:00+00:00,Poland,0.4329880460500753,2,1,pl,WCE,Europe
 '5b755c67d1',extremes,Heat Wave,#c40202,wmo,fala upałów województwo opolskie powiat nyski,2026-07-17T05:27:00+00:00,Poland,0.4329879229210897,2,1,pl,WCE,Europe
-'2b95b4181a',extremes,Storm,#b3b2b1,wmo,wezbranie sztormowe województwo łódzkie powiat sieradzki,2026-07-14T05:14:00+00:00,Poland,0.4329269630404521,2,1,pl,WCE,Europe
 '5905e9f08d',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo mazowieckie powiat radomski,2026-07-31T05:51:00+00:00,Poland,0.432565801815776,2,1,pl,WCE,Europe
 '0d2cb40c62',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo pomorskie powiat gdyński,2026-08-01T05:42:00+00:00,Poland,0.4325390180005647,2,1,pl,WCE,Europe
 '6016a96c2e',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo małopolskie powiat suski,2026-07-16T05:25:00+00:00,Poland,0.4325145599476165,2,1,pl,WCE,Europe
@@ -288,7 +286,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2a50d47c28',extremes,Heat Wave,#c40202,wmo,fala upałów województwo lubelskie powiat zamojski,2026-07-30T05:24:00+00:00,Poland,0.3848201873782524,3,1,pl,WCE,Europe
 '2a7e8941ea',extremes,Precipitation,#d60d2b,wmo,opady województwo pomorskie powiat pucki,2026-07-23T05:40:00+00:00,Poland,0.3847934373812466,2,1,pl,WCE,Europe
 'd9336d0a25',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat mikołowski,2026-07-17T05:27:00+00:00,Poland,0.384747502757934,3,1,pl,WCE,Europe
-'4d9577e33d',extremes,Volcano,#b83202,random,wulkan,2026-08-01T05:41:00+00:00,,0.384691287669329,0,1,pl,,
 'd5dae6b446',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat ruda śląska,2026-07-17T05:27:00+00:00,Poland,0.3845673828237556,3,1,pl,WCE,Europe
 '9283dcdfc4',extremes,Thunderstorm,#53785a,wmo,burza województwo mazowieckie powiat otwocki,2026-07-31T05:51:00+00:00,Poland,0.3844752055371115,3,1,pl,WCE,Europe
 '5d6ad67d1c',extremes,Precipitation,#d60d2b,wmo,opady województwo pomorskie powiat tczewski,2026-07-23T05:40:00+00:00,Poland,0.3844462162263904,2,1,pl,WCE,Europe
@@ -348,11 +345,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5682532253',extremes,Thunderstorm,#53785a,wmo,burza województwo łódzkie powiat rawski,2026-07-27T06:05:00+00:00,Poland,0.3732362531373071,3,1,pl,WCE,Europe
 '68b4c2ec23',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo lubelskie powiat puławski,2026-07-23T05:40:00+00:00,Poland,0.3729964374086615,2,1,pl,WCE,Europe
 '25f080edf3',extremes,Storm,#b3b2b1,wmo,burza rejon kłajpedzki,2026-07-27T06:05:00+00:00,Lithuania,0.3724286833334518,2,1,pl,WCE,Europe
+'4d9577e33d',extremes,Volcano,#b83202,random,wulkan,2026-08-01T05:41:00+00:00,,0.3713545311855963,1,1,pl,,
 '3d72076751',extremes,Thunderstorm,#53785a,wmo,grad województwo śląskie powiat kłobucki,2026-08-07T04:37:00+00:00,Poland,0.3712539411680755,2,1,pl,WCE,Europe
 '45597d1cf8',extremes,Thunderstorm,#53785a,wmo,burza województwo podlaskie powiat łomżyński,2026-07-21T05:36:00+00:00,Poland,0.3709551774663852,3,1,pl,WCE,Europe
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,kry,2026-08-14T04:24:00+00:00,,0.3707920706527838,0,1,pl,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,spadki rtęci,2026-08-15T03:13:00+00:00,,0.3707768792213805,0,1,pl,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,cyklon,2026-08-12T04:22:00+00:00,,0.3699534079674287,0,1,pl,,
+'df6261fa7e',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo małopolskie powiat tarnowski,2026-07-18T05:10:00+00:00,Poland,0.3691549283657,3,1,pl,WCE,Europe
 '1140dcbf1c',extremes,Storm,#b3b2b1,wmo,burza województwo śląskie powiat żywiecki,2026-07-19T05:37:00+00:00,Poland,0.3686993178971872,3,1,pl,WCE,Europe
 'fb434384c8',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo opolskie powiat opolski,2026-07-18T05:10:00+00:00,Poland,0.3670090820830324,3,1,pl,WCE,Europe
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,narodowe centrum huraganów,2026-08-10T04:13:00+00:00,,0.3663210231195213,0,1,pl,,
@@ -518,7 +517,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5b2ee72914',extremes,Thunderstorm,#53785a,wmo,ciężka pogoda województwo łódzkie powiat łowicki,2026-07-18T05:10:00+00:00,Poland,0.3262229072985018,2,1,pl,WCE,Europe
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,burza piaskowa,2026-07-24T05:35:00+00:00,,0.3242968842324068,0,1,pl,,
 '273fc1e155',extremes,Heat Wave,#c40202,wmo,fala upałów województwo podlaskie powiat łomżyński,2026-08-04T05:32:00+00:00,Poland,0.3241259452636379,4,1,pl,WCE,Europe
-'538eadceb4',extremes,Heat Wave,#c40202,random,łagodna zima,2026-08-10T04:13:00+00:00,,0.32369934299037406,1,1,pl,,
+'538eadceb4',extremes,Heat Wave,#c40202,random,łagodna zima,2026-08-10T04:13:00+00:00,,0.323699342990374,1,1,pl,,
 '52af874334',extremes,Drought,#edc291,random,suchość,2026-08-12T04:22:00+00:00,,0.3206785972180464,0,1,pl,,
 '9c704e4826',extremes,Wildfire,#d60d2b,effis,dziki pożar w Libanie,2026-08-07T11:06:00+00:00,Lebanon,0.3197575143997718,0,1,pl,MED,Asia
 '3ecff8bdd9',extremes,Wildfire,#d60d2b,effis,pożar buszu w Libanie,2026-08-07T11:06:00+00:00,Lebanon,0.3197567333853346,0,1,pl,MED,Asia
