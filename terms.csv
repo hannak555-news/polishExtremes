@@ -1,4 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'7c55811598',extremes,Heat Wave,#c40202,wmo,fala upałów województwo łódzkie powiat brzeziński,2026-08-06T05:33:00+00:00,Poland,0.724088231669969,0,1,pl,WCE,Europe
+'0e47ebe208',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat zabrzeski,2026-08-10T04:14:00+00:00,Poland,0.6967213238911715,0,1,pl,WCE,Europe
+'ea0427dff7',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat gliwicki,2026-08-10T04:14:00+00:00,Poland,0.6886764143172961,0,1,pl,WCE,Europe
+'5a1e77704d',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat cieszyński,2026-08-10T04:14:00+00:00,Poland,0.6879876029375718,0,1,pl,WCE,Europe
+'d9336d0a25',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat mikołowski,2026-08-16T03:28:00+00:00,Poland,0.6832258804480944,0,1,pl,WCE,Europe
+'3441d171c9',extremes,Heat Wave,#c40202,wmo,fala upałów województwo lubuskie powiat sulęciński,2026-08-10T04:14:00+00:00,Poland,0.6812669122509529,0,1,pl,WCE,Europe
+'96761cfe05',extremes,Heat Wave,#c40202,wmo,fala upałów województwo lubuskie powiat gorzowski,2026-08-15T03:13:00+00:00,Poland,0.6641987010623168,0,1,pl,WCE,Europe
+'40e59f8f78',extremes,Heat Wave,#c40202,wmo,fala upałów województwo łódzkie powiat piotrkowski,2026-08-15T03:13:00+00:00,Poland,0.6483594522841138,0,1,pl,WCE,Europe
+'256a1b3a9a',extremes,Heat Wave,#c40202,wmo,fala upałów województwo lubelskie powiat łęczyński,2026-08-15T03:13:00+00:00,Poland,0.6369428650407807,0,1,pl,WCE,Europe
+'d5dae6b446',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat ruda śląska,2026-08-10T04:14:00+00:00,Poland,0.6321250966861263,0,1,pl,WCE,Europe
 'db201ef51e',extremes,Heat Wave,#c40202,wmo,fala upałów w polsce,2026-07-16T05:25:00+00:00,Poland,0.5502413564689519,4,3,pl,WCE,Europe
 '9e020e244e',extremes,Drought,#edc291,edo,susza w polsce,2026-08-03T05:58:00+00:00,Poland,0.5475744410355764,4,2,pl,WCE,Europe
 '5cb63af442',extremes,Storm,#b3b2b1,meteo,burza na Ukrainie,2026-08-08T03:51:00+00:00,Ukraine,0.5473242511887024,3,2,pl,WCE,Europe
@@ -471,7 +481,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,pokrywa śnieżna,2026-08-03T05:57:00+00:00,,0.3273989404617513,1,1,pl,,
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,upalna temperatura,2026-07-30T05:24:00+00:00,,0.3268736559153281,1,1,pl,,
 '5b2ee72914',extremes,Thunderstorm,#53785a,wmo,ciężka pogoda województwo łódzkie powiat łowicki,2026-07-18T05:10:00+00:00,Poland,0.3262229072985018,2,1,pl,WCE,Europe
-'83255bdb09',extremes,Storm,#b3b2b1,meteo,wydarzenie przybrzeżne ukraina,2026-08-09T03:59:00+00:00,Ukraine,0.32463148507714806,1,1,pl,WCE,Europe
+'83255bdb09',extremes,Storm,#b3b2b1,meteo,wydarzenie przybrzeżne ukraina,2026-08-09T03:59:00+00:00,Ukraine,0.324631485077148,1,1,pl,WCE,Europe
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,burza piaskowa,2026-07-24T05:35:00+00:00,,0.3242968842324068,0,1,pl,,
 '273fc1e155',extremes,Heat Wave,#c40202,wmo,fala upałów województwo podlaskie powiat łomżyński,2026-08-04T05:32:00+00:00,Poland,0.3241259452636379,4,1,pl,WCE,Europe
 '538eadceb4',extremes,Heat Wave,#c40202,random,łagodna zima,2026-08-10T04:13:00+00:00,,0.323699342990374,1,1,pl,,
