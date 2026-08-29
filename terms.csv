@@ -1,8 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'db201ef51e',extremes,Heat Wave,#c40202,wmo,fala upałów w polsce,2026-08-27T13:00:00+00:00,Poland,0.7399284688775271,0,1,pl,WCE,Europe
-'25b5a7a72c',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat chorzowski,2026-08-16T03:28:00+00:00,Poland,0.7178905084850928,0,1,pl,WCE,Europe
 '351cdab6cf',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat żorski,2026-08-28T14:32:00+00:00,Poland,0.7153442993324142,0,1,pl,WCE,Europe
 'ed4dbfb27b',extremes,Heat Wave,#c40202,wmo,fala upałów województwo lubuskie powiat żagański,2026-08-28T14:32:00+00:00,Poland,0.7131539781809387,0,1,pl,WCE,Europe
+'db201ef51e',extremes,Heat Wave,#c40202,wmo,fala upałów w polsce,2026-08-27T13:00:00+00:00,Poland,0.7110090183846076,1,3,pl,WCE,Europe
 '200498a6a2',extremes,Heat Wave,#c40202,wmo,fala upałów województwo lubuskie powiat słubicki,2026-08-27T13:00:00+00:00,Poland,0.6922470360286047,0,1,pl,WCE,Europe
 '1af313a328',extremes,Thunderstorm,#53785a,wmo,witaj polsko,2026-08-22T03:22:00+00:00,Poland,0.6838432085729186,0,1,pl,WCE,Europe
 '091f771037',extremes,Heat Wave,#c40202,wmo,fala upałów województwo małopolskie powiat krakowski,2026-08-16T03:28:00+00:00,Poland,0.6830350753520168,0,1,pl,WCE,Europe
@@ -17,6 +16,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2d16a4b13b',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat sopocki,2026-08-25T03:27:00+00:00,Poland,0.6278048560347986,1,1,pl,WCE,Europe
 '6e288119bc',extremes,Precipitation,#d60d2b,meteo,opady w polsce,2026-08-17T03:28:00+00:00,Poland,0.6246709028173256,2,3,pl,WCE,Europe
 '2c42ef6192',extremes,Storm,#b3b2b1,meteo,wiatr polska,2026-08-22T03:22:00+00:00,Poland,0.6152231088811756,4,3,pl,WCE,Europe
+'25b5a7a72c',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat chorzowski,2026-08-16T03:28:00+00:00,Poland,0.6102069322123289,1,1,pl,WCE,Europe
 '69288ebd4f',extremes,Precipitation,#d60d2b,wmo,ulewne deszcze polska,2026-08-22T03:22:00+00:00,Poland,0.5599403378866561,2,1,pl,WCE,Europe
 '5cb63af442',extremes,Storm,#b3b2b1,meteo,burza na Ukrainie,2026-08-08T03:51:00+00:00,Ukraine,0.5473242511887024,3,2,pl,WCE,Europe
 '2180c0c4a1',extremes,Drought,#edc291,edo,brak opadów w polsce,2026-07-20T05:54:00+00:00,Poland,0.5451322344966816,3,2,pl,WCE,Europe
