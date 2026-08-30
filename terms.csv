@@ -1,5 +1,15 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'db201ef51e',extremes,Heat Wave,#c40202,wmo,fala upałów w polsce,2026-08-27T13:00:00+00:00,Poland,0.6782009427697736,2,3,pl,WCE,Europe
+'c30d27f803',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat bytowski,2026-08-26T03:34:00+00:00,Poland,0.6521319009857284,0,1,pl,WCE,Europe
+'0e27a49222',extremes,Fog,#d60d2b,wmo,mgła w zachodniej strefie przybrzeżnej,2026-08-25T03:27:00+00:00,Poland,0.6515363732407042,0,1,pl,WCE,Europe
+'6b3658b4c9',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat gdański,2026-08-25T03:27:00+00:00,Poland,0.6456245792727434,0,1,pl,WCE,Europe
+'5e777bdaf3',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat łomżyński,2026-08-26T03:34:00+00:00,Poland,0.6413134412562792,0,1,pl,WCE,Europe
+'48b2c9a2b7',extremes,Heat Wave,#c40202,wmo,fala upałów województwo opolskie powiat brzeski,2026-08-27T13:00:00+00:00,Poland,0.640495563105492,0,1,pl,WCE,Europe
+'ecf7014b6c',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat sejneński,2026-08-26T03:34:00+00:00,Poland,0.6394129779313866,0,1,pl,WCE,Europe
+'aaaff856a6',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo śląskie powiat mysłowicki,2026-08-28T14:32:00+00:00,Poland,0.6387581361168753,0,1,pl,WCE,Europe
+'2206074bfa',extremes,Precipitation,#d60d2b,wmo,ulewa polska,2026-08-18T03:24:00+00:00,Poland,0.6340005949660592,0,1,pl,WCE,Europe
+'59a78679b0',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo łódzkie powiat pabianicki,2026-08-28T14:32:00+00:00,Poland,0.6334918057296162,0,1,pl,WCE,Europe
+'ce7ca89385',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat słupski,2026-08-25T03:27:00+00:00,Poland,0.6310898626201169,0,1,pl,WCE,Europe
 '6e288119bc',extremes,Precipitation,#d60d2b,meteo,opady w polsce,2026-08-17T03:28:00+00:00,Poland,0.6246709028173256,2,3,pl,WCE,Europe
 '2c42ef6192',extremes,Storm,#b3b2b1,meteo,wiatr polska,2026-08-22T03:22:00+00:00,Poland,0.6152231088811756,4,3,pl,WCE,Europe
 '351cdab6cf',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat żorski,2026-08-28T14:32:00+00:00,Poland,0.608042654432552,1,1,pl,WCE,Europe
@@ -36,7 +46,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ea0427dff7',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat gliwicki,2026-08-10T04:14:00+00:00,Poland,0.4975687093442464,2,1,pl,WCE,Europe
 '5a1e77704d',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat cieszyński,2026-08-10T04:14:00+00:00,Poland,0.4970710431223956,2,1,pl,WCE,Europe
 'd9336d0a25',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat mikołowski,2026-08-16T03:28:00+00:00,Poland,0.4936306986237482,2,1,pl,WCE,Europe
-'091f771037',extremes,Heat Wave,#c40202,wmo,fala upałów województwo małopolskie powiat krakowski,2026-08-16T03:28:00+00:00,Poland,0.49349284194183207,2,1,pl,WCE,Europe
+'091f771037',extremes,Heat Wave,#c40202,wmo,fala upałów województwo małopolskie powiat krakowski,2026-08-16T03:28:00+00:00,Poland,0.493492841941832,2,1,pl,WCE,Europe
 '4bf4f79ac7',extremes,Heat Wave,#c40202,wmo,fala upałów województwo lubuskie powiat nowosolski,2026-08-10T04:14:00+00:00,Poland,0.4930550203936967,2,1,pl,WCE,Europe
 'd85c898cf7',extremes,Heat Wave,#c40202,wmo,fala upałów województwo opolskie powiat opolski,2026-08-15T03:13:00+00:00,Poland,0.4919267974471932,2,1,pl,WCE,Europe
 'efa3f8e92d',extremes,Wildfire,#d60d2b,effis,pożar w polsce,2026-08-12T04:22:00+00:00,Poland,0.4897189477365905,3,2,pl,WCE,Europe
