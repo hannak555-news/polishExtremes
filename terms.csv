@@ -188,7 +188,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fb434384c8',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo opolskie powiat opolski,2026-08-20T03:26:00+00:00,Poland,0.4239378653916728,2,1,pl,WCE,Europe
 '59b5340b69',extremes,Precipitation,#d60d2b,random,front atmosferyczny,2026-08-09T03:59:00+00:00,,0.4231846315319211,2,2,pl,,
 '3fe481b522',extremes,Storm,#b3b2b1,wmo,fala sztormowa w środkowej strefie przybrzeżnej,2026-08-11T04:01:00+00:00,Poland,0.4231842744408963,2,1,pl,WCE,Europe
-'a10fae0f4e',extremes,Storm,#b3b2b1,wmo,burza województwo pomorskie powiat sztumski,2026-08-28T14:32:00+00:00,Poland,0.42229414946311555,2,1,pl,WCE,Europe
+'a10fae0f4e',extremes,Storm,#b3b2b1,wmo,burza województwo pomorskie powiat sztumski,2026-08-28T14:32:00+00:00,Poland,0.4222941494631155,2,1,pl,WCE,Europe
 'a83be30a23',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo śląskie powiat jaworzno,2026-08-07T09:56:00+00:00,Poland,0.4217090982919649,2,1,pl,WCE,Europe
 '79bdde90d9',extremes,Storm,#b3b2b1,wmo,burza województwo lubuskie powiat żarski,2026-08-17T03:28:00+00:00,Poland,0.4207950394382416,2,1,pl,WCE,Europe
 '401f5f5b18',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat tarnogórski,2026-08-15T03:13:00+00:00,Poland,0.4206175487262378,3,1,pl,WCE,Europe
@@ -212,6 +212,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd929f61c05',extremes,Thunderstorm,#53785a,wmo,grad województwo łódzkie powiat tomaszowski,2026-08-20T03:26:00+00:00,Poland,0.4061916099721495,1,1,pl,WCE,Europe
 '9636a94f73',extremes,Heat Wave,#c40202,wmo,fala upałów na Litwie,2026-08-05T05:31:00+00:00,Lithuania,0.4057136115673857,2,1,pl,WCE,Europe
 '0819532a21',extremes,Snow&Ice,#d60d2b,wmo,śnieg województwo śląskie powiat sosnowiecki,2026-08-06T05:33:00+00:00,Poland,0.4040335519704685,2,1,pl,WCE,Europe
+'84febdd06c',extremes,Thunderstorm,#53785a,random,burza,2026-07-28T05:30:00+00:00,,0.4029036275931947,2,3,pl,,
 '8a2f2c0d0e',extremes,Drought,#edc291,edo,brak deszczu na Ukrainie,2026-08-08T03:51:00+00:00,Ukraine,0.4029022122540496,2,1,pl,WCE,Europe
 '053bb10e09',extremes,Heat Wave,#c40202,random,indyjskie lato,2026-08-07T04:37:00+00:00,,0.4012748052066833,2,1,pl,,
 '566a740705',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo mazowieckie powiat siedlecki,2026-08-31T08:51:00+00:00,Poland,0.4005724034551808,2,1,pl,WCE,Europe
@@ -283,7 +284,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fd6adbd9f6',extremes,Wildfire,#d60d2b,effis,dziki pożar na Ukrainie,2026-08-07T09:56:00+00:00,Ukraine,0.3650976834128339,2,1,pl,WCE,Europe
 '6d4ac5f718',extremes,Wildfire,#d60d2b,effis,pożar buszu na Ukrainie,2026-08-07T09:56:00+00:00,Ukraine,0.364337284479854,2,1,pl,WCE,Europe
 '3e4b341619',extremes,Storm,#b3b2b1,random,burza,2026-08-20T03:26:00+00:00,,0.3613473118527078,1,1,pl,,
-'84febdd06c',extremes,Thunderstorm,#53785a,random,burza,2026-07-28T05:30:00+00:00,,0.3612237843342398,1,3,pl,,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,intensywne opady,2026-07-30T05:24:00+00:00,,0.360587589403405,1,2,pl,,
 '0ac5d04618',extremes,Wildfire,#d60d2b,effis,wildfire polska krośnieński sanok,2026-08-12T04:22:00+00:00,Poland,0.3603843973992998,1,1,pl,WCE,Europe
 '2b6db9564c',extremes,Thunderstorm,#53785a,wmo,burza województwo lubelskie powiat bialski,2026-08-07T04:37:00+00:00,Poland,0.3598521413311846,2,1,pl,WCE,Europe
@@ -380,14 +380,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fed99381dc',extremes,Wildfire,#d60d2b,effis,pożar buszu n.a. Algieria,2026-08-07T09:56:00+00:00,Algeria,0.2717927934899977,1,1,pl,MED,Africa
 'd60fadeea3',extremes,Wildfire,#d60d2b,effis,obszar metropolitalny pożarów w Porto Portugalia,2026-08-07T09:56:00+00:00,Portugal,0.271792792830293,1,1,pl,MED,Europe
 '71f51c063c',extremes,Wildfire,#d60d2b,effis,pożar bazouriatu w Libanie,2026-08-07T11:06:00+00:00,Lebanon,0.2717927927611001,1,1,pl,MED,Asia
-'c86de2820d',extremes,Wildfire,#d60d2b,effis,pożar buszu el charkiyé liban,2026-08-07T11:06:00+00:00,Lebanon,0.2717927906419491,1,1,pl,MED,Asia
 'e2fcf07849',extremes,Wildfire,#d60d2b,effis,indyk elazığ z pożarem,2026-08-07T11:06:00+00:00,Turkey,0.2717927887349829,1,1,pl,MED,Asia
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,najzimniejsza zima,2026-08-07T11:06:00+00:00,,0.2628360246789608,2,1,pl,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,najgorętszy rok,2026-08-11T04:01:00+00:00,,0.2470864157593281,2,1,pl,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,nocne przymrozki,2026-08-14T04:24:00+00:00,,0.2366391838643508,2,1,pl,,
 '9c704e4826',extremes,Wildfire,#d60d2b,effis,dziki pożar w Libanie,2026-08-07T11:06:00+00:00,Lebanon,0.2310248041538351,2,1,pl,MED,Asia
-'3ecff8bdd9',extremes,Wildfire,#d60d2b,effis,pożar buszu w Libanie,2026-08-07T11:06:00+00:00,Lebanon,0.23102423987090426,2,1,pl,MED,Asia
+'3ecff8bdd9',extremes,Wildfire,#d60d2b,effis,pożar buszu w Libanie,2026-08-07T11:06:00+00:00,Lebanon,0.2310242398709042,2,1,pl,MED,Asia
 '5400f1e65e',extremes,Wildfire,#d60d2b,effis,pożar buszu Kilis Syria,2026-08-07T11:06:00+00:00,Syria,0.231023882990773,2,1,pl,MED,Asia
 'fcaebcf157',extremes,Wildfire,#d60d2b,effis,pożar buszu n.a. Tunezja,2026-08-07T11:06:00+00:00,Tunisia,0.2310238800162719,2,1,pl,MED,Africa
 '3b374ddaaa',extremes,Wildfire,#d60d2b,effis,pożar buszu w Macedonii Północnej,2026-08-07T11:06:00+00:00,North Macedonia,0.231023875889621,2,1,pl,MED,Europe
+'c86de2820d',extremes,Wildfire,#d60d2b,effis,pożar buszu el charkiyé liban,2026-08-07T11:06:00+00:00,Lebanon,0.23102387204565675,2,1,pl,MED,Asia
 'f7835c01c4',extremes,Wildfire,#d60d2b,effis,dziki ogień indyk malatya,2026-08-07T11:06:00+00:00,Turkey,0.2310238711960885,2,1,pl,MED,Asia
