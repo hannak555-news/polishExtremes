@@ -6,7 +6,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c2a1de8dc8',extremes,Storm,#b3b2b1,wmo,burza Polska,2026-08-31T08:51:00+00:00,Poland,0.5535410190871011,2,2,pl,WCE,Europe
 '69288ebd4f',extremes,Precipitation,#d60d2b,wmo,ulewne deszcze polska,2026-08-22T03:22:00+00:00,Poland,0.5512493172036577,3,2,pl,WCE,Europe
 '5cb63af442',extremes,Storm,#b3b2b1,meteo,burza na Ukrainie,2026-08-08T03:51:00+00:00,Ukraine,0.5473242511887024,3,2,pl,WCE,Europe
-'102f0c17ef',extremes,Storm,#b3b2b1,wmo,burza województwo lubelskie powiat łukowski,2026-08-29T09:18:00+00:00,Poland,0.5469623776107746,0,1,pl,WCE,Europe
 'cbec54141c',extremes,Fog,#d60d2b,meteo,mgła polska,2026-08-23T03:30:00+00:00,Poland,0.5402316482479692,2,1,pl,WCE,Europe
 '8126ce611e',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat moniecki,2026-08-26T03:34:00+00:00,Poland,0.5383832783132227,2,1,pl,WCE,Europe
 '151abfe1db',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat kartuski,2026-08-25T03:27:00+00:00,Poland,0.5375525896053868,2,1,pl,WCE,Europe
@@ -16,14 +15,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dd4408577a',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat sokólski,2026-08-26T03:34:00+00:00,Poland,0.5345830199293121,2,1,pl,WCE,Europe
 'da1d506ce7',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat słupski,2026-08-25T03:27:00+00:00,Poland,0.5338461451589614,2,1,pl,WCE,Europe
 '2d16a4b13b',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat sopocki,2026-08-25T03:27:00+00:00,Poland,0.5336341276295788,2,1,pl,WCE,Europe
-'e78c66f453',extremes,Thunderstorm,#53785a,wmo,grad województwo podlaskie powiat kolneński,2026-08-22T03:22:00+00:00,Poland,0.5328562991661124,1,1,pl,WCE,Europe
 '0f92c0ef0f',extremes,Heat Wave,#c40202,wmo,fala upałów województwo opolskie powiat opolski,2026-08-28T14:32:00+00:00,Poland,0.5281888796450245,2,1,pl,WCE,Europe
-'6a4f90098e',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo lubelskie powiat opolski,2026-08-22T03:22:00+00:00,Poland,0.527659173762492,1,1,pl,WCE,Europe
 '7c55811598',extremes,Heat Wave,#c40202,wmo,fala upałów województwo łódzkie powiat brzeziński,2026-08-06T05:33:00+00:00,Poland,0.5231537473815526,2,1,pl,WCE,Europe
 '2206074bfa',extremes,Precipitation,#d60d2b,wmo,ulewa polska,2026-08-18T03:24:00+00:00,Poland,0.5212005558629778,2,1,pl,WCE,Europe
 '351cdab6cf',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat żorski,2026-08-28T14:32:00+00:00,Poland,0.5168362562676692,2,1,pl,WCE,Europe
 '2e42b7e7a9',extremes,Heat Wave,#c40202,wmo,fala upałów województwo łódzkie powiat tomaszowski,2026-08-06T05:33:00+00:00,Poland,0.5167454648186592,2,1,pl,WCE,Europe
-'c14d423508',extremes,Heat Wave,#c40202,meteo,wysoka temperatura w polsce,2026-08-31T08:51:00+00:00,Poland,0.5156091193758138,1,1,pl,WCE,Europe
 '534243adc4',extremes,Heat Wave,#c40202,wmo,fala upałów województwo opolskie powiat strzelecki,2026-08-28T14:32:00+00:00,Poland,0.5127230484462518,2,1,pl,WCE,Europe
 '628c73fc75',extremes,Drought,#edc291,edo,susza w polsce,2026-08-22T03:22:00+00:00,Poland,0.5123660952118914,1,2,pl,WCE,Europe
 '9e020e244e',extremes,Drought,#edc291,edo,susza w polsce,2026-08-25T03:27:00+00:00,Poland,0.5112639861726911,1,2,pl,WCE,Europe
@@ -48,7 +44,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4bf4f79ac7',extremes,Heat Wave,#c40202,wmo,fala upałów województwo lubuskie powiat nowosolski,2026-08-10T04:14:00+00:00,Poland,0.4930550203936967,2,1,pl,WCE,Europe
 'd85c898cf7',extremes,Heat Wave,#c40202,wmo,fala upałów województwo opolskie powiat opolski,2026-08-15T03:13:00+00:00,Poland,0.4919267974471932,2,1,pl,WCE,Europe
 '0eb504f09b',extremes,Heat Wave,#c40202,wmo,fala upałów województwo opolskie powiat prudnicki,2026-08-16T03:28:00+00:00,Poland,0.4918365315655457,2,1,pl,WCE,Europe
-'628bf5d4cb',extremes,Storm,#b3b2b1,wmo,sztorm w środkowej strefie przybrzeżnej,2026-08-28T14:32:00+00:00,Poland,0.49161029783284677,1,1,pl,WCE,Europe
+'628bf5d4cb',extremes,Storm,#b3b2b1,wmo,sztorm w środkowej strefie przybrzeżnej,2026-08-28T14:32:00+00:00,Poland,0.4916102978328467,1,1,pl,WCE,Europe
 'efa3f8e92d',extremes,Wildfire,#d60d2b,effis,pożar w polsce,2026-08-12T04:22:00+00:00,Poland,0.4897189477365905,3,2,pl,WCE,Europe
 'c36a3ccb3d',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat rybnicki,2026-08-15T03:13:00+00:00,Poland,0.4895340306056704,2,1,pl,WCE,Europe
 '721508a3f1',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat teski,2026-08-16T03:28:00+00:00,Poland,0.4887350821498827,2,1,pl,WCE,Europe
@@ -81,6 +77,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd8fa8cb47d',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo lubelskie powiat lubelski,2026-08-31T08:51:00+00:00,Poland,0.4680714152255061,1,1,pl,WCE,Europe
 '6b3658b4c9',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat gdański,2026-08-25T03:27:00+00:00,Poland,0.4664637585245571,2,1,pl,WCE,Europe
 '26ada99d75',extremes,Storm,#b3b2b1,wmo,burza województwo mazowieckie powiat radomski,2026-08-29T09:18:00+00:00,Poland,0.4652695980894102,1,1,pl,WCE,Europe
+'102f0c17ef',extremes,Storm,#b3b2b1,wmo,burza województwo lubelskie powiat łukowski,2026-08-29T09:18:00+00:00,Poland,0.4649180209691584,1,1,pl,WCE,Europe
 '5e777bdaf3',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat łomżyński,2026-08-26T03:34:00+00:00,Poland,0.4633489613076617,2,1,pl,WCE,Europe
 '48b2c9a2b7',extremes,Heat Wave,#c40202,wmo,fala upałów województwo opolskie powiat brzeski,2026-08-27T13:00:00+00:00,Poland,0.462758044343718,2,1,pl,WCE,Europe
 '1eaa79a689',extremes,Heat Wave,#c40202,wmo,fala upałów województwo łódzkie powiat opoczyński,2026-08-10T04:14:00+00:00,Poland,0.4620908660294812,2,1,pl,WCE,Europe
@@ -97,12 +94,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cb36551449',extremes,Heat Wave,#c40202,wmo,fala upałów województwo łódzkie powiat pabianicki,2026-08-10T04:14:00+00:00,Poland,0.4546017176925151,2,1,pl,WCE,Europe
 '8311c0849e',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat żywiecki,2026-08-10T04:14:00+00:00,Poland,0.453067007289572,2,1,pl,WCE,Europe
 'f6671d86f1',extremes,Storm,#b3b2b1,wmo,burza województwo podlaskie powiat kolneński,2026-08-18T03:24:00+00:00,Poland,0.4530346147552639,2,1,pl,WCE,Europe
+'e78c66f453',extremes,Thunderstorm,#53785a,wmo,grad województwo podlaskie powiat kolneński,2026-08-22T03:22:00+00:00,Poland,0.45292785429119553,2,1,pl,WCE,Europe
 'ccfa9d39c2',extremes,Thunderstorm,#53785a,wmo,burza województwo lubuskie powiat nowosolski,2026-08-28T14:32:00+00:00,Poland,0.4512844411755136,2,1,pl,WCE,Europe
 'fe9f06f03f',extremes,Storm,#b3b2b1,wmo,burza województwo lubelskie powiat kraśnicki,2026-08-22T03:22:00+00:00,Poland,0.4510474992927058,2,1,pl,WCE,Europe
 '3e14b83bc4',extremes,Heat Wave,#c40202,wmo,fala upałów województwo lubuskie powiat wschowski,2026-08-06T05:33:00+00:00,Poland,0.450707323132746,3,1,pl,WCE,Europe
 '2fc75780d0',extremes,Storm,#b3b2b1,wmo,burza województwo łódzkie powiat tomaszowski,2026-08-22T03:22:00+00:00,Poland,0.4499676633487013,2,1,pl,WCE,Europe
 'ca512758a1',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat katowicki,2026-08-15T03:13:00+00:00,Poland,0.4493484306541551,2,1,pl,WCE,Europe
 '66b05cdee3',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo pomorskie powiat słupski,2026-08-28T14:32:00+00:00,Poland,0.44870377041024,2,1,pl,WCE,Europe
+'6a4f90098e',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo lubelskie powiat opolski,2026-08-22T03:22:00+00:00,Poland,0.44851029769811823,2,1,pl,WCE,Europe
 'f3c258d60c',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo lubelskie powiat łęczyński,2026-08-22T03:22:00+00:00,Poland,0.4485021721198663,2,1,pl,WCE,Europe
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-08-02T05:41:00+00:00,,0.4484796029022735,1,3,pl,,
 'cb2678fe21',extremes,Thunderstorm,#53785a,wmo,burza województwo mazowieckie powiat radomski,2026-08-22T03:22:00+00:00,Poland,0.4466817007763502,2,1,pl,WCE,Europe
@@ -136,6 +135,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '15e9f614ed',extremes,Heat Wave,#c40202,wmo,fala upałów województwo podlaskie powiat sokólski,2026-08-16T03:28:00+00:00,Poland,0.4402587437642712,2,1,pl,WCE,Europe
 'fbfbc528cc',extremes,Storm,#b3b2b1,wmo,burza województwo mazowieckie powiat mławski,2026-08-22T03:22:00+00:00,Poland,0.4402314923745927,2,1,pl,WCE,Europe
 'f81d04c10d',extremes,Storm,#b3b2b1,wmo,burza województwo pomorskie powiat sopocki,2026-08-05T05:31:00+00:00,Poland,0.4399230788885661,2,1,pl,WCE,Europe
+'c14d423508',extremes,Heat Wave,#c40202,meteo,wysoka temperatura w polsce,2026-08-31T08:51:00+00:00,Poland,0.43991791646944167,2,1,pl,WCE,Europe
 'a4d587962e',extremes,Storm,#b3b2b1,wmo,burza województwo śląskie powiat kłobucki,2026-08-20T03:26:00+00:00,Poland,0.4398929741248831,2,1,pl,WCE,Europe
 '1caed4b46b',extremes,Heat Wave,#c40202,wmo,fala upałów województwo podkarpackie powiat leski,2026-08-17T03:28:00+00:00,Poland,0.4398593613403013,2,1,pl,WCE,Europe
 '79a8acb212',extremes,Storm,#b3b2b1,wmo,burza województwo łódzkie powiat opoczyński,2026-08-06T05:33:00+00:00,Poland,0.4394672381201815,2,1,pl,WCE,Europe
@@ -289,7 +289,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '42ed092fd4',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo śląskie powiat katowicki,2026-08-06T05:33:00+00:00,Poland,0.3596771363255649,2,1,pl,WCE,Europe
 'c62b7306b6',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo śląskie powiat chorzowski,2026-08-06T05:33:00+00:00,Poland,0.3590896265927993,2,1,pl,WCE,Europe
 '02ca7e604c',extremes,Wildfire,#d60d2b,effis,dziki pożar ukraina n.a. nie dotyczy,2026-08-07T09:56:00+00:00,Ukraine,0.358093034172593,2,1,pl,WCE,Europe
-'6da5b7fc76',extremes,Thunderstorm,#53785a,wmo,burza województwo śląskie powiat częstochowski,2026-08-07T04:37:00+00:00,Poland,0.3576811711484927,4,1,pl,WCE,Europe
 '79869edcdc',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo łódzkie powiat zgierski,2026-08-06T05:33:00+00:00,Poland,0.3571985606377391,2,1,pl,WCE,Europe
 'a9f2e553dc',extremes,Thunderstorm,#53785a,wmo,grad województwo łódzkie powiat pajęczański,2026-08-06T05:33:00+00:00,Poland,0.3561071371905986,2,1,pl,WCE,Europe
 'a746af6fa3',extremes,Thunderstorm,#53785a,wmo,burza województwo mazowieckie powiat miński,2026-08-18T03:24:00+00:00,Poland,0.3559596711219507,2,1,pl,WCE,Europe
