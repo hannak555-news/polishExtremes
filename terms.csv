@@ -1,11 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'3e14b83bc4',extremes,Heat Wave,#c40202,wmo,fala upałów województwo lubuskie powiat wschowski,2026-08-27T13:00:00+00:00,Poland,0.7074639588480566,0,1,pl,WCE,Europe
-'862df530ed',extremes,Heat Wave,#c40202,wmo,fala upałów województwo lubuskie powiat żarski,2026-08-27T13:00:00+00:00,Poland,0.6742803572514723,0,1,pl,WCE,Europe
-'b143dcff52',extremes,Heat Wave,#c40202,wmo,fala upałów województwo opolskie powiat oleski,2026-09-08T07:23:00+00:00,Poland,0.623907082784363,0,1,pl,WCE,Europe
-'3a578e9046',extremes,Heat Wave,#c40202,wmo,fala upałów województwo opolskie powiat głubczycki,2026-09-08T07:23:00+00:00,Poland,0.6149775009023142,0,1,pl,WCE,Europe
-'19921559ce',extremes,Flood,#030ba1,wmo,powódź na Litwie,2026-09-08T07:23:00+00:00,Lithuania,0.6024608771908411,0,1,pl,WCE,Europe
+'3e14b83bc4',extremes,Heat Wave,#c40202,wmo,fala upałów województwo lubuskie powiat wschowski,2026-08-27T13:00:00+00:00,Poland,0.6013443650208481,1,1,pl,WCE,Europe
 '5cb63af442',extremes,Storm,#b3b2b1,meteo,burza na Ukrainie,2026-08-08T03:51:00+00:00,Ukraine,0.597675733510397,4,2,pl,WCE,Europe
-'fd6adbd9f6',extremes,Wildfire,#d60d2b,effis,dziki pożar na Ukrainie,2026-08-27T13:00:00+00:00,Ukraine,0.5692680069586655,0,1,pl,WCE,Europe
+'862df530ed',extremes,Heat Wave,#c40202,wmo,fala upałów województwo lubuskie powiat żarski,2026-08-27T13:00:00+00:00,Poland,0.5731383036637514,1,1,pl,WCE,Europe
 'c2a1de8dc8',extremes,Storm,#b3b2b1,wmo,burza Polska,2026-08-31T08:51:00+00:00,Poland,0.5535410190871011,2,2,pl,WCE,Europe
 '69288ebd4f',extremes,Precipitation,#d60d2b,wmo,ulewne deszcze polska,2026-08-22T03:22:00+00:00,Poland,0.5512493172036577,3,2,pl,WCE,Europe
 '6e288119bc',extremes,Precipitation,#d60d2b,meteo,opady w polsce,2026-08-17T03:28:00+00:00,Poland,0.5395916260949628,5,3,pl,WCE,Europe
@@ -13,6 +9,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c6cfbb2cc2',extremes,Precipitation,#d60d2b,wmo,ulewa województwo pomorskie powiat słupski,2026-08-28T14:32:00+00:00,Poland,0.5370434648724983,0,1,pl,WCE,Europe
 '147876226f',extremes,Thunderstorm,#53785a,wmo,ciężka pogoda w polsce,2026-08-22T03:22:00+00:00,Poland,0.5346615705848918,0,1,pl,WCE,Europe
 '736e25dde1',extremes,Precipitation,#d60d2b,wmo,ulewa litwa,2026-09-01T07:58:00+00:00,Lithuania,0.5334684282816737,0,1,pl,WCE,Europe
+'b143dcff52',extremes,Heat Wave,#c40202,wmo,fala upałów województwo opolskie powiat oleski,2026-09-08T07:23:00+00:00,Poland,0.5303210203667086,1,1,pl,WCE,Europe
+'3a578e9046',extremes,Heat Wave,#c40202,wmo,fala upałów województwo opolskie powiat głubczycki,2026-09-08T07:23:00+00:00,Poland,0.5227308757669671,1,1,pl,WCE,Europe
+'19921559ce',extremes,Flood,#030ba1,wmo,powódź na Litwie,2026-09-08T07:23:00+00:00,Lithuania,0.5120917456122149,1,1,pl,WCE,Europe
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,grad,2026-07-29T05:37:00+00:00,,0.5013952546137581,3,3,pl,,
 '2c42ef6192',extremes,Storm,#b3b2b1,meteo,wiatr polska,2026-08-22T03:22:00+00:00,Poland,0.5006371882089906,7,3,pl,WCE,Europe
 'd9336d0a25',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat mikołowski,2026-08-16T03:28:00+00:00,Poland,0.4936306986237482,2,1,pl,WCE,Europe
@@ -25,6 +24,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3f7fab0f5b',extremes,Heat Wave,#c40202,wmo,fala upałów województwo łódzkie powiat kutnowski,2026-08-06T05:33:00+00:00,Poland,0.4865954330787892,2,1,pl,WCE,Europe
 'b78a5223e8',extremes,Heat Wave,#c40202,wmo,fala upałów województwo łódzkie powiat wieluński,2026-08-16T03:28:00+00:00,Poland,0.4856651200361996,2,1,pl,WCE,Europe
 'ac301c19f4',extremes,Storm,#b3b2b1,wmo,wezbranie sztormowe województwo łódzkie powiat łódzki,2026-09-05T07:05:00+00:00,Poland,0.4849730771775871,1,1,pl,WCE,Europe
+'fd6adbd9f6',extremes,Wildfire,#d60d2b,effis,dziki pożar na Ukrainie,2026-08-27T13:00:00+00:00,Ukraine,0.4840278209148657,1,1,pl,WCE,Europe
 '133c50a744',extremes,Storm,#b3b2b1,wmo,burza województwo łódzkie powiat łaski,2026-08-28T14:32:00+00:00,Poland,0.4830217751288456,1,1,pl,WCE,Europe
 '08a173825e',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat rybnicki,2026-08-15T03:13:00+00:00,Poland,0.4829508183136474,2,1,pl,WCE,Europe
 '14dd6bd84a',extremes,Thunderstorm,#53785a,meteo,burza z piorunami na Ukrainie,2026-08-28T14:32:00+00:00,Ukraine,0.4828140411755858,1,1,pl,WCE,Europe
