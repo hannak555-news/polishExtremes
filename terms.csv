@@ -10,7 +10,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '237490fa8d',extremes,Heat Wave,#c40202,wmo,fala upałów województwo lubelskie powiat opolski,2026-09-09T07:32:00+00:00,Poland,0.5359567532685686,1,1,pl,WCE,Europe
 '6a5eca8a7d',extremes,Thunderstorm,#53785a,wmo,grad województwo opolskie powiat głubczycki,2026-09-09T07:32:00+00:00,Poland,0.5356926968357401,1,1,pl,WCE,Europe
 '5575eab381',extremes,Heat Wave,#c40202,wmo,fala upałów województwo lubelskie powiat janowski,2026-09-09T07:32:00+00:00,Poland,0.5260464270569003,1,1,pl,WCE,Europe
-'c2a1de8dc8',extremes,Storm,#b3b2b1,wmo,burza Polska,2026-08-31T08:51:00+00:00,Poland,0.5209154166785813,3,2,pl,WCE,Europe
 '5cb63af442',extremes,Storm,#b3b2b1,meteo,burza na Ukrainie,2026-08-08T03:51:00+00:00,Ukraine,0.5087744484838375,5,2,pl,WCE,Europe
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,grad,2026-07-29T05:37:00+00:00,,0.5013952546137581,3,3,pl,,
 '2c42ef6192',extremes,Storm,#b3b2b1,meteo,wiatr polska,2026-08-22T03:22:00+00:00,Poland,0.5006371882089906,7,3,pl,WCE,Europe
@@ -19,6 +18,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'efa3f8e92d',extremes,Wildfire,#d60d2b,effis,pożar w polsce,2026-08-12T04:22:00+00:00,Poland,0.4897189477365905,3,2,pl,WCE,Europe
 'db201ef51e',extremes,Heat Wave,#c40202,wmo,fala upałów w polsce,2026-08-27T13:00:00+00:00,Poland,0.4822907230784871,5,1,pl,WCE,Europe
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,powódź,2026-08-02T05:41:00+00:00,,0.4813436038279229,2,3,pl,,
+'c2a1de8dc8',extremes,Storm,#b3b2b1,wmo,burza Polska,2026-08-31T08:51:00+00:00,Poland,0.4795472909949759,4,3,pl,WCE,Europe
 '40b7000e71',extremes,Storm,#b3b2b1,wmo,fala sztormowa w polsce,2026-08-17T03:28:00+00:00,Poland,0.4755621653526664,2,1,pl,WCE,Europe
 '9ad99b40e9',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat będziński,2026-09-09T07:32:00+00:00,Poland,0.4754716166137628,2,1,pl,WCE,Europe
 'f795b27f6e',extremes,Storm,#b3b2b1,wmo,burza województwo mazowieckie powiat otwocki,2026-08-07T04:37:00+00:00,Poland,0.4737034703021685,2,1,pl,WCE,Europe
@@ -265,37 +265,25 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '23136e458a',extremes,Heat Wave,#c40202,wmo,fala upałów województwo pomorskie powiat malborski,2026-08-15T03:13:00+00:00,Poland,0.3890068450556093,3,1,pl,WCE,Europe
 'd5dae6b446',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat ruda śląska,2026-08-10T04:14:00+00:00,Poland,0.3882038250023673,3,1,pl,WCE,Europe
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tajfun,2026-08-09T03:59:00+00:00,,0.3875950532178704,2,1,pl,,
-'3ee6da1257',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo mazowieckie powiat miński,2026-08-07T04:37:00+00:00,Poland,0.3850097662578089,2,1,pl,WCE,Europe
 '01fcf6189e',extremes,Heat Wave,#c40202,wmo,fala upałów województwo mazowieckie powiat mławski,2026-08-15T03:13:00+00:00,Poland,0.3840187788944929,2,1,pl,WCE,Europe
-'9e68c3ca02',extremes,Thunderstorm,#53785a,wmo,burza województwo śląskie powiat raciborski,2026-08-07T04:37:00+00:00,Poland,0.3823143864098312,2,1,pl,WCE,Europe
 '52af874334',extremes,Drought,#edc291,random,suchość,2026-08-12T04:22:00+00:00,,0.3822453419900385,2,2,pl,,
 '50852ac2ea',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat myszkowski,2026-08-10T04:14:00+00:00,Poland,0.3818326254536018,3,1,pl,WCE,Europe
 '9eb5abf250',extremes,Storm,#b3b2b1,wmo,burza województwo mazowieckie powiat płoński,2026-08-22T03:22:00+00:00,Poland,0.3816307734739949,3,1,pl,WCE,Europe
 '93ecefdfd7',extremes,Precipitation,#d60d2b,wmo,ulewny deszcz na Litwie,2026-08-18T03:24:00+00:00,Lithuania,0.3809029863888608,2,1,pl,WCE,Europe
-'9dfaef7c26',extremes,Thunderstorm,#53785a,wmo,burza województwo lubelskie powiat zamojski,2026-08-07T04:37:00+00:00,Poland,0.3798771820903567,2,1,pl,WCE,Europe
-'8a4808840b',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo lubelskie powiat kraśnicki,2026-08-07T04:37:00+00:00,Poland,0.3784159033043633,2,1,pl,WCE,Europe
 '68f284d4f5',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat lubliniecki,2026-08-10T04:14:00+00:00,Poland,0.3779871204424147,2,1,pl,WCE,Europe
-'1cdf517dbd',extremes,Thunderstorm,#53785a,wmo,burza województwo mazowieckie powiat siedlecki,2026-08-07T04:37:00+00:00,Poland,0.3775794313586686,2,1,pl,WCE,Europe
 'e0605f69de',extremes,Heat Wave,#c40202,wmo,fala upałów województwo pomorskie powiat pucki,2026-08-15T03:13:00+00:00,Poland,0.3772956346430853,3,1,pl,WCE,Europe
 '7fc5efba19',extremes,Heat Wave,#c40202,wmo,fala upałów województwo małopolskie powiat tarnowski,2026-08-10T04:14:00+00:00,Poland,0.3772349506576061,3,1,pl,WCE,Europe
-'6a25c74537',extremes,Thunderstorm,#53785a,wmo,grad województwo lubelskie powiat włodawski,2026-08-07T04:37:00+00:00,Poland,0.3744823278982601,2,1,pl,WCE,Europe
-'46ba8f1b89',extremes,Thunderstorm,#53785a,wmo,ciężka pogoda województwo łódzkie powiat tomaszowski,2026-08-07T04:37:00+00:00,Poland,0.3735516380883748,2,1,pl,WCE,Europe
 'c81fd6b1c7',extremes,Storm,#b3b2b1,wmo,burza województwo łódzkie powiat wieluński,2026-08-22T03:22:00+00:00,Poland,0.3733080105872964,3,1,pl,WCE,Europe
-'3d72076751',extremes,Thunderstorm,#53785a,wmo,grad województwo śląskie powiat kłobucki,2026-08-07T04:37:00+00:00,Poland,0.3712539411680755,2,1,pl,WCE,Europe
 'fffa920622',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo mazowieckie powiat miński,2026-08-22T03:22:00+00:00,Poland,0.3691113468606029,3,1,pl,WCE,Europe
 '5905e9f08d',extremes,Storm,#b3b2b1,wmo,fala sztormowa województwo mazowieckie powiat radomski,2026-08-22T03:22:00+00:00,Poland,0.3689607370831223,3,1,pl,WCE,Europe
 '82d648b882',extremes,Drought,#edc291,random,susza,2026-08-04T05:31:00+00:00,,0.3654373209218152,1,2,pl,,
-'695bc60a7c',extremes,Thunderstorm,#53785a,wmo,zła pogoda województwo śląskie powiat gliwicki,2026-08-07T04:37:00+00:00,Poland,0.3652460553526425,2,1,pl,WCE,Europe
 '6d4ac5f718',extremes,Wildfire,#d60d2b,effis,pożar buszu na Ukrainie,2026-08-07T09:56:00+00:00,Ukraine,0.364337284479854,2,1,pl,WCE,Europe
 '3e4b341619',extremes,Storm,#b3b2b1,random,burza,2026-08-20T03:26:00+00:00,,0.3613473118527078,1,1,pl,,
 'ae8498c661',extremes,Storm,#b3b2b1,wmo,burza województwo łódzkie powiat pajęczański,2026-08-22T03:22:00+00:00,Poland,0.3609954686726077,3,1,pl,WCE,Europe
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,intensywne opady,2026-07-30T05:24:00+00:00,,0.360587589403405,1,2,pl,,
-'2b6db9564c',extremes,Thunderstorm,#53785a,wmo,burza województwo lubelskie powiat bialski,2026-08-07T04:37:00+00:00,Poland,0.3598521413311846,2,1,pl,WCE,Europe
 '02ca7e604c',extremes,Wildfire,#d60d2b,effis,dziki pożar ukraina n.a. nie dotyczy,2026-08-07T09:56:00+00:00,Ukraine,0.358093034172593,2,1,pl,WCE,Europe
 'a746af6fa3',extremes,Thunderstorm,#53785a,wmo,burza województwo mazowieckie powiat miński,2026-08-18T03:24:00+00:00,Poland,0.3559596711219507,2,1,pl,WCE,Europe
 'e5589ad783',extremes,Wildfire,#d60d2b,effis,pożar buszu ukraina n.a. nie dotyczy,2026-08-07T09:56:00+00:00,Ukraine,0.3556737710149936,2,1,pl,WCE,Europe
-'39d9d4bd73',extremes,Thunderstorm,#53785a,wmo,grad województwo podkarpackie powiat krośnieński,2026-08-07T04:37:00+00:00,Poland,0.3532428590041884,2,1,pl,WCE,Europe
-'46c933b7f1',extremes,Thunderstorm,#53785a,wmo,burza z piorunami województwo małopolskie powiat brzeski,2026-08-07T04:37:00+00:00,Poland,0.3514678006300926,2,1,pl,WCE,Europe
 '7ee9329acc',extremes,Thunderstorm,#53785a,wmo,grad województwo lubelskie powiat zamojski,2026-08-07T11:06:00+00:00,Poland,0.351223202850337,2,1,pl,WCE,Europe
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,kry,2026-08-14T04:24:00+00:00,,0.3473994823275935,1,2,pl,,
 '77397f3543',extremes,Thunderstorm,#53785a,wmo,grad województwo lubelskie powiat rycki,2026-08-20T03:26:00+00:00,Poland,0.3454853510724433,2,1,pl,WCE,Europe
@@ -304,9 +292,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '489d1a30e1',extremes,Drought,#edc291,edo,susza na Ukrainie,2026-08-05T05:31:00+00:00,Ukraine,0.3443179738420677,1,1,pl,WCE,Europe
 '71ea7059f5',extremes,Thunderstorm,#53785a,wmo,surowa pogoda województwo lubelskie powiat bialski,2026-08-20T03:26:00+00:00,Poland,0.340196403978657,2,1,pl,WCE,Europe
 '52331324fc',extremes,Thunderstorm,#53785a,wmo,burza województwo łódzkie powiat pajęczański,2026-08-20T03:26:00+00:00,Poland,0.3401223763868343,2,1,pl,WCE,Europe
-'27897edada',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat częstochowski,2026-08-10T04:14:00+00:00,Poland,0.3338170231903857,3,1,pl,WCE,Europe
 '83255bdb09',extremes,Storm,#b3b2b1,meteo,wydarzenie przybrzeżne ukraina,2026-08-09T03:59:00+00:00,Ukraine,0.324631485077148,1,1,pl,WCE,Europe
-'538eadceb4',extremes,Heat Wave,#c40202,random,łagodna zima,2026-08-10T04:13:00+00:00,,0.323699342990374,1,1,pl,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,zamarzanie,2026-08-18T03:23:00+00:00,,0.3180893412014645,1,1,pl,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,narodowe centrum huraganów,2026-08-10T04:13:00+00:00,,0.3115228846515931,1,1,pl,,
 'f37139fe2d',extremes,Landslide,#572c03,random,osuwisko błotne,2026-08-15T03:13:00+00:00,,0.3091182973862149,1,1,pl,,
@@ -314,6 +300,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0ac5d04618',extremes,Wildfire,#d60d2b,effis,wildfire polska krośnieński sanok,2026-08-12T04:22:00+00:00,Poland,0.3063267377894048,2,1,pl,WCE,Europe
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,ulewa,2026-08-15T03:13:00+00:00,,0.2918631295005251,2,1,pl,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,rekordowe ciepło,2026-08-06T05:33:00+00:00,,0.2810287524917385,1,1,pl,,
+'538eadceb4',extremes,Heat Wave,#c40202,random,łagodna zima,2026-08-10T04:13:00+00:00,,0.2751444415418179,2,1,pl,,
 '5b2f7ef723',extremes,Wildfire,#d60d2b,effis,dziki ogień Sarafend Liban,2026-08-07T11:06:00+00:00,Lebanon,0.2717928109594323,1,1,pl,MED,Asia
 '2094eeff3e',extremes,Wildfire,#d60d2b,effis,dziki ogień nabi youcheaa liban,2026-08-07T11:06:00+00:00,Lebanon,0.2717928057572668,1,1,pl,MED,Asia
 '4e07fc8f74',extremes,Wildfire,#d60d2b,effis,dziki pożar habbouche w Libanie,2026-08-07T11:06:00+00:00,Lebanon,0.2717928025530061,1,1,pl,MED,Asia
