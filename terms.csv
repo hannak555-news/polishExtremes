@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'5cb63af442',extremes,Storm,#b3b2b1,meteo,burza na Ukrainie,2026-08-08T03:51:00+00:00,Ukraine,0.5087744484838375,5,2,pl,WCE,Europe
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,grad,2026-07-29T05:37:00+00:00,,0.5013952546137581,3,3,pl,,
 '2c42ef6192',extremes,Storm,#b3b2b1,meteo,wiatr polska,2026-08-22T03:22:00+00:00,Poland,0.5006371882089906,7,3,pl,WCE,Europe
 '6e288119bc',extremes,Precipitation,#d60d2b,meteo,opady w polsce,2026-08-17T03:28:00+00:00,Poland,0.4999678685443547,6,3,pl,WCE,Europe
@@ -13,7 +12,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '50852ac2ea',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat myszkowski,2026-09-09T07:32:00+00:00,Poland,0.4674639125705611,2,1,pl,WCE,Europe
 '6b3658b4c9',extremes,Fog,#d60d2b,wmo,mgła województwo pomorskie powiat gdański,2026-08-25T03:27:00+00:00,Poland,0.4664637585245571,2,1,pl,WCE,Europe
 '5e777bdaf3',extremes,Fog,#d60d2b,wmo,mgła województwo podlaskie powiat łomżyński,2026-08-26T03:34:00+00:00,Poland,0.4633489613076617,2,1,pl,WCE,Europe
-'91ab6d75d6',extremes,Storm,#b3b2b1,wmo,burza województwo mazowieckie powiat siedlecki,2026-08-29T09:18:00+00:00,Poland,0.4628815252330127,1,1,pl,WCE,Europe
 '53116df675',extremes,Heat Wave,#c40202,wmo,fala upałów województwo mazowieckie powiat siedlecki,2026-09-09T07:32:00+00:00,Poland,0.4623953944202517,2,1,pl,WCE,Europe
 '8b7101c852',extremes,Precipitation,#d60d2b,wmo,deszczowe województwo pomorskie powiat sztumski,2026-08-22T03:22:00+00:00,Poland,0.462339834006405,1,1,pl,WCE,Europe
 '27897edada',extremes,Heat Wave,#c40202,wmo,fala upałów województwo śląskie powiat częstochowski,2026-09-09T07:32:00+00:00,Poland,0.4623249843617719,2,1,pl,WCE,Europe
@@ -256,6 +254,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '40f62c70a7',extremes,Wildfire,#d60d2b,effis,pożar buszu n.a. Ukraina,2026-09-02T07:16:00+00:00,Ukraine,0.3950037152954945,2,1,pl,WCE,Europe
 '9391f481ee',extremes,Storm,#b3b2b1,random,wichura,2026-08-16T03:27:00+00:00,,0.3945606648198417,3,1,pl,,
 '8a3712c06d',extremes,Precipitation,#d60d2b,wmo,ulewne deszcze województwo pomorskie powiat gdański,2026-08-22T03:22:00+00:00,Poland,0.3938751658972869,2,1,pl,WCE,Europe
+'91ab6d75d6',extremes,Storm,#b3b2b1,wmo,burza województwo mazowieckie powiat siedlecki,2026-08-29T09:18:00+00:00,Poland,0.39344929644806076,2,1,pl,WCE,Europe
 '48b2c9a2b7',extremes,Heat Wave,#c40202,wmo,fala upałów województwo opolskie powiat brzeski,2026-08-27T13:00:00+00:00,Poland,0.3933443376921602,3,1,pl,WCE,Europe
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,zimna fala,2026-08-08T03:51:00+00:00,,0.3897076176598988,2,2,pl,,
 '23136e458a',extremes,Heat Wave,#c40202,wmo,fala upałów województwo pomorskie powiat malborski,2026-08-15T03:13:00+00:00,Poland,0.3890068450556093,3,1,pl,WCE,Europe
@@ -292,5 +291,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,ulewa,2026-08-15T03:13:00+00:00,,0.2918631295005251,2,1,pl,,
 'dd0f43c761',extremes,Precipitation,#d60d2b,meteo,deszcz Litwa,2026-08-18T03:24:00+00:00,Lithuania,0.2704251819601351,2,1,pl,WCE,Europe
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,spadki rtęci,2026-08-15T03:13:00+00:00,,0.2680138079874474,2,1,pl,,
-'f37139fe2d',extremes,Landslide,#572c03,random,osuwisko błotne,2026-08-15T03:13:00+00:00,,0.26275055277828263,2,1,pl,,
+'f37139fe2d',extremes,Landslide,#572c03,random,osuwisko błotne,2026-08-15T03:13:00+00:00,,0.2627505527782826,2,1,pl,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,nocne przymrozki,2026-08-14T04:24:00+00:00,,0.2366391838643508,2,1,pl,,
