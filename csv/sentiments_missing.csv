@@ -171,8 +171,8 @@ one day,one day,DATE,,,en,2.5
 May Day,May Day,DATE,,,en,2.5
 February,February,DATE,,,en,2.4999999999999996
 Norwegian,Norwegian,NORP,,,en,2.4
-Australian,Australian,NORP,,,en,2.4
 Sinsay,Sinsay,NORP,,,en,2.4
+Australian,Australian,NORP,,,en,2.4
 41 degrees,41 degrees,QUANTITY,,,en,2.4
 the holidays,the holidays,DATE,,,en,2.3
 2025,2025,DATE,,,en,2.3
@@ -215,7 +215,7 @@ a decade,a decade,DATE,,,en,1.9
 11 degrees,11 degrees,QUANTITY,,,en,1.9
 last year,last year,DATE,,,en,1.9
 a year ago,a year ago,DATE,,,en,1.9
-Up to 100 million,Up to 100 million,CARDINAL,,,en,1.9
+ten,ten,CARDINAL,,,en,1.9
 February 8,February 8,DATE,,,en,1.9
 A320,A320,PRODUCT,,,en,1.9
 the Wilanów Palace,the Wilanów Palace,FAC,,,en,1.9
@@ -226,7 +226,7 @@ the second half of July,the second half of July,DATE,,,en,1.9
 18 days,18 days,DATE,,,en,1.9
 this winter,this winter,DATE,,,en,1.9
 A year ago,A year ago,DATE,,,en,1.9
-ten,ten,CARDINAL,,,en,1.9
+Up to 100 million,Up to 100 million,CARDINAL,,,en,1.9
 74 million,74 million,CARDINAL,,,en,1.9
 7.1,7.1,CARDINAL,,,en,1.9
 several hours,several hours,TIME,,,en,1.9
@@ -293,6 +293,7 @@ two years ago,two years ago,DATE,,,en,1.9
 1900,1900,DATE,,,en,1.9
 100%,100%,PERCENT,,,en,1.9
 over 40 degrees Celsius,over 40 degrees Celsius,QUANTITY,,,en,1.9
+21 degrees Celsius,21 degrees Celsius,QUANTITY,,,en,1.9
 Różana Street,Różana Street,FAC,,,en,1.9
 megatsunami,megatsunami,NORP,,,en,1.9
 the first quarter of 2026,the first quarter of 2026,DATE,,,en,1.9
@@ -303,10 +304,9 @@ Snow White,Snow White,WORK_OF_ART,,,en,1.9
 the second half of the week,the second half of the week,DATE,,,en,1.9
 30 km,30 km,QUANTITY,,,en,1.9
 This weekend,This weekend,DATE,,,en,1.9
-21 degrees Celsius,21 degrees Celsius,QUANTITY,,,en,1.9
-30 years,30 years,DATE,,,en,1.8
 28 degrees Celsius,28 degrees Celsius,QUANTITY,,,en,1.8
 early spring,early spring,DATE,,,en,1.8
+30 years,30 years,DATE,,,en,1.8
 tomorrow - Wednesday,tomorrow - Wednesday,DATE,,,en,1.8
 Constitution,Constitution,LAW,,,en,1.7
 Swedes,Swedes,NORP,,,en,1.7
@@ -1093,16 +1093,16 @@ several degrees below zero,several degrees below zero,QUANTITY,,,en,1.0
 more than 20 centimeters,more than 20 centimeters,QUANTITY,,,en,1.0
 53 percent,53 percent,PERCENT,,,en,1.0
 the night of February 16-17,the night of February 16-17,TIME,,,en,1.0
-19,19,CARDINAL,,,en,1.0
+96,96,CARDINAL,,,en,1.0
 "tomorrow, Sunday, February 22","tomorrow, Sunday, February 22",DATE,,,en,1.0
 tomorrow - Sunday,tomorrow - Sunday,DATE,,,en,1.0
 4.3,4.3,CARDINAL,,,en,1.0
 60 years,60 years,DATE,,,en,1.0
 Nawrocki Act,Nawrocki Act,LAW,,,en,1.0
 97,97,CARDINAL,,,en,1.0
-96,96,CARDINAL,,,en,1.0
-As much as 44 percent,As much as 44 percent,PERCENT,,,en,1.0
 almost 100,almost 100,CARDINAL,,,en,1.0
+As much as 44 percent,As much as 44 percent,PERCENT,,,en,1.0
+19,19,CARDINAL,,,en,1.0
 Billions of zlotys,Billions of zlotys,MONEY,,,en,1.0
 the end of 2025,the end of 2025,DATE,,,en,1.0
 Światopełka Street,Światopełka Street,FAC,,,en,1.0
